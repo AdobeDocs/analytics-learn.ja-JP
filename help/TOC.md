@@ -5,9 +5,9 @@ breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 00a376d434a08665de00b2dccec02fc86e63b36e
+source-git-commit: 6a62298bc79ab3c94cea17863fabdb2e7840b46b
 workflow-type: tm+mt
-source-wordcount: '1835'
+source-wordcount: '1834'
 ht-degree: 17%
 
 ---
@@ -209,7 +209,7 @@ ht-degree: 17%
    + レポートスイートの管理 {#manage-report-suites}
       + [郵便番号の設定](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Admin Consoleでの変数の設定](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
-   + データ・ガバナンスとGDPR {data-governance-and-gdpr}
+   + データ・ガバナンスとGDPR {#data-governance-and-gdpr}
       + [データ・ガバナンスとGDPR(Adobe Analytics)](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
       + [Analyticsチームでの適切なユーザーの獲得](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
    + トラフィック管理 {#traffic-management}
