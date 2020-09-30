@@ -5,9 +5,9 @@ breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 6a62298bc79ab3c94cea17863fabdb2e7840b46b
+source-git-commit: 91fa52941263dcac4a30a54ae0916df7233712c9
 workflow-type: tm+mt
-source-wordcount: '1834'
+source-wordcount: '1846'
 ht-degree: 17%
 
 ---
@@ -94,6 +94,7 @@ ht-degree: 17%
       + [Analysis Workspaceでのフリーフォームテーブルの自動ビルド](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [フリーフォームテーブルのDimensionの操作](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [フリーフォームテーブルの指標の操作](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [Analysis Workspaceでのパーティシペーション指標の使用](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
       + [フリーフォームテーブルの行と列の設定](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [フリーフォームテーブルビルダーの使用](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [Analysis Workspaceの静的行の順序変更](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
@@ -145,6 +146,7 @@ ht-degree: 17%
       + [Analysis WorkspaceのプロジェクトへのDimensionと指標の追加](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [コンバージョンイベントの概要](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [フリーフォームテーブルの指標の操作](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [Analysis Workspaceでのパーティシペーション指標の使用](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
    + ディメンション {#dimensions}
       + [Analysis WorkspaceのプロジェクトへのDimensionと指標の追加](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [トラフィック変数(prop)の概要](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
