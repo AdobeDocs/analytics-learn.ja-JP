@@ -19,7 +19,7 @@ ht-degree: 0%
 ---
 
 
-# 「 [!DNL Admin Console]
+# Adobe Analytics の [!DNL Admin Console] での変数の設定
 
 導入で使用する変数とイベントを定義したら、に進んで、 [!DNL Analytics] で設定し、reports/dimensions/metricsのすべてに適切な名前と動作を持たせる必要があり [!DNL Admin Console]ます。 このビデオでは、それをどこでどのように行うかを紹介します。
 
