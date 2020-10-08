@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 91fa52941263dcac4a30a54ae0916df7233712c9
 workflow-type: tm+mt
 source-wordcount: '1846'
-ht-degree: 17%
+ht-degree: 20%
 
 ---
 
@@ -90,12 +90,12 @@ ht-degree: 17%
       + [セグメントドロップゾーンの改善](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Analysis Workspace の複数のレポートスイート](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
    + フリーフォームテーブルの作成 {#building-freeform-tables}
-      + [左側のレールを使用したAnalysis Workspaceでのフリーフォームテーブルの作成](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
-      + [Analysis Workspaceでのフリーフォームテーブルの自動ビルド](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
-      + [フリーフォームテーブルのDimensionの操作](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
-      + [フリーフォームテーブルの指標の操作](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [左側のレールを使用した Analysis Workspace のフリーフォームテーブルの作成](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
+      + [Analysis Workspace の自動作成フリーフォームテーブル](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
+      + [フリーフォームテーブルでのディメンションの操作](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+      + [フリーフォームテーブルでの指標の操作](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [Analysis Workspaceでのパーティシペーション指標の使用](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
-      + [フリーフォームテーブルの行と列の設定](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+      + [フリーフォームテーブルの行および列設定](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [フリーフォームテーブルビルダーの使用](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [Analysis Workspaceの静的行の順序変更](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
       + [フリーフォームテーブルでのAttribution IQの使用](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
@@ -110,7 +110,7 @@ ht-degree: 17%
       + [ビジュアライゼーションのタイプ](analysis-workspace/visualizations/visualization-types.md)
       + [Analysis Workspaceでのテーブル、ビジュアライゼーションおよびパネルの使用](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [視覚化するデータの選択](analysis-workspace/visualizations/selecting-data-to-visualize.md)
-      + [Analysis Workspaceの線の可視化](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [Analysis Workspace の折れ線グラフのビジュアライゼーション](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [ブレットグラフのビジュアライゼーション](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [ヒストグラムビジュアライゼーション](analysis-workspace/visualizations/histogram-visualization.md)
       + [マップのビジュアライゼーション](analysis-workspace/visualizations/map-visualization.md)
@@ -145,13 +145,13 @@ ht-degree: 17%
       + [基本的な訪問者指標について](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Analysis WorkspaceのプロジェクトへのDimensionと指標の追加](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [コンバージョンイベントの概要](analysis-workspace/metrics/introduction-to-conversion-events.md)
-      + [フリーフォームテーブルの指標の操作](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [フリーフォームテーブルでの指標の操作](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [Analysis Workspaceでのパーティシペーション指標の使用](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
    + ディメンション {#dimensions}
       + [Analysis WorkspaceのプロジェクトへのDimensionと指標の追加](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [トラフィック変数(prop)の概要](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [コンバージョン変数(eVar)の概要](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
-      + [フリーフォームテーブルのDimensionの操作](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+      + [フリーフォームテーブルでのディメンションの操作](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
    + カレンダーと日付範囲 {#calendar-and-date-ranges}
       + [Analysis Workspaceでの日付の使用](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [Analysis Workspaceでの日付範囲と比較の使用](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
@@ -172,7 +172,7 @@ ht-degree: 17%
       + [Analysis Workspace のプロジェクトを保存、共有、共同作業](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Analysis Workspace でのキュレーションと共有](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [プロジェクトへの直接リンク](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
-      + [50,000個の項目をCSVとしてダウンロード](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
+      + [50,000 個の項目を CSV としてダウンロード](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [Analysis WorkspaceからCSVにエクスポート](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
       + [埋め込みコンポーネントを共有](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [スケジュールおよびダウンロード可能なプロジェクト](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
