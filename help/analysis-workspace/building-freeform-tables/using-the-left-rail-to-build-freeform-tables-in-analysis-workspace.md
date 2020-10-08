@@ -1,5 +1,5 @@
 ---
-title: 左側のレールを使用したAnalysis Workspaceでのフリーフォームテーブルの作成
+title: 左側のレールを使用した Analysis Workspace のフリーフォームテーブルの作成
 description: Analysis Workspaceの左側のパネルを使用して、フリーフォームテーブルの項目を検索、作成および追加する方法について説明します。
 feature: freeform tables
 topics: null
@@ -8,17 +8,17 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40089.jpg
-kt: null
+kt: 6161
 translation-type: tm+mt
-source-git-commit: 0b4092f62d05b02ab510357acf8c0da2dfd3fb0f
+source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 36%
 
 ---
 
 
-# 左側のレールを使用したAnalysis Workspaceでのフリーフォームテーブルの作成
+# 左側のレールを使用した Analysis Workspace のフリーフォームテーブルの作成
 
 Analysis Workspaceの左側のパネルを使用して、フリーフォームテーブルの項目を検索、作成および追加する方法について説明します。
 
