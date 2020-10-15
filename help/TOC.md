@@ -1,14 +1,14 @@
 ---
 user-guide-title: Adobe Analytics チュートリアル
-user-guide-description: A collection of videos and tutorials for Adobe Analytics.
-breadcrumb-title: Analytics Tutorials
+user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
+breadcrumb-title: Analytics チュートリアル
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
 source-git-commit: 91fa52941263dcac4a30a54ae0916df7233712c9
 workflow-type: tm+mt
-source-wordcount: '1846'
-ht-degree: 20%
+source-wordcount: '1857'
+ht-degree: 21%
 
 ---
 
@@ -252,7 +252,7 @@ ht-degree: 20%
       + [Adobe Experience Cloudデバッガを使用した実装の検査](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
       + [Experience Cloud Debuggerで後処理された表示ヒット](implementation/validating-and-troubleshooting/view-post-processed-hits-with-the-experience-cloud-debugger.md)
    + SPAページ {#spa-pages}
-      + [SPAの追跡時のベストプラクティスの使用](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
+      + [SPA追跡時のベストプラクティスの使用](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + コンポーネント {#components}
    + セグメント化 {#segmentation}
       + [セグメントビルダーの概要](components/segmentation/segment-builder-overview.md)
