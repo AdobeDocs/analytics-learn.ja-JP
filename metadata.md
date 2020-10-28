@@ -10,8 +10,9 @@ tutorials-url: https://guided.adobe.com/#recommended/solutions/analytics
 mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/analytics-learn.ja-JP
 index: true
+type: Tutorial
 translation-type: tm+mt
-source-git-commit: 4a5b98b3b52b8b1170c93878cbfff3e194fa19a2
+source-git-commit: aed6a75ef04eceb1b17b2d68be0b638e779103cc
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 93%
