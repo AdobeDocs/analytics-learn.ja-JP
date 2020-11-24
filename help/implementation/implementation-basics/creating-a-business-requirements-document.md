@@ -9,9 +9,9 @@ doc-type: feature video
 team: Technical Marketing
 kt: 3580
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: 21a399b7c29562f03dfe7ba90cd1676224e50af8
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -22,3 +22,7 @@ ht-degree: 0%
 このビデオでは、Adobe Analyticsで追跡するものを定義する際の重要なステップを説明します。 サイトについて知りたいことは何ですか。 どのように追跡するかを決めるために、開始とメモを書き留めましょう。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12)
+
+[サイトの定義に使用できるサンプルBRD/SDRをダウンロードします](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) 。
+
+[このビデオ](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) (および [SDRビデオ](creating-and-maintaining-an-sdr.md))からBRD/SDRをダウンロードします。
