@@ -1,7 +1,7 @@
 ---
 title: Experience Cloud オーディエンスパブリッシングの改善
-description: 公開オーディエンス（セグメント）について学習し、かつてないほどに短時間で利用できるようにします。
-seo-description: Experience Cloud オーディエンスパブリッシングが改善されました。オーディエンス（セグメント）を公開して6倍の速さで利用できるようになり、現在の待ち時間を48時間から約8時間に短縮できます。また、トラフィックやセグメントサイズに応じて、場合によっては速くなります。
+landing-page-description: Learn publish audiences (segments) and make them available faster than ever.
+description: Experience Cloud オーディエンスパブリッシングが改善されました。オーディエンス（セグメント）を公開して6倍の速さで利用できるようになり、現在の待ち時間を48時間から約8時間に短縮できます。また、トラフィックやセグメントサイズに応じて、場合によっては速くなります。
 feature: integration with experience cloud
 topics: null
 audience: analyst
@@ -10,10 +10,10 @@ doc-type: feature video
 team: Technical Marketing
 kt: 4819
 translation-type: tm+mt
-source-git-commit: 56049a25261318663349309164744fbb9bcfc952
+source-git-commit: a02deecd0f95160c634703130f92a79870c41a9d
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 34%
+source-wordcount: '158'
+ht-degree: 29%
 
 ---
 
