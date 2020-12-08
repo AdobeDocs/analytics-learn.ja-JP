@@ -1,7 +1,7 @@
 ---
 title: AdobeAnalysis Workspaceがビジネスを変える方法
-description: Analysis Workspace では、Ad Hoc Analysis、柔軟な分析、コホート分析、フォールアウト分析を実行できます。
-seo-description: Analysis WorkspaceはAdobe Analyticsの新しくて使いやすいインターフェースです。 Analysis Workspaceでは、Ad Hoc Analysis、柔軟な分析、コホート分析、フォールアウト分析を実行できます。 また、分析作業環境を社内の全員と共有でき、ドラッグ&ドロップ機能を使用すると、全員がデータを簡単に分析し、インサイトを迅速に得ることができます。
+landing-page-description: With Analysis Workspace, you can do Ad hoc Analysis, Flexible Analysis, Cohort Analysis, and Fallout Analysis.
+description: Analysis WorkspaceはAdobe Analyticsの新しくて使いやすいインターフェースです。 Analysis Workspaceでは、Ad Hoc Analysis、柔軟な分析、コホート分析、フォールアウト分析を実行できます。 また、分析作業環境を社内の全員と共有でき、ドラッグ&ドロップ機能を使用すると、全員がデータを簡単に分析し、インサイトを迅速に得ることができます。
 feature: workspace basics
 topics: null
 audience: all
@@ -10,10 +10,10 @@ doc-type: value video
 team: Technical Marketing
 kt: 4382
 translation-type: tm+mt
-source-git-commit: 56049a25261318663349309164744fbb9bcfc952
+source-git-commit: a02deecd0f95160c634703130f92a79870c41a9d
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 46%
+source-wordcount: '146'
+ht-degree: 41%
 
 ---
 
