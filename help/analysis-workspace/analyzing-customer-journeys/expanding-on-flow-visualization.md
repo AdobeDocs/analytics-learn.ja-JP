@@ -10,18 +10,18 @@ team: Technical Marketing
 thumbnail: 24044.jpg
 kt: 2280
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: 7629db3735eb4b81c6a1787cce71b350a603ac3a
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 10%
+source-wordcount: '85'
+ht-degree: 0%
 
 ---
 
 
-# Analysis Workspace [!DNL Flow visualization] で拡大 {#expanding-on-flow-visualization-in-analysis-workspace}
+# [!DNL Flow visualization]をAnalysis Workspace{#expanding-on-flow-visualization-in-analysis-workspace}で展開
 
-このビデオでは、Analysis Workspaceの様々な右クリックオプションを紹介し [!DNL Flow visualization] ています。 パスからのセグメントの作成、列の折りたたみなどのオプションがあります。
+このビデオでは、Analysis Workspaceの[!DNL Flow visualization]で利用できる様々な右クリックオプションを紹介します。 パスからのセグメントの作成、列の折りたたみなどのオプションがあります。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12)
 
-この機能の詳細については、 [ドキュメントを参照してください](https://marketing.adobe.com/resources/help/ja_JP/analytics/analysis-workspace/flow.html)。
+この機能の詳細については、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=en#analysis-workspace)を参照してください。
