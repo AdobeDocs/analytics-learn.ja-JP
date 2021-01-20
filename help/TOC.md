@@ -5,9 +5,9 @@ breadcrumb-title: Analytics チュートリアル
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 30868ad30134f1233c643dc7ed23ef060a94e61b
+source-git-commit: a6d96878798f2ec2302bcd207aa419fb084d19b1
 workflow-type: tm+mt
-source-wordcount: '1869'
+source-wordcount: '1872'
 ht-degree: 21%
 
 ---
@@ -65,7 +65,7 @@ ht-degree: 21%
    + ヒントとテクニック {#tips-and-tricks}
       + [7Analysis Workspaceのヒントとテクニック](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [Analysis Workspaceの生産性を高めるコツ](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
-      + [Adobe Analytics学習の遍歴を続けるためのヒント](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
+      + [Adobe Analyticsの学習ジャーニーを継続するためのヒント](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + Workspaceプロジェクトのナビゲーション{#navigating-workspace-projects}
       + [Analysis Workspaceでの最初のプロジェクトの開始](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Analysis Workspaceのトレーニングチュートリアルテンプレート](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
@@ -162,7 +162,7 @@ ht-degree: 21%
       + [Analysis Workspaceの日付比較](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [トレンドへの前月比および前年比の追加](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + 顧客ジャーニーの分析{#analyzing-customer-journeys}
-      + [ジャーニーIQ — デバイス間分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+      + [ジャーニーIQ — デバイス間の分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [フォールアウトの視覚化](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [フォールアウトの視覚化の強化](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
       + [多次元フォールアウト](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
@@ -203,7 +203,7 @@ ht-degree: 21%
       + [音声アプリに関する関与を増やす機会を探す](analysis-workspace/voice-analytics/finding-opportunities-to-increase-engagement-for-voice-apps.md)
       + [Voiceアプリのエラー率の低減と成功率の向上](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
       + [Voice Assistantsでのユーザーの行動を理解する](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
-      + [ユーザーの音声の遍歴について](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
+      + [ユーザーの音声ジャーニーについて](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
 + Reports and Analytics {#reports-and-analytics}
    + [Reports and Analyticsのリアルタイムレポート](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + 管理 {#administration}
@@ -236,7 +236,8 @@ ht-degree: 21%
       + [Analyticsの起動拡張でのグローバル変数の設定](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Analytics Extensionの起動でのCookie設定の指定](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [Analytics Extensionの起動の設定時のカスタムコードの使用](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
-      + [データレイヤーを使用したExperience Platform Launchによるページ名および他の変数の設定](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
+      + [「起動」を使用したページ名およびその他の変数の設定に関するデータレイヤーの使用](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
+      + [Launchへの導入プラグインの追加](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
       + [Adobe Analytics拡張機能でのdoPluginsの使用](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
       + [ダウンロードリンクトラッキングの簡易設定](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
       + [離脱ツールのリンクトラッキングの設定](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
@@ -363,7 +364,7 @@ ht-degree: 21%
       + [Androidアプリでの実装](https://docs.adobe.com/content/help/ja-JP/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
    + モバイル解析の測定{#measuring-mobile-analytics}
       + [Adobeモバイル解析の概要](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
-      + [モバイルの遍歴におけるタッチポイントの影響](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
+      + [モバイルジャーニー全体でのタッチポイントの影響](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [チャネル間のユーザー行動の分析](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
       + [関与率と保持率を高める方法](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + API {#apis}
