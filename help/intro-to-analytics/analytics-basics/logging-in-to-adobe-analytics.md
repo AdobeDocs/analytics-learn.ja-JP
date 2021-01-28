@@ -1,6 +1,6 @@
 ---
-title: Adobe Analyticsへのログイン
-description: Adobe Analyticsに入れないとAdobe Analyticsはあまりやれない（へえ、本当に？）。 このビデオでは、Analyticsにログインして管理し、分析を実行できるように、ログインについて説明します。
+title: Adobe Analyticsにサインイン
+description: このビデオでは、Analyticsにサインインして管理し、分析を開始する方法を学びます。
 feature: analytics basics
 topics: null
 audience: analyst
@@ -9,9 +9,9 @@ doc-type: feature video
 team: Technical Marketing
 kt: 3566
 translation-type: tm+mt
-source-git-commit: ee6c03cff5b051d9293d75965e9fd98f151d7fce
+source-git-commit: 757f04cd1c45a893fd1e7f0a41044f832487dbe0
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Adobe Analyticsへのログイン
 
-Adobe Analyticsに入れないとAdobe Analyticsはあまりやれない（へえ、本当に？）。 このビデオでは、ログイン、管理、分析の実行を行うためのログイン [!DNL Analytics]について説明します。
+このビデオでは、[!DNL Analytics]を管理し、分析を行うだけでなく、ログインについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28771/?quality=12)
