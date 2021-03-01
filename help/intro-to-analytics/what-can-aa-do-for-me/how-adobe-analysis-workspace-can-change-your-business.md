@@ -1,8 +1,8 @@
 ---
 title: AdobeAnalysis Workspaceがビジネスを変える方法
-landing-page-description: With Analysis Workspace, you can do Ad hoc Analysis, Flexible Analysis, Cohort Analysis, and Fallout Analysis.
-description: Analysis WorkspaceはAdobe Analyticsの新しくて使いやすいインターフェースです。 Analysis Workspaceでは、Ad Hoc Analysis、柔軟な分析、コホート分析、フォールアウト分析を実行できます。 また、分析作業環境を社内の全員と共有でき、ドラッグ&ドロップ機能を使用すると、全員がデータを簡単に分析し、インサイトを迅速に得ることができます。
-feature: workspace basics
+landing-page-description: Analysis Workspace では、Ad Hoc Analysis、柔軟な分析、コホート分析、フォールアウト分析を実行できます。
+description: Analysis Workspace は Adobe Analytics の使いやすい新しいインターフェースです。Analysis Workspace では、Ad Hoc Analysis、柔軟な分析、コホート分析、フォールアウト分析を実行できます。また、分析作業環境を社内のすべてのユーザーと共有することもできます。ドラッグ&ドロップ機能を使用すると、全員がデータを簡単に分析し、インサイトを迅速に取得できます。
+feature: Workspaceの基本
 topics: null
 audience: all
 activity: understand
@@ -12,16 +12,16 @@ kt: 4382
 translation-type: tm+mt
 source-git-commit: a02deecd0f95160c634703130f92a79870c41a9d
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 41%
+source-wordcount: '164'
+ht-degree: 69%
 
 ---
 
 
 # AdobeAnalysis Workspaceがビジネスを変える方法
 
-[!UICONTROL Analysis Workspace] はAdobe Analyticsの新しくて使いやすいインターフェースです。 [!UICONTROL Analysis Workspace内では、Ad Hoc Analysis]、 [!UICONTROL Flexible分析]、 [!UICONTROL Cohort分析]、Cohort分析、ForlCohort、Foll Cohortを実行できます。 また、分析作業環境を社内の全員と共有でき、ドラッグ&amp;ドロップ機能を使用すると、全員がデータを簡単に分析し、インサイトを迅速に得ることができます。
+[!UICONTROL Analysis Workspace は Adobe Analytics の使いやすい新しいインターフェースです。][!UICONTROL Analysis Workspace]内で、[!UICONTROL Ad hoc Analysis]、[!UICONTROL 柔軟な分析]、[!UICONTROL コホート分析]、[!UICONTROL フォールアウト分析]を実行できます。 また、分析作業環境を社内のすべてのユーザーと共有することもできます。ドラッグ&amp;ドロップ機能を使用すると、全員がデータを簡単に分析し、インサイトを迅速に取得できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31501/?quality=12)
 
-AdobeAnalysis Workspaceの詳細 [はこちら](https://www.adobe.com/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&amp;mv=search)。
+AdobeAnalysis Workspaceの詳細[ここ](https://www.adobe.com/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&amp;mv=search)。
