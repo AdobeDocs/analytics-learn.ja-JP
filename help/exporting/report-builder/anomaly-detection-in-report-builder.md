@@ -1,30 +1,31 @@
 ---
 title: Report Builderの異常値検出
 description: 異常値検出指標をデータリクエストに追加する方法と、データを作成的にグラフ化する方法について説明します。
-feature: report builder
+feature: Report Builder
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1768
+role: 開業医
+level: 中間
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 12%
+source-wordcount: '109'
+ht-degree: 13%
 
 ---
 
 
-# [!UICONTROL 異常値検出] ( [!UICONTROL Report Builder)] {#anomaly-detection-in-report-builder}
+# [!UICONTROL 異常値] 検出の [!UICONTROL Report Builder] {#anomaly-detection-in-report-builder}
 
-データリクエストに [!UICONTROL 異常値検出] 指標を追加する方法  、およびデータを作成的にグラフ化する方法について説明します。
+データリクエストに[!UICONTROL 異常値検出] [!UICONTROL 指標]を追加する方法と、データを作成的にグラフ化する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23543/?quality=12)
 
 [!UICONTROL 異常値検出は、統計的なモデリングを使用して、データ内の予期しないトレンドを自動的に見つけます。]
 
-[!UICONTROL Report Builderでは]、  指標の実績値と期待値、上限および下限値を返し、分析および共有しているデータにさらに深みを持たせることができます。
+[!UICONTROL Report Builder]では、[!UICONTROL 指標]の実際の値と、期待値および上限と下限を返し、分析および共有するデータにさらに深く掘り下げることができます。
 
-この機能の詳細については、 [ドキュメントを参照してください](https://marketing.adobe.com/resources/help/en_US/arb/anomaly_detection.html)。
+この機能の詳細については、[ドキュメント](https://marketing.adobe.com/resources/help/en_US/arb/anomaly_detection.html)を参照してください。
