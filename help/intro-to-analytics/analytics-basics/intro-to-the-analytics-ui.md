@@ -1,23 +1,24 @@
 ---
 title: Analytics UIの紹介
 description: このビデオでは、Adobe Analyticsのインターフェイスを紹介し、導入時や分析時に必要なツールの場所を示します。
-feature: analytics basics
+feature: Analytics の基本事項
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3567
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 2%
 
 ---
 
 
-# UIの概要 [!DNL Analytics]
+# [!DNL Analytics] UIの紹介
 
 このビデオでは、Adobe Analyticsのインターフェイスを紹介し、導入時や分析時に必要なツールの場所を示します。
 
