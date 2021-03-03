@@ -1,23 +1,24 @@
 ---
 title: 起動時にグローバルページルールを作成する
 description: 各ページでAdobe Analyticsに送信する必要のあるデータポイントがいくつかあります。 このビデオでは、グローバルなページ型ルールを設定して、これらのデータポイントを送信する方法を示します。
-feature: launch implementation
+feature: 導入の開始
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3588
+role: 「開発者、データ・エンジニア」
+level: 初心者
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
 
-# グローバルページ [!UICONTROL ルールの作成] ( [!DNL Launch]
+# [!DNL Launch]にグローバルページ[!UICONTROL ルール]を作成する
 
 各ページでAdobe Analyticsに送信する必要のあるデータポイントがいくつかあります。 このビデオでは、グローバルなページ型ルールを設定し、それらのデータポイントを送信する方法を示します。
 
