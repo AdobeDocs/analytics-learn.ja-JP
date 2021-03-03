@@ -1,28 +1,29 @@
 ---
 title: カスタムカラーパレットをAnalysis Workspaceで使用する
 description: Analysis Workspaceで使用するカラーパレットを変更して、ブランドや顧客のカラーパレットに合わせて調整できます。
-feature: workspace basics
+feature: Workspaceの基本
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1943
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '120'
+ht-degree: 8%
 
 ---
 
 
-# カスタム [!UICONTROL カラーパレットをAnalysis Workspaceで使用] {#using-custom-color-palettes-in-analysis-workspace}
+# Analysis Workspace{#using-custom-color-palettes-in-analysis-workspace}でのカスタム[!UICONTROL カラーパレット]の使用
 
-[!UICONTROL Analysis Workspaceで使用されている] カラーパレットを変更して  、ブランドや顧客のカラーパレットに合わせて調整できます。
+[!UICONTROL Analysis Workspace]で使用される[!UICONTROL カラーパレット]を変更して、ブランドやお客様のカラーパレットに合わせることができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23876/?quality=12)
 
-オファー5のOOTBパレットに加え、独自の一意の色文字列を指定できます。 色は、 [!UICONTROL Analysis Workspaceのすべてのカテゴリのビジュアライゼーションに影響します]。 除外されるビジュアライゼーションは [!UICONTROL 、変更の] 概要 [!UICONTROL 、フリーフォームテーブルの条件付き書式、フリーフォームテーブル]の入口/出口、フローフロー、マップ [!UICONTROL マップ、および]マップの入口のみです。
+オファー5のOOTBパレットに加え、独自の一意の色文字列を指定できます。 色は、[!UICONTROL Analysis Workspace]のすべてのカテゴリのビジュアライゼーションに影響します。 除外される[!UICONTROL ビジュアライゼーション]は、[!UICONTROL 変更の概要]、[!UICONTROL フリーフォームテーブル]の条件付き書式、[!UICONTROL フロー]の入口/出口、[!UICONTROL マップ]のみです。
 
-For more information, visit the [documentation](https://marketing.adobe.com/resources/help/ja_JP/analytics/analysis-workspace/color_palettes.html).
+詳しくは、[ドキュメント](https://marketing.adobe.com/resources/help/ja_JP/analytics/analysis-workspace/color_palettes.html)を参照してください。
