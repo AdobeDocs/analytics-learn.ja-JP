@@ -1,23 +1,24 @@
 ---
 title: Analysis Workspaceのパネルレベルセグメント
 description: パネルレベルでのセグメントの適用方法の概要を簡単に説明します。
-feature: panels
+feature: パネル
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2106
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '40'
+ht-degree: 2%
 
 ---
 
 
-# Analysis Workspaceのパネルレベルセグメント {#panel-level-segments-in-analysis-workspace}
+# Analysis Workspaceのパネルレベルセグメント{#panel-level-segments-in-analysis-workspace}
 
 パネルレベルでのセグメントの適用方法の概要を簡単に説明します。
 
