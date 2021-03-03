@@ -1,25 +1,27 @@
 ---
-title: Advertising Cloudマーケティングチャネルとのレポート
+title: Advertising Cloud マーケティングチャネルを使用したレポート
 description: Advertising Cloudの表示スルーおよびクリックスルーエントリデータとAdobe Analyticsマーケティングチャネルとの連携
-feature: integration with ad cloud
+feature: Advertising Cloud統合
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35115.jpg
 kt: 5472
+topic: 統合
+role: 開業医
+level: 中間
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 0%
+source-wordcount: '49'
+ht-degree: 26%
 
 ---
 
 
-# Advertising Cloudマーケティングチャネルとのレポート
+# Advertising Cloud マーケティングチャネルを使用したレポート
 
-Advertising Cloudの表示スルーおよびクリックスルーの入口データがAdobe Analytics [!UICONTROL マーケティングチャネルとどのように連携するか]。
+Advertising Cloudの表示スルーおよびクリックスルーエントリデータがAdobe Analytics[!UICONTROL マーケティングチャネル]とどのように連携するか。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35115/?quality=12&learn=on)
