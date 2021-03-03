@@ -1,27 +1,28 @@
 ---
 title: タグマネージャーを使用しないカスタムリンクトラッキング
 description: ページ上の多くのアクションでは、追跡をページの表示のように扱わないでください。 このビデオでは、(Experience Platform Launchなどの)タグマネージャーを使用していない場合に、Analyticsにリンクトラッキングビーコンをコーディングする方法を学びます。 コードを参照し、重要なヒントを学びます。
-feature: appmeasurement implementation
+feature: Appmeasurementの実装
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
+role: 「開発者、データ・エンジニア」
+level: 中間
 translation-type: tm+mt
-source-git-commit: 8276828e9e759a1964ca5ea89bb1395e5e78b500
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '297'
+ht-degree: 4%
 
 ---
 
 
-# タグマネージャーを使用しないカスタムリンクトラッキング {#custom-link-tracking-without-a-tag-manager}
+# タグマネージャーを使用しないカスタムリンクトラッキング{#custom-link-tracking-without-a-tag-manager}
 
-ページ上の多くのアクションでは、追跡をページの表示のように扱わないでください。 このビデオでは、(Adobeなどの)タグマネージャーを使用していない場合に、Analyticsにリンクトラッキングビーコンをコーディングする方法を学びま [!DNL Experience Platform Launch]す。 コードを参照し、重要なヒントを学びます。
+ページ上の多くのアクションでは、追跡をページの表示のように扱わないでください。 このビデオでは、Adobe[!DNL Experience Platform Launch]のようなタグマネージャーを使用していない場合、Analyticsにリンクトラッキングビーコンをコーディングする方法を学びます。 コードを参照し、重要なヒントを学びます。
 
-## s.tl()ビーコンの送信 {#sending-an-s-tl-beacon}
+## s.tl()ビーコンの送信{#sending-an-s-tl-beacon}
 
 データをAdobe Analyticsに送信する関数は2つあります。
 
@@ -30,7 +31,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->このビデオでは、Adobeのようなタグマネージャーを使用していない場合に、カスタムリンクのヒットをコード化する方法を示 [!DNL Experience Platform Launch]します。 導入には、アドビのベストプラクティス [!DNL Experience Platform Launch]となる推奨事項を使用することをお勧めします。 ただし、内のコードを作成する必要がある場合は、次 `s.tl()`の方法を使用します。
+>このビデオでは、Adobe[!DNL Experience Platform Launch]のようなタグマネージャーを使用していない場合に、カスタムリンクヒットをコード化する方法を示します。 導入のベストプラクティスとして、[!DNL Experience Platform Launch]を使用することをお勧めします。 ただし、`s.tl()`内のコードを記述する必要がある場合は、次の方法を使用します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12)
 
@@ -50,4 +51,4 @@ ht-degree: 0%
 </a>
 ```
 
-カスタムリンクについて詳しくは、 [ドキュメントを参照してください](https://marketing.adobe.com/resources/help/ja_JP/sc/implement/function_tl.html)。
+カスタムリンクの詳細については、[ドキュメント](https://marketing.adobe.com/resources/help/ja_JP/sc/implement/function_tl.html)を参照してください。
