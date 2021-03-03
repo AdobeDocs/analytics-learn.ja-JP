@@ -1,26 +1,27 @@
 ---
 title: データフィード管理UI
 description: Adobe Analyticsのデータフィードでは、生のクリックストリームデータを書き出して、EDWまたはデータレーク内の他のデータソースと読み込んだり、結合したりできます。 Adobe Analytics内で独自のデータフィードを作成および管理できます。 このビデオでは、その方法を紹介します。
-feature: data feeds
+feature: データフィード
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2353
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '119'
+ht-degree: 8%
 
 ---
 
 
-# [!UICONTROL データフィード] 管理UI {#data-feeds-management-ui}
+# [!UICONTROL データ] フィード管理UI  {#data-feeds-management-ui}
 
-Adobe Analytics [!UICONTROL データフィード] (DDW)では、生のクリックストリームデータを書き出して、EDWまたはデータレーク内の他のデータソースと読み込んだり結合したりできます。 Adobe Analytics内で独自の [!UICONTROL データフィードを作成および管理できます] 。 このビデオでは、その方法を紹介します。
+Adobe Analytics[!UICONTROL データフィード]を使用すると、生のクリックストリームデータを書き出して、EDWまたはデータレーク内の他のデータソースと読み込んだり、結合したりできます。 Adobe Analytics内で独自の[!UICONTROL データフィード]を作成し、管理できます。 このビデオでは、その方法を紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12)
 
-この機能について詳しくは、ドキュメントを参照してくだ [さい](https://marketing.adobe.com/resources/help/en_US/reference/analytics-data-feed.html)。
+この機能の詳細については、[ドキュメント](https://marketing.adobe.com/resources/help/en_US/reference/analytics-data-feed.html)を参照してください。
