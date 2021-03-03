@@ -1,25 +1,26 @@
 ---
-title: フリーフォームテーブルの指標の操作
-description: Analysis Workspaceのフリーフォームテーブルで指標を使用する様々な方法について説明します。
-feature: freeform tables
+title: フリーフォームテーブルでの指標の操作
+description: Analysis Workspace のフリーフォームテーブルで指標を使用できる様々な方法を説明します。
+feature: フリーフォームテーブル
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40817.jpg
 kt: 6291
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 95f0f2e224f8eab785b3d283ca84e9ce5371a5a6
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '51'
+ht-degree: 94%
 
 ---
 
 
-# フリーフォームテーブルの指標の操作
+# フリーフォームテーブルでの指標の操作
 
-Analysis Workspaceのフリーフォームテーブルで指標を使用する様々な方法について説明します。
+Analysis Workspace のフリーフォームテーブルで指標を使用できる様々な方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40817/?quality=12&learn=on)
