@@ -1,27 +1,28 @@
 ---
-title: 50,000個の項目をCSVとしてダウンロード
-description: 「項目をCSVでダウンロード」オプションを使用すると、セグメントとフィルターが適用されたフリーフォームテーブルのディメンションに対して、最大50,000個の項目をダウンロードできます。 UIはページ番号付けの前に最大400個の項目を表示し続けますが、このオプションを使用すると、Analysis Workspace以外の地域のデータ行により多くアクセスできます。
-feature: curate and share
+title: 50,000 個の項目を CSV としてダウンロード
+description: 「項目をCSVでダウンロード」オプションを使用すると、セグメントとフィルターが適用されたフリーフォームテーブルのディメンションに対して、最大50,000個の項目をダウンロードできます。 ページネーション前の UI で引き続き最大 400 項目が表示されますが、このオプションを使用すると、Analysis Workspace の外部にあるデータのより多くの行にアクセスできます。
+feature: キュレーションと共有
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40385.jpg
 kt: 6278
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 5d8c660a4974936f9f3ec1132430d42b1d261965
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '129'
+ht-degree: 54%
 
 ---
 
 
-# 50,000個の項目をCSVとしてダウンロード
+# 50,000 個の項目を CSV としてダウンロード
 
-「項目をCSVでダウンロード」オプションを使用すると、セグメントとフィルターが適用されたフリーフォームテーブルのディメンションに対して、最大50,000個の項目をダウンロードできます。 UIはページ番号付けの前に最大400個の項目を表示し続けますが、このオプションを使用すると、Analysis Workspace以外の地域のデータ行により多くアクセスできます。
+「項目をCSVでダウンロード」オプションを使用すると、セグメントとフィルターが適用されたフリーフォームテーブルのディメンションに対して、最大50,000個の項目をダウンロードできます。 ページネーション前の UI で引き続き最大 400 項目が表示されますが、このオプションを使用すると、Analysis Workspace の外部にあるデータのより多くの行にアクセスできます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40385/?quality=12&learn=on)
 
-詳しくは、 [ドキュメントを参照してください](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/curate-share/download-send.html)
+詳細については、[ドキュメント](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/curate-share/download-send.html)を参照してください
