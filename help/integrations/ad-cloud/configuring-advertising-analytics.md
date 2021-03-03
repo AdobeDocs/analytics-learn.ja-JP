@@ -1,28 +1,30 @@
 ---
 title: Adobe AnalyticsでのAdvertising Analyticsの設定
 description: 'このビデオでは、Advertising Analyticsを利用するためのレポートスイートの設定方法、有料検索アカウントの設定方法、Advertising Analyticsのレポートの詳細についての概要を説明します。 '
-feature: integration with ad cloud
+feature: Advertising Cloud統合
 topics: null
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 1642
+topic: 統合
+role: 管理者
+level: 中間
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '96'
+ht-degree: 4%
 
 ---
 
 
-# Adobe Analytics [!DNL Advertising Analytics] での設定 {#configuring-advertising-analytics-in-adobe-analytics}
+# [!DNL Advertising Analytics]をAdobe Analytics{#configuring-advertising-analytics-in-adobe-analytics}で設定
 
-このビデオでは、利用する [!UICONTROL レポートスイートの設定方法] 、有料検索アカウントの設定方法 [!DNL Advertising Analytics]、レポートの詳細についての概要を説明 [!DNL Advertising Analytics]します。
+このビデオでは、[!UICONTROL レポートスイート]を[!DNL Advertising Analytics]を利用するように設定する方法、有料検索アカウントの設定方法、[!DNL Advertising Analytics]のレポートの詳細に関する概要を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12)
 
 ## その他のリソース {#additional-resources}
 
-For more information, see the [feature documentation](https://docs.adobe.com/content/help/en/analytics/integration/advertising-analytics/overview.html)
+詳しくは、[機能ドキュメント](https://docs.adobe.com/content/help/en/analytics/integration/advertising-analytics/overview.html)を参照してください
