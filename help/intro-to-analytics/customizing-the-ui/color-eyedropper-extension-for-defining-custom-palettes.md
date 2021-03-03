@@ -1,18 +1,19 @@
 ---
 title: カスタムパレットを定義するための Color Eyedropper 拡張機能
 description: ワークスペース プロジェクトのカスタムカラーパレットで必要な 16 進数の値を簡単に見つけるための ColorPick EyeDropper Chrome 拡張機能の使用方法を説明します。
-feature: workspace basics
+feature: Workspaceの基本
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5035
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '85'
+ht-degree: 77%
 
 ---
 
