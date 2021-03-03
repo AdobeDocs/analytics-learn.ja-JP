@@ -3,24 +3,26 @@ title: Admin Consoleでの変数の設定
 seo-title: Adobe AnalyticsのAdmin Consoleでの変数の設定
 description: Analytics実装で使用する変数とイベントを定義したら、Admin Consoleに入って設定し、レポート/ディメンション/指標のすべてに適切な名前と動作を持たせる必要があります。 このビデオでは、それをどこでどのように行うかを紹介します。
 seo-description: 'Analytics実装で使用する変数とイベントを定義したら、Admin Consoleに入って設定し、レポート/ディメンション/指標のすべてに適切な名前と動作を持たせる必要があります。 このビデオでは、それをどこでどのように行うかを紹介します。 Adobe Analytics '
-feature: report suite settings
+feature: レポート表示設定
 topics: null
-audience: administrator, implementer, architect
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 3582
+topic: 管理
+role: 「管理者、アーキテクト」
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '187'
+ht-degree: 3%
 
 ---
 
 
-# Adobe Analytics の [!DNL Admin Console] での変数の設定
+# [!DNL Admin Console]での変数の設定
 
-導入で使用する変数とイベントを定義したら、に進んで、 [!DNL Analytics] で設定し、reports/dimensions/metricsのすべてに適切な名前と動作を持たせる必要があり [!DNL Admin Console]ます。 このビデオでは、それをどこでどのように行うかを紹介します。
+[!DNL Analytics]実装で使用する変数とイベントを定義したら、[!DNL Admin Console]に入って設定し、reports/dimensions/metricsのすべてに適切な名前と動作を持たせる必要があります。 このビデオでは、それをどこでどのように行うかを紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28755/?quality=12)
