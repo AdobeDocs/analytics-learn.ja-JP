@@ -1,25 +1,26 @@
 ---
 title: 右クリックで Workspace の効率性を確認
 description: 当社お気に入りの Analysis Workspace 右クリックとその使い方をご紹介します。フリーフォームテーブルからフォールアウトビジュアライゼーションに至るまで、右クリックすると、Workspace の効率性と熟練度が向上します。
-feature: workspace basics
+feature: Workspaceの基本
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39377.jpg
 kt: 5939
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 9fbdd96c3a2bb2a6a26e10a7f2dfeddfa33ec572
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 72%
+source-wordcount: '71'
+ht-degree: 67%
 
 ---
 
 
-# Right-click for [!DNL Workspace] Efficiency
+# 右クリックで[!DNL Workspace]の効率性
 
-当社お気に入りの Analysis Workspace 右クリックとその使い方をご紹介します。From [!UICONTROL Freeform Tables] to [!UICONTROL Fallout Visualizations], right-clicking will make you more efficient and proficient in [!DNL Workspace].
+当社お気に入りの Analysis Workspace 右クリックとその使い方をご紹介します。[!UICONTROL フリーフォームテーブル]から[!UICONTROL フォールアウトビジュアライゼーション]まで、右クリックでより効率的で熟練した[!DNL Workspace]が得られます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/39377/?quality=12&learn=on)
