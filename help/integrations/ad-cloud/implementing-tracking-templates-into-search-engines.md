@@ -1,28 +1,30 @@
 ---
 title: Advertising Analyticsから検索エンジンへのトラッキングテンプレートの導入
 description: このビデオでは、Advertising Analyticsからサポートされる検索エンジンにトラッキングテンプレートを実装する手順を説明します。 データを収集してAdobe Analyticsに渡すには、トラッキングテンプレートの実装が重要な手順です。
-feature: integration with ad cloud
+feature: Advertising Cloud統合
 topics: null
-audience: administrator
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 1651
+topic: 統合
+role: 管理者
+level: 中間
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 1%
+source-wordcount: '107'
+ht-degree: 3%
 
 ---
 
 
-# から検索エンジンへのトラッキングテンプレート [!DNL Advertising Analytics] の導入 {#implementing-tracking-templates-from-advertising-analytics-into-search-engines}
+# [!DNL Advertising Analytics]から検索エンジンへのトラッキングテンプレートの導入{#implementing-tracking-templates-from-advertising-analytics-into-search-engines}
 
-このビデオでは、トラッキングテンプレートをサポート対象の検索エンジンに実装する手順 [!DNL Advertising Analytics] について説明します。 データを収集してAdobe Analyticsに渡すには、トラッキングテンプレートの実装が重要な手順です。
+このビデオでは、[!DNL Advertising Analytics]からサポートされる検索エンジンにトラッキングテンプレートを実装する手順を説明します。 データを収集してAdobe Analyticsに渡すには、トラッキングテンプレートの実装が重要な手順です。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23120/?quality=12)
 
 ## その他のリソース {#additional-resources}
 
-* [adobe analytics [!DNL Advertising Analytics] の設定](https://helpx.adobe.com/analytics/kt/using/advertising-analytics-feature-video-configure.html)
+* [Adobe Analytics [!DNL Advertising Analytics] の設定](https://helpx.adobe.com/analytics/kt/using/advertising-analytics-feature-video-configure.html)
