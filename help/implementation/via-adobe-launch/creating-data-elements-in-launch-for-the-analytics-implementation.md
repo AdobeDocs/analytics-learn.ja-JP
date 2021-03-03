@@ -1,24 +1,25 @@
 ---
 title: Analytics導入の開始でのデータ要素の作成
 description: このビデオでは、Solution Design Reference(SDR)ドキュメントで決定され、ドキュメント化された変数とイベントに基づいて、Analyticsの導入時にAnalyticsのデータ要素を作成する方法を示します。
-feature: launch implementation
+feature: 導入の開始
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3587
+role: 「開発者、データ・エンジニア」
+level: 初心者
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
 
-# 導入用の [!UICONTROL データ要素の作成] ( [!DNL Launch][!DNL Analytics] )
+# [!DNL Analytics]実装用に[!UICONTROL データ要素]を[!DNL Launch]に作成する
 
-このビデオでは、 [!UICONTROL (SDR)ドキュメントで決定され、ドキュメント化された変数とイベントに基づ] いて、での [!DNL Analytics] 導入用のデータ要素 [!DNL Experience Platform Launch][!DNL Solution Design Reference] を作成する方法を説明します。
+このビデオでは、[!DNL Solution Design Reference] (SDR)ドキュメントで決定され、ドキュメント化された変数とイベントに基づいて、[!DNL Experience Platform Launch]に[!DNL Analytics]実装の[!UICONTROL データ要素]を作成する方法を示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12)
