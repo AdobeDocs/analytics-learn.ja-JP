@@ -1,26 +1,27 @@
 ---
 title: Adobe AnalyticsのActivity Map概要
 description: Activity Mapは、Adobe AnalyticsユーザーがユーザーアクティビティデータをWebサイト上で直接視覚化できるツールです。 ページのリンク上のクリック数（または他の指標）を直接確認する。
-feature: activity map
+feature: Activity Map
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2349
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '107'
+ht-degree: 9%
 
 ---
 
 
-# [!UICONTROL Adobe AnalyticsのActivity Map] {#activity-map-in-adobe-analytics}
+# [!UICONTROL アクティビティ] マピンAdobe Analytics  {#activity-map-in-adobe-analytics}
 
-[!UICONTROL Activity Map] は、Adobe AnalyticsユーザーがユーザーアクティビティデータをWebサイト上で直接視覚化できるツールです。 ページのリンク上でのクリック数(または他の [!UICONTROL 指標])を直接確認する。
+[!UICONTROL アクティビティ] マップは、Adobe AnalyticsユーザがユーザアクティビティデータをWebサイト上で直接視覚化できるツールです。ページのリンク上でのクリック数（または他の[!UICONTROL 指標]）を直接確認する。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12)
 
-この機能の詳細については、 [ドキュメントを参照してください](https://marketing.adobe.com/resources/help/ja_JP/analytics/activitymap/)。
+この機能の詳細については、[ドキュメント](https://marketing.adobe.com/resources/help/ja_JP/analytics/activitymap/)を参照してください。
