@@ -1,24 +1,25 @@
 ---
 title: Analytics起動拡張の基本設定
 description: このビデオでは、基本サイト用にAnalyticsの拡張機能を起動で設定する方法を簡単に示します。
-feature: launch implementation
+feature: 導入の開始
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3586
+role: 「開発者、データ・エンジニア」
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 0ec2bbb4af9bd8e55e2ad3b94c8c806249a03fe3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
 
-# Analytics用の [!DNL Experience Platform Launch] 拡張機能の基本設定
+# Analytics用の[!DNL Experience Platform Launch]拡張の基本設定
 
-このビデオでは、基本サイト用にの [!DNL Analytics] 拡張機能を簡単に設定する方法 [!DNL Experience Platform Launch] を紹介します。
+このビデオでは、基本サイト用に[!DNL Experience Platform Launch]で[!DNL Analytics]拡張を設定する簡単な方法を示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28751/?quality=12)
