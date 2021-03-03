@@ -1,25 +1,26 @@
 ---
 title: Analysis Workspaceのイントラリンク
 description: イントラリンク機能を使用すると、アナリストがAnalysis Workspaceでプロジェクトを作成することで、プロジェクトの読者をプロジェクト内の正確なパネルやビジュアライゼーションに誘導できます。
-feature: visualizations
+feature: ビジュアライゼーション
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1908
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '83'
+ht-degree: 1%
 
 ---
 
 
-# Analysis Workspaceのイントラリンク {#intra-linking-in-analysis-workspace}
+# Analysis Workspace{#intra-linking-in-analysis-workspace}でのイントラリンク
 
-イントラリンク機能を使用すると、アナリストがAnalysis Workspaceでプロジェクトを作成することで、プロジェクトの読者をプロジェクト内の正確なパネルや [!UICONTROL ビジュアライゼーション] に誘導できます。
+イントラリンクにより、アナリストがAnalysis Workspaceでプロジェクトを構築することで、プロジェクトの読者をプロジェクト内の正確なパネルおよび[!UICONTROL ビジュアライゼーション]に導くことができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12)
 
