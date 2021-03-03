@@ -1,23 +1,24 @@
 ---
 title: Analysis Workspaceで目次を作成
 description: 目次Workspaceプロジェクトの構築方法を説明します。また、目次Workspaceプロジェクトをユーザーのランディングページとして設定し、ユーザーがAdobe Analyticsで必要なデータやインサイトをすばやく見つけられるようにします。
-feature: projects
+feature: パネル
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2812
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 1%
 
 ---
 
 
-# Analysis Workspaceで目次を作成 {#create-a-table-of-contents-in-analysis-workspace}
+# 目次をAnalysis Workspaceで作成{#create-a-table-of-contents-in-analysis-workspace}
 
 目次Workspaceプロジェクトの構築方法を説明します。また、目次Workspaceプロジェクトをユーザーのランディングページとして設定し、ユーザーがAdobe Analyticsで必要なデータやインサイトをすばやく見つけられるようにします。
 
