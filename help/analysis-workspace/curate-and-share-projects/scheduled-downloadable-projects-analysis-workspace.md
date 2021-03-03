@@ -1,23 +1,24 @@
 ---
 title: Analysis Workspaceの予定・ダウンロード可能なプロジェクト
 description: Analysis Workspaceでは、プロジェクトのスケジュールを設定し、PDFやCSVにダウンロードできます。 このビデオでは、自分または同僚に将来的に配信するためのプロジェクトのスケジュールを設定する方法、および作業中のプロジェクトのPDFをダウンロードする方法を示します。
-feature: curate and share
+feature: キュレーションと共有
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2298
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
 
-# Analysis Workspaceの予定・ダウンロード可能なプロジェクト{#scheduled-and-downloadable-projects-in-analysis-workspace}
+# Analysis Workspace{#scheduled-and-downloadable-projects-in-analysis-workspace}のスケジュール済みプロジェクトとダウンロード可能プロジェクト
 
 Analysis Workspaceでは、プロジェクトのスケジュールを設定し、PDFやCSVにダウンロードできます。 このビデオでは、自分または同僚に将来的に配信するためのプロジェクトのスケジュールを設定する方法、および作業中のプロジェクトのPDFをダウンロードする方法を示します。
 
