@@ -1,17 +1,18 @@
 ---
 title: セグメントでの「次のいずれかと等しい」演算子の使用
 description: 「次のいずれかに等しい」および「次のいずれかに等しくない」セグメント演算子がセグメントビルダーに追加されました。 複数のOR文や「次のいずれかを含む」文を使用する代わりに、これらの演算子を使用して特定のリストの項目をフィルタリングします。 「次を含む」の代わりにこれらの演算子を使用すると、クエリ速度も向上します。
-feature: segmentation
+feature: セグメント化
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4844
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 4f8f8145a9d559e99d01783c6bf62f590f6c5410
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -23,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12)
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segment-reference/seg-operators.html)
+詳しくは、[ドキュメント](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segment-reference/seg-operators.html)を参照してください
