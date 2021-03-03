@@ -1,28 +1,29 @@
 ---
 title: 明確なDimension数のセグメント化
 description: セグメントビルダーの新しい「個別カウント」演算子を使用すると、任意のディメンション内の一意の項目数に基づいてセグメント化できます。 5ページを超える閲覧が行われた訪問、または5つを超える製品が購入されたヒット（1回の注文内など）のフィルター。
-feature: segmentation
+feature: セグメント化
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2918
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
 
 
-# Segmentation on Distinct Dimension Counts {#segmentation-on-distinct-dimension-counts}
+# 個別のDimensionカウントのセグメント化{#segmentation-on-distinct-dimension-counts}
 
-セグメントビルダーの新しい [!UICONTROL 異なる数] ( [!UICONTROL Distinct Count] )演算子を使用すると、任意の [!UICONTROL ディメンション内の一意の項目数に基づいてセグメント化を行うことができます]。 5ページを超える閲覧が行われた訪問、または5つを超える製品が購入されたヒット（1回の注文内など）のフィルター。
+[!UICONTROL セグメントビルダー]の新しい[!UICONTROL 個別カウント]演算子を使用すると、[!UICONTROL ディメンション]内の一意の項目数に基づいてセグメント化できます。 5ページを超える閲覧が行われた訪問、または5つを超える製品が購入されたヒット（1回の注文内など）のフィルター。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=9)
 
 この機能は涼しいものでしょうか。 :)
 
-For more information, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/segment/seg_operators.html).
+詳しくは、[ドキュメント](https://marketing.adobe.com/resources/help/en_US/analytics/segment/seg_operators.html)を参照してください。
