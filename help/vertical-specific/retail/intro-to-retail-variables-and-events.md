@@ -1,18 +1,19 @@
 ---
 title: 小売変数とイベントの紹介
 description: 小売サイトの場合、自分用に作成された変数やイベントがいくつかあります（特別なものではありません）。 このビデオでは、小売固有の変数とイベントを理解するための簡単な手引きを示します。
-feature: use cases
+feature: ユースケース
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3579
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 2%
 
 ---
 
