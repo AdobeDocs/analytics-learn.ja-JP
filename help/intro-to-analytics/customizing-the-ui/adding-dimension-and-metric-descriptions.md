@@ -1,24 +1,25 @@
 ---
 title: Adobe AnalyticsでのDimensionと指標の説明の追加
 description: このビデオでは、Adobe Analyticsのレポート、指標、ディメンションにコンテキストを追加する方法を説明します。
-feature: workspace basics
+feature: Workspaceの基本
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2352
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
 
-# Adobe Analyticsでの [!UICONTROL Dimension] と  指標の説明の追加 {#adding-dimension-and-metric-descriptions-in-adobe-analytics}
+# Adobe Analytics{#adding-dimension-and-metric-descriptions-in-adobe-analytics}の[!UICONTROL Dimension]と[!UICONTROL 指標]の説明の追加
 
-このビデオでは、Adobe Analyticsのレポート、 [!UICONTROL 指標] 、 [!UICONTROL ディメンションにコンテキストを追加する方法を説明します] 。
+このビデオでは、Adobe Analyticsの[!UICONTROL 指標]と[!UICONTROL ディメンション]を使用して、レポートにコンテキストを追加する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25453/?quality=12)
