@@ -1,27 +1,28 @@
 ---
 title: コホートテーブルとのチャーン分析
 description: コホートテーブルには、リテンションとチャーンの2つの分析タイプがオファーされます。 保持率は、時間の経過と共に保持されるユーザー数を示しますが、「変更」オプションでは、失われたユーザー数が表示されます（1 — 保持率）。
-feature: visualizations
+feature: ビジュアライゼーション
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25966.jpg
 kt: 2479
+role: 開業医
+level: 中間
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '91'
+ht-degree: 12%
 
 ---
 
 
-# [!UICONTROL コホートテーブルとのチャーン][!UICONTROL 分析] {#churn-analysis-with-cohort-tables}
+# [!UICONTROL コホ] ート [!UICONTROL テーブルを使用したChurnAnalysis] {#churn-analysis-with-cohort-tables}
 
-[!UICONTROL コホートテーブル] オファーには [!UICONTROL 、] 保持と [!UICONTROL チャーンの2つの分析タイプがあります]。 「 [!UICONTROL 保持率] 」には時間の経過と共に保持されるユーザー数が表示されますが、「 [!UICONTROL チャーン] 」オプションには、失われたユーザー数（1 — 保持率）が示されます。
+[!UICONTROL コホート] テーブルには、「保持」と「  チャーン 」の2つの分析タイプがあります。[!UICONTROL リテンション]は、時間の経過と共に保持されるユーザー数を示しますが、[!UICONTROL チャーン]オプションは、失われたユーザー数を示します（1 — リテンション）。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12)
 
-For more information, please see the [documentation](https://marketing.adobe.com/resources/help/ja_JP/analytics/analysis-workspace/cohort_analysis.html).
+詳しくは、[ドキュメント](https://marketing.adobe.com/resources/help/ja_JP/analytics/analysis-workspace/cohort_analysis.html)を参照してください。
