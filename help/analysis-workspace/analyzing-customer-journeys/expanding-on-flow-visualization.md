@@ -1,19 +1,20 @@
 ---
 title: Analysis Workspaceでのフローの視覚化の拡大
 description: このビデオでは、Analysis Workspaceのフロービジュアライゼーションで使用できる様々な右クリックオプションを示します。 パスからのセグメントの作成、列の折りたたみなどのオプションがあります。
-feature: visualizations
+feature: ビジュアライゼーション
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24044.jpg
 kt: 2280
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 7629db3735eb4b81c6a1787cce71b350a603ac3a
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 1%
 
 ---
 
