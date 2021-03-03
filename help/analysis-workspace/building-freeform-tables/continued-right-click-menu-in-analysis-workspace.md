@@ -1,23 +1,24 @@
 ---
 title: Analysis Workspaceの右クリックメニューの続き
 description: Analysis Workspaceには強力な右クリックメニューが用意されており、多くの強力な機能を備えています。 このビデオでは、Analysis Workspace内で右クリックメニューを使用する方法を説明します。
-feature: freeform tables
+feature: フリーフォームテーブル
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2030
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 2%
 
 ---
 
 
-# Analysis Workspaceの右クリックメニューの続き {#continued-right-click-menu-in-analysis-workspace}
+# Analysis Workspace{#continued-right-click-menu-in-analysis-workspace}の右クリックメニューの続き
 
 Analysis Workspaceには強力な右クリックメニューが用意されており、多くの強力な機能を備えています。 このビデオでは、Analysis Workspace内で右クリックメニューを使用する方法を説明します。
 
