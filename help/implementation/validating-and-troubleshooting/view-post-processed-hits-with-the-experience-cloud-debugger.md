@@ -1,17 +1,18 @@
 ---
 title: Experience Cloud Debuggerで後処理された表示ヒット
 description: 処理後のデータがExperience Cloud Debuggerで使用できるようになりました。 Experience Cloudを介してログインし、「後処理されたヒットを取得」をオンにして、VISTAおよび処理ルールの適用後のヒットを確認します。 例えば、処理ルール内のコンテキストデータのマッピングに大きく依存している場合、各コンテキストデータ変数がデバッガーのどこに直接保存されるかを確認できます。
-feature: validation
+feature: 検証
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 4843
+role: 「開発者、データ・エンジニア」
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
