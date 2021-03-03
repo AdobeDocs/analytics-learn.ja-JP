@@ -1,18 +1,19 @@
 ---
 title: Analysis Workspaceのトレーニングチュートリアルテンプレート
 description: '「Analysis Workspaceトレーニングチュートリアル」では、一般的な用語と、Workspaceでの最初の分析の作成手順について説明します。 '
-feature: projects
+feature: パネル
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5032
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 4d423c9148e973e4ca0efd2385233da8c4467e79
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '90'
+ht-degree: 14%
 
 ---
 
