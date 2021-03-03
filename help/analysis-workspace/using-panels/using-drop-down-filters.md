@@ -1,23 +1,24 @@
 ---
 title: Analysis Workspaceでのドロップダウンフィルターの使用
 description: このビデオでは、Analysis Workspaceのドロップダウンフィルターを使用してパネルのコンテンツを動的に変更する方法を学びます。
-feature: panels
+feature: パネル
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1944
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
 
-# Analysis Workspaceでのドロップダウンフィルターの使用 {#using-drop-down-filters-in-analysis-workspace}
+# Analysis Workspaceでのドロップダウンフィルターの使用{#using-drop-down-filters-in-analysis-workspace}
 
 このビデオでは、Analysis Workspaceのドロップダウンフィルターを使用してパネルのコンテンツを動的に変更する方法を学びます。
 
@@ -27,4 +28,4 @@ ht-degree: 0%
 
 ドロップダウンは、プロジェクトやパネルを統合するのに役立ちます。 例えば、国別のレポートを提供する複数のバージョンのプロジェクトがある場合、それらのプロジェクトを1つのプロジェクトに折りたたみ、国のドロップダウンを追加して、ユーザーが切り替えられるようにすることができます。
 
-For more information, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/panels.html).
+詳しくは、[ドキュメント](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/panels.html)を参照してください。
