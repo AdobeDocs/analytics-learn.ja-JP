@@ -1,35 +1,36 @@
 ---
 title: 解析のビデオとTutorials
-description: Adobe Analytics向けのビデオとチュートリアルの集まり。
-feature: overview
+description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
+feature: Analytics の基本事項
 topics: null
-audience: all
 activity: use
 doc-type: overview
 team: Technical Marketing
+role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 9fbdd96c3a2bb2a6a26e10a7f2dfeddfa33ec572
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 46%
+source-wordcount: '309'
+ht-degree: 48%
 
 ---
 
 
 # 概要
 
-[!DNL Analytics] Tutorialsサイトへようこそ。  これらのチュートリアルと [ドキュメントを使用することで](https://docs.adobe.com/content/help/ja-JP/analytics/landing/home.html) 、Adobe Analyticsを使用して顧客の洞察を以前よりも早く得る方法をより深く理解できます。  開始するには、Dynamic Tag Management アカウントで
-* 最新の機能につ **いては、以下の「新機能」** の項を参照してください。
-* **Staff Picks** （スタッフが選ぶ）では、お気に入りのコンテンツの一部が強調表示されます。
-* **左のナビゲーションにあるトピックとサブトピック別にコンテンツを調べます。**
-* 検索対象がわかっている場合は、ページ上部の **検索** フィールドを使用します。
+[!DNL Analytics]Tutorialsサイトへようこそ。  これらのチュートリアルを[ドキュメント](https://docs.adobe.com/content/help/ja-JP/analytics/landing/home.html)と共に使用すると、Adobe Analyticsを使用して顧客の洞察を以前よりも早く得る方法をより深く理解できます。  開始するには、Dynamic Tag Management アカウントで
+* 最新の製品については、以下の&#x200B;**「新機能」**&#x200B;の節を参照してください。
+* **Staff** Pickshlightsはお気に入りのコンテンツをいくつか照らします。
+* **左側のナビゲーション**&#x200B;のトピックとサブトピック別にコンテンツを調べます。
+* 検索対象がわかっている場合は、ページ上部の&#x200B;**search**&#x200B;フィールドを使用します
 
 ## 最新情報
 
 * **[右クリックでワークスペースの効率性（ビデオ）](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
 
    <br>
-   *当社お気に入りの Analysis Workspace 右クリックとその使い方をご紹介します。From[!UICONTROL Freeform Tables]to[!UICONTROL Fallout Visualizations], right-clicking will make you more efficient and proficient in[!DNL Workspace].*
+   *当社お気に入りの Analysis Workspace 右クリックとその使い方をご紹介します。[!UICONTROL フリーフォームテーブル]から[!UICONTROL フォールアウトビジュアライゼーション]まで、右クリックすると、[!DNL Workspace]をより効率的に使いやすくなります。*
 
 * **[Analysis Workspaceのクイックインサイトパネル（ビデオ）](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)**
 
