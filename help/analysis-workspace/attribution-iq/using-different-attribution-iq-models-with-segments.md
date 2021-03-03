@@ -1,27 +1,28 @@
 ---
 title: Analysis Workspaceでセグメントを使用した異なるAttribution IQモデルの使用
 description: このビデオでは、サイト上のAdobe AnalyticsセグメントとAttribution IQモデルを組み合わせて使用する方法を学びます。
-feature: attribution
+feature: アトリビューション
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 thumbnail: 23743.jpg
 kt: 1707
+role: 開業医
+level: 中間
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
 
-# Analysis Workspaceでセグメントを使用した異なる [!DNL Attribution IQ] モデルの使用  {#using-different-attribution-iq-models-with-segments-in-analysis-workspace}
+# 異なる[!DNL Attribution IQ] [!UICONTROL モデル]をAnalysis Workspace{#using-different-attribution-iq-models-with-segments-in-analysis-workspace}でセグメントと共に使用する
 
-このビデオでは、サイト上のAdobe Analyticsセグメントとの組み合わせで [!DNL Attribution IQ] モデルを使用する方法を学びます  。
+このビデオでは、サイトのAdobe Analyticsセグメントと組み合わせて[!DNL Attribution IQ] [!UICONTROL モデル]を使用する方法を学びます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23743/?quality=12)
 
