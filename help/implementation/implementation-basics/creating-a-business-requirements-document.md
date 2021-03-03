@@ -1,17 +1,18 @@
 ---
 title: ビジネス要件ドキュメントの作成
 description: 'このビデオでは、Adobe Analyticsで追跡するものを定義する際の重要なステップを説明します。 サイトについて知りたいことは何ですか。 どのように追跡するかを決めるために、開始とメモを書き留めましょう。 '
-feature: implementation basics
+feature: 導入の基本
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3580
+role: 「開発者、データ・エンジニア」
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 21a399b7c29562f03dfe7ba90cd1676224e50af8
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -23,6 +24,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12)
 
-[サイトの定義に使用できるサンプルBRD/SDRをダウンロードします](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) 。
+[サイトの定義に使用できるサンプルBRD/SDRを](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) ダウンロードします。
 
-[このビデオ](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) (および [SDRビデオ](creating-and-maintaining-an-sdr.md))からBRD/SDRをダウンロードします。
+[このビデオ(および](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) SDRビデオ [](creating-and-maintaining-an-sdr.md))からBRD/SDRをダウンロードします。
