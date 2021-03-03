@@ -5,10 +5,10 @@ breadcrumb-title: Analytics チュートリアル
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: a6d96878798f2ec2302bcd207aa419fb084d19b1
+source-git-commit: df326b0711ad05c3a0ae73480d66d1980901216f
 workflow-type: tm+mt
-source-wordcount: '1872'
-ht-degree: 21%
+source-wordcount: '1871'
+ht-degree: 22%
 
 ---
 
@@ -224,7 +224,7 @@ ht-degree: 21%
    + 導入の基本{#implementation-basics}
       + [初回実装](implementation/implementation-basics/first-time-implementation.md)
       + [処理ルールを使用したcontextData変数のpropおよびeVarへのマッピング](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
-      + [Analyticsトラッキングサーバーとレポートスイートの識別方法](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
+      + [Analytics トラッキングサーバーおよびレポートスイートの識別方法](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [ビジネス要件ドキュメントの作成](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [SDRの作成と保守](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
       + [サイトでのデータレイヤーの使用](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
@@ -309,7 +309,7 @@ ht-degree: 21%
       + [リクエスト間の指標の編集](exporting/report-builder/edit-metrics-across-requests.md)
       + [Report Builderを使用したAdobe AnalyticsAPIの学習](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
 + 統合 {#integrations}
-   + Experience Cloud{experience-cloud}
+   + Experience Cloud {#experience-cloud}
       + [Experience Cloud オーディエンスパブリッシングの改善](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
    + Audience Manager {#audience-manager}
       + [Experience Platform Launchでのサーバー側転送の有効化](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
