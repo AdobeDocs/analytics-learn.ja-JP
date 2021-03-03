@@ -1,24 +1,25 @@
 ---
-title: ユーザーの音声の遍歴について
-description: フローパスとフォールアウトを調べて、最も一般的なアクションの種類、それらのアクションの順序、ユーザーが旅から離脱するタイミングと場所を特定し、音声アプリでの顧客の遍歴を理解する方法を学びます。
-feature: visualizations
+title: ユーザーの音声ジャーニーについて
+description: フローパスとフォールアウトを調べて、最も一般的なアクションの種類、それらのアクションの順序、およびジャーニーから離脱するタイミングと場所を特定し、音声アプリでの顧客のジャーニーを理解する方法を説明します。
+feature: ビジュアライゼーション
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2903
+role: 開業医
+level: 中間
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 1%
 
 ---
 
 
-# ユーザーの音声の遍歴について {#understanding-the-user-s-voice-journey}
+# ユーザーの音声ジャーニーについて{#understanding-the-user-s-voice-journey}
 
-フ  ローパスとフォールアウトを調べて、最も一般的なアクション、その一連のアクション、ユーザーが旅から離脱する日時、場所を特定し、音声アプリでの顧客の遍歴を理解する方法を学びます。
+[!UICONTROL フロー]パスと[!UICONTROL フォールアウト]を調べ、最も一般的なアクションの種類、それらのアクションの順序、ジャーニーから離脱したタイミング、場所を特定することで、音声アプリでの顧客のジャーニーを理解する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27226/?quality=12)
