@@ -1,18 +1,19 @@
 ---
 title: Analysis Workspace のメディア同時視聴者数パネル
 description: Media Analyticsのお客様は、メディアの同時表示ビューアパネルを使用して、ピーク同時実行が発生した場所や下降が発生した場所を把握し、コンテンツとビューアの関与の質に関する貴重な洞察を提供し、ボリューム/規模のトラブルシューティングや計画を支援できます。
-feature: Panels
+feature: パネル
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330177.jpg
 kt: 6834
+role: 開業医
+level: 中間
 translation-type: tm+mt
-source-git-commit: 5e90bf84933fcf6b28a205216a2f04484a7b662d
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '121'
 ht-degree: 17%
 
 ---
