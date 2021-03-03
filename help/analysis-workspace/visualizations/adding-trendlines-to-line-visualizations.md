@@ -1,24 +1,25 @@
 ---
-title: 線のビジュアライゼーションへの近似曲線の追加
+title: 線のビジュアライゼーションへのトレンドラインの追加
 description: 「ビジュアライゼーションの設定」で、回帰または移動平均近似曲線を線系列に追加し、データ内でより明確なパターンを表現するのに役立てることができます。 オプションには、線形、対数、指数、累乗、二次、移動平均があります。
-feature: Visualizations
+feature: ビジュアライゼーション
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330176.jpg
 kt: 6833
+role: 開業医
+level: 初心者
 translation-type: tm+mt
-source-git-commit: 5e90bf84933fcf6b28a205216a2f04484a7b662d
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 4%
+source-wordcount: '148'
+ht-degree: 11%
 
 ---
 
 
-# 線のビジュアライゼーションへの近似曲線の追加
+# 線のビジュアライゼーションへのトレンドラインの追加
 
 [!UICONTROL ビジュアライゼーション設定]で、回帰または移動平均近似曲線を線系列に追加し、データ内により明確なパターンを表現するのに役立てることができます。 オプションには、線形、対数、指数、累乗、二次、移動平均があります。
 
