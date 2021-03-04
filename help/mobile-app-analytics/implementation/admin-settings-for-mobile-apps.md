@@ -1,6 +1,6 @@
 ---
 title: モバイルアプリの管理設定
-description: ライフサイクルコンポーネント、場所の追跡、バックグラウンドヒットレポートを含む、Adobe Analyticsのモバイルアプリレポートを設定する方法について説明します。
+description: ライフサイクルコンポーネント、場所のトラッキング、バックグラウンドヒットレポートなど、Adobe Analytics でモバイルアプリレポートを設定する方法について説明します。
 feature: モバイル SDK
 topics: null
 activity: setup
@@ -14,15 +14,15 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 5%
+ht-degree: 98%
 
 ---
 
 
-# モバイルアプリの管理設定{#admin-settings-for-mobile-apps}
+# モバイルアプリの管理設定 {#admin-settings-for-mobile-apps}
 
-[!UICONTROL ライフサイクル]コンポーネント、[!UICONTROL 場所の追跡]、[!UICONTROL バックグラウンドヒット]レポートなど、Adobe Analyticsでモバイルアプリレポートを設定する方法を説明します。
+[!UICONTROL ライフサイクル]コンポーネント、[!UICONTROL 場所のトラッキング]、[!UICONTROL バックグラウンドヒット]レポートなど、Adobe Analytics でモバイルアプリレポートを設定する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25961/?quality=12)
 
-詳しくは、[ドキュメント](https://marketing.adobe.com/resources/help/en_US/mobile/gs.html)を参照してください。
+詳しくは、[ドキュメント](https://marketing.adobe.com/resources/help/ja_JP/mobile/gs.html)を参照してください。
