@@ -1,8 +1,8 @@
 ---
-title: Adobe Analyticsの初回実装
+title: Adobe Analytics の初回実装
 landing-page-description: このビデオでは、Adobe Analytics のデータに関して習得し、運用するプロセスについて数分間で説明します。
 description: Adobe Analytics を実装するのはこれまで以上に簡単です。アドビのソリューションを初めて使用する方には、この数分間のビデオでデータの操作方法を説明します。
-feature: 導入の基本
+feature: 実装の基本
 topics: null
 activity: implement
 doc-type: feature video
@@ -13,13 +13,13 @@ level: 初心者
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 87%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Adobe Analyticsの初回実装{#first-time-adobe-analytics-implementation}
+# Adobe Analytics の初回実装 {#first-time-adobe-analytics-implementation}
 
 Adobe Analytics を実装するのはこれまで以上に簡単です。アドビのソリューションを初めて使用する方には、この数分間のビデオでデータの操作方法を説明します。
 
