@@ -1,6 +1,6 @@
 ---
-title: Adobe SenseiとAdobe Analytics
-description: Adobe Sensei氏はAdobe Analytics氏をよりインテリジェントにし、マーケターが顧客に関する有意義な洞察を見つけるのを支援します。 このビデオでは、異常値検出、貢献度分析、インテリジェントアラート、クラスタリング、セグメントIQ、傾向モデリングなど、Adobe Senseiを基盤とするAdobe Analyticsの主な機能について詳しく説明します。
+title: Adobe Sensei と Adobe Analytics
+description: Adobe Sensei の活用で、Adobe Analytics がさらにインテリジェントになり、マーケターが顧客に関する有意義なインサイトを見つけやすくなります。 このビデオでは、異常値検出、貢献度分析、インテリジェントアラート、クラスタリング、セグメントIQ、傾向モデリングなど、Adobe Sensei を活用した Adobe Analytics の主な機能について詳しく説明します。
 feature: データサイエンス
 topics: null
 activity: understand
@@ -13,15 +13,15 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 4%
+ht-degree: 90%
 
 ---
 
 
-# [!DNL Adobe Sensei] Adobe Analytics
+# [!DNL Adobe Sensei] および Adobe Analytics
 
-[!DNL Adobe Sensei] Adobe Analyticsをよりインテリジェントにし、マーケターが顧客に関する有意義な洞察を見つけるのに役立ちます。このビデオでは、[!UICONTROL 異常値検出]、[!UICONTROL 貢献度分析]、[!UICONTROL インテリジェントアラート]、クラスタリング、[!UICONTROL セグメントIQ]、傾向モデリングなど、[!DNL Adobe Sensei]を利用したAdobe Analyticsの主な機能について説明します。
+[!DNL Adobe Sensei] の活用で、Adobe Analytics がさらにインテリジェントになり、マーケターが顧客に関する有意義なインサイトを見つけやすくなります。このビデオでは、[!DNL Adobe Sensei] を活用した Adobe Analytics の主な機能（[!UICONTROL 異常値検出]、[!UICONTROL 貢献度分析]、[!UICONTROL インテリジェントアラート]、クラスタリング、[!UICONTROL Segment IQ]、傾向モデルなど）について詳しく説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31500/?quality=12)
 
-[!DNL Adobe Sensei] [ここ](https://www.adobe.com/jp/sensei.html)の詳細情報
+[!DNL Adobe Sensei]の詳細については、[こちら](https://www.adobe.com/jp/sensei.html)を参照してください。
