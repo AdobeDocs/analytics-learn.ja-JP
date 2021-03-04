@@ -1,8 +1,8 @@
 ---
-title: Analysis Workspaceでのレポートスイートの選択
-seo-title: Analysis Workspaceでのレポートスイートの選択 —Adobe Analytics
-description: このビデオでは、レポートスイートの選択に関する手順を説明します。
-seo-description: このビデオでは、レポートスイートの選択に関する手順を説明します。 - Adobe Analytics
+title: Analysis Workspace でのレポートスイートの選択
+seo-title: Analysis Workspace でのレポートスイートの選択 - Adobe Analytics
+description: このビデオでは、レポートスイートの選択について順を追って説明します。
+seo-description: このビデオでは、レポートスイートの選択について順を追って説明します。 - Adobe Analytics
 feature: Workspaceの基本
 topics: null
 activity: use
@@ -16,13 +16,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '57'
-ht-degree: 3%
+ht-degree: 91%
 
 ---
 
 
-# Adobe Analytics{#selecting-a-report-suite-in-adobe-analytics}の[!UICONTROL レポートスイート]を選択
+# Adobe Analytics での[!UICONTROL レポートスイート]の選択 {#selecting-a-report-suite-in-adobe-analytics}
 
-このビデオでは、[!UICONTROL レポートスイート]セレクターの操作を順に実行します。
+このビデオでは、[!UICONTROL レポートスイート]の選択について順を追って説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23967/?quality=12)
