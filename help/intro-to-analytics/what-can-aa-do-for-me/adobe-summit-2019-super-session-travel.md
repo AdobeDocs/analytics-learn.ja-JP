@@ -1,6 +1,6 @@
 ---
-title: Adobeサミット2019スーパーセッション — 旅行と接客サービス
-description: 2019年Summitでは、旅行と接客サービスの「スーパーセッション」の厳選されたクリップをご覧ください。
+title: Adobe Summit 2019 スーパーセッション - 旅行およびホスピタリティ分野
+description: Summit 2019 の旅行およびホスピタリティ分野の「スーパーセッション」から厳選されたクリップをご覧ください。
 feature: ユースケース
 topics: null
 activity: understand
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '44'
-ht-degree: 4%
+ht-degree: 75%
 
 ---
 
 
-# [!DNL Adobe Summit] 2019年スーパーセッション — 旅行と接客サービス
+# [!DNL Adobe Summit] 2019 スーパーセッション - 旅行およびホスピタリティ分野
 
-2019年[!DNL Summit]の旅行&amp;接客サービスの「スーパーセッション」の厳選されたクリップを見る
+[!DNL Summit] 2019 の旅行およびホスピタリティ分野の「スーパーセッション」から厳選されたクリップをご覧ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31442/?quality=12)
