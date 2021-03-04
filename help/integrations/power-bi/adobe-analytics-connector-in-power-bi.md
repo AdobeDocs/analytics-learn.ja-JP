@@ -1,6 +1,6 @@
 ---
-title: Power BI内のAdobe Analyticsコネクタ
-description: このビデオでは、リクエストを作成して読み込み、データの形式を変更し、ビジュアライゼーションを構築し、オンラインサービスに公開することで、Adobe Analyticsコネクターの概要を説明します。
+title: Power BI での Adobe Analytics コネクタ
+description: このビデオでは、リクエストの作成と読み込み、データ形式の変更、ビジュアライゼーションの作成、オンラインサービスへの公開を通して、Adobe Analytics コネクタについて順を追って説明します。
 feature: 「サードパーティとの統合」
 topics: null
 activity: use
@@ -12,18 +12,18 @@ level: 中間
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Power BI{#adobe-analytics-connector-in-power-bi}のAdobe Analyticsコネクタ
+# Power BI での Adobe Analytics コネクタ {#adobe-analytics-connector-in-power-bi}
 
-このビデオでは、リクエストを作成して読み込み、データの形式を変更し、[!UICONTROL ビジュアライゼーション]を構築し、オンラインサービスに公開することで、Adobe Analyticsコネクタの概要を説明します。
+このビデオでは、リクエストの作成と読み込み、データ形式の変更、[!UICONTROL ビジュアライゼーション]の作成、オンラインサービスへの公開を通して、Adobe Analytics コネクタについて順を追って説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23130/?quality=12)
 
 ## その他のリソース {#additional-resources}
 
-* [機能ドキュメント](https://docs.microsoft.com/en-us/power-bi/desktop-connect-adobe-analytics)
+* [機能ドキュメント](https://docs.microsoft.com/ja-JP/power-bi/desktop-connect-adobe-analytics)
