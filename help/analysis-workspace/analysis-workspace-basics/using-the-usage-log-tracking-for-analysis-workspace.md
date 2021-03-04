@@ -1,8 +1,8 @@
 ---
-title: Analysis Workspaceでの使用状況ログ追跡の使用
-seo-title: Analysis Workspaceでの使用状況ログ追跡の使用
-description: このビデオでは、Workspaceプロジェクトで使用ログ追跡を使用する方法を示します。これは、ユーザのAdobe Analyticsの使用状況をより深く理解するのに役立ちます。
-seo-description: このビデオでは、Workspaceプロジェクトで使用ログ追跡を使用する方法を示します。これは、ユーザのAdobe Analyticsの使用状況をより深く理解するのに役立ちます。
+title: Analysis Workspace の使用状況ログトラッキングの使用
+seo-title: Analysis Workspace の使用状況ログトラッキングの使用
+description: このビデオでは、Workspace プロジェクトで使用状況ログトラッキングを使用する方法を示します。これは、ユーザーの Adobe Analytics の使用状況をより深く理解するのに役立ちます。
+seo-description: このビデオでは、Workspace プロジェクトで使用状況ログトラッキングを使用する方法を示します。これは、ユーザーの Adobe Analytics の使用状況をより深く理解するのに役立ちます。
 feature: data configuration and collection
 topics: null
 audience: analyst, marketer
@@ -11,35 +11,35 @@ doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1597
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '184'
+ht-degree: 100%
 
 ---
 
 
-# Analysis Workspaceでの [!UICONTROL 使用状況ログ追跡の使用] （英語） {#using-the-usage-log-tracking-for-analysis-workspace}
+# Analysis Workspace の[!UICONTROL 使用状況ログトラッキング]の使用 {#using-the-usage-log-tracking-for-analysis-workspace}
 
-このビデオでは、 [!UICONTROL 使用ログ追跡] (Usage Log Tracking [!DNL Workspace] )をプロジェクトで使用する方法を示します。これは、ユーザのAdobe Analyticsの使用状況をより深く理解するのに役立ちます。
+このビデオでは、[!DNL Workspace] プロジェクトで[!UICONTROL 使用状況ログトラッキング]を使用する方法を示します。これは、ユーザーの Adobe Analytics の使用状況をより深く理解するのに役立ちます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12)
 
-[!DNL Workspace] 追跡オプションには、次のものがあります。
+[!DNL Workspace] トラッキングオプションには、次のものがあります。
 
 * プロジェクトの作成（新しいプロジェクトの保存）
-* プロジェクトの更新（編集をプロジェクトに保存）
-* プロジェクト共有
+* プロジェクトの更新（プロジェクトへの編集内容の保存）
+* プロジェクトの共有
 * プロジェクトの共有解除
 * プロジェクトの削除
-* プロジェクト表示
+* プロジェクトの表示
 
-プロジェクトの表示は、ユーザが共有するプロジェクトを使用しているかどうか、また [!DNL Workspace] は共有するプロジェクトを開いているかどうかを示す最適な表示になります。
+プロジェクトの表示は、ユーザーが [!DNL Workspace] を使用しているかどうか、あるいはユーザーと共有したプロジェクトを開いているかどうかを示す最適な指標になります。
 
 ## その他のリソース {#additional-resources}
 
-* [ログの詳細](https://marketing.adobe.com/resources/help/en_US/reference/logs.html)
+* [ログの詳細情報](https://marketing.adobe.com/resources/help/ja_JP/reference/logs.html)
 * [デモダッシュボードのダウンロード](https://adobe.ly/2ygP5ws)
 
-次の作業：この情報を、近日中にわかりやすいUI（および詳細な情報）で提示することに取り組んで [!DNL Analytics] います。
+今後の課題：アドビでは、近日中にこの情報を [!DNL Analytics] 内のわかりやすい UI で（より詳しく）表示できるように取り組んでいます。
