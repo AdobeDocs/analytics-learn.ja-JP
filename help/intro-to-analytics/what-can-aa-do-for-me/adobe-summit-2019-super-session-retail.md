@@ -1,6 +1,6 @@
 ---
-title: Adobeサミット2019スーパーセッション — 小売
-description: Summit 2019の小売「スーパーセッション」の厳選されたクリップを参照
+title: Adobe Summit 2019 スーパーセッション - 小売分野
+description: Summit 2019 の小売分野の「スーパーセッション」から厳選されたクリップをご覧ください
 feature: ユースケース
 topics: null
 activity: understand
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '40'
-ht-degree: 5%
+ht-degree: 72%
 
 ---
 
 
-# [!DNL Adobe Summit] 2019 Super Session - Retail
+# [!DNL Adobe Summit] 2019 スーパーセッション - 小売分野
 
-2019年版の小売「super session」のキュレーションされたクリップを参照[!DNL Summit]
+[!DNL Summit] 2019 の小売分野の「スーパーセッション」から厳選されたクリップをご覧ください
 
 >[!VIDEO](https://video.tv.adobe.com/v/30549/?quality=12)
