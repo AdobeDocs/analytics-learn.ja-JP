@@ -1,8 +1,8 @@
 ---
-title: カスタムテンプレートを使用した初心者のAnalysis Workspaceユーザーの有効化
-seo-title: カスタムテンプレートを使用した初心者のAnalysis Workspaceユーザーの有効化
-description: このビデオでは、カスタムテンプレートとコピー&ペースト/挿入機能を組み合わせて、会社の初心者ユーザーにより良いサービスを提供する方法を説明します。
-seo-description: このビデオでは、カスタムテンプレートとコピー&ペースト/挿入機能を組み合わせて、会社の初心者ユーザーにより良いサービスを提供する方法を説明します。
+title: カスタムテンプレートを使用した Analysis Workspace 初級ユーザーの支援
+seo-title: カスタムテンプレートを使用した Analysis Workspace 初級ユーザーの支援
+description: このビデオでは、カスタムテンプレートとコピー＆ペースト／挿入機能を組み合わせて、組織の初級ユーザーにより良いサービスを提供する方法を説明します。
+seo-description: このビデオでは、カスタムテンプレートとコピー＆ペースト／挿入機能を組み合わせて、組織の初級ユーザーにより良いサービスを提供する方法を説明します。
 feature: プロジェクト
 topics: null
 activity: use
@@ -16,21 +16,21 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 97%
 
 ---
 
 
-# カスタムテンプレートを使用して、初心者のAnalysis Workspaceユーザーを有効にする{#using-custom-templates-to-enable-novice-analysis-workspace-users}
+# カスタムテンプレートを使用した Analysis Workspace 初級ユーザーの支援 {#using-custom-templates-to-enable-novice-analysis-workspace-users}
 
-このビデオでは、カスタムテンプレートとコピー&amp;ペースト/挿入機能を組み合わせて、会社の初心者ユーザーにより良いサービスを提供する方法を説明します。
+このビデオでは、カスタムテンプレートとコピー＆ペースト／挿入機能を組み合わせて、組織の初級ユーザーにより良いサービスを提供する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23234/?quality=12)
 
-文書パーツテンプレートを作成すると、分析をより迅速に開始し、組織で定義されたベストプラクティスに従っていることを確認できます。
+構成要素テンプレートを作成すると、分析をより迅速に開始できるほか、組織で定義されたベストプラクティスに確実に従うことができます。
 
-関連ビデオについては、以下を参照してください。
+関連ビデオについては、次を参照してください。
 
-* [Analysis Workspaceのカスタムテンプレート](https://helpx.adobe.com/analytics/kt/using/create-manage-custom-templates-analysis-workspace-feature-video-use.html)
+* [Analysis Workspace のカスタムテンプレート](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.html?lang=ja#analysis-workspace)
 
-* [コピーしてAnalysis Workspaceに挿入](https://helpx.adobe.com/analytics/kt/using/copy-insert-analysis-workspace-feature-video-use.html)
+* [Analysis Workspace でのコピーと挿入](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.html?lang=ja#analysis-workspace)
