@@ -1,7 +1,7 @@
 ---
 title: Analytics トラッキングサーバーおよびレポートスイートの識別方法
 description: Adobe Analytics を設定する際や、他の Experience Cloud ソリューションで参照する際は、多くの場合、使用している Analytics 「トラッキングサーバー」や、データの送信先となる「レポートスイート」を知っておくと便利です。また、それを知っておくことが必要な場合さえあります。 このビデオでは、Adobe Analytics が実装済みかどうかに関係なく両方の値を見つける方法を説明します。
-feature: 導入の基本
+feature: 実装の基本
 topics: null
 activity: implement
 doc-type: technical video
