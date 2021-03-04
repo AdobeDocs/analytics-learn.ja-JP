@@ -1,6 +1,6 @@
 ---
-title: Postmanを使用したAdobe Analytics2.0 APIリクエストの作成
-description: このビデオでは、APIクライアントであるPostmanを設定して、Adobe Analytics2.0 APIリクエストを送信する方法について説明します。 これには、Adobe I/O統合の設定(注：設定するには、Experience Cloudのシステム管理者である必要があります)、グローバル会社IDの場所などが含まれます。
+title: Postman を使用した Adobe Analytics 2.0 API リクエストの実行
+description: このビデオでは、API クライアントである Postman を設定して、Adobe Analytics 2.0 API リクエストを送信する方法について説明します。 これには、Adobe I/O 統合の設定（注：設定するには Experience Cloud のシステム管理者の権限が必要です）、グローバル統合 ID の場所などが含まれます。
 feature: API
 topics: null
 activity: use
@@ -12,15 +12,15 @@ level: 経験豊富な
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
-# [!DNL Postman]を使用したAdobe Analytics2.0 APIリクエスト{#using-postman-to-make-adobe-analytics-api-requests}
+# [!DNL Postman] を使用した Adobe Analytics 2.0 API リクエストの実行 {#using-postman-to-make-adobe-analytics-api-requests}
 
-このビデオでは、APIクライアント[!DNL Postman]を設定して、Adobe Analytics2.0 APIリクエストを送信する方法を紹介します。 Adobe I/O統合の設定も含まれます(注意：(この設定を行うには、Experience Cloudのシステム管理者である必要があります)、グローバル会社IDの場所など。
+このビデオでは、API クライアントである [!DNL Postman] を設定して Adobe Analytics 2.0 API リクエストを送信する方法を紹介します。 これには、Adobe I/O 統合の設定（注：この設定をおこなうには Experience Cloud のシステム管理者の権限が必要です）やグローバル会社 ID の場所の設定などが含まれます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25889/?quality=12)
 
