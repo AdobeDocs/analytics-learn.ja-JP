@@ -1,6 +1,6 @@
 ---
-title: MagentoAnalysis Workspaceテンプレート
-description: Analysis WorkspaceのMagentoマーケティング&コマーステンプレートを紹介します。
+title: Magento Analysis Workspace テンプレート
+description: Analysis Workspace の Magento マーケティングおよびコマーステンプレートを紹介します。
 feature: Experience Cloud統合
 topics: null
 activity: use
@@ -15,13 +15,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 1%
+ht-degree: 89%
 
 ---
 
 
-# [!DNL Magento] Analysis Workspaceテンプレート  {#magento-analysis-workspace-template}
+# [!DNL Magento] Analysis Workspace テンプレート {#magento-analysis-workspace-template}
 
-[!UICONTROL Analysis Workspace]の[!DNL Magento Marketing and Commerce]テンプレートを紹介します。 これは[!DNL Magento]のユーザーを対象にしていますが、どのオンライン小売業者でも利用できます。 販売の改善に役立つ、コマースアクティビティの小売業者向けの事前設計されたインサイトが含まれます。
+[!UICONTROL Analysis Workspace] の [!DNL Magento Marketing and Commerce] テンプレートを紹介します。 これは [!DNL Magento] のユーザーを対象にしていますが、どのオンライン小売業者でも利用できます。 コマースアクティビティの小売業者向けの事前定義済みインサイトが含まれており、売上向上に役立ちます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28164/?quality=12)
