@@ -1,6 +1,6 @@
 ---
-title: Adobeサミット2019スーパーセッション — ハイテク
-description: Summit 2019では、ハイテク業界の「スーパーセッション」の厳選されたクリップを参照。
+title: Adobe Summit 2019 スーパーセッション - ハイテク
+description: Summit 2019 のハイテク分野の「スーパーセッション」から厳選されたクリップをご覧ください。
 feature: ユースケース
 topics: null
 activity: understand
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '44'
-ht-degree: 4%
+ht-degree: 75%
 
 ---
 
 
-# [!DNL Adobe Summit] 2019年スーパーセッション — ハイテク
+# [!DNL Adobe Summit] 2019 スーパーセッション - ハイテク
 
-2019年[!DNL Summit]のハイテク「スーパーセッション」の厳選されたクリップを見る
+[!DNL Summit] 2019 のハイテク分野の「スーパーセッション」から厳選されたクリップをご覧ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30548/?quality=12)
