@@ -1,6 +1,6 @@
 ---
-title: 顧客の使用事例 — Home Depotが顧客体験管理を革新
-description: 1000億ドルの会社内に70億ドルのeCommerceサイトを持つHomeDepot.comは、顧客体験が正しいことを確実に示すことで、競争の先頭に立っています。 Home DepotがAdobeソリューションを使用して、カスタマイズされたカスタマイズショッピング体験を通じてブランドへの忠誠度と顧客満足度を実現する方法を学びます。
+title: 顧客の使用事例 - Home Depot が顧客体験管理を革新
+description: 1000 億ドルの企業が展開する 70 億ドルの e コマースサイト HomeDepot.com は、適切な顧客体験を確実に提供することで、ライバル企業に先んじています。Home Depot がアドビのソリューションをどのように活用して、パーソナライズされカスタマイズされたショッピングエクスペリエンスでブランドのロイヤルティと高い顧客満足度を生み出しているかを説明します。
 feature: ユースケース
 topics: null
 activity: understand
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 18%
+ht-degree: 90%
 
 ---
 
 
-# 顧客の使用例：[!DNL The Home Depot] Customer Experience Managementを革新
+# 顧客の使用事例：[!DNL The Home Depot] が顧客体験管理を革新
 
-[!DNL HomeDepot.com]は、1,000億ドルの会社内で70億ドルのeコマースサイトを展開し、顧客体験を正しく保証することで、競合他社に先んじています。[!DNL Home Depot] がアドビのソリューションを使用して、パーソナライズされたカスタムのショッピングエクスペリエンスにより、ブランドのロイヤルティと顧客満足度を生み出した方法を説明します。
+1000 億ドルの企業が展開する 70 億ドルの e コマースサイト [!DNL HomeDepot.com] は、適切な顧客体験を確実に提供することで、ライバル企業に先んじています。[!DNL Home Depot] がアドビのソリューションを使用して、パーソナライズされたカスタムのショッピングエクスペリエンスにより、ブランドのロイヤルティと顧客満足度を生み出した方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31506/?quality=12)
