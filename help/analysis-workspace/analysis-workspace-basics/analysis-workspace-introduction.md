@@ -1,7 +1,7 @@
 ---
-title: 'Analysis Workspaceの概要 '
-seo-title: 'Analysis Workspaceの概要 '
-description: Analysis Workspaceの概要を簡単に確認し、この製品がデータの入手者や専門家をどのようにサポートしているかを確認します。
+title: 'Analysis Workspace の簡単な紹介 '
+seo-title: 'Analysis Workspace の簡単な紹介 '
+description: Analysis Workspace の概要を簡単に紹介し、この製品がデータの入手者や専門家をどのようにサポートしているかを説明します。
 feature: Workspaceの基本
 topics: null
 activity: use
@@ -14,14 +14,14 @@ level: 初心者
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
-# Analysis Workspaceの紹介{#analysis-workspace-introduction}
+# Analysis Workspace の紹介 {#analysis-workspace-introduction}
 
-Analysis Workspaceの概要を簡単に確認し、この製品がデータの入手者や専門家をどのようにサポートしているかを確認します。
+Analysis Workspace の概要を簡単に紹介し、この製品がデータの入手者や専門家をどのようにサポートしているかを説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28165/?quality=12)
