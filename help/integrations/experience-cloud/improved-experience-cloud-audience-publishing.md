@@ -2,20 +2,20 @@
 title: Experience Cloud オーディエンスパブリッシングの改善
 landing-page-description: 公開オーディエンス（セグメント）について学習し、かつてないほどに短時間で利用できるようにします。
 description: Experience Cloud オーディエンスの投稿が改善されました。オーディエンス（セグメント）を6倍の速さで公開して利用できるようになり、現在の待ち時間が48時間から約8時間に短縮されました。また、トラフィックやセグメントサイズによってはさらに高速になります。
-feature: Experience Cloud統合
+feature: Experience Cloud 統合
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 4819
 topic: 統合
-role: 開業医
-level: 中間
+role: ビジネス従事者
+level: 中級者
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 51%
+ht-degree: 55%
 
 ---
 
