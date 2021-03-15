@@ -3,7 +3,7 @@ title: Analysis Workspace の使用状況ログトラッキングの使用
 seo-title: Analysis Workspace の使用状況ログトラッキングの使用
 description: このビデオでは、Workspace プロジェクトで使用状況ログトラッキングを使用する方法を示します。これは、ユーザーの Adobe Analytics の使用状況をより深く理解するのに役立ちます。
 seo-description: このビデオでは、Workspace プロジェクトで使用状況ログトラッキングを使用する方法を示します。これは、ユーザーの Adobe Analytics の使用状況をより深く理解するのに役立ちます。
-feature: data configuration and collection
+feature: データの設定と収集
 topics: null
 audience: analyst, marketer
 activity: use
@@ -14,7 +14,7 @@ kt: 1597
 translation-type: ht
 source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
 workflow-type: ht
-source-wordcount: '184'
+source-wordcount: '188'
 ht-degree: 100%
 
 ---
