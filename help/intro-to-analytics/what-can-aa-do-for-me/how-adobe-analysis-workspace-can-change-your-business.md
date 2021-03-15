@@ -2,19 +2,19 @@
 title: Adobe Analysis Workspace でビジネスがどう変わるか
 landing-page-description: Analysis Workspace では、Ad Hoc Analysis、柔軟な分析、コホート分析、フォールアウト分析を実行できます。
 description: Analysis Workspace は Adobe Analytics の使いやすい新しいインターフェースです。 Analysis Workspace では、Ad Hoc Analysis、 柔軟な分析、コホート分析、フォールアウト分析を実行できます。また、分析作業環境を社内のすべてのユーザーと共有することもできます。ドラッグ&ドロップ機能を使用すると、全員がデータを簡単に分析し、インサイトを迅速に取得できます。
-feature: Workspaceの基本
+feature: ワークスペースの基本
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4382
-role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
+role: 「ビジネス従事者、開発者、データエンジニア、アーキテクト、データアーキテクト、管理者、リーダー」
 level: 初心者
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
