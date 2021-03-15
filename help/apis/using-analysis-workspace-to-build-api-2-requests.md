@@ -1,26 +1,26 @@
 ---
-title: Analysis Workspaceを使用したAdobe AnalyticsAPI 2.0リクエストの作成
-description: このビデオでは、Analysis Workspaceを活用してAPI 2.0リクエストを自動的に作成する方法を説明します。 UIをデバッグすることで、JSONリクエストを任意のAPIクライアントに直接コピー&ペーストして、Analyticsデータを返すことができます。
+title: Analysis Workspace を使用した Adobe Analytics API 2.0 リクエストの作成
+description: このビデオでは、Analysis Workspace を活用して API 2.0 リクエストを自動的に作成する方法を説明します。 UI をデバッグすることで、Analytics データを返す任意の API クライアントに JSON リクエストを直接コピー＆ペーストすることができます。
 feature: API
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2386
-role: 「開発者、データ・エンジニア」
-level: 経験豊富な
-translation-type: tm+mt
+role: 「開発者、データエンジニア」
+level: 経験者
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
 
-# Analysis Workspaceを使用したAdobe AnalyticsAPI 2.0リクエストの構築{#using-analysis-workspace-to-build-adobe-analytics-api-requests}
+# Analysis Workspace を使用した Adobe Analytics API 2.0 リクエストの作成 {#using-analysis-workspace-to-build-adobe-analytics-api-requests}
 
-このビデオでは、Analysis Workspaceを活用してAPI 2.0リクエストを自動的に作成する方法を説明します。 UIをデバッグすることで、JSONリクエストを任意のAPIクライアントに直接コピー&amp;ペーストして[!DNL Analytics]データを返すことができます。 Workspaceヘルプ/デバッガーを有効にするを選択して、デバッガーをより簡単に有効にできるようになりました。
+このビデオでは、Analysis Workspace を活用して API 2.0 リクエストを自動的に作成する方法を説明します。 UI をデバッグすることで、[!DNL Analytics] データを返す任意の API クライアントに JSON リクエストを直接コピー＆ペーストすることができます。 Workspace ヘルプ／デバッガーを有効にするを選択して、デバッガーをより簡単に有効にできるようになりました。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12)
 
