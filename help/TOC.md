@@ -5,7 +5,7 @@ breadcrumb-title: Analytics チュートリアル
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: c1683979e1b7146c3d5c9d94eb8d59bf1bc9cef4
+source-git-commit: 6194d9fc8227cde1d452c738518c523028c60f6e
 workflow-type: tm+mt
 source-wordcount: '1877'
 ht-degree: 99%
@@ -211,7 +211,7 @@ ht-degree: 99%
       + [Adobe Analytics への管理者の追加](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Admin Console でのレポートスイートへのアクセス制限](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
    + レポートスイートの管理 {#manage-report-suites}
-      + [一般的なアカウント設定の設定方法](administration/manage-report-suites/configuring-general-account-settings.md)
+      + [一般的なアカウント設定の構成方法](administration/manage-report-suites/configuring-general-account-settings.md)
       + [郵便番号の設定](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Admin Console での変数の設定](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + データガバナンスと GDPR {#data-governance-and-gdpr}
