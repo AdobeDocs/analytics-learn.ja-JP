@@ -5,9 +5,9 @@ breadcrumb-title: Analytics チュートリアル
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 6194d9fc8227cde1d452c738518c523028c60f6e
+source-git-commit: 666d453c392119ed6bffdd8bb9c074a9570c1c99
 workflow-type: tm+mt
-source-wordcount: '1877'
+source-wordcount: '1881'
 ht-degree: 99%
 
 ---
@@ -296,6 +296,7 @@ ht-degree: 99%
 + 追加ツール {#additional-tools}
    + Analytics ダッシュボード {#analytics-dashboards}
       + [Adobe Analytics ダッシュボードのスコアカードビルダー](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
+      + [カスタム日付範囲の適用](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Analytics ダッシュボードのアプリ内エクスペリエンス](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
 + エクスポート {#exporting}
    + UI から {#from-the-ui}
