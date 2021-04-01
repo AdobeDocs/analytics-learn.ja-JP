@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: analytics
 feature-set: Analytics
 solution-title: Analytics
@@ -13,7 +13,7 @@ git-repo: https://git.corp.adobe.com/AdobeDocs/analytics-learn.ja-JP
 index: true
 type: チュートリアル
 translation-type: tm+mt
-source-git-commit: 1c6ab73895e63c3238ce35f92ebb22d4aa0c7f2e
+source-git-commit: e2816cdec9a045b6f181340b4d6b098d44b7dc14
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 93%
