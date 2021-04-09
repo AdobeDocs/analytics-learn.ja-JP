@@ -9,16 +9,16 @@ doc-type: feature video
 team: Technical Marketing
 kt: 4819
 topic: 統合
-role: ビジネス従事者
-level: 中級者
+role: Business Practitioner
+level: Intermediate
+exl-id: c23ebad6-2967-4739-b381-1f3c6415f8c7
 translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 55%
+source-wordcount: '173'
+ht-degree: 54%
 
 ---
-
 
 # Experience Cloud オーディエンスパブリッシングの改善
 
