@@ -5,7 +5,7 @@ breadcrumb-title: Analytics チュートリアル
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 3e5b0118822722b9c7c00132a995e387bfe7449f
+source-git-commit: 38e0c9fdf0d5033c176d822de8a218f82bcd333c
 workflow-type: tm+mt
 source-wordcount: '1885'
 ht-degree: 99%
@@ -95,7 +95,7 @@ ht-degree: 99%
       + [Analysis Workspace の自動作成フリーフォームテーブル](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [フリーフォームテーブルでのディメンションの操作](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [フリーフォームテーブルでの指標の操作](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [Analysis Workspace でのパーティシペーション指標の使用](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
+      + [Analysis Workspace でのパーティシペーション指標の使用](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [フリーフォームテーブルの行および列設定](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [フリーフォームテーブルビルダーの使用](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [Analysis Workspace での静的行の並べ替え](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
@@ -149,7 +149,7 @@ ht-degree: 99%
       + [Analysis Workspace でのプロジェクトへのディメンションと指標の追加](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [コンバージョンイベントの概要](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [フリーフォームテーブルでの指標の操作](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [Analysis Workspace でのパーティシペーション指標の使用](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
+      + [Analysis Workspace でのパーティシペーション指標の使用](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
    + ディメンション {#dimensions}
       + [Analysis Workspace でのプロジェクトへのディメンションと指標の追加](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [トラフィック変数（prop）の概要](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
