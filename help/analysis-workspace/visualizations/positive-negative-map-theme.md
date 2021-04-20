@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceのポジティブ — ネガティブマップテーマ
 description: 新しい正/負のカラーテーマを使用すると、マップ上で正と負の数を明確に表現できます。 また、この新しいテーマは、（管理で）イベントを設定したとき、または計算指標で作成したときに行った両極性の変更もすべて反映されます。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1662
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

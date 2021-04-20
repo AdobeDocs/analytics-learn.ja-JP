@@ -1,15 +1,15 @@
 ---
 title: Adobe AnalyticsでのAdvertising Analyticsの設定
 description: 'このビデオでは、Advertising Analyticsを利用するためのレポートスイートの設定方法、有料検索アカウントの設定方法、Advertising Analyticsのレポートの詳細についての概要を説明します。 '
-feature: Advertising Cloud統合
+feature: Advertising Cloud Integration
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 1642
-topic: 統合
-role: 管理者
-level: 中間
+topic: Integrations
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

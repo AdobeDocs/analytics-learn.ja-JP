@@ -1,14 +1,14 @@
 ---
 title: タグマネージャーを使用しないカスタムリンクトラッキング
 description: ページ上の多くのアクションでは、追跡をページの表示のように扱わないでください。 このビデオでは、(Experience Platform Launchなどの)タグマネージャーを使用していない場合に、Analyticsにリンクトラッキングビーコンをコーディングする方法を学びます。 コードを参照し、重要なヒントを学びます。
-feature: Appmeasurementの実装
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
-role: 「開発者、データ・エンジニア」
-level: 中間
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

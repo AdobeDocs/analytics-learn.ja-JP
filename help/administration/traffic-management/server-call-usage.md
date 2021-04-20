@@ -3,16 +3,16 @@ title: Adobe Analyticsでのサーバーコールの使用
 seo-title: Adobe Analyticsでのサーバーコールの使用
 description: サーバーコールの使用レポートにより、お客様がいつでも使用したサーバーコールの取り組みを正確に追跡でき、また、合計取り組みに近づいたときに事前に警告を発することができます。
 seo-description: サーバーコールの使用レポートにより、お客様がいつでも使用したサーバーコールの取り組みを正確に追跡でき、また、合計取り組みに近づいたときに事前に警告を発することができます。
-feature: データの設定と収集
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1665
-topic: 管理
-role: 「管理者、アーキテクト」
-level: 初心者
+topic: Administration
+role: "Administrator, Architect"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

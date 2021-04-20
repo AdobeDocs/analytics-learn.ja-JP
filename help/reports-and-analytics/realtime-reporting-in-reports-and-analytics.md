@@ -1,14 +1,14 @@
 ---
 title: Reports and Analyticsのリアルタイムレポート
 description: このビデオでは、AdobeがAdobe AnalyticsのReports & Analyticsのリアルタイムレポートに対して行った更新をいくつか示します。
-feature: Analytics の基本事項
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2360
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

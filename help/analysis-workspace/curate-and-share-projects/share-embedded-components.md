@@ -1,14 +1,14 @@
 ---
 title: 埋め込みコンポーネントをAnalysis Workspaceで共有
 description: Analysis Workspaceプロジェクトを共有したい場合がありますが、同僚に含めたセグメントや指標も忘れた場合があります。 このビデオでは、プロジェクトを共有するプロセスでセグメントや指標を共有できるようになり、同僚に対して自分の意図を毎回確認する方法を示します。
-feature: キュレーションと共有
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2295
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

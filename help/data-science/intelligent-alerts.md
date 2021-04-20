@@ -1,14 +1,14 @@
 ---
 title: Adobe Analyticsのインテリジェントアラート
 description: インテリジェントアラートは、異常値検出の機能を受信トレイや電話に直接送信します。 主要指標およびセグメントにおける重要な変更をすぐに把握することは、オポチュニティを逃さないことを意味します。
-feature: データサイエンス
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2338
-role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
-level: 初心者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

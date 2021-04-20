@@ -1,7 +1,7 @@
 ---
 title: Workspaceでのコンポーネントドロップダウンの使用
 description: コンポーネントドロップダウンを使用すると、互換性のあるコンポーネントのリストから分析を作成できます。 必要なコンポーネントが見つからない場合は、ドロップダウンから直接新しいコンポーネントを作成することもできます。 これらのスペースは、より高度な使用例がある場合、ドロップゾーンとしても引き続き機能します。
-feature: コンポーネント
+feature: Components
 role: Business Practitioner
 level: Beginner
 doc-type: feature video

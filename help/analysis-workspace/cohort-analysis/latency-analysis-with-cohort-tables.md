@@ -1,15 +1,15 @@
 ---
 title: コホートテーブルとの待ち時間の分析
 description: コホートテーブルの待ち時間テーブル設定を使用すると、（標準的なコホートが示すようなものではなく）インクルージョンイベントの前後のコホートの動作を分析できます。 この設定は、例えば新製品やキャンペーンの発売の影響を分析する場合に役立ちます。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25964.jpg
 kt: 2480
-role: 開業医
-level: 中間
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

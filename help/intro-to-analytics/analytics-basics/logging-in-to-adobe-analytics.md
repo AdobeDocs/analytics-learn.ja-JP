@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics へのログイン
 description: このビデオでは、Analytics へのログインと Analytics の管理の方法と分析を開始する方法を説明します。
-feature: Analytics の基本事項
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3566
-role: ビジネス従事者
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

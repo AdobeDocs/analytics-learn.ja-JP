@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceの貢献分析
 description: このビデオでは、貢献度分析と機械学習機能を使用して、データのトレンドに貢献した要因をすばやく簡単に説明します。
-feature: データサイエンス
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2337
-role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
-level: 初心者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

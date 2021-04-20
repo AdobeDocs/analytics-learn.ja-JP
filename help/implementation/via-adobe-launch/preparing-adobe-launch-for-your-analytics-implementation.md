@@ -1,14 +1,14 @@
 ---
 title: Analytics導入のExperience Platform Launch準備
 description: AnalyticsをLaunchに実装する前に、いくつかのドキュメントが待機している必要があり、AnalyticsとLaunchの両方で、いくつかの設定をシステムに行う必要があります。 このビデオはそれらのことを詳しく解説している。
-feature: 導入の開始
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3584
-role: 「開発者、データ・エンジニア」
-level: 初心者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

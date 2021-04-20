@@ -1,15 +1,15 @@
 ---
 title: 右クリックで Workspace の効率性を確認
 description: 当社お気に入りの Analysis Workspace 右クリックとその使い方をご紹介します。フリーフォームテーブルからフォールアウトビジュアライゼーションに至るまで、右クリックすると、Workspace の効率性と熟練度が向上します。
-feature: Workspaceの基本
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39377.jpg
 kt: 5939
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

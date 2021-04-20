@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace のフロービジュアライゼーション
 description: このビデオでは、Analysis Workspaceのフロービジュアライゼーションの概要を説明します。 フローを使用して、ユーザーの移動を表示、調査し、顧客のジャーニーをより深く把握できます。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24045.jpg
 kt: 2279
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

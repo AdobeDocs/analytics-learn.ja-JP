@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspaceのフリーフォームテーブルフィルター
 description: フィルターは、フリーフォームテーブルで共有するデータ行をより詳細に制御できます。
-feature: フリーフォームテーブル
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23232.jpg
 kt: 1699
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

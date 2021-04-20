@@ -1,15 +1,15 @@
 ---
 title: 線のビジュアライゼーションへのトレンドラインの追加
 description: 「ビジュアライゼーションの設定」で、回帰または移動平均近似曲線を線系列に追加し、データ内でより明確なパターンを表現するのに役立てることができます。 オプションには、線形、対数、指数、累乗、二次、移動平均があります。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330176.jpg
 kt: 6833
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

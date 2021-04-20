@@ -1,15 +1,15 @@
 ---
 title: フリーフォームテーブルでのAttribution IQの使用
 description: Attribution IQを使用すると、フリーフォーム列で、アトリビューションモデルを任意の10個のルールベースモデルにその場で変更できます。
-feature: アトリビューション
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23136.jpg
 kt: 1661
-role: 開業医
-level: 中間
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

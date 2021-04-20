@@ -1,14 +1,14 @@
 ---
 title: 購入イベントの開始ルールの追加
 description: このビデオでは、Launchの製品文字列拡張子を使用して、サイトでの購入を追跡し、結果として分析の売上高、注文件数、数量の各指標を導入する方法を示します。
-feature: 導入の開始
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3593
-role: 「開発者、データ・エンジニア」
-level: 初心者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

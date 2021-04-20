@@ -1,15 +1,15 @@
 ---
 title: Experience Platform SDK を使用したライフサイクル指標の初期化と表示
 description: ライフサイクル指標は、アプリユーザーに関する、そのまま使用できる有益な情報です。 これらの指標には、デバイス情報、インストールまたはアップグレード情報、セッションの開始および一時停止時刻など、アプリユーザーのライフサイクルに関する情報が含まれています。 このビデオでは、アプリにライフサイクル指標を設定する方法と、デバッガーで結果を確認する方法を説明します。
-feature: モバイル SDK
+feature: Mobile SDK
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2561
-topic: モバイル
-role: 「開発者、データエンジニア」
-level: 経験者
+topic: Mobile
+role: "Developer, Data Engineer"
+level: Experienced
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

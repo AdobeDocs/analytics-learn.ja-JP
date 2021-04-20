@@ -1,15 +1,15 @@
 ---
 title: コホートテーブル設定
 description: '保持率や変化の表示をカスタマイズできるコホートテーブル設定がいくつかあります。 このビデオでは、強調表示されている画像を参照してください。 '
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29433.jpg
 kt: 3972
-role: 開業医
-level: 中間
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: 計算指標 — 指標セレクター
 description: Adobe Analyticsの指標セレクターの概要
-feature: 計算指標
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2317
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceプロジェクトへのセグメントの適用
 description: このビデオでは、セグメントをデータに適用して、テーブルおよびビジュアライゼーション内のデータを制限する方法を説明します。
-feature: セグメント化
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4107
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: コンバージョンイベントの概要
 description: このビデオでは、コンバージョン「イベント」、またはサイトのコンバージョン（注文数、サインアップ数、登録数、フォーム完了数など）の追跡に役立つ変数の概要を説明します。
-feature: 指標
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3578
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

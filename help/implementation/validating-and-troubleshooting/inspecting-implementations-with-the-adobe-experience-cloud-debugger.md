@@ -1,14 +1,14 @@
 ---
 title: Adobe Experience Cloudデバッガを使用した実装の検査
 description: Experience Cloudデバッガは、Experience Cloudタグの検査とデバッグを行うツールです。 このビデオでは、Experience Cloud Debuggerを使用してAnalyticsの実装を調査する方法を説明します。
-feature: 検証
+feature: Validation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1942
-role: 「開発者、データ・エンジニア」
-level: 初心者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

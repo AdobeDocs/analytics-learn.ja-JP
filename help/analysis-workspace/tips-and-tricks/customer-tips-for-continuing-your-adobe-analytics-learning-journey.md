@@ -1,14 +1,14 @@
 ---
 title: Adobe Analyticsの学習ジャーニーを継続するためのヒント
 description: この記事では、Adobe Analyticsから最大の価値を得る方法に関するヒントとテクニックを持つ3人のAdobeユーザーに会います。
-feature: Workspaceの基本
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 kt: 4111
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

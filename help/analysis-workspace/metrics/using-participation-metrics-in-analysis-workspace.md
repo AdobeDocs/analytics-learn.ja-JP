@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace でのパーティシペーション指標の使用
 description: この単純なトリックを使用して、Analysis Workspace でいつでもパーティシペーション指標を取得できます。
-feature: 指標
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video

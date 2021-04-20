@@ -1,15 +1,15 @@
 ---
 title: コホートテーブルとのチャーン分析
 description: コホートテーブルには、リテンションとチャーンの2つの分析タイプがオファーされます。 保持率は、時間の経過と共に保持されるユーザー数を示しますが、「変更」オプションでは、失われたユーザー数が表示されます（1 — 保持率）。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25966.jpg
 kt: 2479
-role: 開業医
-level: 中間
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

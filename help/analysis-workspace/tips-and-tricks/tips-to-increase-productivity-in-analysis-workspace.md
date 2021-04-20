@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceの生産性を高めるコツ
 description: このビデオでは、Analysis Workspaceでの生産性の向上と時間の節約に役立つ4つのヒントを紹介します。
-feature: Workspaceの基本
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4110
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

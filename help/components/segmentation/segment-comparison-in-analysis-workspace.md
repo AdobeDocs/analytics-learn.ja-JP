@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceでのセグメントの比較
 description: マーケティングセグメント間の実際の違いを把握することは、常に困難で時間のかかるプロセスです。 Adobe AnalyticsのAnalysis Workspaceに属するセグメントIQは、すべてのディメンションおよび指標にわたる任意の2つのAnalyticsセグメントを調べ、最も大きな統計的有意な違いを自動的に見つけることで、この分析を簡素化します。
-feature: セグメント化
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2103
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

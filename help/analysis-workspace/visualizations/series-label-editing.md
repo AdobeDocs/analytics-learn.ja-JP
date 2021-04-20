@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceでのシリーズラベルの編集
 description: アナリストやマーケターが、ビジュアライゼーションのニーズに合わせてグラフのラベルを調整できる新機能の一部について説明します。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1906
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

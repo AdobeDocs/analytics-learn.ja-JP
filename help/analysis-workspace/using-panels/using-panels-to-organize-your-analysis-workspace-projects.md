@@ -1,14 +1,14 @@
 ---
 title: パネルを使ってAnalysis Workspaceプロジェクトを整理
 description: パネルは、Analysis Workspaceの視覚化機能の集まりです。 空のパネルとフリーフォームパネルは、分析を開始する場所です。Attribution IQとセグメント比較は、より高度な分析を行うために、難しい作業の多くを行います。 「+」パネルボタンも追加され、空のパネルをその場で追加できるようになりました。
-feature: パネル
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1756
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

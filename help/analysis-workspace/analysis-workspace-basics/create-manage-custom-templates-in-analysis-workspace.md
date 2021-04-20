@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace でのカスタムテンプレートの作成と管理
 description: このビデオでは、Analysis Workspace でカスタムテンプレートを作成して、特定のレポートセットから作業を開始できるようにする方法を説明します。
-feature: プロジェクト
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1695
-role: ビジネス従事者
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

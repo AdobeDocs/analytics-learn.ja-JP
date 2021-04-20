@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics ダッシュボードのアプリ内エクスペリエンス
 description: このビデオでは、Adobe Analyticsダッシュボード（モバイルアプリ）を使用して、自分が作成または共有した「スコアカード」にアクセスし、表示する方法を説明します。
-feature: Analyticsダッシュボード
+feature: Analytics Dashboards
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5287
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

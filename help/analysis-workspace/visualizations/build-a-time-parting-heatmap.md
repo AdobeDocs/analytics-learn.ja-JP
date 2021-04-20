@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceでの時間分割ヒートマップの作成
 description: 行動のヒートマップビジュアライゼーションを作成して、時間分割の分析を次のレベルに移す方法を学びます。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2813
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

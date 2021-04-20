@@ -1,15 +1,15 @@
 ---
 title: モバイルアプリの管理設定
 description: ライフサイクルコンポーネント、場所のトラッキング、バックグラウンドヒットレポートなど、Adobe Analytics でモバイルアプリレポートを設定する方法について説明します。
-feature: モバイル SDK
+feature: Mobile SDK
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 2493
-topic: モバイル
-role: 管理者
-level: 経験者
+topic: Mobile
+role: Administrator
+level: Experienced
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

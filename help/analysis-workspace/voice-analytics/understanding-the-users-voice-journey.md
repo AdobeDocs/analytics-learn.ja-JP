@@ -1,14 +1,14 @@
 ---
 title: ユーザーの音声ジャーニーについて
 description: フローパスとフォールアウトを調べて、最も一般的なアクションの種類、それらのアクションの順序、およびジャーニーから離脱するタイミングと場所を特定し、音声アプリでの顧客のジャーニーを理解する方法を説明します。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2903
-role: 開業医
-level: 中間
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

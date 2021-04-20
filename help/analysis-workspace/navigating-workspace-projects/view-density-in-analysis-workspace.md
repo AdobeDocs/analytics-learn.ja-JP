@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceの表示密度
 description: プロジェクト/表示と設定の下の情報密度設定を使用すると、左のレールとテーブル（フリーフォームとコホート）に適用する垂直方向のパディングを制御できます。 「拡張」（デフォルト）、「快適」、「コンパクト」のいずれかを選択できます。
-feature: プロジェクト
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2492
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

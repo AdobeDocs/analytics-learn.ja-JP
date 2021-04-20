@@ -1,14 +1,14 @@
 ---
 title: Adobe AnalyticsでのDimensionと指標の説明の追加
 description: このビデオでは、Adobe Analyticsのレポート、指標、ディメンションにコンテキストを追加する方法を説明します。
-feature: Workspaceの基本
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2352
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

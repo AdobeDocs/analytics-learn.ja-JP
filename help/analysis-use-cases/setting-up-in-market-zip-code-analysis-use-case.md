@@ -3,15 +3,15 @@ title: 市場内郵便番号分析の設定 — 使用例
 seo-title: 市場内郵便番号分析の設定 — 使用例
 description: この使用事例では、郵便番号を導入し、市場内または市場外に分類してから、このデータをAnalysis Workspaceで使用し、地域ターゲティングマーケティングキャンペーンの効果を確認します。
 seo-description: この使用事例では、郵便番号を導入し、市場内または市場外に分類してから、このデータをAnalysis Workspaceで使用し、地域ターゲティングマーケティングキャンペーンの効果を確認します。
-feature: ユースケース
+feature: Use Cases
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2846
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

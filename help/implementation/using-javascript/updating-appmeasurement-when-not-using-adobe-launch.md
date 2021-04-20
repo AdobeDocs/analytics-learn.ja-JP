@@ -1,14 +1,14 @@
 ---
 title: Experience Platform Launchを使用しない場合のAppMeasurementの更新
 description: このビデオでは、Experience Platform Launchを使用していない場合にappMeasurementコードを更新する方法を説明します。 コードの取得先と更新場所が含まれます。
-feature: Appmeasurementの実装
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1848
-role: 「開発者、データ・エンジニア」
-level: 中間
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

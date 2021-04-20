@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspaceの日付比較
 description: このビデオでは、フリーフォームテーブルで「期間の追加」列と「期間の比較」の2つの日付比較機能を活用する方法を説明します。
-feature: カレンダー
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23985.jpg
 kt: 2011
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

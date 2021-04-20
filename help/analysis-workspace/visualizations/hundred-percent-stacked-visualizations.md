@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceの100%スタックビジュアライゼーション
 description: このビデオでは、スタックされたビジュアライゼーションを、生の値だけでなく、割合として設定する方法を学びます。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1670
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

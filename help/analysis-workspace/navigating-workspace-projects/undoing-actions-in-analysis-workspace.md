@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceでの取り消し
 description: Adobe AnalyticsのAnalysis Workspaceでは、項目をキャンバスにドラッグしたり、分類を実行したりするなどの操作を「元に戻す」ことができるようになりました。 このビデオでは、分析で元に戻す機能を使用して、より効率的に実行する方法を示します。
-feature: Workspaceの基本
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2032
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

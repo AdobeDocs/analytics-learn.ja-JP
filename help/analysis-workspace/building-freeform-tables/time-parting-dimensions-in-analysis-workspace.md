@@ -1,15 +1,15 @@
 ---
 title: Analysis WorkspaceのDimensionの時間分割
 description: 時間分割は、収集されたヒットのタイムスタンプを受け取って、「時間帯」や「曜日」など、より意味のあるディメンションに分割します。 これらの寸法はAnalysis Workspaceですぐに使えるようになりました
-feature: フリーフォームテーブル
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23727.jpg
 kt: 1903
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

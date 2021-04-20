@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceでのブレットグラフの視覚化
 description: 箇条書きグラフは、分析の目標に対する（または目標を超える）進行状況を示すのに役立ちます。 組織の成功を視覚化する別の方法を提供します。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2116
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

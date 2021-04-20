@@ -1,14 +1,14 @@
 ---
 title: 7カスタムAnalyticsプロジェクトをより迅速かつ簡単に作成するためのヒントとテクニック
 description: Analysis Workspaceは、Adobe Analytics内で、より効果的な分析プロジェクトを作成するのに役立つ強力なツールです。 あらゆる種類のフリーフォーム分析が可能な豊富な機能セットがありますが、シンプルなユーザーエクスペリエンスにより、この機能と拡張性にアクセスできます。
-feature: Workspaceの基本
+feature: Workspace Basics
 topics: topics
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3945
-role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
-level: 初心者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

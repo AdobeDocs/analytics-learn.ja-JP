@@ -1,14 +1,14 @@
 ---
 title: データレイヤーを使用したページ名と他の変数のAdobe Analyticsでの設定（起動を参照）
 description: Analyticsおよび他のExperience Cloudソリューション用のデータレイヤーの使用は、ベストプラクティスと見なされます。 このビデオでは、データレイヤーから値を取り出し、「起動」で値を使用してAdobe Analyticsの変数を設定する方法を説明します。
-feature: 導入の開始
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1852
-role: 「開発者、データ・エンジニア」
-level: 初心者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

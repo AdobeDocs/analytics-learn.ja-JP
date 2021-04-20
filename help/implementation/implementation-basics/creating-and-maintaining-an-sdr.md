@@ -1,14 +1,14 @@
 ---
 title: SDR の作成と保守
 description: Solution Design Reference（SDR）ドキュメントは、基本的にはサイトのブループリントです。 このビデオでは、Adobe Analytics を実装するときや将来参照するときにいつでも振り返ることができる情報源となるように、このドキュメントをビジネス要件ドキュメントと組み合わせて作成する方法を示します。
-feature: 実装の基本
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3581
-role: 「開発者、データエンジニア」
-level: 初心者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

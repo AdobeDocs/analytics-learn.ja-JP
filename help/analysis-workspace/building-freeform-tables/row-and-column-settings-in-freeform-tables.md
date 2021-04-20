@@ -1,15 +1,15 @@
 ---
 title: フリーフォームテーブルの行および列設定
 description: Analysis Workspaceのフリーフォームテーブルの設定、およびこれらのテーブルに入力されるデータに対するそれらの影響について説明します。
-feature: フリーフォームテーブル
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40382.jpg
 kt: 6225
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

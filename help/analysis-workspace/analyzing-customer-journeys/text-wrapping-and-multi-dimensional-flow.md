@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspaceでのテキストの折り返しと多次元フロー
 description: このビデオでは、フローのビジュアライゼーションでラベルの切り捨てをオンまたはオフにする方法を示します。 また、ディメンションをフローにドラッグ&ドロップして、複数次元のフローを分析する方法も説明します。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -9,8 +9,8 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 24041.jpg
 kt: 2281
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

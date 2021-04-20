@@ -1,14 +1,14 @@
 ---
 title: データフィード管理UI
 description: Adobe Analyticsのデータフィードでは、生のクリックストリームデータを書き出して、EDWまたはデータレーク内の他のデータソースと読み込んだり、結合したりできます。 Adobe Analytics内で独自のデータフィードを作成および管理できます。 このビデオでは、その方法を紹介します。
-feature: データフィード
+feature: Data Feeds
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2353
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

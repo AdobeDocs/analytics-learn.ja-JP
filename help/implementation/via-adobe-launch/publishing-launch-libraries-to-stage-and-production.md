@@ -1,14 +1,14 @@
 ---
 title: ステージおよび実稼働環境への起動ライブラリの公開
 description: 開発サーバー上の実装にロックインした後、それをステージング環境に移動し、そこでテストしてから実稼働環境に移動します。 このビデオでは、そのプロセスを順を追って示します。
-feature: 導入の開始
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3595
-role: 「開発者、データ・エンジニア」
-level: 初心者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

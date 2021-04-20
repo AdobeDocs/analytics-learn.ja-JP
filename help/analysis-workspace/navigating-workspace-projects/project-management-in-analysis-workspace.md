@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceのプロジェクト管理
 description: このビデオでは、Adobe AnalyticsのAnalysis Workspaceで作成したプロジェクトを管理する方法を示します。
-feature: プロジェクト
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2034
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

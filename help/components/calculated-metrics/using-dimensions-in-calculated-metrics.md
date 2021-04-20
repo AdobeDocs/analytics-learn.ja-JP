@@ -1,14 +1,14 @@
 ---
 title: 計算指標でのDimensionの使用
 description: Dimensionが計算指標ビルダーで使用できるようになりました。 指標を任意の計算指標の数式に追加して、その場で内部セグメントを作成できます。
-feature: 計算指標
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1904
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

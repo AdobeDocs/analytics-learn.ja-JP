@@ -3,15 +3,15 @@ title: Analysis Workspace でのレポートスイートの選択
 seo-title: Analysis Workspace でのレポートスイートの選択 - Adobe Analytics
 description: このビデオでは、レポートスイートの選択について順を追って説明します。
 seo-description: このビデオでは、レポートスイートの選択について順を追って説明します。 - Adobe Analytics
-feature: ワークスペースの基本
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2026
-role: ビジネス従事者
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

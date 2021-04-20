@@ -1,14 +1,14 @@
 ---
 title: 基本的な訪問者指標について
 description: ページの表示、訪問、訪問者（ああ？）。 この短いビデオでは、ウェブサイトのトラフィックを把握するための、これらのステープルを理解するための基本的な情報をいくつか提供します。
-feature: 指標
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3575
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

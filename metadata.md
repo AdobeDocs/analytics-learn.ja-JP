@@ -11,7 +11,7 @@ tutorials-url: https://guided.adobe.com/#recommended/solutions/analytics
 mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/analytics-learn.ja-JP
 index: true
-type: チュートリアル
+type: Tutorial
 translation-type: tm+mt
 source-git-commit: e2816cdec9a045b6f181340b4d6b098d44b7dc14
 workflow-type: tm+mt

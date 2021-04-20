@@ -1,14 +1,14 @@
 ---
 title: コピーしてAnalysis Workspaceに挿入
 description: コピー&挿入を使用すると、あるパネルまたはプロジェクトから別のパネルにビジュアライゼーションをコピーしたり、プロジェクト間でパネル全体をコピーしたりできます。
-feature: パネル
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1698
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

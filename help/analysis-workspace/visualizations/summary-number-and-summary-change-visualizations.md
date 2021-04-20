@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceの概要番号および変更概要ビジュアライゼーション
 description: このビデオでは、Analyst Workspaceで概要番号および変更概要ビジュアライゼーションを使用する方法を示します。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2136
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

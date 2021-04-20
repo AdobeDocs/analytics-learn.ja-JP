@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceのツリーマップと散布図
 description: Adobe AnalyticsのAnalysis Workspaceには、一般的なビジュアライゼーションタイプとしてツリーマップと散布図の2つがあります。 このビデオでは、分析で両方のビジュアライゼーションタイプを使用する方法を説明します。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2117
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

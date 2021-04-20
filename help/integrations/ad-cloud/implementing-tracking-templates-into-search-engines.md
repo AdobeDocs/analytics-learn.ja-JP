@@ -1,15 +1,15 @@
 ---
 title: Advertising Analyticsから検索エンジンへのトラッキングテンプレートの導入
 description: このビデオでは、Advertising Analyticsからサポートされる検索エンジンにトラッキングテンプレートを実装する手順を説明します。 データを収集してAdobe Analyticsに渡すには、トラッキングテンプレートの実装が重要な手順です。
-feature: Advertising Cloud統合
+feature: Advertising Cloud Integration
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 1651
-topic: 統合
-role: 管理者
-level: 中間
+topic: Integrations
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

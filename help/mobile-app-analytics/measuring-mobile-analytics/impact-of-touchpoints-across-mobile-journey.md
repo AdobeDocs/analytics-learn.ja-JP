@@ -1,15 +1,15 @@
 ---
 title: モバイルジャーニー全体でのタッチポイントの影響
 description: モバイルアプリのユーザーがどのようにタッチポイントの影響を受けるか、および Attribution IQ を使用してモバイルアプリに目立った変化をもたらしつつあるチャネルについて説明します。 どのチャネルが連携してモバイルアプリの成功イベントを促進しているかを把握します。
-feature: ワークスペースの基本
+feature: Workspace Basics
 topics: mobile
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 3052
-role: ビジネス従事者
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

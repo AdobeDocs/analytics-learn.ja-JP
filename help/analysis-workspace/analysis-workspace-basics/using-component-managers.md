@@ -3,15 +3,15 @@ title: Adobe Analytics でのコンポーネントマネージャの使用
 seo-title: Adobe Analytics でのコンポーネントマネージャの使用
 description: 'このビデオでは、Adobe Analytics のアラートおよびスケジュール済みプロジェクトコンポーネントマネージャと、その他の機能の使用方法を説明します。 必要なアラートまたはスケジュール済みプロジェクトを簡単に見つける方法、およびアラートを有効／無効にする方法を説明します。 '
 seo-description: 'このビデオでは、Adobe Analytics のアラートおよびスケジュール済みプロジェクトコンポーネントマネージャと、その他の機能の使用方法を説明します。 必要なアラートまたはスケジュール済みプロジェクトを簡単に見つける方法、およびアラートを有効／無効にする方法を説明します。 '
-feature: ワークスペースの基本
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2351
-role: ビジネス従事者
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

@@ -1,15 +1,15 @@
 ---
 title: フリーフォームテーブルでのディメンションの操作
 description: フリーフォームテーブルのディメンションの追加、並べ替え、フィルター、他のディメンションによる分類など、ディメンションの操作について説明します。
-feature: ディメンション
+feature: Dimensions
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40179.jpg
 kt: 6176
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: 左側のレールでのフィルター（タグ）の使用
 description: フィルター（またはタグ）は、Analysis Workspaceの左側のレールをフィルタリングして、必要なコンポーネントを見つける簡単な方法です。 Adobeが提供する標準搭載のタグを利用するか、独自のカスタムタグを追加して、関連するコンポーネントを整理します。
-feature: Workspaceの基本
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32959.jpg
 kt: 4845
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

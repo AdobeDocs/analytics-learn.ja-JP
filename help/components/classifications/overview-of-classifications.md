@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics分類の概要
 description: 分類は、商品、キャンペーン、ページ、顧客などに説明的な属性を追加する強力な方法です。 これらの属性を使用すると、類似した要素をグループ化し、データを分類して、何がお使いで、何が機能していないかを深く調べることができるので、マーケティングとエクスペリエンスの取り組みをより深く理解できます。
-feature: 分類
+feature: Classifications
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2350
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

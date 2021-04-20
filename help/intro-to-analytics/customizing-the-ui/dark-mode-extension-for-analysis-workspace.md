@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace 向けダークモード拡張機能
 description: Dark Reader Chrome 拡張機能を有効にして、Analysis Workspace をダークモードに切り替えます。
-feature: Workspaceの基本
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5034
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: クロスタブ分析を使用したAnalysis Workspaceの基本的なマーケティングアトリビューションの調査
 description: Adobe Analytics では、アトリビューション手法を次のレベルにまで引き継ぐ方法は数多くあります。このビデオでは、Workspace のクロスタブ分析を使用して、 マーケティングチャネルレポートからより深い洞察を得る方法を強調します。
-feature: マーケティングチャネル
+feature: Marketing Channels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39237.jpg
 kt: 6067
-role: 開業医
-level: 中間
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

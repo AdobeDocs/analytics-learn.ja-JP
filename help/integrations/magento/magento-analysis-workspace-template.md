@@ -1,16 +1,16 @@
 ---
 title: Magento Analysis Workspace テンプレート
 description: Analysis Workspace の Magento マーケティングおよびコマーステンプレートを紹介します。
-feature: Experience Cloud 統合
+feature: Experience Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: TM
 kt: 3269
-topic: 統合
-role: ビジネス従事者
-level: 中級者
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

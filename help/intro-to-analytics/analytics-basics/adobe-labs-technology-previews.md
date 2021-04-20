@@ -1,14 +1,14 @@
 ---
 title: Adobe Labs（テクノロジープレビュー）と Adobe Analytics
 description: Adobe Labs（テクノロジープレビュー）を利用すると、新しいテクノロジーに触れ、有益なインサイトを発見し、将来の Analytics 機能の開発と優先順位に影響を与えることができます。
-feature: Analytics の基本事項
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4818
-role: 設計者
-level: 初心者
+role: Architect
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

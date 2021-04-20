@@ -3,16 +3,16 @@ title: Adobe Analyticsでの郵便番号設定の指定
 seo-title: Adobe Analyticsでの郵便番号設定の指定
 description: このビデオでは、郵便番号の設定方法を学び、この地域のデータに基づいて分析を行うことができます。
 seo-description: このビデオでは、郵便番号の設定方法を学び、この地域のデータに基づいて分析を行うことができます。
-feature: データの設定と収集
+feature: Data Configuration and Collection
 topics: null
 activity: setup
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2679
-topic: 管理
-role: 「管理者、アーキテクト」
-level: 初心者
+topic: Administration
+role: "Administrator, Architect"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

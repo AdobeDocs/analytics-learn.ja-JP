@@ -1,14 +1,14 @@
 ---
 title: ビジネス要件ドキュメントの作成
 description: 'このビデオでは、Adobe Analytics で追跡するものを定義する際の重要なステップを説明します。 サイトについて知りたいことは何ですか。 それをメモに書き留めて、追跡方法の決定に取りかかりましょう。 '
-feature: 実装の基本
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3580
-role: 「開発者、データエンジニア」
-level: 初心者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

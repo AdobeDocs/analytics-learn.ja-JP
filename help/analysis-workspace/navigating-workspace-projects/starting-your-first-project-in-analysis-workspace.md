@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceでの最初のプロジェクトの開始
 description: このビデオでは、デフォルトおよびカスタムのテンプレートを使用してAnalysis Workspaceでプロジェクトを作成する方法、およびプロジェクト間で要素をコピーする方法を学びます。
-feature: プロジェクト
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4102
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

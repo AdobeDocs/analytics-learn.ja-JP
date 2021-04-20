@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace でのキュレーションと共有
 description: Analysis Workspaceでプロジェクトを構築したら、プロジェクトをキュレーション（シンプル化）し、組織内の他のチームや個人と共有して、そのプロジェクトを調査し、データを使用して自己管理できます。 このビデオでは、キュレーションと共有の操作方法を説明します。
-feature: キュレーションと共有
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2294
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

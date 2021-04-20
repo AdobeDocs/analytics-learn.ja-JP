@@ -1,8 +1,8 @@
 ---
 title: Adobe Analyticsのユーザー環境設定
 description: コンポーネント — ユーザーの環境設定ページでは、Analysis Workspaceとその関連コンポーネントの設定をユーザーレベルで管理できます。 例えば、デフォルトのレポートスイートとカラーパレットを選択できます。 ユーザー環境設定は、すべての新しいプロジェクトと新しいパネルに適用されます。
-feature: ワークスペースの基本
-topic: パーソナライズ機能
+feature: Workspace Basics
+topic: Personalization
 role: Business Practitioner, Administrator
 level: Beginner
 doc-type: feature video

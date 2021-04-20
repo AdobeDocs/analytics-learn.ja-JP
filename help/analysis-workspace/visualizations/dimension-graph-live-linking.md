@@ -1,14 +1,14 @@
 ---
 title: Analysis WorkspaceでのDimensionグラフのライブリンク
 description: 何と呼べばいいのかよく分かりませんが冷笑です ディメンション値から折れ線グラフを作成する場合、異なるディメンション値を選択して、グラフを動的に変更できるようになりました。 詳細はビデオをご覧ください。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2115
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

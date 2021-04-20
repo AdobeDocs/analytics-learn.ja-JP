@@ -1,14 +1,14 @@
 ---
 title: Analytics起動拡張の基本設定
 description: このビデオでは、基本サイト用にAnalyticsの拡張機能を起動で設定する方法を簡単に示します。
-feature: 導入の開始
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3586
-role: 「開発者、データ・エンジニア」
-level: 初心者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

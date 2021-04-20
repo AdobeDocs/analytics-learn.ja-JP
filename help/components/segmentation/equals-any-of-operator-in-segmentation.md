@@ -1,14 +1,14 @@
 ---
 title: セグメントでの「次のいずれかと等しい」演算子の使用
 description: 「次のいずれかに等しい」および「次のいずれかに等しくない」セグメント演算子がセグメントビルダーに追加されました。 複数のOR文や「次のいずれかを含む」文を使用する代わりに、これらの演算子を使用して特定のリストの項目をフィルタリングします。 「次を含む」の代わりにこれらの演算子を使用すると、クエリ速度も向上します。
-feature: セグメント化
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4844
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: 'Adobe Analyticsでの単一ページアプリ(SPA)の追跡時のベストプラクティスの使用 '
 description: このドキュメントでは、シングルページアプリ(SPA)を追跡するためにAdobe Analyticsを使用している場合に、従って注意する必要のあるベストプラクティスをいくつか説明します。 このドキュメントでは、Experience Platform Launchの使用に重点を置いています。これは、推奨される実装方法です。
-feature: 導入の基本
+feature: Implementation Basics
 topics: spa
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1389
 topic: SPA
-role: 「開発者、データ・エンジニア」
-level: 中間
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

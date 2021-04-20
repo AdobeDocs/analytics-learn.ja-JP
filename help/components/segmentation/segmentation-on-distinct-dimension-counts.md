@@ -1,14 +1,14 @@
 ---
 title: 明確なDimension数のセグメント化
 description: セグメントビルダーの新しい「個別カウント」演算子を使用すると、任意のディメンション内の一意の項目数に基づいてセグメント化できます。 5ページを超える閲覧が行われた訪問、または5つを超える製品が購入されたヒット（1回の注文内など）のフィルター。
-feature: セグメント化
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2918
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

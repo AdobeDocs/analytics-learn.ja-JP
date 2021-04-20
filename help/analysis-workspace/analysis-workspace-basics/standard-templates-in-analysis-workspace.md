@@ -3,15 +3,15 @@ title: Analysis Workspace の標準テンプレート
 seo-title: Analysis Workspace の標準テンプレート
 description: Analysis Workspace では、標準テンプレート（以前のスタータープロジェクト）を使用して分析を効率的に開始できます。
 seo-description: Analysis Workspace では、標準テンプレート（以前のスタータープロジェクト）を使用して分析を効率的に開始できます。
-feature: プロジェクト
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1963
-role: ビジネス従事者
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

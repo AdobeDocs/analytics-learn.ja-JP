@@ -1,15 +1,15 @@
 ---
 title: 任意のDimensionを使用したコホート分析
 description: 「カスタムコホートDimension」オプションを使用すると、時間以外のディメンションを使用してコホートを分析できます。 マーケティングチャネル、キャンペーン地域、商品ページなど別のコホートを比較します。 ディメンション項目別の保持（チャーン）の変化をより深く理解する。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25967.jpg
 kt: 2478
-role: 開業医
-level: 中間
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

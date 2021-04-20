@@ -1,14 +1,14 @@
 ---
 title: Adobe Analyticsのセグメントコンテナ
 description: このビデオでは、Adobe Analyticsのセグメントビルダーで3つの異なるセグメントコンテナタイプを使用する方法を説明します。
-feature: セグメント化
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2301
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

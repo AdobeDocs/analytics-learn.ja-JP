@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace の異常値検出
 description: Analysis Workspaceは、時系列のビジュアライゼーションやデータテーブルのデータの異常値を自動的に検出します。 「未知のもの」を捕まえるため、追加の手間をかけません。
-feature: データサイエンス
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2336
-role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
-level: 初心者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

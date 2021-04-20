@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceでの日付範囲とカレンダーの使用
 description: Analysis Workspaceプロジェクトのカレンダーで、カスタム日付範囲をプリセットとして使用できます。 また、カレンダーにドラッグ&ドロップすると、プロジェクトの日付範囲としてすばやく適用できます。 このビデオでは、Adobe AnalyticsのAnalysis Workspaceでこれら2つを行う方法を紹介します。
-feature: カレンダー
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2013
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

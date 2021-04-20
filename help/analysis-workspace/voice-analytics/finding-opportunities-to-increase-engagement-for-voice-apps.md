@@ -1,14 +1,14 @@
 ---
 title: 音声アプリに関する関与を増やす機会を探す
 description: 使用頻度、コホート、訪問/ユーザー、セッションの長さなどの機能を活用して、ボイスアプリのエンゲージメントの質を深く理解する方法を説明します。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2906
-role: 開業医
-level: 中間
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: カスタムカラーパレットをAnalysis Workspaceで使用する
 description: Analysis Workspaceで使用するカラーパレットを変更して、ブランドや顧客のカラーパレットに合わせて調整できます。
-feature: Workspaceの基本
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1943
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

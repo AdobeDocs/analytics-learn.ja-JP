@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceのリッチテキストエディタ
 description: アナリストやマーケターがAnalysis Workspaceのテキストのビジュアライゼーション（または説明）に編集を適用できる新機能の一部（太字、イタリック、見出し、ハイパーリンクなど）のウォークスルー。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1907
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

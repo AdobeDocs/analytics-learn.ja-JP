@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics拡張機能でのdoPluginsの使用
 description: doPlugins機能を利用して、Adobe Analyticsのヒットをより詳細に制御するためにExperience Platform Launchを使用する方法を学びます。
-feature: 導入の開始
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1994
-role: 「開発者、データ・エンジニア」
-level: 初心者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

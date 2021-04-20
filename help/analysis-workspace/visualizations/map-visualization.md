@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceの地図の視覚化
 description: このビデオでは、Analysis Workspaceで新しいマップビジュアライゼーションを使用する方法を説明します。 Mapビジュアライゼーションを使用すると、モバイル（緯度/経度）データまたはWeb（IPアドレス）データを動的マップに対して表示でき、その場所のコンテキストでの顧客の使用状況を把握できます。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1771
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

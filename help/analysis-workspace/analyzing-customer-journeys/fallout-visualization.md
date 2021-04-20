@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspaceのフォールアウト視覚化
 description: このビデオでは、Adobe AnalyticsのAnalysis Workspaceにあるフォールアウトビジュアライゼーションの概要を説明します。 フォールアウトを使用してファネルを作成したり、主要なアプリ/サイトワークフロー上でユーザーのフロースルーを表示したりします。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24042.jpg
 kt: 2275
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

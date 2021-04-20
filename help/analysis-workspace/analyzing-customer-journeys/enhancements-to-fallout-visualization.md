@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspaceのフォールアウト視覚化の機能強化
 description: このビデオでは、ダイレクトステップと最終ステップ、タッチポイントの名前の変更、無制限セグメントの比較、タッチポイントコンバージョン率の経時的なトレンドの追跡など、顧客から強く要請されたフォールアウトビジュアライゼーションの更新を示します。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24047.jpg
 kt: 2276
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

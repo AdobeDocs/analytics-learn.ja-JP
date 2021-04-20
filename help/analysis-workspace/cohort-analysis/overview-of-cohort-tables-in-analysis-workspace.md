@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspaceのコホート表の概要
 description: コホートテーブル内のローリング計算設定を使用して、期間を超えるコホートを分析し、同じユーザーが時間の経過と共にどのように保持（または変化）されるかを把握できます。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25965.jpg
 kt: 2477
-role: 開業医
-level: 中間
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

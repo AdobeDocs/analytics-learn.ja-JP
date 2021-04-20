@@ -1,14 +1,14 @@
 ---
 title: Analyticsの起動拡張でのグローバル変数の設定
 description: Adobe別、Adobe Analytics拡張子別に、「起動」を始めるだけの場合、このビデオは、グローバル変数を設定するタイミングと場所、つまり各ページやクリックに設定したい値を理解するのに役立ちます。
-feature: 導入の開始
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2855
-role: 「開発者、データ・エンジニア」
-level: 初心者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

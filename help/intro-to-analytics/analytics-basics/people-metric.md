@@ -1,15 +1,15 @@
 ---
 title: Adobe Analytics の人物指標
 description: Adobe Analytics では、Adobe Experience Cloud Device Co-op に基づいて、訪問者の重複を排除する人物指標を提供するようになりました。このビデオでは、その詳細と使用開始方法を紹介します。
-feature: 指標
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24037.jpg
 kt: 1986
-role: 「ビジネス従事者、開発者、データエンジニア、アーキテクト、データアーキテクト、管理者、リーダー」
-level: 初心者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

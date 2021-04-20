@@ -1,16 +1,16 @@
 ---
 title: アクティベーションおよびレポート用の Analytics セグメントの作成
 description: Advertising Cloud ディメンションを使用したレポートと分析に優れたセグメントの作成。
-feature: Advertising Cloud統合
+feature: Advertising Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35117.jpg
 kt: 5474
-topic: 統合
-role: 開業医
-level: 中間
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

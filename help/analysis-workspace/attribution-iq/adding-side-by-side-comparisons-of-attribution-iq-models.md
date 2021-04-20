@@ -1,15 +1,15 @@
 ---
 title: Analysis WorkspaceのAttribution IQモデルの並列比較の追加
 description: このビデオでは、2つのモデルの数値の割合の違いを示す自動作成列など、Attribution IQモデルをすばやく比較する方法を説明します。
-feature: アトリビューション
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23651.jpg
 kt: 1705
-role: 開業医
-level: 中間
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,16 +1,16 @@
 ---
 title: Audience Analytics- AAMセグメントのAnalyticsへの統合
 description: Audience Analyticsとは、Audience Manager(AAM)からAnalytics(AA)にセグメントをリアルタイムで共有し、オーディエンスの検出、セグメント化および最適化を通知する新しい統合です。
-feature: Experience Cloud統合
+feature: Experience Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25450.jpg
 kt: 2354
-topic: 統合
-role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
-level: 中間
+topic: Integrations
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

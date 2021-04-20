@@ -1,14 +1,14 @@
 ---
 title: コンバージョン変数(eVar)の概要
 description: このビデオでは、「eVar」とも呼ばれるコンバージョン変数の概要を説明します。 また、トラフィック変数とコンバージョン変数の違い、およびそれらがコンバージョンイベントとどのように関連しているかについても説明します。
-feature: ディメンション
+feature: Dimensions
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3577
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

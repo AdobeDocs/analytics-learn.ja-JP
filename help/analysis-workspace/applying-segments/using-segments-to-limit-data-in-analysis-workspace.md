@@ -1,15 +1,15 @@
 ---
 title: セグメントを使用したAnalysis Workspaceでのデータの制限
 description: このビデオでは、ツールを使用する際に、Analysis Workspaceのプロジェクトのユーザを特定のセグメント（またはセグメント）に制限する方法を説明します。
-feature: セグメント化
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2105
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Analytics用のライブラリ管理の設定
 description: Adobe AnalyticsのExperience Platform Launch拡張機能の使用を開始する際に、このビデオを参考にして、データの送信先となるレポートスイートの選択など、設定のライブラリ管理を行ってください。
-feature: 導入の開始
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2836
-role: 「開発者、データ・エンジニア」
-level: 初心者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

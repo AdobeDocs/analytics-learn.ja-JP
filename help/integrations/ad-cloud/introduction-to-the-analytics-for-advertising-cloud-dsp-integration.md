@@ -1,15 +1,15 @@
 ---
 title: Analytics forAdvertising Cloud DSP統合の概要
 description: Advertising Cloud DSP版Analyticsの統合は、Adobe AnalyticsとAdobe Advertising Cloudの間のネイティブの双方向の統合です。 この統合により、Advertising Cloudの広告インプレッションからビュースルー数を取り込んでAnalyticsに取り込むことができます。 その後、Analyticsはビュースルーを（クリックスルーと同様に）ダウンストリームサイトのすべてのアクティビティに接続できます。 その後、Analyticsは指標をAdvertising Cloudに渡して、高度なアルゴリズム入札モデルで使用できます。 このビデオでは、ビュースルーの概要、統合の利点、Analysis Workspaceの新しいDimension/指標の使用例を取り上げます。
-feature: Advertising Cloud統合
+feature: Advertising Cloud Integration
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 2913
-topic: 統合
-role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
-level: 中間
+topic: Integrations
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

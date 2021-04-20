@@ -1,7 +1,7 @@
 ---
 title: ビジュアライゼーションへのデータの取得
 description: Analysis Workspaceでビジュアライゼーションを追加する場合、ビジュアライゼーションのタイプに応じて、データを追加する方法がいくつかあります。 このビデオでは、これらの方法について説明します。
-feature: ビジュアライゼーション
+feature: Visualizations
 role: Business Practitioner
 level: Beginner
 doc-type: feature video

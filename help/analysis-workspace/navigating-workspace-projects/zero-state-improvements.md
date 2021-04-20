@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceのゼロ州改善
 description: ゼロ状態は、Analysis Workspaceの開業レイアウトです。 初心者ユーザーもベテランユーザーもAnalysis Workspaceから価値を引き出せるように、左側のレール、空白のパネル、フリーフォームテーブル、ドロップゾーンも改善し、ユーザーにとってより直感的になりました。
-feature: プロジェクト
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1773
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

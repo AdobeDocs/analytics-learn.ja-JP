@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspaceのフォールアウトでのセグメントの比較
 description: このビデオでは、Analysis Workspaceの様々なセグメントで主要ワークフローを比較する方法を示します。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24046.jpg
 kt: 2278
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

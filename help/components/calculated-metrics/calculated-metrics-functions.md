@@ -1,14 +1,14 @@
 ---
 title: 計算指標 — 関数
 description: Adobe Analyticsで計算指標の関数を使用する方法を学ぶ
-feature: 計算指標
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2321
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

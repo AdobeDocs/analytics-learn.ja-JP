@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceでのオーディオ消費テンプレートの使用
 description: このビデオでは、Analysis Workspaceのオーディオ消費テンプレートの概要を説明します。このテンプレートは、Audio Analyticsですぐに使用できます。
-feature: パネル
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1950
-role: 「ビジネス実践者、開発者、データ・エンジニア、アーキテクト、データ・アーキテクト、管理者、リーダー」
-level: 中間
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

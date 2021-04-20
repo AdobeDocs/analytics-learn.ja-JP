@@ -1,14 +1,14 @@
 ---
 title: Experience Platform LaunchでのEasy Exitリンクトラッキングの設定
 description: Experience Platform LaunchのAdobe Analytics拡張機能で数回クリックするだけで、サイト上の離脱リンク（サイトから別のサイトに導くリンク）を開始トラッキングできます。 このビデオでは、設定方法を紹介します。
-feature: 導入の開始
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2273
-role: 「開発者、データ・エンジニア」
-level: 初心者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

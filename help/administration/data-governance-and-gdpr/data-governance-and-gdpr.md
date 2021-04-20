@@ -1,14 +1,14 @@
 ---
 title: データ・ガバナンスとGDPR(Adobe Analytics)
 description: このビデオでは、データ・ガバナンスと、データ・ラベル付けがGDPRの準備にどのように適合するかについて説明します。 Data Governanceを使用したデータのラベル付けの実際の例を示します。
-feature: プライバシー
+feature: Privacy
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2361
-role: 「管理者、アーキテクト」
-level: 中間
+role: "Administrator, Architect"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: 基本的な小売変数とイベントをルールの起動に追加する
 description: このビデオでは、「起動」で特別な商品文字列拡張子を使用して、商品表示、買い物かごへの追加、チェックアウトなどの基本的な小売変数やイベントを追跡する方法を示します。
-feature: 導入の開始
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3592
-role: 「開発者、データ・エンジニア」
-level: 初心者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: サイトでのデータレイヤーの使用
 description: Adobe Analytics を使用する場合を含め、Experience Cloud を使用する際は、サイトでデータレイヤーを使用することをお勧めします。 このビデオでは、データレイヤーの概要と例を紹介します。
-feature: 実装の基本
+feature: Implementation Basics
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 3585
-role: 「開発者、データエンジニア」
-level: 初心者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

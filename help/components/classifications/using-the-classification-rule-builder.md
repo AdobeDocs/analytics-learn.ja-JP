@@ -1,14 +1,14 @@
 ---
 title: 'Adobe Analyticsでの分類ルールビルダーの使用 '
 description: '分類ルールビルダーを使用して、ルールベースの分類をAdobe Analyticsで自動的に適用する方法を説明します。 '
-feature: 分類
+feature: Classifications
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1936
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

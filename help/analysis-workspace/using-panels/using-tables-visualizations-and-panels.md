@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceでのテーブル、ビジュアライゼーションおよびパネルの使用
 description: このビデオでは、Analysis Workspaceプロジェクトの構成要素、つまりパネル、テーブル、ビジュアライゼーションの使用方法を学習します。 これらの要素は、データがペイントされるキャンバスです。
-feature: パネル
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4103
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

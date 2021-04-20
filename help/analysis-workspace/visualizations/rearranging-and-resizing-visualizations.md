@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceでのビジュアライゼーションの並べ替えとサイズ変更
 description: このビデオでは、Analysis Workspaceのビジュアライゼーションとテーブルのサイズ変更、並べ替えおよび再編成を行って、カスタマイズしたレイアウトを作成する方法を示します。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2138
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

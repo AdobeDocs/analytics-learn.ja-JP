@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace の折れ線グラフのビジュアライゼーション
 description: 折れ線グラフのビジュアライゼーションは、トレンド期間にわたる指標を表示します。ビジュアライゼーション設定を使用すると、各折れ線の見た目および X／Y 軸を表示、最小／最大ラベルを表示、トレンドラインを表示の各設定をカスタマイズできます。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40384.jpg
 kt: 6277
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

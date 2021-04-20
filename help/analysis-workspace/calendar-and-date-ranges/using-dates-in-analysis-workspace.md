@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspaceでの日付の使用
 description: 「このビデオでは、フリーフォーム分析で日付を操作する3つの方法を説明します。カレンダー、日付範囲要素および精度要素。 表示されず、少し当惑するように。日付を使用して折れ線グラフを有効にする方法 "
-feature: カレンダー
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2014
-role: 開業医
-level: 初心者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Analytics Extensionの起動での一般設定の指定
 description: Adobe別、Adobe Analytics拡張子別の「Launch」の使用を開始する際に、このビデオを使用すると、トラッキングサーバーの設定を含む、設定の一般的な設定部分を習得できます。
-feature: 導入の開始
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2837
-role: 「開発者、データ・エンジニア」
-level: 初心者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
