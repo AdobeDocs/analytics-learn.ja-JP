@@ -2,7 +2,7 @@
 title: Adobe Analytics の初回実装
 landing-page-description: このビデオでは、Adobe Analytics のデータに関して習得し、運用するプロセスについて数分間で説明します。
 description: Adobe Analytics を実装するのはこれまで以上に簡単です。アドビのソリューションを初めて使用する方には、この数分間のビデオでデータの操作方法を説明します。
-feature: Implementation Basics
+feature: 実装の基本
 topics: null
 activity: implement
 doc-type: feature video
