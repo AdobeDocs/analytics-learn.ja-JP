@@ -5,9 +5,9 @@ breadcrumb-title: Analytics チュートリアル
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: df4876d8cca8023036e75edfb1150aee5243b591
+source-git-commit: 299d9ff15d3c2a4847e6b4f122dd80035043b41a
 workflow-type: tm+mt
-source-wordcount: '1980'
+source-wordcount: '1986'
 ht-degree: 93%
 
 ---
@@ -208,6 +208,7 @@ ht-degree: 93%
       + [Admin Console でのレポートスイートへのアクセス制限](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
    + レポートスイートの管理 {#manage-report-suites}
       + [一般的なアカウント設定方法](administration/manage-report-suites/configuring-general-account-settings.md)
+      + [カレンダー設定のカスタマイズ](administration/manage-report-suites/customize-calendar-settings.md)
       + [郵便番号の設定](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Admin Console での変数の設定](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + データガバナンスと GDPR {#data-governance-and-gdpr}
@@ -371,3 +372,4 @@ ht-degree: 93%
    + [Postman を使用した Adobe Analytics 2.0 API リクエストの作成](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Analysis の使用例 {#analysis-use-cases}
    + [市場内郵便番号分析の設定](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
++ [Analytics Universityカリキュラム](analytics-university/curriculum.md)
