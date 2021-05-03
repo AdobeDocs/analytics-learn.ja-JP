@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 299d9ff15d3c2a4847e6b4f122dd80035043b41a
 workflow-type: tm+mt
 source-wordcount: '1986'
-ht-degree: 93%
+ht-degree: 99%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 93%
       + [レポートスイートの概要と作成](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [Adobe Labs（技術プレビュー）](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
    + UI のカスタマイズ {#customizing-the-ui}
-      + [Adobe Analyticsのユーザー環境設定](intro-to-analytics/customizing-the-ui/user-preferences.md)
+      + [Adobe Analytics のユーザー環境設定](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [ディメンションと指標の説明の追加](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [Analysis Workspace でのカスタムカラーパレットの使用](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
       + [カスタムパレットを定義するための Color Eyedropper 拡張機能](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
@@ -82,7 +82,7 @@ ht-degree: 93%
    + パネルの使用 {#using-panels}
       + [Analysis Workspace でのテーブル、ビジュアライゼーション、パネルの使用](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Analysis Workspace のクイックインサイトパネル](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
-      + [Attribution IQ パネルの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html)
+      + [Attribution IQ パネルの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=ja)
       + [Analysis Workspace のメディア同時視聴者数パネル](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [ドロップダウンフィルターの使用](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [パネルを使用した Analysis Workspace プロジェクトの整理](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
@@ -96,7 +96,7 @@ ht-degree: 93%
       + [フリーフォームテーブルの行および列設定](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [フリーフォームテーブルビルダーの使用](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [Analysis Workspace での静的行の並べ替え](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
-      + [フリーフォームテーブルでの Attribution IQ の使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html)
+      + [フリーフォームテーブルでの Attribution IQ の使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=ja)
       + [Analysis Workspace での右クリックメニューの使用](analysis-workspace/building-freeform-tables/using-the-right-click-menu.md)
       + [Analysis Workspace での右クリックメニューの使用（続き）](analysis-workspace/building-freeform-tables/continued-right-click-menu-in-analysis-workspace.md)
       + [Analysis Workspace でのクロス販売分析](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
@@ -108,7 +108,7 @@ ht-degree: 93%
       + [ビジュアライゼーションのタイプ](analysis-workspace/visualizations/visualization-types.md)
       + [視覚化するデータの選択](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [ビジュアライゼーションへのデータの取得](analysis-workspace/visualizations/getting-data-into-visualizations.md)
-      + [Workspaceでのコンポーネントドロップダウンの使用](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
+      + [Workspace でのコンポーネントドロップダウンの使用](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Analysis Workspace の折れ線グラフのビジュアライゼーション](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [線のビジュアライゼーションへのトレンドラインの追加](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [ブレットグラフのビジュアライゼーション](analysis-workspace/visualizations/bullet-graph-visualization.md)
@@ -135,21 +135,21 @@ ht-degree: 93%
       + [Analysis Workspace プロジェクトへのセグメントの適用](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Analysis Workspace でのセグメントの使用](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
       + [アドホック（一時）セグメント](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
-      + [セグメントでの様々な Attribution IQ モデルの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html)
+      + [セグメントでの様々な Attribution IQ モデルの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=ja)
       + [パネルレベルセグメント](analysis-workspace/using-panels/panel-level-segments.md)
       + [Analysis Workspace でのディメンションとしてのセグメントの使用](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Analysis Workspace でのセグメントを使用したデータの制限](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
    + 指標 {#metrics}
       + [基本的な訪問者指標について](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [Analysis Workspace でのプロジェクトへのディメンションと指標の追加](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
+      + [Analysis Workspace でのプロジェクトへのディメンションと指標の追加](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=ja)
       + [コンバージョンイベントの概要](analysis-workspace/metrics/introduction-to-conversion-events.md)
-      + [フリーフォームテーブルでの指標の操作](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html)
+      + [フリーフォームテーブルでの指標の操作](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=ja)
       + [Analysis Workspace でのパーティシペーション指標の使用](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
    + ディメンション {#dimensions}
       + [Analysis Workspace でのプロジェクトへのディメンションと指標の追加](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [トラフィック変数（prop）の概要](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [コンバージョン変数（eVar）について](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
-      + [フリーフォームテーブルでのディメンションの操作](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html)
+      + [フリーフォームテーブルでのディメンションの操作](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=ja)
    + カレンダーと日付範囲 {#calendar-and-date-ranges}
       + [Analysis Workspace での日付の使用](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [Analysis Workspace での日付範囲と日付比較の使用](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
@@ -171,7 +171,7 @@ ht-degree: 93%
       + [Analysis Workspace でのキュレーションと共有](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [プロジェクトへの直接リンク](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [50,000 個の項目を CSV としてダウンロード](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [Analysis Workspace から CSV へのエクスポート](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/from-the-ui/export-to-csv-from-analysis-workspace.html)
+      + [Analysis Workspace から CSV へのエクスポート](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/from-the-ui/export-to-csv-from-analysis-workspace.html?lang=ja)
       + [埋め込みコンポーネントの共有](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [プロジェクトのスケジュール設定とダウンロード](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Analysis Workspace でのプロジェクト共有](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
@@ -262,16 +262,16 @@ ht-degree: 93%
       + [Analysis Workspace におけるセグメント比較](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [セグメントコンテナ](components/segmentation/segment-containers.md)
       + [セグメントの管理と共有](components/segmentation/segment-management-and-sharing.md)
-      + [Analysis Workspace でのセグメントの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html)
-      + [Analysis Workspace でのディメンションとしてのセグメントの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html)
-      + [Analysis Workspace でのセグメントを使用したデータの制限](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html)
+      + [Analysis Workspace でのセグメントの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html?lang=ja)
+      + [Analysis Workspace でのディメンションとしてのセグメントの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=ja)
+      + [Analysis Workspace でのセグメントを使用したデータの制限](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=ja)
       + [順次セグメント化](components/segmentation/sequential-segmentation.md)
       + [個別ディメンションカウントに基づくセグメント化](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [セグメント化のディメンションモデル](components/segmentation/dimension-models-in-segmentation.md)
       + [セグメント化の「次のいずれかと等しい」演算子](components/segmentation/equals-any-of-operator-in-segmentation.md)
    + 計算指標 {#calculated-metrics}
       + [計算指標での個別概算カウント関数](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
-      + [計算指標での Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
+      + [計算指標での Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=ja)
       + [計算指標 - 指標ビルダー](components/calculated-metrics/calculated-metrics-metric-builder.md)
       + [計算指標 - 関数](components/calculated-metrics/calculated-metrics-functions.md)
       + [計算指標 - 実装なしの指標](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
@@ -341,14 +341,14 @@ ht-degree: 93%
    + [Adobe Analytics と Adobe Sensei - すべてのユーザーが利用できるデータサイエンス](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
 + 業種別 {#vertical-specific}
    + ハイテク {#high-tech}
-      + [Summit 2019 スーパーセッション - ハイテク分野](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html)
+      + [Summit 2019 スーパーセッション - ハイテク分野](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html?lang=ja)
    + 旅行およびホスピタリティ {#travel-and-hospitality}
-      + [Summit 2019 スーパーセッション - 旅行およびホスピタリティ分野](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html)
+      + [Summit 2019 スーパーセッション - 旅行およびホスピタリティ分野](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html?lang=ja)
    + 小売 {#retail}
       + [小売分野の変数とイベントの概要](vertical-specific/retail/intro-to-retail-variables-and-events.md)
       + [Platform Launch ルールへの小売分野の基本的な変数とイベントの追加](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
       + [購入イベントの Platform Launch ルールの追加](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
-      + [Summit 2019 スーパーセッション - 小売分野](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html)
+      + [Summit 2019 スーパーセッション - 小売分野](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=ja)
 + Media Analytics {#media-analytics}
    + 音声またはオーディオの測定 {#measuring-voice-or-audio}
       + [Analysis Workspace でのオーディオ消費テンプレートの使用](media-analytics/measuring-voice-or-audio/using-the-audio-consumption-template-in-analysis-workspace.md)
@@ -368,7 +368,7 @@ ht-degree: 93%
       + [エンゲージメント率とリテンション率を高める方法](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + API {#apis}
    + [Analysis Workspace を使用した API 2.0 リクエストの作成](apis/using-analysis-workspace-to-build-api-2-requests.md)
-   + [Report Builder を使用した Adobe Analytics API の学習](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html)
+   + [Report Builder を使用した Adobe Analytics API の学習](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=ja)
    + [Postman を使用した Adobe Analytics 2.0 API リクエストの作成](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Analysis の使用例 {#analysis-use-cases}
    + [市場内郵便番号分析の設定](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
