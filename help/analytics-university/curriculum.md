@@ -4,9 +4,9 @@ description: Adobeは、このAnalytics基本的なコンテンツを大学に�
 hide: true
 hidefromtoc: true
 translation-type: tm+mt
-source-git-commit: 299d9ff15d3c2a4847e6b4f122dd80035043b41a
+source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Adobeは、このAnalytics基本的なコンテンツを大学に提示できる
 
 各セクションの最後にアクティビティを組み込んだこのカリキュラムは、Adobe Analytics大学サンドボックス環境と組み合わせることができます。
 
-アクセスするには、こちらを登録してください：https://experienceleague.adobe.com/AnalyticsUniversity
+アクセスするには、こちらを登録してください：[https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
 
 
 [カリキュラムPDFのダウンロード](assets/Adobe-Analytics-Curriculum_2021.pdf)
