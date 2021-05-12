@@ -1,39 +1,39 @@
 ---
-title: Adobe Analytics大学カリキュラム
-description: Adobeは、このAnalytics基本的なコンテンツを大学に提示できることを誇りに思っています。 カリキュラムには、Adobe Analyticsのコレクションとレポートを紹介する4つのモジュールがあります。このモジュールは、デジタル分析やマーケティングのコースに分けて組み立てることができます。 この入門書は、毎秋、教授や学生がAdobe Analyticsのグローバルチャレンジに必要な知識を得られるようにします。
+title: Adobe Analytics 大学カリキュラム
+description: アドビは、この Analytics の基本的なコンテンツを大学に提供できることを誇りに思っています。 カリキュラムには、Adobe Analytics のコレクションとレポートを紹介する 4 つのモジュールがあります。これらのモジュールは、デジタル分析やマーケティングのコースに分割し、組合わせることができます。 この入門マニュアルにより、教授と学生は、毎年秋に Adobe Analytics のグローバルチャレンジに参加するための必要な知識を習得できます。
 hide: true
 hidefromtoc: true
 translation-type: tm+mt
 source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
 workflow-type: tm+mt
 source-wordcount: '240'
-ht-degree: 0%
+ht-degree: 95%
 
 ---
 
 
 
-# Adobe Analytics大学
+# Adobe Analytics 大学
 
-## Analyticsコースコンテンツ
+## Analytics コースのコンテンツ
 
-Adobeは、このAnalytics基本的なコンテンツを大学に提示できることを誇りに思っています。 カリキュラムには、Adobe Analyticsのコレクションとレポートを紹介する4つのモジュールがあります。このモジュールは、デジタル分析やマーケティングのコースに分けて組み立てることができます。 この入門書は、毎秋、教授や学生がAdobe Analyticsのグローバルチャレンジに必要な知識を得られるようにします。
+アドビは、この Analytics の基本的なコンテンツを大学に提供できることを誇りに思っています。 カリキュラムには、Adobe Analytics のコレクションとレポートを紹介する 4 つのモジュールがあります。これらのモジュールは、デジタル分析やマーケティングのコースに分割し、組合わせることができます。 この入門マニュアルにより、教授と学生は、毎年秋に Adobe Analytics のグローバルチャレンジに参加するための必要な知識を習得できます。
 
-### 次の内容を学習します。
+### 学習内容：
 
-*DATAとの開始:*
+*DATAで開始：*
 
-* データ収集モジュール(1)データの実装、収集、レポート、検証のフレームワーク
-* Data Strategy &amp; Architecture Module (2)データ変数、戦略、およびアーキテクチャの基本
+* データ収集モジュール（1）：データの実装、収集、レポート、および検証のフレームワーク
+* データ戦略とアーキテクチャモジュール（2）：データ変数、戦略、およびアーキテクチャの基本
 
-*次に、このDATAとINSIGHTSを組み合わせます。*
+*次に、この DATA と INSIGHTS を組み合わせます。*
 
-* 標準Adobe指標および機能モジュール(3)：重要な分析KPI指標およびレポートにアクセスし、表示する方法
-* Analysis Workspace基本モジュール(4)解析レポートの視覚化機能の概要
+* 標準アドビ指標および機能モジュール（3）：重要な分析 KPI 指標およびレポートにアクセスし、表示する方法
+* Analysis Workspace 基本モジュール（4）：分析レポートの視覚化による高度化
 
-各セクションの最後にアクティビティを組み込んだこのカリキュラムは、Adobe Analytics大学サンドボックス環境と組み合わせることができます。
+各セクションの最後に専用のアクティビティがあるこのカリキュラムは、Adobe Analytics 大学のサンドボックス環境と組み合わせることができます。
 
 アクセスするには、こちらを登録してください：[https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
 
 
-[カリキュラムPDFのダウンロード](assets/Adobe-Analytics-Curriculum_2021.pdf)
+[カリキュラム PDF のダウンロード](assets/Adobe-Analytics-Curriculum_2021.pdf)
