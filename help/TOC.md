@@ -4,11 +4,10 @@ user-guide-description: Adobe Analytics 向けのビデオとチュートリア�
 breadcrumb-title: Analytics チュートリアル
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-translation-type: tm+mt
-source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
+source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
 workflow-type: tm+mt
-source-wordcount: '1998'
-ht-degree: 99%
+source-wordcount: '2007'
+ht-degree: 98%
 
 ---
 
@@ -19,12 +18,12 @@ ht-degree: 99%
 + Analytics の概要 {#intro-to-analytics}
    + Adobe Analytics は何に役立つか {#what-can-aa-do-for-me}
       + [Adobe Analysis Workspace でビジネスがどう変わるか](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
-      + [単なるデータにとどまらず、顧客インテリジェンスを提供](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
+      + [単なるデータにとどまらず、顧客インテリジャンスを提供](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
       + [Adobe Sensei と Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
       + [顧客の使用事例 - ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
       + [顧客の使用事例 - Accent Group](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
       + [顧客の使用事例 - Home Depot](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
-      + [Summit 2019 スーパーセッション - 旅行およびホスピタリティ](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
+      + [Summit 2019 スーパーセッション - 旅行およびホスピタリティ分野](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Summit 2019 スーパーセッション - 小売分野](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Summit 2019 スーパーセッション - ハイテク分野](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + Analytics の基本事項 {#analytics-basics}
@@ -34,7 +33,7 @@ ht-degree: 99%
       + [Analytics データの収集方法](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Adobe Analytics へのログイン](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Analytics UI の紹介](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
-      + [レポートスイートの概要と作成](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
+      + [レポートスイートの理解と作成](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [Adobe Labs（技術プレビュー）](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
    + UI のカスタマイズ {#customizing-the-ui}
       + [Adobe Analytics のユーザー環境設定](intro-to-analytics/customizing-the-ui/user-preferences.md)
@@ -52,7 +51,7 @@ ht-degree: 99%
       + [Adobe Analytics でのヘルプの入手](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
    + Analysis Workspace の基礎 {#analysis-workspace-basics}
-      + [Analysis Workspace 入門](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
+      + [Analysis Workspace の紹介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace の概要](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [新しい Analysis Workspace プロジェクトの作成](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [Analysis Workspace でのカスタムテンプレートの作成と管理](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
@@ -171,7 +170,7 @@ ht-degree: 99%
       + [Analysis Workspace でのキュレーションと共有](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [プロジェクトへの直接リンク](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [50,000 個の項目を CSV としてダウンロード](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [Analysis Workspace から CSV へのエクスポート](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/from-the-ui/export-to-csv-from-analysis-workspace.html?lang=ja)
+      + [Analysis Workspace を使用した CSV へのエクスポート](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/from-the-ui/export-to-csv-from-analysis-workspace.html?lang=ja)
       + [埋め込みコンポーネントの共有](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [プロジェクトのスケジュール設定とダウンロード](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Analysis Workspace でのプロジェクト共有](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
@@ -225,7 +224,7 @@ ht-degree: 99%
    + 実装の基本 {#implementation-basics}
       + [初回の実装](implementation/implementation-basics/first-time-implementation.md)
       + [処理ルールを使用した contextData 変数の prop および eVar へのマッピング](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
-      + [Analyticsトラッキングサーバーとレポートスイートの識別方法](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
+      + [Analytics トラッキングサーバーおよびレポートスイートの識別方法](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [ビジネス要件ドキュメントの作成](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [SDR の作成と保守](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
       + [サイトでのデータレイヤーの使用](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
@@ -318,6 +317,7 @@ ht-degree: 99%
       + [Audience Analytics - AAM セグメントの Analytics への統合](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
    + Target {#target}
       + [Analysis Workspace の Analytics for Target（A4T）パネル](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
+      + [A4Tパネルを使用した自動ターゲットアクティビティの分析](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Ad Cloud {#ad-cloud}
       + [Advertising Analytics の設定](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [検索エンジンへのトラッキングテンプレートの実装](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
@@ -372,7 +372,7 @@ ht-degree: 99%
 + API {#apis}
    + [Analysis Workspace を使用した API 2.0 リクエストの作成](apis/using-analysis-workspace-to-build-api-2-requests.md)
    + [Report Builder を使用した Adobe Analytics API の学習](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=ja)
-   + [Postman を使用した Adobe Analytics 2.0 API リクエストの作成](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
+   + [Postman を使用した Adobe Analytics 2.0 API リクエストの実行](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Analysis の使用例 {#analysis-use-cases}
    + [市場内郵便番号分析の設定](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
-+ [Analytics Universityカリキュラム](analytics-university/curriculum.md)
++ [Analytics 大学向けカリキュラム](analytics-university/curriculum.md)
