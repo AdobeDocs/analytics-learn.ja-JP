@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
 workflow-type: tm+mt
 source-wordcount: '2007'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -80,7 +80,7 @@ ht-degree: 98%
       + [左側パネルでのフィルター（タグ）の使用](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
    + パネルの使用 {#using-panels}
       + [Analysis Workspace でのテーブル、ビジュアライゼーション、パネルの使用](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
-      + [Analysis Workspace のクイックインサイトパネル](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
+      + [Analysis Workspace の Quick Insights パネル](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Attribution IQ パネルの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=ja)
       + [Analysis Workspace のメディア同時視聴者数パネル](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [ドロップダウンフィルターの使用](analysis-workspace/using-panels/using-drop-down-filters.md)
@@ -208,9 +208,9 @@ ht-degree: 98%
    + レポートスイートの管理 {#manage-report-suites}
       + [一般的なアカウント設定方法](administration/manage-report-suites/configuring-general-account-settings.md)
       + [カレンダー設定のカスタマイズ](administration/manage-report-suites/customize-calendar-settings.md)
-      + [Reports &amp; Analyticsのメニューのカスタマイズ](administration/manage-report-suites/customize-menus.md)
+      + [Reports &amp; Analytics のメニューのカスタマイズ](administration/manage-report-suites/customize-menus.md)
       + [検索方法の設定](administration/manage-report-suites/configure-finding-methods.md)
-      + [内部URLフィルターの設定](administration/manage-report-suites/set-internal-url-filters.md)
+      + [内部 URL フィルターの設定](administration/manage-report-suites/set-internal-url-filters.md)
       + [郵便番号の設定](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Admin Console での変数の設定](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + データガバナンスと GDPR {#data-governance-and-gdpr}
