@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 向けのビデオとチュートリア�
 breadcrumb-title: Analytics チュートリアル
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
+source-git-commit: 04c046c74c5287ebdd1b01bc9a5586475d14363a
 workflow-type: tm+mt
-source-wordcount: '2007'
+source-wordcount: '2017'
 ht-degree: 99%
 
 ---
@@ -374,5 +374,7 @@ ht-degree: 99%
    + [Report Builder を使用した Adobe Analytics API の学習](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=ja)
    + [Postman を使用した Adobe Analytics 2.0 API リクエストの実行](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Analysis の使用例 {#analysis-use-cases}
+   + 内部サイト検索{#internal-site-search}
+      + [内部サイト検索のビジネス要件の定義](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
    + [市場内郵便番号分析の設定](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics 大学向けカリキュラム](analytics-university/curriculum.md)
