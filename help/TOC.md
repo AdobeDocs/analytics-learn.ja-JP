@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: cc377025e4d793a908fd6cddceb74441300f3449
 workflow-type: tm+mt
 source-wordcount: '2042'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -317,7 +317,7 @@ ht-degree: 97%
       + [Audience Analytics - AAM セグメントの Analytics への統合](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
    + Target {#target}
       + [Analysis Workspace の Analytics for Target（A4T）パネル](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
-      + [A4Tパネルを使用した自動ターゲットアクティビティの分析](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
+      + [A4T パネルを使用した自動ターゲットアクティビティの分析](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Ad Cloud {#ad-cloud}
       + [Advertising Analytics の設定](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [検索エンジンへのトラッキングテンプレートの実装](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
