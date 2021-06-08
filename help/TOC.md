@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: cc377025e4d793a908fd6cddceb74441300f3449
 workflow-type: tm+mt
 source-wordcount: '2042'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -374,11 +374,11 @@ ht-degree: 98%
    + [Report Builder を使用した Adobe Analytics API の学習](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=ja)
    + [Postman を使用した Adobe Analytics 2.0 API リクエストの実行](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Analysis の使用例 {#analysis-use-cases}
-   + 内部サイト検索{#internal-site-search}
+   + 内部サイト検索 {#internal-site-search}
       + [内部サイト検索のビジネス要件の定義](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
-      + [AppMeasurementを使用した内部検索変数の実装](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
-      + [Web SDKを使用した内部検索変数の実装](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
-      + [Web SDK変数のAdobe Analyticsへのマッピング](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
+      + [AppMeasurement を使用した内部検索変数の実装](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
+      + [Web SDK を使用した内部検索変数の実装](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
+      + [Web SDK 変数の Adobe Analytics へのマッピング](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
       + [内部サイト検索レポートの設定](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [市場内郵便番号分析の設定](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics 大学向けカリキュラム](analytics-university/curriculum.md)
