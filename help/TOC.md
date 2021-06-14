@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics 向けのビデオとチュートリア�
 breadcrumb-title: Analytics チュートリアル
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: cc377025e4d793a908fd6cddceb74441300f3449
+source-git-commit: 1824ce43c99a56d2dd4c116783e06f71c0d74a46
 workflow-type: tm+mt
-source-wordcount: '2042'
-ht-degree: 100%
+source-wordcount: '2067'
+ht-degree: 98%
 
 ---
 
@@ -54,6 +54,7 @@ ht-degree: 100%
       + [Analysis Workspace の紹介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace の概要](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [新しい Analysis Workspace プロジェクトの作成](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
+      + [Workspaceプロジェクトを一から作成する](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Analysis Workspace でのカスタムテンプレートの作成と管理](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Analysis Workspace の標準テンプレート](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
       + [カスタムテンプレートを使用した Analysis Workspace 初級ユーザーの支援](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
@@ -88,6 +89,7 @@ ht-degree: 100%
       + [セグメントドロップゾーンの改善](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Analysis Workspace の複数のレポートスイート](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
    + フリーフォームテーブルの作成 {#building-freeform-tables}
+      + [データの理解 — フリーフォームテーブル](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [左側のレールを使用した Analysis Workspace のフリーフォームテーブルの作成](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [Analysis Workspace の自動作成フリーフォームテーブル](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [フリーフォームテーブルでのディメンションの操作](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
@@ -105,6 +107,7 @@ ht-degree: 100%
    + ビジュアライゼーション {#visualizations}
       + [Analysis Workspace でのデータビジュアライゼーション](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [ビジュアライゼーションのタイプ](analysis-workspace/visualizations/visualization-types.md)
+      + [ビジュアライゼーションの使用例](analysis-workspace/visualizations/visualization-use-cases.md)
       + [視覚化するデータの選択](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [ビジュアライゼーションへのデータの取得](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Workspace でのコンポーネントドロップダウンの使用](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
@@ -157,6 +160,7 @@ ht-degree: 100%
       + [Analysis Workspace での日付比較](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [トレンドへの前月比および前年比の追加](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + カスタマージャーニーの分析 {#analyzing-customer-journeys}
+      + [データの理解 — フォールアウトとフロー](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Journey IQ：デバイス間分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [フォールアウトビジュアライゼーション](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [フォールアウトビジュアライゼーションの機能強化](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
@@ -186,6 +190,7 @@ ht-degree: 100%
       + [Attribution IQ 内のカスタムルックバックウィンドウ](analysis-workspace/attribution-iq/custom-lookback-windows-in-attribution-iq.md)
    + コホート分析 {#cohort-analysis}
       + [Analysis Workspace のコホート分析](analysis-workspace/cohort-analysis/cohort-analysis-workspace.md)
+      + [データの理解 — コホートテーブル](analysis-workspace/cohort-analysis/understand-your-data-cohort-tables.md)
       + [コホートテーブルの概要](analysis-workspace/cohort-analysis/overview-of-cohort-tables-in-analysis-workspace.md)
       + [コホートテーブル設定](analysis-workspace/cohort-analysis/cohort-table-settings.md)
       + [コホートテーブルを使用したチャーン分析](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
@@ -259,6 +264,7 @@ ht-degree: 100%
 + コンポーネント {#components}
    + セグメント化 {#segmentation}
       + [セグメントビルダーの概要](components/segmentation/segment-builder-overview.md)
+      + [セグメントの検索と作成](components/segmentation/finding-and-creating-segments.md)
       + [順次セグメント化での前後のシーケンス](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [セグメントでの周期的な日付範囲](components/segmentation/rolling-date-ranges-in-segments.md)
       + [Analysis Workspace におけるセグメント比較](components/segmentation/segment-comparison-in-analysis-workspace.md)
