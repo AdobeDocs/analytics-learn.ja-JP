@@ -1,25 +1,24 @@
 ---
-title: 内部URLフィルターの設定
-description: このビデオでは、転送者に関する設定を、内部転送者（パスレポートに電力を供給する）または外部転送者(転送者/参照ドメインレポートに電力を供給する)として設定する方法について説明します。
-feature: レポート表示設定
+title: 内部 URL フィルターの設定
+description: このビデオでは、リファラーを内部リファラー（パスレポートの電源）または外部リファラー（リファラー/参照ドメインレポートの電源）として設定し、リファラーに関する設定について説明します。
+feature: レポートスイートの設定
 topic: 管理
 role: Administrator
 level: Beginner
 doc-type: feature video
 thumbnail: 333043.jpg
 kt: 7709
-translation-type: tm+mt
-source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
+exl-id: 91d8ae87-b5cb-4d65-a59b-04dd2674a5a5
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 4%
+ht-degree: 22%
 
 ---
 
+# 内部 URL フィルターの設定
 
-# 内部URLフィルターの設定
-
-このビデオでは、転送者に関する設定を、内部転送者（パスレポートに電力を供給する）または外部転送者(転送者/参照ドメインレポートに電力を供給する)として設定する方法について説明します。
+このビデオでは、リファラーを内部リファラー（パスレポートの電源）または外部リファラー（リファラー/参照ドメインレポートの電源）として設定し、リファラーに関する設定について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333043/?quality=12&learn=on)
 
