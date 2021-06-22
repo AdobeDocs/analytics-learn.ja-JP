@@ -1,23 +1,23 @@
 ---
-title: データの理解 — フリーフォームテーブル
-description: フリーフォームテーブル（ピボットテーブル）を使用して、データを理解し、解釈し、価値のあるインサイトを見つけます。
+title: データについて：フリーフォームテーブル
+description: フリーフォームテーブル (ピボットテーブル) を使用して、データを把握および解釈し、有益なインサイトを見つけます。
 feature: フリーフォームテーブル
 role: Business Practitioner
 level: Beginner
 doc-type: feature video
 thumbnail: 334093.jpg
 kt: 8059
-source-git-commit: 1824ce43c99a56d2dd4c116783e06f71c0d74a46
+exl-id: a074d503-94f2-449f-8d3e-8bb599752981
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 3%
+ht-degree: 81%
 
 ---
 
+# データについて：フリーフォームテーブル
 
-# データの理解 — フリーフォームテーブル
-
-フリーフォームテーブル（ピボットテーブル）を使用して、データを理解し、解釈し、価値のあるインサイトを見つけます。
+フリーフォームテーブル (ピボットテーブル) を使用して、データを把握および解釈し、有益なインサイトを見つけます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334093/?quality=12&learn=on)
 
