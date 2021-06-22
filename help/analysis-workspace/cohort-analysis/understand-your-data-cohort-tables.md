@@ -1,23 +1,23 @@
 ---
-title: データの理解 — コホートテーブル
-description: コホートテーブルを分析し、時間の経過に伴うユーザーリテンションをより深く理解する方法を説明します。
+title: データについて：コホートテーブル
+description: コホートテーブルを分析して、時間の経過にともなうユーザーの定着をより深く把握する方法を学習します。
 feature: コホート分析
 role: Business Practitioner
 level: Beginner
 doc-type: feature video
 thumbnail: 334094.jpg
 kt: 8060
-source-git-commit: 0f0584cc6f5d5143d82f32e03cd92bce468a688c
+exl-id: 55c47805-578e-46a9-8d8c-90a9a109630e
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 3%
+ht-degree: 80%
 
 ---
 
+# データについて：コホートテーブル
 
-# データの理解 — コホートテーブル
-
-コホートテーブルを分析し、時間の経過に伴うユーザーリテンションをより深く理解する方法を説明します。
+コホートテーブルを分析して、時間の経過にともなうユーザーの定着をより深く把握する方法を学習します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334094/?quality=12&learn=on)
 
