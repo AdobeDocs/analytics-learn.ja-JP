@@ -1,23 +1,22 @@
 ---
-title: Adobe Analyticsのカレンダー設定のカスタマイズ
+title: Adobe Analytics のカレンダー設定のカスタマイズ
 description: このビデオでは、ヒントとテクニック、およびAdobe Analyticsでカレンダーをカスタマイズする仕組みについて説明します。
-feature: レポート表示設定
+feature: レポートスイートの設定
 topic: 管理
 role: Administrator
 level: Beginner
 doc-type: feature video
 thumbnail: 333003.jpg
 kt: 7654
-translation-type: tm+mt
-source-git-commit: 299d9ff15d3c2a4847e6b4f122dd80035043b41a
+exl-id: d04273ec-58e1-4dd7-b0b2-84708e059a62
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 7%
+ht-degree: 28%
 
 ---
 
-
-# Adobe Analyticsのカレンダー設定のカスタマイズ
+# Adobe Analytics のカレンダー設定のカスタマイズ
 
 このビデオでは、ヒントとテクニック、およびAdobe Analyticsでカレンダーをカスタマイズする仕組みについて説明します。
 
