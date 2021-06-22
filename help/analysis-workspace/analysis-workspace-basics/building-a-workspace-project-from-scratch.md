@@ -7,13 +7,13 @@ level: Beginner
 doc-type: feature video
 thumbnail: 334076.jpg
 kt: 8056
-source-git-commit: 1824ce43c99a56d2dd4c116783e06f71c0d74a46
-workflow-type: ht
+exl-id: 8bbc1632-e5da-4cba-9852-e7c63521c345
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
+workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 100%
 
 ---
-
 
 # Workspace プロジェクトを一から作成する
 
