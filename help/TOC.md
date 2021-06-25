@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics 向けのビデオとチュートリア�
 breadcrumb-title: Analytics チュートリアル
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 4b5c50466a899ff84a628d0efe43765586d01216
+source-git-commit: 1896c5d47fcb0bdde0e6c854a78004cef32e9d90
 workflow-type: tm+mt
-source-wordcount: '2063'
-ht-degree: 100%
+source-wordcount: '2072'
+ht-degree: 99%
 
 ---
 
@@ -114,7 +114,9 @@ ht-degree: 100%
       + [Analysis Workspace の折れ線グラフのビジュアライゼーション](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [線のビジュアライゼーションへのトレンドラインの追加](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [面グラフおよび積み重ね面グラフ](analysis-workspace/visualizations/area-and-area-stacked.md)
+      + [棒グラフおよび積み重ね棒グラフのビジュアライゼーション](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [ブレットグラフのビジュアライゼーション](analysis-workspace/visualizations/bullet-graph-visualization.md)
+      + [ドーナツビジュアライゼーションの使用](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [ヒストグラムビジュアライゼーション](analysis-workspace/visualizations/histogram-visualization.md)
       + [マップのビジュアライゼーション](analysis-workspace/visualizations/map-visualization.md)
       + [数値概要と変化概要の視覚化](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
