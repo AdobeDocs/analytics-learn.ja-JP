@@ -1,17 +1,19 @@
 ---
-title: Adobe Analytics 大学カリキュラム
+title: Adobe Analytics教育課程
 description: アドビは、この Analytics の基本的なコンテンツを大学に提供できることを誇りに思っています。 カリキュラムには、Adobe Analytics のコレクションとレポートを紹介する 4 つのモジュールがあります。これらのモジュールは、デジタル分析やマーケティングのコースに分割し、組合わせることができます。 この入門マニュアルにより、教授と学生は、毎年秋に Adobe Analytics のグローバルチャレンジに参加するための必要な知識を習得できます。
 hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
-workflow-type: ht
-source-wordcount: '240'
-ht-degree: 100%
+source-git-commit: 43382a7de3dc0b0d65ccf8403ce200c2fd980518
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Adobe Analytics 大学
+# Adobe Analytics教育課程
+
+>[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
 
 ## Analytics コースのコンテンツ
 
