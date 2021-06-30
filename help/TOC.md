@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 向けのビデオとチュートリア�
 breadcrumb-title: Analytics チュートリアル
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 1896c5d47fcb0bdde0e6c854a78004cef32e9d90
+source-git-commit: 5689424f4597c509ca5040f8b8f2b06a1fd60bfb
 workflow-type: tm+mt
-source-wordcount: '2072'
+source-wordcount: '2066'
 ht-degree: 99%
 
 ---
@@ -111,15 +111,18 @@ ht-degree: 99%
       + [視覚化するデータの選択](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [ビジュアライゼーションへのデータの取得](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Workspace でのコンポーネントドロップダウンの使用](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [Analysis Workspace の折れ線グラフのビジュアライゼーション](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
-      + [線のビジュアライゼーションへのトレンドラインの追加](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [面グラフおよび積み重ね面グラフ](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [棒グラフおよび積み重ね棒グラフのビジュアライゼーション](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [ブレットグラフのビジュアライゼーション](analysis-workspace/visualizations/bullet-graph-visualization.md)
-      + [ドーナツビジュアライゼーションの使用](analysis-workspace/visualizations/using-the-donut-visualization.md)
+      + [ドーナツビジュアライゼーション](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [ヒストグラムビジュアライゼーション](analysis-workspace/visualizations/histogram-visualization.md)
+      + [Analysis Workspace の折れ線グラフのビジュアライゼーション](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [線のビジュアライゼーションへのトレンドラインの追加](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [マップのビジュアライゼーション](analysis-workspace/visualizations/map-visualization.md)
       + [数値概要と変化概要の視覚化](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
+      + [テキストのビジュアライゼーション](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
+      + [ツリーマップと散布図のビジュアライゼーション](analysis-workspace/visualizations/treemap-and-scatterplot-visualizations.md)
+      + [ベン図のビジュアライゼーション](analysis-workspace/visualizations/venn-diagram-visualization.md)
       + [累積平均関数を使用した指標スムージングの適用](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [柔軟なレイアウト](analysis-workspace/visualizations/flexible-layouts.md)
       + [ビジュアライゼーションのスケール／軸の変更](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
@@ -128,13 +131,10 @@ ht-degree: 99%
       + [Analysis Workspace でのイントラリンク](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [正数と負数のマップテーマ](analysis-workspace/visualizations/positive-negative-map-theme.md)
       + [ビジュアライゼーションの並べ替えとサイズ変更](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
-      + [Analysis Workspace のリッチテキストエディター](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [シリーズラベルの編集](analysis-workspace/visualizations/series-label-editing.md)
       + [100% 積み重ねビジュアライゼーション](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [テーブルデータソース設定](analysis-workspace/visualizations/table-data-source-settings.md)
       + [時間分割ヒートマップの作成](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
-      + [ツリーマップと散布図のビジュアライゼーション](analysis-workspace/visualizations/treemap-and-scatterplot-visualizations.md)
-      + [ベン図のビジュアライゼーション](analysis-workspace/visualizations/venn-diagram-visualization.md)
       + [ビジュアライゼーションデータソース設定](analysis-workspace/visualizations/visualization-data-source-settings.md)
    + セグメントの適用 {#applying-segments}
       + [Analysis Workspace プロジェクトへのセグメントの適用](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
