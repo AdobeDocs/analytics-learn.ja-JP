@@ -8,7 +8,8 @@ kt: 2116
 role: Business Practitioner
 level: Beginner
 exl-id: 369904c2-5de9-495c-abd2-0c3900f6c49f
-source-git-commit: 5689424f4597c509ca5040f8b8f2b06a1fd60bfb
+thumbnail: 23989.jpg
+source-git-commit: 758d33b8f4dcb48066d4d2f4f79e2c0e0e59e8b9
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 8%
