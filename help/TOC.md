@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics 向けのビデオとチュートリア�
 breadcrumb-title: Analytics チュートリアル
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 5689424f4597c509ca5040f8b8f2b06a1fd60bfb
+source-git-commit: e2f27788da1c1355f55984c1435dd00d29f2fbd5
 workflow-type: tm+mt
-source-wordcount: '2066'
-ht-degree: 99%
+source-wordcount: '2065'
+ht-degree: 98%
 
 ---
 
@@ -111,17 +111,18 @@ ht-degree: 99%
       + [視覚化するデータの選択](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [ビジュアライゼーションへのデータの取得](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Workspace でのコンポーネントドロップダウンの使用](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [面グラフおよび積み重ね面グラフ](analysis-workspace/visualizations/area-and-area-stacked.md)
+      + [面グラフおよび積み重ね面グラフのビジュアライゼーション](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [棒グラフおよび積み重ね棒グラフのビジュアライゼーション](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [ブレットグラフのビジュアライゼーション](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [ドーナツビジュアライゼーション](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [ヒストグラムビジュアライゼーション](analysis-workspace/visualizations/histogram-visualization.md)
-      + [Analysis Workspace の折れ線グラフのビジュアライゼーション](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
-      + [線のビジュアライゼーションへのトレンドラインの追加](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
+      + [線の視覚化](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [折れ線グラフのビジュアライゼーションへのトレンドラインの追加](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [マップのビジュアライゼーション](analysis-workspace/visualizations/map-visualization.md)
       + [数値概要と変化概要の視覚化](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
       + [テキストのビジュアライゼーション](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
-      + [ツリーマップと散布図のビジュアライゼーション](analysis-workspace/visualizations/treemap-and-scatterplot-visualizations.md)
+      + [散布図のビジュアライゼーション](analysis-workspace/visualizations/scatterplot-visualization.md)
+      + [ツリーマップビジュアライゼーション](analysis-workspace/visualizations/treemap-visualization.md)
       + [ベン図のビジュアライゼーション](analysis-workspace/visualizations/venn-diagram-visualization.md)
       + [累積平均関数を使用した指標スムージングの適用](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [柔軟なレイアウト](analysis-workspace/visualizations/flexible-layouts.md)
