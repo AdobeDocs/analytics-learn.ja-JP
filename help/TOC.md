@@ -102,7 +102,7 @@ ht-degree: 98%
       + [Analysis Workspace での右クリックメニューの使用（続き）](analysis-workspace/building-freeform-tables/continued-right-click-menu-in-analysis-workspace.md)
       + [Analysis Workspace でのクロス販売分析](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [フリーフォームテーブルフィルター](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
-      + [ Analysis Workspace の時間分割ディメンション](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
+      + [Analysis Workspace の時間分割ディメンション](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
       + [Analysis Workspace でのフリーフォームテーブルの合計](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
    + ビジュアライゼーション {#visualizations}
       + [Analysis Workspace でのデータビジュアライゼーション](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
@@ -314,7 +314,7 @@ ht-degree: 98%
    + データフィード {#data-feeds}
       + [データフィード管理 UI](exporting/data-feeds/data-feeds-management-ui.md)
    + Report Builder {#report-builder}
-      + [Report Builder での複数リクエストに対するセグメントの一括追加 ](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
+      + [Report Builder での複数リクエストに対するセグメントの一括追加](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
       + [Report Builder での異常値検出](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [すべてのリクエストにわたる指標の編集](exporting/report-builder/edit-metrics-across-requests.md)
       + [Report Builder を使用した Adobe Analytics API の学習](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
@@ -349,7 +349,7 @@ ht-degree: 98%
    + [ビジネスチャンスへの Adobe Analytics の機械学習と AI の使用](data-science/using-machine-learning-and-ai-for-the-moments-that-matter.md)
    + [Analysis Workspace の異常値検出](data-science/anomaly-detection-in-analysis-workspace.md)
    + [Analysis Workspace での貢献度分析](data-science/contribution-analysis-workspace.md)
-   + [ インテリジェントアラート](data-science/intelligent-alerts.md)
+   + [インテリジェントアラート](data-science/intelligent-alerts.md)
    + [Adobe Analytics と Adobe Sensei - すべてのユーザーが利用できるデータサイエンス](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
 + 業種別 {#vertical-specific}
    + ハイテク {#high-tech}
@@ -371,7 +371,7 @@ ht-degree: 98%
       + [アクション（カスタムリンク）のトラッキング](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [ステート（ページまたは画面）のトラッキング](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
       + [iOS Swift アプリでの実装](https://docs.adobe.com/content/help/ja-JP/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
-      + [iOS Objective-C アプリでの実装](https://docs.adobe.com/content/help/ja-JP/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
+      + [iOS Objective-C アプリでの実装](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
       + [Android アプリでの実装](https://docs.adobe.com/content/help/ja-JP/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
    + モバイル分析の測定 {#measuring-mobile-analytics}
       + [Adobe Mobile Analytics 使用の手引き](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
