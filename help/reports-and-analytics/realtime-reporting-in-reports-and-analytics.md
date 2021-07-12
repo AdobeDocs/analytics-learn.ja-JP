@@ -1,25 +1,24 @@
 ---
-title: Reports and Analyticsのリアルタイムレポート
-description: このビデオでは、AdobeがAdobe AnalyticsのReports & Analyticsのリアルタイムレポートに対して行った更新をいくつか示します。
-feature: Analytics Basics
+title: Reports and Analytics のリアルタイムレポート
+description: このビデオでは、Adobe AnalyticsのReports & Analyticsのリアルタイムレポートに対してAdobeがおこなった更新をいくつか示します。
+feature: Analytics の基本事項
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2360
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 6e434bce-b7da-4ced-94bd-0ad30711fa2c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 3%
+source-wordcount: '53'
+ht-degree: 15%
 
 ---
 
+# [!DNL Reports & Analytics]でのリアルタイムレポート {#real-time-reporting-in-reports-analytics}
 
-# [!DNL Reports & Analytics] {#real-time-reporting-in-reports-analytics}のリアルタイムレポート
-
-このビデオでは、AdobeがAdobe Analyticsの[!UICONTROL Reports &amp; Analytics]の[!UICONTROL リアルタイムレポート]に対して行った更新をいくつか示します。
+このビデオでは、Adobe Analyticsの[!UICONTROL Reports &amp; Analytics]の[!UICONTROL リアルタイムレポート]に対してAdobeがおこなった更新をいくつか示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25454/?quality=12)
