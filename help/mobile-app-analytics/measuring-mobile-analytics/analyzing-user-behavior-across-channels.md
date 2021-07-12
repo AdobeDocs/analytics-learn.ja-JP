@@ -1,22 +1,21 @@
 ---
 title: 各種チャネルでのユーザー行動の分析
 description: フローを使用してモバイルアプリでのユーザーのコンバージョンパスを見つけ、Web などの他のエクスペリエンスと比較する方法について説明します。 多段階のプロセスでコンバージョンを定義および測定して、モバイルアプリの成功を促進します。
-feature: Workspace Basics
+feature: ワークスペースの基本
 topics: mobile
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3053
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '86'
+exl-id: 92af75b4-c1c3-4679-aede-b9e154e9f836
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '83'
 ht-degree: 100%
 
 ---
-
 
 # 各種チャネルでのユーザー行動の分析 {#analyzing-user-behavior-across-channels}
 
