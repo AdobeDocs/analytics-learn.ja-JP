@@ -1,25 +1,24 @@
 ---
-title: 特別なページの起動ルールの作成
-description: 各ページに入るデータに加えて、1ページに入るだけで済むデータもあります。 このビデオでは、そのデータを各ページのデータと結合し、Adobe Analyticsに送信する方法を説明します。
-feature: Launch Implementation
+title: 特別なページ用のLaunchルールの作成
+description: 各ページに格納されるデータに加えて、1ページに格納する必要のあるデータも表示されます。 このビデオでは、そのデータを各ページのデータと結合し、Adobe Analyticsに送信する方法を説明します。
+feature: Launchの実装
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3590
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 7cc9ea3e-1c31-4dac-9f7e-89f7a6ef315b
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
+# 特殊ページ用の[!DNL Launch] [!UICONTROL ルール]の作成
 
-# 特別なページ用の[!DNL Launch] [!UICONTROL ルール]を作成する
-
-各ページに入るデータに加えて、1ページに入るだけで済むデータもあります。 このビデオでは、そのデータを各ページのデータと結合し、Adobe Analyticsに送信する方法を説明します。
+各ページに格納されるデータに加えて、1ページに格納する必要のあるデータも表示されます。 このビデオでは、そのデータを各ページのデータと結合し、Adobe Analyticsに送信する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28770/?quality=12)
