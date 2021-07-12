@@ -1,25 +1,24 @@
 ---
 title: 製品内サポートチケットの送信
-description: 解決に向けてプロセスを効率化するため、UIでカスタマーケアサポートチケットを直接送信できるようになりました。
-feature: Analytics Basics
+description: カスタマーケアサポートチケットをUIで直接送信し、解決に向けたプロセスを合理化できるようになりました。
+feature: Analytics の基本事項
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1664
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: af75cd36-75ff-4892-b8ec-dd5704dabfe3
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 3%
+source-wordcount: '44'
+ht-degree: 22%
 
 ---
 
+# 製品内サポートチケットの送信 {#in-product-support-ticket-submission}
 
-# 製品内サポートチケットの送信{#in-product-support-ticket-submission}
-
-[!DNL Customer Care]サポートチケットをUIに直接送信できるようになり、解決に向けてプロセスを効率化できます。
+UIで[!DNL Customer Care]サポートチケットを直接送信し、解決に向けたプロセスを合理化できるようになりました。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12)
