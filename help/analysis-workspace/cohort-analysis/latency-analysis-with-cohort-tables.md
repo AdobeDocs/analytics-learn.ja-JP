@@ -1,27 +1,26 @@
 ---
-title: コホートテーブルとの待ち時間の分析
-description: コホートテーブルの待ち時間テーブル設定を使用すると、（標準的なコホートが示すようなものではなく）インクルージョンイベントの前後のコホートの動作を分析できます。 この設定は、例えば新製品やキャンペーンの発売の影響を分析する場合に役立ちます。
-feature: Visualizations
+title: コホートテーブルを使用した待ち時間分析
+description: コホートテーブルの待ち時間テーブル設定を使用すると、（標準のコホートが示すように）インクルージョンイベントの前後のコホートの動作を分析できます。 この設定は、例えば、新しい製品やキャンペーンの開始の影響を分析するのに役立ちます。
+feature: ビジュアライゼーション
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25964.jpg
 kt: 2480
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: e31fc334-9a60-4b90-a126-98ff169952b3
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 8%
+source-wordcount: '120'
+ht-degree: 19%
 
 ---
 
+# [!UICONTROL コホートテーブル]を使用した待ち時間分析 {#latency-analysis-with-cohort-tables}
 
-# [!UICONTROL コホートテーブル] {#latency-analysis-with-cohort-tables}との待ち時間分析
-
-[!UICONTROL コホートテーブル]の[!UICONTROL 待ち時間テーブル]設定を使用すると、（標準の[!UICONTROL コホート]が示すようなものではなく）包含イベントの前後で、[!UICONTROL コホート]の動作を分析できます。 この設定は、例えば新製品やキャンペーンの発売の影響を分析する場合に役立ちます。
+[!UICONTROL コホートテーブル]の[!UICONTROL 待ち時間テーブル]設定を使用すると、（標準の[!UICONTROL コホート]図のように）インクルージョンイベントの前後での[!UICONTROL コホート]の動作を分析できます。 この設定は、例えば、新しい製品やキャンペーンの開始の影響を分析するのに役立ちます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25964/?quality=12)
 
