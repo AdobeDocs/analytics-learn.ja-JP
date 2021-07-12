@@ -1,30 +1,29 @@
 ---
-title: Analytics Extensionの起動での一般設定の指定
-description: Adobe別、Adobe Analytics拡張子別の「Launch」の使用を開始する際に、このビデオを使用すると、トラッキングサーバーの設定を含む、設定の一般的な設定部分を習得できます。
-feature: Launch Implementation
+title: Launch Analytics 拡張機能での一般設定の指定
+description: Launch、Adobe、Adobe Analytics拡張機能の使用を開始する際に、このビデオを使用すると、トラッキングサーバーの設定を含む、設定の一般的な設定の部分について説明します。
+feature: Launchの実装
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2837
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 15%
+source-wordcount: '132'
+ht-degree: 21%
 
 ---
 
+# [!DNL Launch Analytics] [!UICONTROL 拡張機能]での[!UICONTROL 一般]設定 {#configuring-general-settings-in-the-launch-analytics-extension}
 
-# [!UICONTROL [!DNL Launch Analytics] [!UICONTROL 拡張子] {#configuring-general-settings-in-the-launch-analytics-extension}の一般設定]の構成
-
-Experience Platform LaunchとAdobe Analytics[!UICONTROL 拡張機能]を使い始めるときに、このビデオを参考にして、設定の[!UICONTROL 一般的な]設定（トラッキングサーバーの設定など）を行ってください。
+Experience Platform LaunchとAdobe Analytics [!UICONTROL Extension]を使い始めたばかりの方は、このビデオを参考にして、設定の[!UICONTROL 一般]設定（トラッキングサーバーの設定を含む）を確認してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=9)
 
-この使用例の側面に関する詳細は、次のドキュメントトピックを参照してください。
+この使用例の側面に関する追加情報については、次のドキュメントトピックを参照してください。
 
 [郵便番号](https://docs.adobe.com/help/en/analytics/components/variables/dimensions-reports/reports-zip.html)
 
