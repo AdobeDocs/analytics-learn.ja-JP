@@ -1,43 +1,42 @@
 ---
 title: タグマネージャーを使用しないカスタムリンクトラッキング
-description: ページ上の多くのアクションでは、追跡をページの表示のように扱わないでください。 このビデオでは、(Experience Platform Launchなどの)タグマネージャーを使用していない場合に、Analyticsにリンクトラッキングビーコンをコーディングする方法を学びます。 コードを参照し、重要なヒントを学びます。
-feature: Appmeasurement Implementation
+description: ページ上の多くのアクションでは、トラッキングをページビューのように扱わないでください。 このビデオでは、タグマネージャー(Experience Platform Launchなど)を使用していない場合に、Analyticsにリンクトラッキングビーコンをコーディングする方法を学びます。 コードを参照し、重要なヒントを確認してください。
+feature: Appmeasurementの実装
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 4%
+source-wordcount: '293'
+ht-degree: 8%
 
 ---
 
+# タグマネージャーを使用しないカスタムリンクトラッキング {#custom-link-tracking-without-a-tag-manager}
 
-# タグマネージャーを使用しないカスタムリンクトラッキング{#custom-link-tracking-without-a-tag-manager}
+ページ上の多くのアクションでは、トラッキングをページビューのように扱わないでください。 このビデオでは、タグマネージャー(Adobe[!DNL Experience Platform Launch]など)を使用していない場合に、Analyticsにリンクトラッキングビーコンをコーディングする方法を学びます。 コードを参照し、重要なヒントを確認してください。
 
-ページ上の多くのアクションでは、追跡をページの表示のように扱わないでください。 このビデオでは、Adobe[!DNL Experience Platform Launch]のようなタグマネージャーを使用していない場合、Analyticsにリンクトラッキングビーコンをコーディングする方法を学びます。 コードを参照し、重要なヒントを学びます。
+## s.tl()ビーコンの送信 {#sending-an-s-tl-beacon}
 
-## s.tl()ビーコンの送信{#sending-an-s-tl-beacon}
+Adobe Analyticsにデータを送信する関数は2つあります。
 
-データをAdobe Analyticsに送信する関数は2つあります。
-
-1. s.t() - 「track」ビーコン。ページ表示のヒットで、特定のページ名のページ表示を増分し、他の変数を設定します
-1. s.tl() - 「リンクを追跡」ビーコン。「カスタムリンク」ヒット/ビーコンと呼ばれることが多く、ページ表示を増分せず、pageName変数を無視します。 これは、通常、ページ上で新しいページや画面を読み込まない小さなアクションや、新しいページを読み込まないその他のアクションを追跡するために使用します。
+1. s.t() - 「track」ビーコン。ページビューヒットで、特定のページ名のページビュー数を増分し、他の変数を設定します。
+1. s.tl() - 「リンクを追跡」ビーコン。「カスタムリンク」ヒット/ビーコンと呼ばれ、ページビューを増分せず、pageName変数を無視します。 これは、一般に、新しいページや画面を読み込まないページ上の小さなアクションや、新しいページ読み込みにつながらないその他のアクションを追跡するために使用されます。
 
 >[!NOTE]
 >
->このビデオでは、Adobe[!DNL Experience Platform Launch]のようなタグマネージャーを使用していない場合に、カスタムリンクヒットをコード化する方法を示します。 導入のベストプラクティスとして、[!DNL Experience Platform Launch]を使用することをお勧めします。 ただし、`s.tl()`内のコードを記述する必要がある場合は、次の方法を使用します。
+>このビデオでは、Adobe[!DNL Experience Platform Launch]のようなタグマネージャーを使用していない場合に、カスタムリンクヒットをコード化する方法を示します。 実装のベストプラクティスとして、[!DNL Experience Platform Launch]を使用することをお勧めします。 ただし、`s.tl()`にコードを記述する必要がある場合は、次の方法を使用します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12)
 
 ## サンプルコード {#sample-code}
 
-ビデオ内のカスタムリンクで使用されているサンプルコードを次に示します。
+次に、ビデオのカスタムリンクで使用されるサンプルコードを示します。
 
 ```JavaScript
 <a href="#" onclick="
