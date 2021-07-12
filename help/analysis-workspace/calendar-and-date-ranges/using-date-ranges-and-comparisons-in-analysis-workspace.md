@@ -1,22 +1,21 @@
 ---
-title: Analysis Workspaceでの日付範囲と比較の使用
+title: Analysis Workspace での日付範囲と日付比較の使用
 description: このビデオでは、日付、日付範囲および日付比較を使用して、テーブルとビジュアライゼーションを適切な時間枠にカスタマイズする方法を学習します。
-feature: Calendar
+feature: カレンダー
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4105
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 0962f332-acc7-4ebe-9841-4d3fdf1d77b3
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 13%
+source-wordcount: '86'
+ht-degree: 30%
 
 ---
-
 
 # Analysis Workspaceでの[!UICONTROL 日付範囲]と比較の使用
 
