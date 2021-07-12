@@ -1,25 +1,24 @@
 ---
-title: Adobe Analyticsの機械学習とAIをその瞬間に使う
-description: 顧客情報は、これまで以上に有望でした。 しかし、組織全体のビジネスユーザーに役立つデータを集め、それに従って重要なトレンドを捉えることは、上級のデータ科学チームが単独で取り扱うことのできることではありません。 すでに収集したデータを活用することは、Adobe SenseiAIとAdobe Analyticsの機械学習機能が最も優れている点です。
-feature: Data Science
+title: ビジネスチャンスへの Adobe Analytics の機械学習と AI の使用
+description: カスタマー・インテリジェンスは、これまで以上に有望な実績を持っていません。 しかし、組織全体のビジネスユーザーに役立つデータを統合し、それに対して時間の経過と共に重要な傾向を捉えることは、上級のデータサイエンスチームが単独で扱うことのできることではありません。 既に収集しているデータを活用することは、Adobe AnalyticsのAdobe Sensei AIと機械学習機能が優れている点です。
+feature: データサイエンス
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2340
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 8b59b6d3-3754-464d-ac87-7b57ce442676
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 1%
+source-wordcount: '160'
+ht-degree: 16%
 
 ---
 
+# ビジネスチャンスへの Adobe Analytics の機械学習と AI の使用 {#using-adobe-analytics-machine-learning-and-ai-for-the-moments-that-matter}
 
-# Adobe Analyticsの機械学習とAIを{#using-adobe-analytics-machine-learning-and-ai-for-the-moments-that-matter}に使う
-
-顧客情報は、これまで以上に有望でした。 しかし、組織全体のビジネスユーザーに役立つデータを集め、それに従って重要なトレンドを捉えることは、上級のデータ科学チームが単独で取り扱うことのできることではありません。 すでに収集したデータを活用することは、Adobe SenseiAIとAdobe Analyticsの機械学習機能が最も優れている点です。
+カスタマー・インテリジェンスは、これまで以上に有望な実績を持っていません。 しかし、組織全体のビジネスユーザーに役立つデータを統合し、それに対して時間の経過と共に重要な傾向を捉えることは、上級のデータサイエンスチームが単独で扱うことのできることではありません。 既に収集しているデータを活用することは、Adobe AnalyticsのAdobe Sensei AIと機械学習機能が優れている点です。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25837/?quality=12)
