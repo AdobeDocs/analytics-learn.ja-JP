@@ -1,26 +1,25 @@
 ---
-title: Analytics forAdvertising Cloud DSP統合の概要
-description: Advertising Cloud DSP版Analyticsの統合は、Adobe AnalyticsとAdobe Advertising Cloudの間のネイティブの双方向の統合です。 この統合により、Advertising Cloudの広告インプレッションからビュースルー数を取り込んでAnalyticsに取り込むことができます。 その後、Analyticsはビュースルーを（クリックスルーと同様に）ダウンストリームサイトのすべてのアクティビティに接続できます。 その後、Analyticsは指標をAdvertising Cloudに渡して、高度なアルゴリズム入札モデルで使用できます。 このビデオでは、ビュースルーの概要、統合の利点、Analysis Workspaceの新しいDimension/指標の使用例を取り上げます。
-feature: Advertising Cloud Integration
+title: Analytics for Advertising Cloud DSP 統合の概要
+description: Analytics for Advertising Cloud DSPの統合は、Adobe AnalyticsとAdobe Advertising Cloudの間のネイティブな双方向統合です。 この統合を使用すると、お客様は、Advertising Cloudの広告インプレッションからAnalyticsにビュースルーを取り込むことができます。 その後、Analyticsは、ビュースルーを（クリックスルーと同様に）すべてのダウンストリームサイトアクティビティに接続できます。 その後、Analyticsは指標をAdvertising Cloudに渡して、高度なアルゴリズム入札モデルで使用できます。 このビデオでは、ビュースルーの概要、統合のメリット、Analysis Workspaceでの新しいDimension/指標の使用例を説明します。
+feature: Advertising Cloud統合
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 2913
-topic: Integrations
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+topic: 統合
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 66fb50e7-6500-4b16-beab-7ceac17f9245
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 0%
+source-wordcount: '187'
+ht-degree: 5%
 
 ---
 
+# [!DNL Analytics for Advertising Cloud] DSP統合の概要 {#introduction-to-the-analytics-for-advertising-cloud-dsp-integration}
 
-# [!DNL Analytics for Advertising Cloud] DSP統合の概要{#introduction-to-the-analytics-for-advertising-cloud-dsp-integration}
-
-[!DNL Analytics for Advertising Cloud] DSP統合は、Adobe AnalyticsとAdobe Advertising Cloudの間のネイティブの双方向統合です。 この統合により、顧客はAdvertising Cloud広告インプレッションから`Viewthroughs`を[!DNL Analytics]に取り込むことができます。 [!DNL Analytics] その後、（と同様に）す `Viewthroughs` べての下流サイトアクティビティに接続でき `Clickthrough`ます。[!DNL Analytics] に戻 [!DNL metrics] して、高度なアルゴリズム入札モデル [!DNL Advertising Cloud] で使用できます。このビデオでは、`Viewthrough`の概要、統合の利点、および[!UICONTROL Analysis Workspace]の新しい[!UICONTROL Dimension]と[!UICONTROL 指標]を使用する基本的な例を取り上げます。
+[!DNL Analytics for Advertising Cloud] DSP統合は、Adobe AnalyticsとAdobe Advertising Cloudの間のネイティブな双方向統合です。 この統合により、お客様はAdvertising Cloudの広告インプレッションから`Viewthroughs`を[!DNL Analytics]に取り込むことができます。 [!DNL Analytics] その後、を（と同様に）す `Viewthroughs` べてのダウンストリームサイトアクティビティに接続で `Clickthrough`きます。[!DNL Analytics] その後、をに渡し [!DNL metrics] て、高度 [!DNL Advertising Cloud] なアルゴリズム入札モデルで使用できます。このビデオでは、`Viewthrough`の概要、統合のメリット、および[!UICONTROL Analysis Workspace]の新しい[!UICONTROL Dimension]と[!UICONTROL 指標]の使用例を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27237/?quality=9)
