@@ -3,23 +3,22 @@ title: カスタムテンプレートを使用した Analysis Workspace 初級�
 seo-title: カスタムテンプレートを使用した Analysis Workspace 初級ユーザーの支援
 description: このビデオでは、カスタムテンプレートとコピー＆ペースト／挿入機能を組み合わせて、組織の初級ユーザーにより良いサービスを提供する方法を説明します。
 seo-description: このビデオでは、カスタムテンプレートとコピー＆ペースト／挿入機能を組み合わせて、組織の初級ユーザーにより良いサービスを提供する方法を説明します。
-feature: Projects
+feature: プロジェクト
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1694
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '149'
+exl-id: 9766aff9-1025-43a1-bdf3-3559d48060a1
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '146'
 ht-degree: 100%
 
 ---
-
 
 # カスタムテンプレートを使用した Analysis Workspace 初級ユーザーの支援 {#using-custom-templates-to-enable-novice-analysis-workspace-users}
 
