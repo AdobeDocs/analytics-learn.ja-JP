@@ -2,13 +2,13 @@
 title: セグメントの検索と作成
 description: コホート、フォールアウト、フローを含む、Analysis Workspace の様々なツールをまたいで、分析全体でセグメントを作成および検索する方法を学習します。
 feature: セグメント化
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334092.jpg
 kt: 8058
 exl-id: ea359d50-b24b-406d-bf0e-0277351a0be9
-source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 85%
