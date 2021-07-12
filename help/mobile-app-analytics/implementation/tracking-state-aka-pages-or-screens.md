@@ -1,23 +1,22 @@
 ---
 title: Experience Platform SDK を使用したモバイルアプリでのステート（ページまたは画面）のトラッキング
 description: ステートは、アプリ内の画面またはビューを表します。 アプリケーションで新しいステートが表示されるたびに、例えばホームページからニュースフィードに移動すると、「trackState」が呼び出され、ステート名（Analytics ではページ名）に加え、追加のデータが送信されます。 このビデオでは、その方法について順を追って説明します。
-feature: Mobile SDK
+feature: モバイル SDK
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2562
-topic: Mobile
-role: "Developer, Data Engineer"
+topic: モバイル
+role: Developer, Data Engineer
 level: Experienced
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '171'
+exl-id: e58f7e86-dc61-44eb-a44e-fe5e984d8248
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '167'
 ht-degree: 100%
 
 ---
-
 
 # Experience Platform SDK を使用したモバイルアプリでのステート（ページまたは画面）のトラッキング {#tracking-state-aka-pages-or-screens-in-a-mobile-app-with-the-experience-platform-sdk}
 
