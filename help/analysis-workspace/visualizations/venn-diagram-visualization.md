@@ -1,26 +1,25 @@
 ---
-title: Analysis Workspaceのベン図の可視化
-description: ベン図のビジュアライゼーションを使用して、Analysis Workspaceでセグメントの重なりと交差を視覚的に表示できます。 驚くべき洞察力に満ちたベン図を数秒で簡単に作成できます このビデオでは、その方法を紹介します。
-feature: Visualizations
+title: Analysis Workspaceでのベン図のビジュアライゼーション
+description: ベン図のビジュアライゼーションを使用して、Analysis Workspaceでセグメントの重複と積集合を視覚的に表示できます。 素晴らしく洞察に富んだベン図を数秒で簡単に作成できます。 このビデオでは、方法を説明します。
+feature: ビジュアライゼーション
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2118
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 655034a6-42b9-4437-961b-02ad3da57d83
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '104'
 ht-degree: 9%
 
 ---
 
+#  Analysis Workspaceでのベン図  のビジュアライゼーション {#venn-diagram-visualization-in-analysis-workspace}
 
-# [!UICONTROL Analysis Workspace] でのベン図  の可視化  {#venn-diagram-visualization-in-analysis-workspace}
-
-[!UICONTROL ベン]図[!UICONTROL ビジュアライゼーション]を使用して、Analysis Workspaceで[!UICONTROL セグメント]の重なりと交差を視覚的に表示できます。 驚くべき洞察力に満ちた[!UICONTROL ベン]図を数秒で簡単に作れます。 このビデオでは、その方法を紹介します。
+Analysis Workspaceの[!UICONTROL ベン図[!UICONTROL ビジュアライゼーション]を使用して、[!UICONTROL セグメント]の重複と積集合を視覚的に表示できます。 ]素晴らしく洞察に富んだ[!UICONTROL ベン]図を数秒で簡単に作成できます。 このビデオでは、方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23987/?quality=12)
 
