@@ -5,11 +5,11 @@ feature: ビジュアライゼーション
 activity: use
 doc-type: feature video
 kt: 2116
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 369904c2-5de9-495c-abd2-0c3900f6c49f
 thumbnail: 23989.jpg
-source-git-commit: 758d33b8f4dcb48066d4d2f4f79e2c0e0e59e8b9
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 8%
