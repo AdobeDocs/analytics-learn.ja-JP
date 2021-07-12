@@ -1,25 +1,24 @@
 ---
-title: Adobe AnalyticsActivity Mapの有効化、デバッグ、カスタマイズ
-description: Adobe Analytics拡張機能でのActivity Mapのデプロイ方法を有効化、デバッグ、カスタマイズする方法について説明します。
+title: Adobe Analytics Activity Map の有効化、デバッグ、カスタマイズ
+description: Adobe Analytics拡張機能でActivity Mapを有効化、デバッグ、デプロイする方法のカスタマイズについて説明します。
 feature: Activity Map
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1995
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 4160b974-fbdb-42e7-b77d-e1322db433b3
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 3%
+source-wordcount: '56'
+ht-degree: 19%
 
 ---
 
+# Adobe Analytics [!UICONTROL Activity Map]の有効化、デバッグおよびカスタマイズ {#enabling-debugging-and-customizing-the-adobe-analytics-activity-map}
 
-# Adobe Analytics[!UICONTROL Activity Map] {#enabling-debugging-and-customizing-the-adobe-analytics-activity-map}の有効化、デバッグ、カスタマイズ
-
-Adobe Analyticsの拡張機能で[!UICONTROL Activity Map]を展開する方法を有効にし、デバッグし、カスタマイズする方法を学びます。
+Adobe Analytics拡張機能で[!UICONTROL Activity Map]をデプロイする方法を、有効、デバッグおよびカスタマイズする方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12)
