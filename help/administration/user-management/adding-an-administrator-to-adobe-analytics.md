@@ -1,24 +1,23 @@
 ---
 title: Adobe Analytics への管理者の追加
 description: Adobe Admin Console で管理者としてユーザーを追加する方法を説明します。
-feature: User Management
+feature: ユーザー管理
 topics: null
 activity: setup
 doc-type: feature video
 team: Evangelism
 thumbnail: 37648.jpg
 kt: 5520
-topic: Administration
-role: Administrator
+topic: 管理
+role: Admin
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 2d8692e0-a2f9-4edc-9a26-421aeac4a85a
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 85%
+source-wordcount: '55'
+ht-degree: 87%
 
 ---
-
 
 # Adobe Analytics への管理者の追加
 
