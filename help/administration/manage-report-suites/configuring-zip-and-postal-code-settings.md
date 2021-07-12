@@ -1,30 +1,29 @@
 ---
-title: Adobe Analyticsでの郵便番号設定の指定
-seo-title: Adobe Analyticsでの郵便番号設定の指定
-description: このビデオでは、郵便番号の設定方法を学び、この地域のデータに基づいて分析を行うことができます。
-seo-description: このビデオでは、郵便番号の設定方法を学び、この地域のデータに基づいて分析を行うことができます。
-feature: Data Configuration and Collection
+title: Adobe Analyticsでの郵便番号の設定
+seo-title: Adobe Analyticsでの郵便番号の設定
+description: このビデオでは、この地域データに基づいて分析を実行できるように、郵便番号を設定する方法について説明します。
+seo-description: このビデオでは、この地域データに基づいて分析を実行できるように、郵便番号を設定する方法について説明します。
+feature: データの設定と収集
 topics: null
 activity: setup
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2679
-topic: Administration
-role: "Administrator, Architect"
+topic: 管理
+role: Admin, Architect
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 39adbd25-da7f-4b7a-ae43-6681d675b46d
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
 
+# Adobe Analyticsでの[!UICONTROL 郵便番号の設定] {#configuring-zip-and-postal-code-settings-in-adobe-analytics}
 
-# Adobe Analytics{#configuring-zip-and-postal-code-settings-in-adobe-analytics}の[!UICONTROL 郵便番号の設定]
-
-このビデオでは、[!UICONTROL zip]と郵便番号の設定を行う方法を学び、この地域のデータに基づいて分析を行うことができます。
+このビデオでは、[!UICONTROL zip]と郵便番号の設定方法を学習し、この地域のデータに基づいて分析を行うことができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12)
 
