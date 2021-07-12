@@ -1,26 +1,25 @@
 ---
-title: Analysis Workspaceでのキーボードショートカット
-description: 'このビデオでは、Analysis Workspaceのキーボードショートカットオプションを使って、より迅速かつ効率的に移動する方法を説明します。 '
-feature: Workspace Basics
+title: Analysis Workspaceのキーボードショートカット
+description: 'このビデオでは、Analysis Workspaceのキーボードショートカットオプションを使用して、より迅速かつ効率的に移動する方法を説明します。 '
+feature: Workspace の基本
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2031
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: f344469b-b925-4978-918f-5204f6f10094
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 0%
+source-wordcount: '73'
+ht-degree: 2%
 
 ---
 
+# Analysis Workspaceのキーボードショートカット {#keyboard-shortcuts-in-analysis-workspace}
 
-# Analysis Workspace{#keyboard-shortcuts-in-analysis-workspace}のキーボードショートカット
-
-このビデオでは、Analysis Workspaceのキーボードショートカットオプションを使って、より迅速かつ効率的に移動する方法を説明します。
+このビデオでは、Analysis Workspaceのキーボードショートカットオプションを使用して、より迅速かつ効率的に移動する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23984/?quality=12)
 
