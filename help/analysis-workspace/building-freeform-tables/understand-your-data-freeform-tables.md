@@ -2,13 +2,13 @@
 title: データについて：フリーフォームテーブル
 description: フリーフォームテーブル (ピボットテーブル) を使用して、データを把握および解釈し、有益なインサイトを見つけます。
 feature: フリーフォームテーブル
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334093.jpg
 kt: 8059
 exl-id: a074d503-94f2-449f-8d3e-8bb599752981
-source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 81%
