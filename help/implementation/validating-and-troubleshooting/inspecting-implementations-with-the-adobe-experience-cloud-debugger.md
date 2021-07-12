@@ -1,29 +1,28 @@
 ---
-title: Adobe Experience Cloudデバッガを使用した実装の検査
-description: Experience Cloudデバッガは、Experience Cloudタグの検査とデバッグを行うツールです。 このビデオでは、Experience Cloud Debuggerを使用してAnalyticsの実装を調査する方法を説明します。
-feature: Validation
+title: Adobe Experience Cloud Debugger を使用した実装の検査
+description: Experience Cloudデバッガーは、ユーザーがタグの検査とデバッグを行うためのExperience Cloudです。 このビデオでは、Experience Cloud Debuggerを使用してAnalyticsの実装を調べる方法を説明します。
+feature: 検証
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1942
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: c13a5973-3c7a-4980-95c5-447b50b962c7
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 0%
+source-wordcount: '106'
+ht-degree: 14%
 
 ---
 
+# [!DNL Adobe Experience Cloud Debugger]を使用した実装の検査 {#inspecting-implementations-with-the-adobe-experience-cloud-debugger}
 
-# [!DNL Adobe Experience Cloud Debugger] {#inspecting-implementations-with-the-adobe-experience-cloud-debugger}を使用した実装の検査
-
-[!DNL Experience Cloud debugger]は、Experience Cloudタグの検査とデバッグを可能にするツールです。 このビデオでは、[!DNL Experience Cloud Debugger]を使用して[!DNL Analytics]実装を検査する方法を説明します。
+[!DNL Experience Cloud debugger]は、ユーザーがタグの検査とデバッグを行えるExperience Cloudです。 このビデオでは、 [!DNL Experience Cloud Debugger]を使用して[!DNL Analytics]実装を調べる方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23878/?quality=12)
 
-様々なページで実行される内容を確認し、変数のわかりやすい名前を読み込み、高度な使用例のために結果を書き出す方法を学びます。
+様々なページで実行される処理の確認、変数のわかりやすい名前の読み込み、高度な使用例の結果の書き出しの方法を学びます。
 
 詳しくは、[ドキュメント](https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/experience-cloud-debugger.html)を参照してください。
