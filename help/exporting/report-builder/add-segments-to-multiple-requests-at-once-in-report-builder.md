@@ -1,27 +1,26 @@
 ---
-title: Adobe Analytics追加は、Report Builderで複数のリクエストにセグメント化
-description: このビデオでは、Report Builderを使用してすべてのリクエストにセグメントを一度に追加する方法を説明します。これにより、時間と手間を省くことができます。
+title: Adobe Analyticsセグメントを複数のリクエストに一度にReport Builder
+description: このビデオでは、Report Builderを使用して、すべてのリクエストにセグメントを一度に追加し、時間と手間を省く方法を示します。
 feature: Report Builder
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2344
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: db5b7623-d863-4ecd-9902-8b20f6aea257
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 10%
+source-wordcount: '93'
+ht-degree: 20%
 
 ---
 
+# [!UICONTROL Report Builder]でAdobe Analyticsセグメントを複数のリクエストに一度に追加する {#add-adobe-analytics-segments-to-multiple-requests-at-once-in-report-builder}
 
-# Adobe Analytics追加は、[!UICONTROL Report Builder] {#add-adobe-analytics-segments-to-multiple-requests-at-once-in-report-builder}内で一度に複数のリクエストにセグメント化
-
-このビデオでは、[!UICONTROL Report Builder]を使用して、すべてのリクエストにセグメントを一度に追加する方法を説明します。時間と手間が省けます。
+このビデオでは、[!UICONTROL Report Builder]を使用して、すべてのリクエストにセグメントを一度に追加し、時間と手間を省く方法を示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12)
 
-この機能の詳細については、[ドキュメント](https://marketing.adobe.com/resources/help/ja_JP/arb/index.html)を参照してください。
+この機能について詳しくは、[ドキュメント](https://marketing.adobe.com/resources/help/ja_JP/arb/index.html)を参照してください。
