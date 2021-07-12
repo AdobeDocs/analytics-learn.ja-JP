@@ -1,26 +1,25 @@
 ---
 title: Analysis Workspace でのキュレーションと共有
-description: Analysis Workspaceでプロジェクトを構築したら、プロジェクトをキュレーション（シンプル化）し、組織内の他のチームや個人と共有して、そのプロジェクトを調査し、データを使用して自己管理できます。 このビデオでは、キュレーションと共有の操作方法を説明します。
-feature: Curate and Share
+description: Analysis Workspaceでプロジェクトを作成したら、プロジェクトをキュレーション（シンプル化）し、組織内の他のチームや個人と共有して、そのチームや個人がプロジェクトを調査し、データを活用してセルフサービスを提供できます。 このビデオでは、キュレーションと共有の操作方法を説明します。
+feature: キュレーションと共有
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2294
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 892b7f9d-9351-4c68-a54f-85803a67c072
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 16%
+source-wordcount: '126'
+ht-degree: 19%
 
 ---
 
+# [!UICONTROL Analysis Workspace でのキュレーションと共有] {#curation-and-sharing-in-analysis-workspace}
 
-# Analysis Workspace でのキュレーションと共有 {#curation-and-sharing-in-analysis-workspace}
-
-Analysis Workspaceでプロジェクトを構築したら、[!UICONTROL キュレーション]（シンプル化）して、組織内の他のチームや個人と共有し、調査してデータを使用して自己処理できるようにします。 このビデオでは、[!UICONTROL キュレーション]と共有の使い方を紹介します。
+Analysis Workspaceでプロジェクトを構築したら、[!UICONTROL キュレーション]（シンプル化）して、組織内の他のチームや個人と共有し、プロジェクトを調査してデータを活用できるようにします。 このビデオでは、[!UICONTROL キュレーション]と共有の使い方を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24711/?quality=12)
 
