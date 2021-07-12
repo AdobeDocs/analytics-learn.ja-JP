@@ -1,24 +1,23 @@
 ---
-title: 計算指標 — 指標セレクター
+title: 計算指標 - 指標セレクター
 description: Adobe Analyticsの指標セレクターの概要
-feature: Calculated Metrics
+feature: 計算指標
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2317
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 2bd83c8d-c2a8-4279-8402-aeb052e8d18f
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '29'
-ht-degree: 6%
+source-wordcount: '26'
+ht-degree: 23%
 
 ---
 
-
-# [!UICONTROL 計算指標]:指標セレクター  {#calculated-metrics-metric-selector}
+# [!UICONTROL 計算指標]:指標セレクター {#calculated-metrics-metric-selector}
 
 Reports &amp; Analyticsの指標セレクターの概要
 
