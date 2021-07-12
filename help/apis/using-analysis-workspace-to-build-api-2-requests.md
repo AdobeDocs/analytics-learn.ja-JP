@@ -7,16 +7,15 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2386
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Experienced
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '124'
+exl-id: c2bf15d7-4614-4bda-83de-1a45b5f98c7b
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '120'
 ht-degree: 100%
 
 ---
-
 
 # Analysis Workspace を使用した Adobe Analytics API 2.0 リクエストの作成 {#using-analysis-workspace-to-build-adobe-analytics-api-requests}
 
