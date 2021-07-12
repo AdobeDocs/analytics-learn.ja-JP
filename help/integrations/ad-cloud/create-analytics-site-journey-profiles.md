@@ -1,24 +1,23 @@
 ---
 title: Analytics サイトのジャーニープロファイルの作成
 description: Adobe Analytics を使用して、Advertising Cloud リマーケティング用の堅牢なサイトリターゲティングプールを作成する方法。
-feature: Advertising Cloud Integration
+feature: Advertising Cloud統合
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35116.jpg
 kt: 5473
-topic: Integrations
-role: Business Practitioner
+topic: 統合
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: c0c7c77e-ba24-48b3-a793-a519fbd45e12
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 55%
+source-wordcount: '44'
+ht-degree: 59%
 
 ---
-
 
 # Analytics サイトのジャーニープロファイルの作成
 
