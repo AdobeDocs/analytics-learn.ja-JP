@@ -1,27 +1,26 @@
 ---
-title: Project Converterを使用したプロジェクトのAd Hoc AnalysisからAnalytics Workspaceへの移動
-description: Ad Hoc Analysisプロジェクトコンバーターは、Ad Hoc Analysis(AHA)プロジェクトをAnalysis Workspaceプロジェクトにシームレスに変換します。
-feature: Experience Cloud Integration
+title: プロジェクトコンバーターを使用した Ad Hoc Analysis から Analytics Workspace へのプロジェクトの移行
+description: Ad Hoc Analysis Project Converterは、ボタンをクリックするだけで、Ad Hoc Analysis(AHA)プロジェクトをAnalysis Workspaceプロジェクトにシームレスに変換します。
+feature: Experience Cloud 統合
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1641
-topic: Integrations
-role: Business Practitioner
+topic: 統合
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 04dfc59e-d7a8-4477-bc98-2bd63debf81f
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 3%
+source-wordcount: '89'
+ht-degree: 24%
 
 ---
 
+# プロジェクトコンバーターを使用した[!DNL Ad Hoc Analysis]から[!UICONTROL Analysis Workspace]へのプロジェクトの移動 {#using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace}
 
-# プロジェクトコンバータを使用してプロジェクトを[!DNL Ad Hoc Analysis]から[!UICONTROL Analysis Workspace] {#using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace}に移動する
-
-[!UICONTROL Ad Hoc Analysis]プロジェクトコンバータは、[!UICONTROL Ad Hoc Analysis](AHA)プロジェクトを[!UICONTROL Analysis Workspace]プロジェクトに、ボタンをクリックするだけでシームレスに変換します。
+[!UICONTROL Ad Hoc Analysis]プロジェクトコンバーターは、[!UICONTROL Ad Hoc Analysis](AHA)プロジェクトを、ボタンをクリックするだけで[!UICONTROL Analysis Workspace]プロジェクトにシームレスに変換します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23118/?quality=12)
 
