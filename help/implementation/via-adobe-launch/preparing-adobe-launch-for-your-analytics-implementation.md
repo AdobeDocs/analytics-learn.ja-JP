@@ -1,25 +1,24 @@
 ---
-title: Analytics導入のExperience Platform Launch準備
-description: AnalyticsをLaunchに実装する前に、いくつかのドキュメントが待機している必要があり、AnalyticsとLaunchの両方で、いくつかの設定をシステムに行う必要があります。 このビデオはそれらのことを詳しく解説している。
-feature: Launch Implementation
+title: Analytics 実装用の Experience Platform Launch の準備
+description: LaunchにAnalyticsを実装する前に、ドキュメントを準備しておく必要があります。また、AnalyticsとLaunchの両方で、システムにいくつかの設定をおこなう必要があります。 このビデオはその事を詳しく解説しています
+feature: Launchの実装
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3584
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 057b7a82-882d-4cee-beb0-2dfc1e6c94b4
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 8%
 
 ---
 
+# [!DNL Analytics]実装の[!DNL Experience Platform Launch]の準備
 
-# [!DNL Analytics]実装の[!DNL Experience Platform Launch]準備
-
-[!DNL Analytics]の実装にExperience Platform Launchを使う前に、いくつかのドキュメントを用意しておく必要があります。また、[!DNL Analytics]と[!DNL Launch]の両方で、既にいくつかの要素をシステムにセットアップしておく必要があります。 このビデオはそれらのことを詳しく解説している。
+Experience Platform Launchを使用して[!DNL Analytics]を実装する前に、ドキュメントを準備しておく必要があり、[!DNL Analytics]と[!DNL Launch]の両方で、システム内のいくつかの設定を既に済ませておく必要があります。 このビデオはその事を詳しく解説しています
 
 >[!VIDEO](https://video.tv.adobe.com/v/28752/?quality=12)
