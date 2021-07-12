@@ -1,39 +1,38 @@
 ---
-title: Adobe Analyticsの学習ジャーニーを継続するためのヒント
-description: この記事では、Adobe Analyticsから最大の価値を得る方法に関するヒントとテクニックを持つ3人のAdobeユーザーに会います。
-feature: Workspace Basics
+title: Adobe Analytics のラーニングジャーニーを継続するためのお客様向けヒント
+description: この記事では、Adobe Analyticsから最大限の価値を引き出す方法に関するヒントとテクニックを持つ3人のAdobeユーザーを紹介します。
+feature: Workspace の基本
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 kt: 4111
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: af24fd66-a4a9-439a-b722-226f4def861a
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '337'
-ht-degree: 0%
+source-wordcount: '334'
+ht-degree: 5%
 
 ---
 
+# Adobe Analytics のラーニングジャーニーを継続するためのお客様向けヒント
 
-# Adobe Analyticsの学習ジャーニーを継続するためのヒント
+この記事では、Adobe Analyticsから最大限の価値を引き出す方法に関するヒントとテクニックを持つ3人のAdobeユーザーを紹介します。
 
-この記事では、Adobe Analyticsから最大の価値を得る方法に関するヒントとテクニックを持つ3人のAdobeユーザーに会います。
+## Adobe Analytics Learningジャーニーの続行方法
 
-## Adobe Analytics学習ジャーニーの続き
+ベテランAdobe Analyticsユーザーのヒント
 
-ベテラン・Adobe Analytics・ユーザーズのヒント
-
-| お客様：<br>Jason Klapmeier | 3MのグローバルAnalytics機能リーダー |
+| お客様：<br>Jason Klapmeier | 3 MでのGlobal Analytics機能のリーダー |
 |------------|------------|
-| ![ジェイソンクラプマイヤー](assets/jasonklapmeier.jpg) | **学び続け、Adobe Analyticsで素晴らしいことをできます** <br> 「Adobe Analyticsでの専門知識の発展に伴って期待できることをお見せするために、Adobe Analyticsの能力を最大限に活かすために活用できた興味深い機能を紹介します。  <br><br><ul><li>複雑なセグメントの作成</li><li>最も重要な指標の定義</li><li>独自のエンゲージメントインデックスの作成</li><li>予測分析への積極的な取り組み»</li></ul><br>[Jasonのヒントを読む](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/Incredible-Things-You-Can-Do-in-Adobe-Analytics/td-p/354333) |
+| ![ジャソン・クラプマイヤー](assets/jasonklapmeier.jpg) | **学習を続け、Adobe Analyticsで素晴らしいことを実行できます。** <br>  「Adobe Analyticsの専門知識が成長するにつれて期待できることを味わうために、Adobe Analyticsの機能を最大限に活用するために活用できた興味深い機能の一部を紹介します。  <br><br><ul><li>複雑なセグメントの作成</li><li>最も重要な指標の定義</li><li>独自のエンゲージメントインデックスの作成</li><li>予測分析への冒険»</li></ul><br>[Jasonのヒントを読む](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/Incredible-Things-You-Can-Do-in-Adobe-Analytics/td-p/354333) |
 
 | お客様：<br>Jason Jamnik | Follett CorporationのAnalytics Manager |
 |------------|------------|
-| ![ジェイソンクラプマイヤー](assets/jasonjamnik.jpg) | **Adobe Analyticsを使うときの専門家になったリソースは** <br> 「基本に立ち止まらないで！Adobe Analyticsの基本原則を理解できたので、学習を続け、より複雑な使用例を引き継ぐ準備が整いました。 以下は、私が使用したリソースと、Follettのチームに参加した際に新しいアナリストに伝えるヒントです。」<br><br>[Jasonのヒントを読む](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/Here-are-the-resources-I-used-to-become-an-expert-at-using-Adobe/m-p/354226) |
+| ![ジャソン・クラプマイヤー](assets/jasonjamnik.jpg) | **Adobe Analyticsの使い方の専門家になったリソースを紹介します** <br> 。Adobe Analyticsの基本を習得したので、学習を続け、より複雑な使用例に取り組む準備が整いました。 ここで私が使ったリソースと、Follettのチームに参加した際に新しくアナリストに伝えるヒントを紹介します。<br><br>[Jasonのヒントを読む](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/Here-are-the-resources-I-used-to-become-an-expert-at-using-Adobe/m-p/354226) |
 
-| お客様：<br>Sam Liss | Equinoxの分析エンジニア |
+| お客様：<br>Sam Liss | Analyticsエンジニア(Equinox) |
 |------------|------------|
-| ![サム・リス](assets/samliss.jpg) | **別の解析製品からAdobe Analyticsへの移行に関するヒント** <br> 「別の解析プラットフォームから移行する場合は、よりカスタマイズ可能なガバナンス、高いセキュリティ、多数のマーケティングプラットフォーム統合に取り組もうとしています。フリーフォーム [!UICONTROL テーブルと]   フローのビジュアライゼーションは他の解析プラットフォームとは異なります。」<br><br>[サムのヒントを読む](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/An-Analyst-s-Quick-Start-Guide-Switching-to-Adobe/td-p/354312) |
+| ![サムリス](assets/samliss.jpg) | **別の分析製品からAdobe Analyticsに移行するためのヒント** <br> 「別の分析プラットフォームから移行する場合は、よりカスタマイズ可能なガバナンス、高いセキュリティ、多数のマーケティングおよびデータプラットフォーム統合の世界に着手しようとしていま [!UICONTROL す....フリーフォームテーブ] ルと  フローのビジュアライゼーション。<br><br>[サムのヒントを読む](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/An-Analyst-s-Quick-Start-Guide-Switching-to-Adobe/td-p/354312) |
