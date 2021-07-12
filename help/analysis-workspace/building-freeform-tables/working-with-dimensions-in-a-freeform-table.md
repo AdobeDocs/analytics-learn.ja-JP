@@ -1,39 +1,38 @@
 ---
 title: フリーフォームテーブルでのディメンションの操作
-description: フリーフォームテーブルのディメンションの追加、並べ替え、フィルター、他のディメンションによる分類など、ディメンションの操作について説明します。
-feature: Dimensions
+description: ディメンションの追加、並べ替え、フィルタリング、他のディメンションによる分類など、フリーフォームテーブルでのディメンションの操作に関するすべての詳細を説明します。
+feature: ディメンション
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40179.jpg
 kt: 6176
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db,ac127eac-2752-424b-aa1b-18a9688d42db,73791a22-a4f1-4fc9-a192-b7aa1d8b9142
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '90'
 ht-degree: 16%
 
 ---
 
-
 # フリーフォームテーブルでのディメンションの操作
 
-フリーフォームテーブルのディメンションの追加、並べ替え、フィルター、他のディメンションによる分類など、ディメンションの操作について説明します。
+ディメンションの追加、並べ替え、フィルタリング、他のディメンションによる分類など、フリーフォームテーブルでのディメンションの操作に関するすべての詳細を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40179/?quality=12&learn=on)
 
-時間など、このビデオで扱うトピックを次に示します。
+このビデオで扱うトピック（時間など）:
 
 * 基本(0:00)
 * ドロップゾーンガイド(1:27)
-* ページネーションとフィルタリング(2:45)
-* 追加Dimension項目(4:30)
-* プレビューDimension項目(5:15)
+* ページネーションとフィルタ(2:45)
+* Dimension項目の追加(4:30)
+* Dimension項目のプレビュー(5:15)
 * 時間ベースのDimension(5:59)
 * 並べ替え(6:49)
-* フィルターとしてのDimension(8:30)
+* Dimension（フィルター） (8:30)
 * 分類(9:48)
-* ランク、時系列およびトレンドレポート(13:11)
+* ランク、経時的およびトレンドレポート(13:11)
