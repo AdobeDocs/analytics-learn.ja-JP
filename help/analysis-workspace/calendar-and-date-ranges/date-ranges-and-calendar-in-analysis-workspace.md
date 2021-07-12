@@ -1,25 +1,24 @@
 ---
-title: Analysis Workspaceでの日付範囲とカレンダーの使用
-description: Analysis Workspaceプロジェクトのカレンダーで、カスタム日付範囲をプリセットとして使用できます。 また、カレンダーにドラッグ&ドロップすると、プロジェクトの日付範囲としてすばやく適用できます。 このビデオでは、Adobe AnalyticsのAnalysis Workspaceでこれら2つを行う方法を紹介します。
-feature: Calendar
+title: Analysis Workspace での日付範囲とカレンダーの使用
+description: Analysis Workspaceプロジェクトのカレンダーでカスタム日付範囲をプリセットとして使用できます。 また、カレンダーにドラッグ&ドロップして、プロジェクトの日付範囲としてすばやく適用することもできます。 このビデオでは、Adobe AnalyticsのAnalysis Workspaceでこれらの両方の操作方法を説明します。
+feature: カレンダー
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2013
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 2244005e-2a53-4d8b-852b-25383585d5a6
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 0%
+source-wordcount: '122'
+ht-degree: 7%
 
 ---
 
+# Analysis Workspaceで[!UICONTROL 日付範囲] &amp; [!UICONTROL カレンダー]を使用する {#using-date-ranges-calendar-in-analysis-workspace}
 
-# [!UICONTROL 日付範囲] &amp; [!UICONTROL カレンダー]をAnalysis Workspace{#using-date-ranges-calendar-in-analysis-workspace}で使用
-
-Analysis Workspaceプロジェクトの[!UICONTROL カレンダー]では、カスタムの[!UICONTROL 日付範囲]をプリセットとして使用できます。 また、[!UICONTROL カレンダー]にドラッグ&amp;ドロップすると、プロジェクト内で[!UICONTROL 日付範囲]としてすばやく適用できます。 このビデオでは、Adobe AnalyticsのAnalysis Workspaceでこれら2つを行う方法を紹介します。
+Analysis Workspaceプロジェクトの[!UICONTROL カレンダー]で、カスタムの[!UICONTROL 日付範囲]をプリセットとして使用できます。 また、[!UICONTROL カレンダー]にドラッグ&amp;ドロップして、プロジェクトで[!UICONTROL 日付範囲]としてすばやく適用することもできます。 このビデオでは、Adobe AnalyticsのAnalysis Workspaceでこれらの両方の操作方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23973/?quality=12)
