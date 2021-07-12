@@ -1,22 +1,21 @@
 ---
 title: Power BI での Adobe Analytics コネクタ
 description: このビデオでは、リクエストの作成と読み込み、データ形式の変更、ビジュアライゼーションの作成、オンラインサービスへの公開を通して、Adobe Analytics コネクタについて順を追って説明します。
-feature: "Third-party Integration"
+feature: 「サードパーティ統合」
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1655
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '96'
+exl-id: 5e6bb1fe-1677-479e-b953-6b42356450e1
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
-
 
 # Power BI での Adobe Analytics コネクタ {#adobe-analytics-connector-in-power-bi}
 
