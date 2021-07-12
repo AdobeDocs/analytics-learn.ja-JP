@@ -2,12 +2,12 @@
 title: ツリーマップビジュアライゼーション
 description: Analysis Workspaceプロジェクトにツリーマップビジュアライゼーションを追加し、設定する方法を説明します。 このビジュアライゼーションは、多数のデータポイントを一度に視覚的に分析するのに役立ちます。
 feature: ビジュアライゼーション
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334458.jpg
 kt: 8186
-source-git-commit: e2f27788da1c1355f55984c1435dd00d29f2fbd5
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 10%
