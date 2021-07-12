@@ -1,25 +1,24 @@
 ---
-title: トラフィック変数(prop)の概要
+title: トラフィック変数（prop）の概要
 description: このビデオでは、ページ名、サイトセクション、「prop」などのトラフィック変数の概要を説明します。
-feature: Dimensions
+feature: ディメンション
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3576
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: e5ccac21-d0ac-4882-b8aa-0da749cbf6e7
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 2%
+source-wordcount: '43'
+ht-degree: 13%
 
 ---
 
+# トラフィック変数([!UICONTROL Prop])の概要
 
-# トラフィック変数の概要([!UICONTROL Props])
-
-このビデオでは、[!UICONTROL ページ名]、[!UICONTROL サイトセクション]、&quot;[!UICONTROL props]&quot;などのトラフィック変数の概要を説明します。
+このビデオでは、[!UICONTROL ページ名]、[!UICONTROL サイトセクション]、「[!UICONTROL prop]」などのトラフィック変数の概要を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12)
