@@ -8,11 +8,10 @@ activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 2362
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 110d2962-cbcf-4574-bd39-308f2ad33c5e
-translation-type: tm+mt
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
