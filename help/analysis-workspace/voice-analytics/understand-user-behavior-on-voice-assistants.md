@@ -1,25 +1,24 @@
 ---
-title: Voice Assistantsでのユーザーの行動を理解する
-description: トップインテント、パラメーター、ユーザー認証などの主要指標を調べることで、ユーザーの行動を把握し、インサイトを得る方法を説明します。
-feature: Visualizations
+title: 音声アシスタントでのユーザー行動の把握
+description: トップインテント、パラメーター、ユーザー認証などの主要指標を確認して、ユーザーの行動を理解し、インサイトを得る方法を説明します。
+feature: ビジュアライゼーション
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2904
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 7a69541c-8cea-4454-847c-4f0b10aa2788
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 1%
+source-wordcount: '57'
+ht-degree: 22%
 
 ---
 
+# 音声アシスタントでのユーザー行動の把握 {#understand-user-behavior-on-voice-assistants}
 
-# 音声アシスタントでのユーザーの行動を理解する{#understand-user-behavior-on-voice-assistants}
-
-トップインテント、パラメーター、ユーザー認証などの主要な[!UICONTROL 指標]を調べて、ユーザーの行動を理解し、インサイトを得る方法を説明します。
+トップインテント、パラメーター、ユーザー認証など、主要な[!UICONTROL 指標]を調べて、ユーザーの行動を理解し、インサイトを得る方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27227/?quality=9)
