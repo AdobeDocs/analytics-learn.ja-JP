@@ -1,24 +1,23 @@
 ---
 title: Analysis Workspaceでのカスタム日付範囲の作成
-description: このビデオでは、Analysis Workspaceで日付範囲を使用する方法について説明します。
-feature: Calendar
+description: このビデオでは、Analysis Workspaceでの日付範囲の使用方法について説明します。
+feature: カレンダー
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2113
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ce01320f-24fa-4c9b-ad77-3f82c0829323
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '41'
 ht-degree: 2%
 
 ---
 
-
-# Analysis Workspace{#creating-custom-date-ranges-in-analysis-workspace}にカスタム[!UICONTROL 日付範囲]を作成する
+# Analysis Workspaceでのカスタム[!UICONTROL 日付範囲]の作成 {#creating-custom-date-ranges-in-analysis-workspace}
 
 このビデオでは、Analysis Workspaceで[!UICONTROL 日付範囲]を使用する方法について説明します。
 
