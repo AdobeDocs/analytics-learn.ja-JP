@@ -1,25 +1,24 @@
 ---
-title: コンバージョン変数(eVar)の概要
-description: このビデオでは、「eVar」とも呼ばれるコンバージョン変数の概要を説明します。 また、トラフィック変数とコンバージョン変数の違い、およびそれらがコンバージョンイベントとどのように関連しているかについても説明します。
-feature: Dimensions
+title: コンバージョン変数（eVar）について
+description: このビデオでは、「eVar」とも呼ばれるコンバージョン変数の概要を説明します。 また、トラフィック変数とコンバージョン変数の違い、およびそれらがコンバージョンイベントとどのように関連しているかを学びます。
+feature: ディメンション
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3577
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 4f7bedec-efca-46e8-981a-18118982012f
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 1%
+source-wordcount: '66'
+ht-degree: 9%
 
 ---
 
+# コンバージョン変数([!DNL eVars])の概要
 
-# コンバージョン変数の概要([!DNL eVars])
-
-このビデオでは、「[!DNL eVars]」とも呼ばれるコンバージョン変数の紹介をします。 また、トラフィック変数とコンバージョン変数の違い、およびそれらがコンバージョン[!DNL events]とどのように関連しているかについても学びます。
+このビデオでは、「[!DNL eVars]」とも呼ばれるコンバージョン変数の概要を説明します。 また、トラフィック変数とコンバージョン変数の違い、およびそれらがコンバージョンとどのように関連しているかについても説明します。 [!DNL events]
 
 >[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12)
