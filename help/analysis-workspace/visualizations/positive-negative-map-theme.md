@@ -1,25 +1,24 @@
 ---
-title: Analysis Workspaceのポジティブ — ネガティブマップテーマ
-description: 新しい正/負のカラーテーマを使用すると、マップ上で正と負の数を明確に表現できます。 また、この新しいテーマは、（管理で）イベントを設定したとき、または計算指標で作成したときに行った両極性の変更もすべて反映されます。
-feature: Visualizations
+title: Analysis Workspaceでのポジティブ — ネガティブマップテーマ
+description: 新しい正/負の色テーマを使用すると、マップに正と負の数を明確に表現できます。 この新しいテーマは、（管理で）イベントを設定したり、計算指標で作成したりする際に行う極性の変更も考慮されます。
+feature: ビジュアライゼーション
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1662
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d0494357-e439-46e2-a2a8-9feb33f728f7
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
 
+# Analysis Workspaceでのポジティブ — ネガティブマップテーマ {#positive-negative-map-theme-in-analysis-workspace}
 
-# Analysis Workspaceのポジティブ — ネガティブマップテーマ{#positive-negative-map-theme-in-analysis-workspace}
-
-新しい正/負のカラーテーマを使用すると、[!UICONTROL マップ]に正と負の数を明確に表現できます。 また、この新しいテーマは、イベントを（管理者で）設定したとき、または[!UICONTROL 計算指標]で作成したときに行った両極性の変更もすべて反映されます。
+新しい正/負のカラーテーマを使用すると、[!UICONTROL マップ]に正と負の数を明確に表現できます。 この新しいテーマは、（管理で）イベントを設定したり、[!UICONTROL 計算指標]で作成したりする際に行う極性の変更も考慮されます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23127/?quality=12)
