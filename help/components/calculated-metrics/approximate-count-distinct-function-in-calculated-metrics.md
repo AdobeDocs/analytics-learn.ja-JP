@@ -1,27 +1,26 @@
 ---
-title: 計算指標での近似カウントの個別関数
-description: 計算指標ビルダーに、「おおよそのカウント」の「個別の値」機能が追加されました。 これは、長い待ち時間を要する関数で、選択したディメンションに対するディメンション項目の近似された個別カウントを返します。
-feature: Calculated Metrics
+title: 計算指標での個別概算カウント関数
+description: 計算指標ビルダーに個別概算カウント関数が追加されました。 これは、選択したディメンションのディメンション項目の近似値カウントを返す長期待関数です。
+feature: 計算指標
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1910
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d3594ed7-b90e-4f97-89c7-3e6c75534136
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 1%
+source-wordcount: '111'
+ht-degree: 14%
 
 ---
 
+# 計算指標での個別概算カウント関数{#approximate-count-distinct-function-in-calculated-metrics}
 
-# [!UICONTROL 概算数]  DistinctFunctionin [!UICONTROL 計算指標]{#approximate-count-distinct-function-in-calculated-metrics}
-
-[!UICONTROL 計算指標ビルダー]に、[!UICONTROL おおよそのカウントの異なる] [!UICONTROL 関数]が追加されました。 待ち時間の長い[!UICONTROL 関数]で、選択した[!UICONTROL dimension]の[!UICONTROL dimension]項目の[!UICONTROL 近似個別カウント]が返されます。
+[!UICONTROL 個別概算カウント] [!UICONTROL 関数]が[!UICONTROL 計算指標ビルダー]に追加されました。 選択した[!UICONTROL ディメンション]の[!UICONTROL ディメンション]項目の[!UICONTROL 個別カウント]を返すのは、待ち時間の長い[!UICONTROL 関数]です。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12)
 
-[!UICONTROL 指標]を任意のレポートで使用して、他の値に対する1つの[!UICONTROL ディメンション]の数を把握できます。 例えば、マーケティングチャネル別の個別顧客数。
+任意のレポートで[!UICONTROL 指標]を使用すると、1つの[!UICONTROL ディメンション]の数を他の値と比較できます。 例えば、マーケティングチャネル別の個別顧客の数などです。
