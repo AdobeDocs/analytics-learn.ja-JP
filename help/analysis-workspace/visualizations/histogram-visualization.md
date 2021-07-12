@@ -1,26 +1,25 @@
 ---
 title: Analysis Workspace のヒストグラムビジュアライゼーション
-description: ヒストグラムを使用すると、訪問者、訪問および現在のヒットにわたる指標の分布を視覚化して、高い値と低い値のセグメントを見つけることができます。
-feature: Visualizations
+description: ヒストグラムを使用すると、訪問者、訪問および現在のヒットにわたる指標の分布を視覚化して、高い値および低い値のセグメントを見つけることができます。
+feature: ビジュアライゼーション
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1909
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: a24a9c3d-9bb2-4d72-8b36-d33fda777e4d
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 25%
+source-wordcount: '75'
+ht-degree: 26%
 
 ---
 
+# [!UICONTROL Analysis Workspace のヒストグラムビジュアライゼーション] {#histogram-visualization-in-analysis-workspace}
 
-# Analysis Workspace のヒストグラムビジュアライゼーション {#histogram-visualization-in-analysis-workspace}
-
-[!UICONTROL ヒストグラ] ムを使用すると、訪問者、訪問および現在のヒットでの  指標の分布を視覚化して、高い値と低い値の [!UICONTROL セグメントを見つけることができます]。
+ ヒストグラムを使用すると、訪問者、訪問および現在のヒットにわたる指標の分布を視覚化し  て、高い値と低い値のセグメントを見つける [!UICONTROL ことができます]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12)
 
