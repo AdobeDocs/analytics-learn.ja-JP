@@ -1,25 +1,24 @@
 ---
-title: Voiceアプリのエラー率の低減と成功率の向上
-description: チャーン、成功率、エラー率、フォールバック意図などの機能を使用して、ボイスアプリの改善点を見つける方法について説明します。
-feature: Visualizations
+title: 音声アプリのエラー率の低減と成功率の向上
+description: チャーン、成功率、エラー率、フォールバックの目的などの機能を使用して、音声アプリの改善点を見つける方法を説明します。
+feature: ビジュアライゼーション
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2907
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 79a52035-3777-428f-aa32-4877bba7ff47
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 1%
+source-wordcount: '69'
+ht-degree: 33%
 
 ---
 
+# 音声アプリのエラー率の低減と成功率の向上 {#reducing-error-rates-and-improving-success-rates-in-your-voice-app}
 
-# Voiceアプリのエラー率の低減と成功率の向上{#reducing-error-rates-and-improving-success-rates-in-your-voice-app}
-
-[!UICONTROL churn]、成功率とエラー率、フォールバック意図などの機能を使用して、音声アプリの改善点を見つける方法を学びます。
+[!UICONTROL churn]、成功率とエラー率、フォールバックの目的などの機能を使用して、音声アプリの改善点を見つける方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27222/?quality=9)
