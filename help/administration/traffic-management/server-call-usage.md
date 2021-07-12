@@ -1,31 +1,30 @@
 ---
-title: Adobe Analyticsでのサーバーコールの使用
-seo-title: Adobe Analyticsでのサーバーコールの使用
-description: サーバーコールの使用レポートにより、お客様がいつでも使用したサーバーコールの取り組みを正確に追跡でき、また、合計取り組みに近づいたときに事前に警告を発することができます。
-seo-description: サーバーコールの使用レポートにより、お客様がいつでも使用したサーバーコールの取り組みを正確に追跡でき、また、合計取り組みに近づいたときに事前に警告を発することができます。
-feature: Data Configuration and Collection
+title: Adobe Analyticsのサーバーコールの使用状況
+seo-title: Adobe Analyticsのサーバーコールの使用状況
+description: サーバーコールの使用状況のレポートにより、お客様がいつ使用したかを正確に追跡でき、また、お客様の合計取り組みに近づいた際に積極的に警告を発します。
+seo-description: サーバーコールの使用状況のレポートにより、お客様がいつ使用したかを正確に追跡でき、また、お客様の合計取り組みに近づいた際に積極的に警告を発します。
+feature: データの設定と収集
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1665
-topic: Administration
-role: "Administrator, Architect"
+topic: 管理
+role: Admin, Architect
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 8ada68ff-c7fc-45e3-a663-c477519f557f
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
+# [!UICONTROL Adobe Analyticsでのサーバーコ] ールの使用 {#server-call-usage-in-adobe-analytics}
 
-# [!UICONTROL Adobe Analyticsでのサーバーコール] の使用  {#server-call-usage-in-adobe-analytics}
-
-[!UICONTROL サーバーコール] の使用状況レポートにより、お客様がいつでも使用したサーバーコールの取り組みの量を正確に追跡でき、合計取り組みに近づくと事前に警告を出すことができます。
+[!UICONTROL サーバーコ] ールの利用状況レポートにより、お客様が現在使用しているサーバーコールのコミットメントの量を正確に追跡でき、また、お客様が合計コミットメントに近づいた際に積極的に警告を発します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23137/?quality=12)
 
-組織のサーバーコール消費の最初にとどまるのが難しく、過剰な作業に対する不満を招く可能性があります。 [!UICONTROL サーバーコールの使用]レポートを使用すると、いつ使用したかを正確に追跡でき、また、合計取り組みに近づいたときに事前に警告を出すこともできます。 付属のダッシュボードを使用すると、サーバーコールが使用されている場所を分析できるので、暴走する実装を修正したり、同僚と協力して、大量の貴重なデータが収集される可能性のある場所にスケールバックできます。
+組織のサーバーコールの消費状況に追いつくのが困難で、超過分の時間に対する不満が生じる可能性があります。 [!UICONTROL サーバーコールの使用状況]のレポートを使用すると、任意の時点で使用したサーバーコールのコミットメントの量を正確に追跡でき、また、合計コミットメントに近づいたときに事前に警告を出します。 付属のダッシュボードを使用すると、サーバーコールが使用されている場所を分析できるので、暴走した実装を修正したり、同僚と協力して、価値の低い大量のデータが収集される可能性のある場所を元に戻したりできます。
