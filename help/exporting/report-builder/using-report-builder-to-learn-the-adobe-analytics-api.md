@@ -1,39 +1,38 @@
 ---
-title: Report Builderを使用したAdobe AnalyticsAPIの学習
-description: Report Builderは私たち皆が知り、愛するものです。 Report Builderの知識を使ってAdobe Analyticsの技術をさらに進めると言ったら？ このビデオでは、デバッグReport Builderリクエストを作成し、それらを使用して独自のAnalytics APIクエリを作成する方法を学習する方法について説明します。
+title: Report Builder を使用した Adobe Analytics API の学習
+description: Report Builderは、私たちが知り合いで愛し合うものです。 Report Builderの知識を使ってAdobe Analyticsのスキルセットをさらに進めると言ったら？ このビデオでは、デバッグReport Builderリクエストを取得し、それらを使用して独自のAnalytics APIクエリを作成する方法を学びます。
 feature: Report Builder
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2345
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 8b8e0dac-2498-4fba-ba4b-585b309ae1fd
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 1%
+source-wordcount: '276'
+ht-degree: 7%
 
 ---
 
+# [!UICONTROL Report Builder]を使用したAdobe Analytics APIの学習 {#using-report-builder-to-learn-the-adobe-analytics-api}
 
-# [!UICONTROL Report Builder]を使用してAdobe AnalyticsAPI {#using-report-builder-to-learn-the-adobe-analytics-api}を学ぶ
-
-[!UICONTROL Report ] Builderは、皆さんが知り合いです。では、[!UICONTROL Report Builder]について知っているものを使って、Adobe Analyticsの技術をさらに進められると言ったらどうでしょう？ このビデオでは、デバッグ[!UICONTROL Report Builder]リクエストを実行し、それらを使用して独自の[!DNL Analytics] APIクエリを作成する方法を学びます。
+[!UICONTROL Report Builder] は、皆さんが知っており、愛しているものです。では、[!UICONTROL Report Builder]に関して知っているものを使って、Adobe Analyticsのスキルセットをさらに進めていけると言ったら？ このビデオでは、デバッグ[!UICONTROL Report Builder]リクエストを受け取り、それらを使用して独自の[!DNL Analytics] APIクエリを作成する方法を学びます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12)
 
-**更新**: [!UICONTROL Report ] Builderで、データのリクエスト方法が少し更新されました。このビデオのアプローチは引き続き使用できますが、デバッガーでは情報が少し異なります。
+**更新**: [!UICONTROL Report Builderで] は、データのリクエスト方法を少し更新しました。このビデオのアプローチを引き続き使用できますが、デバッガーでは情報が少し異なります。
 
-デバッガー：
+デバッガーでは、次の操作を実行します。
 
-1 - api5.omniture.comを検索します。 データセンターによっては、1 ～ 5の数値が異なる場合があります。
+1 - api5.omniture.comを検索します。 数は、データセンターによって異なる場合があります。
 
-2 - 「[!UICONTROL リクエスト]」タブに移動します。
+2 - 「[!UICONTROL リクエスト]」タブに移動します
 
-3 — リクエスト内で&#39;[!DNL Report.Queue]&#39;を検索します。
+3 — リクエストで「[!DNL Report.Queue]」を検索します。
 
-このようなリクエストをデバッグする別の方法もあり、同じように機能します。 [!UICONTROL Report Builder]のログを[!UICONTROL オプション]メニューからオンにすると、デバッガと同じ情報が記録されます。 ログは[!UICONTROL ドキュメント] > [!UICONTROL ReportBuilderLogs]の下にあり、日別に整理されます。 ファイルで「Report.Queue」を検索し、各リクエストを検索できます。 ログは、問題のトラブルシューティングにも役立ちます。
+また、このようなリクエストをデバッグする代替の方法もあり、同様に機能します。 [!UICONTROL Report Builder]のログは、[!UICONTROL オプション]メニューからオンにすることができます。これにより、デバッガーと同じ情報が記録されます。 ログは[!UICONTROL Documents] > [!UICONTROL ReportBuilderLogs]にあり、日別に整理されます。 「Report.Queue」をファイル内で検索し、各リクエストを検索できます。 ログは、問題のトラブルシューティングにも役立ちます。
 
-この機能の詳細については、[ドキュメント](https://www.adobe.io/)を参照してください。
+この機能について詳しくは、[ドキュメント](https://www.adobe.io/)を参照してください。
