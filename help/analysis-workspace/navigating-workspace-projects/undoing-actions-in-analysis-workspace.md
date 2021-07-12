@@ -1,25 +1,24 @@
 ---
-title: Analysis Workspaceでの取り消し
-description: Adobe AnalyticsのAnalysis Workspaceでは、項目をキャンバスにドラッグしたり、分類を実行したりするなどの操作を「元に戻す」ことができるようになりました。 このビデオでは、分析で元に戻す機能を使用して、より効率的に実行する方法を示します。
-feature: Workspace Basics
+title: Analysis Workspace でのアクションの取り消し
+description: Adobe AnalyticsのAnalysis Workspaceで、項目のキャンバスへのドラッグや分類の実行などのアクションを「元に戻す」ことができるようになりました。 このビデオでは、元に戻すを使用して分析をより効率的におこなう方法を示します。
+feature: Workspace の基本
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2032
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 24775a26-ae0a-4917-bd73-a328cdf7c7ad
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 0%
+source-wordcount: '88'
+ht-degree: 13%
 
 ---
 
+# Analysis Workspace でのアクションの取り消し {#undoing-actions-in-analysis-workspace}
 
-# Analysis Workspace{#undoing-actions-in-analysis-workspace}の操作を元に戻す
-
-Adobe AnalyticsのAnalysis Workspaceでは、項目をキャンバスにドラッグしたり、分類を実行したりするなど、「[!UICONTROL undo]」操作を実行できるようになりました。 このビデオでは、分析でより効率的に[!UICONTROL undo]を使用する方法を説明します。
+Adobe AnalyticsのAnalysis Workspaceで、「[!UICONTROL 元に戻す]」アクション（項目のキャンバスへのドラッグや分類の実行など）を実行できるようになりました。 このビデオでは、[!UICONTROL undo]を使用して分析の効率を高める方法を示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23983/?quality=12)
