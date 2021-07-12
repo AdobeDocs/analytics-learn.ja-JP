@@ -1,26 +1,25 @@
 ---
-title: Analytics Extensionの起動でのCookie設定の指定
-description: Adobe別、Adobe Analytics拡張子別に、Launchの使用を開始する前に、このビデオを参照すると、Analytics拡張機能でcookie設定を行うかどうかと行う方法を理解できます。
-feature: Launch Implementation
+title: Launch Analytics 拡張機能での Cookie の設定
+description: Launch、Adobe別、Adobe Analytics拡張機能を使い始めるだけの場合、このビデオは、Analytics拡張機能でCookieを設定するかどうかと方法を理解するのに役立ちます。
+feature: Launchの実装
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2856
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 72013b6e-672e-4e8a-b6a2-27b35d5be5d5
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 8%
 
 ---
 
+# [!DNL Launch] [!DNL Analytics]拡張機能でのCookie設定の指定 {#configuring-cookie-settings-in-the-launch-analytics-extension}
 
-# [!DNL Launch] [!DNL Analytics]拡張子{#configuring-cookie-settings-in-the-launch-analytics-extension}でのCookie設定の指定
-
-Experience Platform LaunchとAdobe Analyticsの拡張機能を使い始めたばかりの場合、このビデオは[!DNL Analytics]拡張機能にcookie設定を行うかどうかと設定方法を理解するのに役立ちます。
+Adobe Analytics拡張機能とExperience Platform Launchを使い始めるだけの場合、このビデオは[!DNL Analytics]拡張機能でCookieを設定するかどうかと方法を理解するのに役立ちます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27212/?quality=9)
 
