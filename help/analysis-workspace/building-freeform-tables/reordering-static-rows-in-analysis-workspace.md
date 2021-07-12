@@ -1,26 +1,25 @@
 ---
-title: Analysis Workspaceの静的行の順序変更
-description: フリーフォームテーブルビルダー内で、静的な行を手動で並べ替えることができます。 これにより、テーブルの静的な行を、必要な順序(訪問回数、注文、コンバージョン率など)で並べ替えることができます。
-feature: Freeform Tables
+title: Analysis Workspace での静的行の並べ替え
+description: フリーフォームテーブルビルダー内で、静的な行を手動で並べ替えることができます。 これにより、テーブルの静的な行を、必要な順序（訪問回数、注文、コンバージョン率など）で並べ替えることができます。
+feature: フリーフォームテーブル
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31319.jpg
 kt: 4218
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 1a4e82fe-12ac-4c44-afec-60010f1214f6
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 2%
+source-wordcount: '80'
+ht-degree: 17%
 
 ---
 
+# Analysis Workspace での静的行の並べ替え
 
-# Analysis Workspaceの静的行の順序変更
-
-フリーフォームテーブルビルダー内で、静的な行を手動で並べ替えることができます。 これにより、テーブルの静的な行を、必要な順序(訪問回数、注文、コンバージョン率など)で並べ替えることができます。
+フリーフォームテーブルビルダー内で、静的な行を手動で並べ替えることができます。 これにより、テーブルの静的な行を、必要な順序（訪問回数、注文、コンバージョン率など）で並べ替えることができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31319/?quality=12)
