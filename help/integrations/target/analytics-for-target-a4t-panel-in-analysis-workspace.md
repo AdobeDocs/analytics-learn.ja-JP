@@ -1,28 +1,27 @@
 ---
 title: Analysis Workspace の Analytics for Target（A4T）パネル
 description: Analytics for Target（A4T）パネルを使用すると、Analysis Workspace で上昇率と信頼性を使用して Adobe Target のアクティビティとエクスペリエンスを分析できます。
-feature: Experience Cloud Integration
+feature: Experience Cloud 統合
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37247.jpg
 kt: 5837
-topic: Integrations
-role: Business Practitioner
+topic: 統合
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 2dad80ba-4032-490f-b7b4-30f0c2f0d608
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 54%
+source-wordcount: '78'
+ht-degree: 60%
 
 ---
 
+# [!DNL Analytics for Target] Analysis Workspaceの(A4T)パネル
 
-# [!DNL Analytics for Target] (A4T)Analysis Workspaceのパネル
-
-[!DNL Analytics for Target](A4T)パネルを使用すると、[!UICONTROL Analysis Workspace]で、上昇率と信頼性を持つAdobe Targetのアクティビティとエクスペリエンスを分析できます。
+[!DNL Analytics for Target](A4T)パネルを使用すると、[!UICONTROL Analysis Workspace]で、上昇率と信頼性を使用してAdobe Targetのアクティビティとエクスペリエンスを分析できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
