@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 kt: 4024
 topic: 管理
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: 397cfb51-7d7d-49dd-8b54-e928fe77d39e
-source-git-commit: c23845ae2fc6bef5721f04283b9be039d076f631
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 18%
