@@ -1,22 +1,21 @@
 ---
 title: Analytics トラッキングサーバーおよびレポートスイートの識別方法
 description: Adobe Analytics を設定する際や、他の Experience Cloud ソリューションで参照する際は、多くの場合、使用している Analytics 「トラッキングサーバー」や、データの送信先となる「レポートスイート」を知っておくと便利です。また、それを知っておくことが必要な場合さえあります。 このビデオでは、Adobe Analytics が実装済みかどうかに関係なく両方の値を見つける方法を説明します。
-feature: Implementation Basics
+feature: 実装の基本
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2358
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '309'
+exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '305'
 ht-degree: 100%
 
 ---
-
 
 # Analytics [!DNL Tracking Server]および[!UICONTROL レポートスイート] を識別する方法 {#how-to-identify-your-analytics-tracking-server-and-report-suites}
 
