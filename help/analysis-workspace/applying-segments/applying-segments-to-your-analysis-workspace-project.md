@@ -1,26 +1,25 @@
 ---
-title: Analysis Workspaceプロジェクトへのセグメントの適用
-description: このビデオでは、セグメントをデータに適用して、テーブルおよびビジュアライゼーション内のデータを制限する方法を説明します。
-feature: Segmentation
+title: Analysis Workspace プロジェクトへのセグメントの適用
+description: このビデオでは、データにセグメントを適用してテーブルとビジュアライゼーションのデータを制限する方法を説明します。
+feature: セグメント化
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4107
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d8bd4226-a3f0-4faa-8b78-4b47b5a008ce
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 1%
+source-wordcount: '71'
+ht-degree: 29%
 
 ---
 
+# Analysis Workspace プロジェクトへのセグメントの適用
 
-# Analysis Workspaceプロジェクトへのセグメントの適用
-
-このビデオでは、セグメントをデータに適用して、テーブルおよびビジュアライゼーション内のデータを制限する方法を説明します。
+このビデオでは、データにセグメントを適用してテーブルとビジュアライゼーションのデータを制限する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30994/?quality=12)
 
