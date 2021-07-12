@@ -1,27 +1,26 @@
 ---
-title: Analysis Workspaceのイントラリンク
-description: イントラリンク機能を使用すると、アナリストがAnalysis Workspaceでプロジェクトを作成することで、プロジェクトの読者をプロジェクト内の正確なパネルやビジュアライゼーションに誘導できます。
-feature: Visualizations
+title: Analysis Workspace でのイントラリンク
+description: イントラリンクを使用すると、Analysis Workspaceでプロジェクトを作成するアナリストは、プロジェクトの読者をプロジェクト内の正確なパネルおよびビジュアライゼーションに導くことができます。
+feature: ビジュアライゼーション
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1908
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: acc44e46-1fd1-45ca-ad4b-485ff6fff5b5
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 1%
+source-wordcount: '80'
+ht-degree: 11%
 
 ---
 
+# Analysis Workspace でのイントラリンク {#intra-linking-in-analysis-workspace}
 
-# Analysis Workspace{#intra-linking-in-analysis-workspace}でのイントラリンク
-
-イントラリンクにより、アナリストがAnalysis Workspaceでプロジェクトを構築することで、プロジェクトの読者をプロジェクト内の正確なパネルおよび[!UICONTROL ビジュアライゼーション]に導くことができます。
+イントラリンクを使用すると、Analysis Workspaceでアナリストがプロジェクトを作成し、プロジェクトの読者をプロジェクト内の正確なパネルおよび[!UICONTROL ビジュアライゼーション]に導くことができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12)
 
-また、イントラリンクを使用して目次を作成し、全体的により効果的なデータストーリーを示すこともできます。 また、新しいハイパーリンク機能により、クロスプロジェクトリンクも可能になりました。
+イントラリンクは、目次を作成し、全体的により効果的なデータストーリーを伝える場合にも使用できます。 新しいハイパーリンク機能により、クロスプロジェクトリンクも可能になりました。
