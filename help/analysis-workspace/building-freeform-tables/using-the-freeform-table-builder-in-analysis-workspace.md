@@ -1,26 +1,25 @@
 ---
 title: Analysis Workspaceでのフリーフォームテーブルビルダーの使用
-description: フリーフォームテーブルビルダーを使用すると、多くのディメンション、分類、指標およびセグメントにドラッグ&ドロップして、より複雑なビジネスの質問に答えるテーブルを作成できます。 データはその場で更新されません。代わりに、「Build」をクリックすると更新され、テーブルが1回だけ更新されるので、時間を節約できます。
-feature: Freeform Tables
+description: フリーフォームテーブルビルダーを使用すると、多くのディメンション、分類、指標およびセグメントをドラッグ&ドロップして、より複雑なビジネスの質問に回答するテーブルを作成できます。 データはその場では更新されません。代わりに、「ビルド」をクリックすると更新され、テーブルが1回だけ更新されるので時間を節約できます。
+feature: フリーフォームテーブル
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31318.jpg
 kt: 4217
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 4cf94512-e4e4-418f-b759-db5feff272e6
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '104'
 ht-degree: 1%
 
 ---
 
+# Analysis Workspaceでの[!DNL Freeform Table Builder]の使用
 
-# Analysis Workspaceで[!DNL Freeform Table Builder]を使用
-
-[!DNL Freeform Table Builder] 多くのディメンション、分類、指標、セグメントにドラッグ&amp;ドロップして、より複雑なビジネスの質問に答えるテーブルを作成できます。データはその場で更新されません。代わりに、「Build」をクリックすると更新され、テーブルが1回だけ更新されるので、時間を節約できます。
+[!DNL Freeform Table Builder] では、多くのディメンション、分類、指標およびセグメントをドラッグ&amp;ドロップして、より複雑なビジネスの質問に回答するテーブルを作成できます。データはその場では更新されません。代わりに、「ビルド」をクリックすると更新され、テーブルが1回だけ更新されるので時間を節約できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12)
