@@ -1,23 +1,22 @@
 ---
 title: Attribution IQ のアルゴリズムモデル
 description: Analysis Workspace のアルゴリズムアトリビューションモデルでは、統計的手法を使用して、選択した指標に対するクレジットの最適な配分を動的に決定します。
-feature: Attribution
+feature: アトリビューション
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36205.jpg
 kt: 5554
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: fc7a4eda-0e1b-45a5-876d-022b97ef6e42
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 87%
+source-wordcount: '71'
+ht-degree: 91%
 
 ---
-
 
 # Attribution IQ のアルゴリズムモデル
 
@@ -25,4 +24,4 @@ Analysis Workspace のアルゴリズムアトリビューションモデルで�
 
 >[!VIDEO](https://video.tv.adobe.com/v/36205/?quality=12&learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/algorithmic.html?lang=ja-JP)を参照してください
+詳しくは、[ドキュメント](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/attribution/algorithmic.html)を参照してください。
