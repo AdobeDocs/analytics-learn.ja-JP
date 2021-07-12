@@ -1,29 +1,28 @@
 ---
-title: Report Builder内のリクエスト間の指標の編集
-description: 複数のReport Builderデータリクエストに対して、追加、置換、削除のオプションを使用して、指標を一度に編集できるようになりました。
+title: 複数のリクエストの指標を編集(Report Builder)
+description: 追加、置換、削除の各オプションを使用して、複数のReport Builderデータリクエストの指標を一度に編集できるようになりました。
 feature: Report Builder
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1769
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '110'
 ht-degree: 1%
 
 ---
 
+# [!UICONTROL Report Builder]のリクエスト間で[!UICONTROL 指標]を編集 {#edit-metrics-across-requests-in-report-builder}
 
-# [!UICONTROL [!UICONTROL Report Builder] {#edit-metrics-across-requests-in-report-builder}のリクエスト間で指標]を編集
-
-複数の[!UICONTROL Report Builder]データリクエストに対して、[!UICONTROL 指標]を一度に編集し、追加、置換、削除のオプションを使用できるようになりました。
+複数の[!UICONTROL Report Builder]データリクエストに対して、追加、置換、削除の各オプションを使用して、[!UICONTROL 指標]を一度に編集できるようになりました。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12)
 
-この機能は、リクエスト間で[!UICONTROL レポートスイート]、[!UICONTROL 日付範囲]、[!UICONTROL 精度]、[!UICONTROL セグメント]を編集する既存の機能に加えて使用できます。 一括編集のリクエストは、右クリックメニューまたは「管理」ウィンドウの「[!UICONTROL 複数を編集]」から実行できます。
+この機能は、リクエスト間の[!UICONTROL レポートスイート]、[!UICONTROL 日付範囲]、[!UICONTROL 精度]、[!UICONTROL セグメント]を編集する既存の機能に加えて使用できます。 リクエストの一括編集は、右クリックメニューまたは管理ウィンドウの「[!UICONTROL 複数]を編集」から実行できます。
 
 この機能の詳細については、[ドキュメント](https://marketing.adobe.com/resources/help/en_US/arb/edit_multiple_metrics.html)を参照してください。
