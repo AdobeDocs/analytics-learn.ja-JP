@@ -1,28 +1,27 @@
 ---
-title: Analysis Workspaceのフォールアウト視覚化の機能強化
-description: このビデオでは、ダイレクトステップと最終ステップ、タッチポイントの名前の変更、無制限セグメントの比較、タッチポイントコンバージョン率の経時的なトレンドの追跡など、顧客から強く要請されたフォールアウトビジュアライゼーションの更新を示します。
-feature: Visualizations
+title: Analysis Workspaceのフォールアウトビジュアライゼーションの強化
+description: このビデオでは、直接手順と最終手順、タッチポイントの名前変更、無制限のセグメントの比較、経時的なタッチポイントコンバージョン率のトレンド追跡など、顧客から強く要求されたフォールアウトビジュアライゼーションを示します。
+feature: ビジュアライゼーション
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24047.jpg
 kt: 2276
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d5c95e0c-48c7-48e6-a4e9-d8cda06b4ca1
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 11%
+source-wordcount: '95'
+ht-degree: 21%
 
 ---
 
+# Analysis Workspaceの[!DNL Fallout Visualization]の機能強化 {#enhancements-to-fallout-visualization-in-analysis-workspace}
 
-# Analysis Workspace{#enhancements-to-fallout-visualization-in-analysis-workspace}の[!DNL Fallout Visualization]の機能強化
-
-このビデオでは、ダイレクトステップと最終ステップ、タッチポイント名の変更、無制限セグメントの比較、タッチポイントコンバージョン率の経時的なトレンドを含む、顧客から強くリクエストされた[!DNL Fallout Visualization]の更新を示します。
+このビデオでは、直接手順と最終手順の違い、タッチポイントの名前の変更、無制限のセグメントの比較、タッチポイントコンバージョン率の経時的なトレンドなど、顧客から強く要求された[!DNL Fallout Visualization]の更新を示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12)
 
-この機能の詳細については、[ドキュメント](https://marketing.adobe.com/resources/help/ja_JP/analytics/analysis-workspace/fallout_flow.html)を参照してください。
+この機能について詳しくは、[ドキュメント](https://marketing.adobe.com/resources/help/ja_JP/analytics/analysis-workspace/fallout_flow.html)を参照してください。
