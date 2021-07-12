@@ -1,27 +1,26 @@
 ---
 title: Analysis Workspaceのトレーニングチュートリアルテンプレート
-description: '「Analysis Workspaceトレーニングチュートリアル」では、一般的な用語と、Workspaceでの最初の分析の作成手順について説明します。 '
-feature: Panels
+description: 'Analysis Workspace トレーニングチュートリアルでは、Workspace で初めて分析を作成するための一般的な用語と手順を順を追って説明します。 '
+feature: パネル
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5032
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 52f800b6-f184-4a82-8729-e6edd478331c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 14%
+source-wordcount: '87'
+ht-degree: 58%
 
 ---
 
-
 # Analysis Workspaceのトレーニングチュートリアルテンプレート
 
-「Analysis Workspaceトレーニングチュートリアル」では、一般的な用語と、Workspaceでの最初の分析の作成手順について説明します。
+Analysis Workspace トレーニングチュートリアルでは、Workspace で初めて分析を作成するための一般的な用語と手順を順を追って説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33773/?quality=12)
 
-このテンプレートは、新規プロジェクトモーダルで標準テンプレートとして使用できます。 このテンプレートから、独自のチュートリアルを作成し、組織独自の使用事例やデータ構造(eVar、カスタムイベント)に合わせて作成できます。
+このテンプレートは、「新規プロジェクト」モーダルの標準テンプレートとして使用できます。 このテンプレートから、独自のチュートリアルを作成し、組織固有の使用例とデータ構造（eVar、カスタムイベント）に合わせて調整できます。
