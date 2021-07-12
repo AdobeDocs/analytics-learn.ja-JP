@@ -1,26 +1,25 @@
 ---
-title: Analysis Workspaceの地図の視覚化
-description: このビデオでは、Analysis Workspaceで新しいマップビジュアライゼーションを使用する方法を説明します。 Mapビジュアライゼーションを使用すると、モバイル（緯度/経度）データまたはWeb（IPアドレス）データを動的マップに対して表示でき、その場所のコンテキストでの顧客の使用状況を把握できます。
-feature: Visualizations
+title: Analysis Workspaceでのマップのビジュアライゼーション
+description: このビデオでは、Analysis Workspaceでの新しいマップビジュアライゼーションの使用方法を説明します。 マップビジュアライゼーションを使用すると、動的マップに対してモバイル（緯度/経度）またはWeb（IPアドレス）のデータを表示でき、場所のコンテキストで顧客の使用状況を把握できます。
+feature: ビジュアライゼーション
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1771
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
+#   Analysis WorkspaceのMapVisualization {#map-visualization-in-analysis-workspace}
 
-# [!UICONTROL Analysis Workspace]  のMapVisualization  {#map-visualization-in-analysis-workspace}
-
-このビデオでは、Analysis Workspaceの[!UICONTROL マップ] [!UICONTROL ビジュアライゼーション]の使用方法を説明します。 [!UICONTROL Map]ビジュアルは、[!UICONTROL モバイルのlat/long]またはweb （IPアドレス）データを動的な[!UICONTROL map]に表示し、その場所のコンテキストで顧客の使用状況を把握できるようにします。
+このビデオでは、Analysis Workspaceで[!UICONTROL マップ] [!UICONTROL ビジュアライゼーション]を使用する方法を説明します。 [!UICONTROL Map]ビジュアライゼーションを使用すると、動的な[!UICONTROL map]に対して[!UICONTROL モバイル緯度/経度]またはWeb（IPアドレス）データを表示でき、場所のコンテキストで顧客の使用状況を把握できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12)
 
@@ -28,10 +27,10 @@ ht-degree: 0%
 
 0:00 — 機能の概要とセットアップ
 
-1:05 - [!UICONTROL Map]との対話
+1:05 - [!UICONTROL マップ]とのやり取り
 
 2:55 - [!UICONTROL マップ]設定の調整
 
-7:00 — ヒートマップ表示
+7:00 — ヒートマップビュー
 
-この[!UICONTROL ビジュアライゼーション]の詳細については、[ドキュメント](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/map-visualization.html)を参照してください。
+この[!UICONTROL ビジュアライゼーション]について詳しくは、[ドキュメント](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/map-visualization.html)を参照してください。
