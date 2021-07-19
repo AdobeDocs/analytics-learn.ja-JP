@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace プロジェクトへのデータの取り込みについて
 description: このビデオでは、Chrome で Adobe Experience Cloud Debugger 拡張機能を使用して、Analysis Workspace でのページからテーブルに至るデータのフローとビジュアライゼーションを確認する方法を説明します。
-feature: ワークスペースの基本
+feature: Workspace の基本
 topics: null
 activity: use
 doc-type: feature video
@@ -11,7 +11,7 @@ role: User
 level: Beginner
 exl-id: eb6eada2-74b1-423c-a80d-2bcc2148e167
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
