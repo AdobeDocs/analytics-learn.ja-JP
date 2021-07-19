@@ -11,13 +11,13 @@ role: User
 level: Intermediate
 exl-id: 37729e4a-f33f-4564-a49e-95ee371c1687
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
 ht-degree: 100%
 
 ---
 
-# [!DNL contextData]処理ルール[!DNL Props] を使用した [!DNL Evars] 変数の [!UICONTROL  および ] へのマッピング {#map-contextdata-variables-into-props-and-evars-with-processing-rules}
+# [!UICONTROL 処理ルール] を使用した [!DNL contextData] 変数の [!DNL Props] および [!DNL Evars] へのマッピング {#map-contextdata-variables-into-props-and-evars-with-processing-rules}
 
 Adobe Analytics の実装で [!DNL contextData] 変数を使用する場合、実際のレポートにデータを表示するには、[!UICONTROL 処理ルール]インターフェイスで [!DNL contextData] 変数を [!DNL props/eVars] にマップする必要があります。 このビデオでは、その方法について説明します。
 
