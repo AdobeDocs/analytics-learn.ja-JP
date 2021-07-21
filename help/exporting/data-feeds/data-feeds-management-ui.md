@@ -10,10 +10,10 @@ kt: 2353
 role: User
 level: Beginner
 exl-id: 79599c6d-eb3e-438a-8e24-45b286d54071
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: c25fa27046e5dd573e4dfb07535e319afe27c478
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 15%
+source-wordcount: '117'
+ht-degree: 8%
 
 ---
 
@@ -23,4 +23,4 @@ Adobe Analytics [!UICONTROL データフィード]を使用すると、生のク
 
 >[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12)
 
-この機能の詳細については、[ドキュメント](https://marketing.adobe.com/resources/help/en_US/reference/analytics-data-feed.html)を参照してください。
+この機能の詳細については、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=en#)を参照してください。
