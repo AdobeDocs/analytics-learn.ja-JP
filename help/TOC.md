@@ -5,7 +5,7 @@ breadcrumb-title: Analytics チュートリアル
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 source-git-commit: 6587d9ff43b7fcbf697bda4cdd9be2ae7a63ef86
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2065'
 ht-degree: 100%
 
