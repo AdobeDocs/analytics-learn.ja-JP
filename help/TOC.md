@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics 向けのビデオとチュートリア�
 breadcrumb-title: Analytics チュートリアル
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 6587d9ff43b7fcbf697bda4cdd9be2ae7a63ef86
-workflow-type: ht
+source-git-commit: dbab0f9190e660eadfacdb75ac00994afff375e7
+workflow-type: tm+mt
 source-wordcount: '2065'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -132,7 +132,7 @@ ht-degree: 100%
       + [Analysis Workspace でのイントラリンク](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [正数と負数のマップテーマ](analysis-workspace/visualizations/positive-negative-map-theme.md)
       + [ビジュアライゼーションの並べ替えとサイズ変更](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
-      + [シリーズラベルの編集](analysis-workspace/visualizations/series-label-editing.md)
+      + [ビジュアライゼーションの凡例のカスタマイズ](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [100% 積み重ねビジュアライゼーション](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [テーブルデータソース設定](analysis-workspace/visualizations/table-data-source-settings.md)
       + [時間分割ヒートマップの作成](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
