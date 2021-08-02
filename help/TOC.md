@@ -339,7 +339,7 @@ ht-degree: 99%
       + [Advertising Cloud データを使用した Analytics カスタム指標の作成](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
       + [Advertising Cloud サイト入口レポートの作成](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
       + [Advertising Cloud ダッシュボードの作成](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
-   + Ad Hoc Analysis {#ad-hoc-analytics}
+   + Ad Hoc Analytics {#ad-hoc-analytics}
       + [プロジェクトコンバーターを使用した Ad Hoc Analysis から Analytics Workspace へのプロジェクトの移行](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
    + Power BI {#power-bi}
       + [Power BI での Adobe Analytics コネクタ](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
