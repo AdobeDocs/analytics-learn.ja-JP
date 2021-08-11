@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics 向けのビデオとチュートリア�
 breadcrumb-title: Analytics チュートリアル
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: aa1627c6f13274e35fcf10f25d709fec484007b2
+source-git-commit: 48da246e50ed658bdb496a8a8a551e8f0454021d
 workflow-type: tm+mt
-source-wordcount: '2068'
-ht-degree: 99%
+source-wordcount: '2141'
+ht-degree: 96%
 
 ---
 
@@ -62,6 +62,7 @@ ht-degree: 99%
       + [Analysis Workspace のコンポーネント管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [コンポーネントマネージャーの使用](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
       + [Analysis Workspace でのレポートスイートの選択](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
+      + [Analysis Workspaceのパフォーマンス指標の表示](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + ヒントとテクニック {#tips-and-tricks}
       + [Analysis Workspace の 7 つのヒントとテクニック](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [Analysis Workspace で生産性を高めるコツ](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
@@ -211,9 +212,14 @@ ht-degree: 99%
 + Reports and Analytics {#reports-and-analytics}
    + [Reports and Analytics のリアルタイムレポート](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + 管理 {#administration}
+   + カンパニー設定 {#company-settings}
+      + [電子メールドメイン制限の強制](administration/company-settings/enforce-email-domain-restrictions.md)
+      + [アカウントで利用可能な機能を表示する](administration/company-settings/view-your-accounts-available-features.md)
    + ユーザー管理 {#user-management}
       + [Adobe Analytics への管理者の追加](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Admin Console でのレポートスイートへのアクセス制限](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
+      + [ユーザーアセットを別のユーザーに転送する](administration/user-management/transfer-user-assets-to-a-different-user.md)
+      + [ログインの問題を防ぐために、「リンクされたIMS ID 」を確認します。](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + レポートスイートの管理 {#manage-report-suites}
       + [一般的なアカウント設定方法](administration/manage-report-suites/configuring-general-account-settings.md)
       + [カレンダー設定のカスタマイズ](administration/manage-report-suites/customize-calendar-settings.md)
@@ -222,13 +228,17 @@ ht-degree: 99%
       + [内部 URL フィルターの設定](administration/manage-report-suites/set-internal-url-filters.md)
       + [郵便番号の設定](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Admin Console での変数の設定](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [タイムスタンプオプション設定の有効化](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
+      + [Analyticsでのボットルールの設定](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + データガバナンスと GDPR {#data-governance-and-gdpr}
       + [Adobe Analytics のデータガバナンスと GDPR](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
       + [Analytics チームへの適切なメンバーの割り当て](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
    + トラフィック管理 {#traffic-management}
       + [サーバーコールの使用状況](administration/traffic-management/server-call-usage.md)
+      + [今後のトラフィックスパイクの管理](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
    + ログ {#logs}
       + [Analysis Workspace の使用状況ログトラッキング](administration/logs/usage-log-tracking-for-analysis-workspace.md)
+      + [Analytics管理ログの概要](administration/logs/overview-of-analytics-admin-logs.md)
 + 実装 {#implementation}
    + 実装の基本 {#implementation-basics}
       + [初回の実装](implementation/implementation-basics/first-time-implementation.md)
@@ -311,8 +321,12 @@ ht-degree: 99%
       + [Analysis Workspace を使用した CSV へのエクスポート](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
       + [Data Warehouse の概要](exporting/data-warehouse/introduction-to-data-warehouse.md)
+      + [SFTPを使用したData Warehouseリクエストの送信](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
    + データフィード {#data-feeds}
       + [データフィード管理 UI](exporting/data-feeds/data-feeds-management-ui.md)
+      + [データフィード認証キーのダウンロード](exporting/data-feeds/download-the-data-feed-authentication-key.md)
+      + [データフィードIDを見つける](exporting/data-feeds/find-your-data-feed-id.md)
+      + [データフィードジョブの再実行](exporting/data-feeds/rerun-a-data-feed-job.md)
    + Report Builder {#report-builder}
       + [Report Builder での複数リクエストに対するセグメントの一括追加](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
       + [Report Builder での異常値検出](exporting/report-builder/anomaly-detection-in-report-builder.md)
