@@ -4,10 +4,10 @@ description: アドビは、この Analytics の基本的なコンテンツを�
 hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: 9b5969ddfb29cac1085b6b0bc7fb330333b1a58a
-workflow-type: ht
-source-wordcount: '244'
-ht-degree: 100%
+source-git-commit: a5e8cb510cff46332297bcc95f94e9792dc4fc88
+workflow-type: tm+mt
+source-wordcount: '320'
+ht-degree: 76%
 
 ---
 
@@ -18,6 +18,12 @@ ht-degree: 100%
 ## Analytics コースのコンテンツ
 
 アドビは、この Analytics の基本的なコンテンツを大学に提供できることを誇りに思っています。 カリキュラムには、Adobe Analytics のコレクションとレポートを紹介する 4 つのモジュールがあります。これらのモジュールは、デジタル分析やマーケティングのコースに分割し、組合わせることができます。 この入門マニュアルにより、教授と学生は、毎年秋に Adobe Analytics のグローバルチャレンジに参加するための必要な知識を習得できます。
+
+### 準備に役立つ新しいコース
+
+分析カリキュラムの学習と教育に備え、以下に概要を説明するすべてのコア概念を教える方法を学べる、Adobe Education Exchangeに関する新しいコースを立ち上げました。 4つのコア・モジュール以降に関する学生の教育に備え、このコースから始めることをお勧めします。
+
+次の場所にコースを登録します。[https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning](https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning)
 
 ### 学習内容：
 
