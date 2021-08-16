@@ -3,12 +3,12 @@ title: 電子メールドメイン制限の強制
 description: 'セキュリティマネージャーを使用すると、レポートデータへのアクセスを管理できます。オプションには、強力なパスワード、パスワード有効期限、IP ログイン制限、電子メールドメイン制限などがあります。電子メールドメイン制限の実施では、Analyticsがブックマーク、ダウンロード可能なレポートおよびアラートを送信する電子メールアドレスおよびドメインをフィルタリングします。 電子メールフィルターリストでは、最大 100 個のエントリをサポートし、各エントリは電子メールアドレスか電子メールドメイン全体を指定できます。 '
 feature: 管理ツール/カンパニー設定
 topic: 'セキュリティ '
-role: Business User, Administrator
+role: User, Admin
 level: Intermediate
 doc-type: feature video
 thumbnail: 335741.jpg
 kt: KT-8461
-source-git-commit: 824efaa2f806a578839caaaed0c5c5dda8173b9a
+source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 70%
