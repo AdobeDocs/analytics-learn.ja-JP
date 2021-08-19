@@ -405,4 +405,4 @@ ht-degree: 96%
       + [内部サイト検索レポートの設定](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [市場内郵便番号分析の設定](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics 大学向けカリキュラム](analytics-university/curriculum.md)
-+ [Experience Leagueライブ](exl-live/exl-live-overview.md)
++ [Experience League LIVE](exl-live/exl-live-overview.md)
