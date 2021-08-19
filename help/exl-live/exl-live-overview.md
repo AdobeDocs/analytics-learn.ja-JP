@@ -1,6 +1,6 @@
 ---
-title: Experience Leagueライブイベント
-description: 以前のExperience LeagueLIVEイベントへのリンクのコレクション
+title: Experience League LIVE イベント
+description: 以前の Experience League LIVE イベントへのリンクのコレクション
 type: Event
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -9,14 +9,14 @@ hidefromtoc: true
 source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 2%
+ht-degree: 56%
 
 ---
 
 
-# Experience Leagueライブ
+# Experience League LIVE
 
-Experience LeagueLIVEは、Experience Leagueチームが制作したライブストリーミングショーで、Experience Cloudアプリケーション、アプリケーションサービス、Adobe Experience Platformに適用できる実用的なヒント、テクニック、戦略を提供します。
+Experience League LIVE は、Experience League チームが制作したライブストリーミングショーで、Experience Cloud アプリケーション、アプリケーションサービス、Adobe Experience Platform に適用できる実用的なヒント、テクニック、戦略を提供します。
 
 ## 次のエピソード：Experience PlatformとリアルタイムCDP!
 
@@ -64,7 +64,7 @@ Experience LeagueLIVEの次のエピソードに興奮！
 
 ## 過去のエピソードの再生
 
-ライブのエピソードを見逃しましたか？ 私たちはあなたを許す。 ここには過去のエピソードを見るためのリンクがあります。
+Experience League LIVE のエピソードを見逃しましたか？ご安心ください。過去のエピソードを見ることができるリンクはこちらです。
 
 <table>
 <tr>
@@ -84,4 +84,4 @@ Experience LeagueLIVEの次のエピソードに興奮！
 
 >[!TIP]
 >
->その他の学習方法については、無料の[コース](https://experienceleague.adobe.com/#dashboard/learning)と、個々の[チュートリアル](https://experienceleague.adobe.com/docs/home-tutorials.html)をご覧ください。
+>その他の学習方法については、無料の[コース](https://experienceleague.adobe.com/?lang=ja#home)と、個別の[チュートリアル](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja)をご覧ください。
