@@ -6,80 +6,89 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 hide: true
 hidefromtoc: true
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
+source-git-commit: dcfa04814012434a3f017cd0f06c8707b4d4cf2c
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 56%
+source-wordcount: '201'
+ht-degree: 34%
 
 ---
 
 
 # Experience League LIVE
 
-Experience League LIVE は、Experience League チームが制作したライブストリーミングショーで、Experience Cloud アプリケーション、アプリケーションサービス、Adobe Experience Platform に適用できる実用的なヒント、テクニック、戦略を提供します。
+## 次のエピソードにご参加ください。
 
-## 次のエピソード：Experience PlatformとリアルタイムCDP!
+<a href="https://www.youtube.com/watch?v=rogVKsTFbWk"><img alt="「 」をクリックすると、YouTube LobbyでExperience Leagueライブに誘導されます。" src="assets/1440x492.png" /></a>
 
-![次の](assets/exl-live-ep2-after-2.jpg)
-*エピソードゲスト：* アーロンシールド、ヤヤ・ワン、アンドレス・モンロ
-***イ・マーク日付！*** 8 **月26日（木）に太平洋** 時間( **午** 前9時)に予定
+Experience LeagueLIVEは、Experience Leagueチームが制作したライブストリーミングショーです。  Adobe製品の専門家と連絡を取り、Adobe Experience Cloudアプリケーションで適用できる実用的なヒント、テクニック、戦略を学ぶ機会です。
 
-## 今後のエピソード
 
-Experience LeagueLIVEの次のエピソードに興奮！
+## 今後のExperience Leagueライブイベント
 
 <table>
 <tr>
   <td>
-    <img height="113" width="200" alt="Adobe Campaignロゴ" src="assets/AdobeCampaignLogo.jpg" />
+      <img alt="コンテンツサービス" src="./assets/journeys.png" />
+     <div>
+          <strong>カスタマージャーニー</strong>
+     </div>
+     <div>
+          <em>2021年9月</em>
+     </div>
+    <p>
+    <em>製品エキスパートから、顧客に応じたリアルタイムのエクスペリエンス構築について学びます。</em>
+    <p>
   </td>
   <td>
-    <strong><img height="113" width="200" alt="AdobeAEMロゴ" src="assets/aem-logo.png" /></strong>
+      <img alt="コンテンツサービス" src="./assets/content.png" />
+     <div>
+          <strong>コンテンツとコマース</strong>
+     <div>
+          <em>2021年10月</em>
+     </div>
+     </div>
+    <p>
+    <em>パーソナライズされたコマースエクスペリエンスを拡大・縮小して構築する際のコンテンツの作成および管理方法を説明します</em>
+    <p>
   </td>
   <td>
-    <strong><img height="113" width="200" alt="Adobe Campaignロゴ" src="assets/platform-logo.jpeg" /></strong>
-  </td>
-</tr>
-<tr>
-  <td>
-    <strong>アプリ：</strong> Adobe<br/>
-    <strong>キャンペーンの日付：</strong> 2021年9月<br/>
-    <strong>トピック：</strong> <br/>
-    <strong>TBDGuests:</strong> TBD
-  </td>
-  <td>
-    <strong>アプリ：</strong> Adobe Experience <br/>
-    <strong>Managerの日付：</strong> 2021年10月<br/>
-    <strong>トピック：</strong> <br/>
-    <strong>TBDusts:</strong> TBD
-  </td>
-  <td>
-    <strong>アプリ：</strong> Adobe Experience <br/>
-    <strong>Platform日付：</strong> 2021年11月<br/>
-    <strong>トピック：</strong> <br/>
-    <strong>TBDusts:</strong> TBD
+      <img alt="コンテンツサービス" src="./assets/platform.png" />
+     <div>
+          <strong>Experience Platform</strong>
+     </div>
+     <div>
+          <em>2021 年 12 月 日</em>
+     </div>    
+    <p>
+    <em>製品エキスパートから、顧客に応じたリアルタイムのエクスペリエンス構築について学びます。</em>
+    <p>
   </td>
 </tr>
 </table>
 
-## 過去のエピソードの再生
 
-Experience League LIVE のエピソードを見逃しましたか？ご安心ください。過去のエピソードを見ることができるリンクはこちらです。
+## 過去のエピソード
+
+Experience League LIVE のエピソードを見逃しましたか？ご安心ください。過去のエピソードをご覧ください。
 
 <table>
 <tr>
-  <td>
+
+<td>
     <a href="https://www.youtube.com/watch?v=lxOvLCzEGBI">
       <img height="225" width="400" alt="Experience Leagueライブ" src="assets/exl-live-after2.jpg" />
-    </a><br/>
-    <b>主催者：</b> <i></i><br/>
-    <b>DougGuests:</b> <i>Eric Matisoff and Dasha </i><br/>
-    <b>FitzpatrickHared:</b> <i>2021年7月29日</i>
-
-</td>
-
+    </a>
+     <div>
+          <strong>ゲスト</strong> : <i>エリック・マチソフとダシャ・フィッツパトリック</i>
+     </div>
+     <div>
+          <em>2021 年 7 月 29 日（PT）</em>
+     </div>    
+    <p>
+    <em></em>
+    <p>
+  </td>
 </tr>
-
 </table>
 
 >[!TIP]
