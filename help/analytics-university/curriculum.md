@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
 source-git-commit: a5e8cb510cff46332297bcc95f94e9792dc4fc88
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '320'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 76%
 
 ### 準備に役立つ新しいコース
 
-分析カリキュラムの学習と教育に備え、以下に概要を説明するすべてのコア概念を教える方法を学べる、Adobe Education Exchangeに関する新しいコースを立ち上げました。 4つのコア・モジュール以降に関する学生の教育に備え、このコースから始めることをお勧めします。
+分析カリキュラムの学習と指導に備え、Adobe Education Exchange で新しいコースを開始しました。このコースで指導方法を学べる基本的な概念については、以下に概要を説明します。このコースから始めることをお勧めします。このコースを受講することで、4 つ以上のコアモジュールについて生徒を指導する準備が整います。
 
-次の場所にコースを登録します。[https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning](https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning)
+コースへの登録はこちらから：[https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning](https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning)
 
 ### 学習内容：
 
