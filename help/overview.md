@@ -1,7 +1,7 @@
 ---
 title: Analytics ビデオおよびチュートリアル
 description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
-feature: Analytics の基本事項
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: overview
@@ -9,16 +9,16 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '298'
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+workflow-type: tm+mt
+source-wordcount: '294'
 ht-degree: 100%
 
 ---
 
 # 概要
 
-[!DNL Analytics] チュートリアルサイトへようこそ。  これらのチュートリアルを[ドキュメント](https://docs.adobe.com/content/help/ja-JP/analytics/landing/home.html)と併用すると、Adobe Analytics を使用して顧客インサイトをかつてないほど早く得る方法をより深く理解できます。  開始するには、Dynamic Tag Management アカウントで
+[!DNL Analytics] チュートリアルサイトへようこそ。  これらのチュートリアルを[ドキュメント](https://experienceleague.adobe.com/docs/analytics/landing/home.html?lang=ja)と併用すると、Adobe Analytics を使用して顧客インサイトをかつてないほど早く得る方法をより深く理解できます。  開始するには、Dynamic Tag Management アカウントで
 * 最新の製品については、以下の&#x200B;**新機能**&#x200B;の節を参照してください。
 * **スタッフのおすすめ**&#x200B;ではお気に入りのコンテンツをいくつか紹介します。
 * **左側のナビゲーション**&#x200B;でトピックとサブトピック別のコンテンツをご覧ください。

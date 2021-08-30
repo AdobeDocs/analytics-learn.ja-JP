@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Cloud Debugger を使用した実装の検査
 description: Experience Cloudデバッガーは、ユーザーがタグの検査とデバッグを行うためのExperience Cloudです。 このビデオでは、Experience Cloud Debuggerを使用してAnalyticsの実装を調べる方法を説明します。
-feature: 検証
+feature: Validation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,10 +10,10 @@ kt: 1942
 role: Developer, Data Engineer
 level: Beginner
 exl-id: c13a5973-3c7a-4980-95c5-447b50b962c7
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 14%
+source-wordcount: '91'
+ht-degree: 8%
 
 ---
 
@@ -25,4 +25,3 @@ ht-degree: 14%
 
 様々なページで実行される処理の確認、変数のわかりやすい名前の読み込み、高度な使用例の結果の書き出しの方法を学びます。
 
-詳しくは、[ドキュメント](https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/experience-cloud-debugger.html)を参照してください。

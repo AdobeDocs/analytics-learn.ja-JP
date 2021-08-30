@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace プロジェクトへのセグメントの適用
 description: このビデオでは、データにセグメントを適用してテーブルとビジュアライゼーションのデータを制限する方法を説明します。
-feature: セグメント化
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
@@ -10,9 +10,9 @@ kt: 4107
 role: User
 level: Beginner
 exl-id: d8bd4226-a3f0-4faa-8b78-4b47b5a008ce
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '68'
 ht-degree: 29%
 
 ---
@@ -23,4 +23,4 @@ ht-degree: 29%
 
 >[!VIDEO](https://video.tv.adobe.com/v/30994/?quality=12)
 
-詳しくは、[ドキュメント](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html)を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html)を参照してください。

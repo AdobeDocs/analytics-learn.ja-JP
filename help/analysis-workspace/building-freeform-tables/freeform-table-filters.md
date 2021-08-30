@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspaceのフリーフォームテーブルフィルター
 description: フィルターは、フリーフォームテーブルで共有されるデータの行をより詳細に制御できます。
-feature: フリーフォームテーブル
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 1699
 role: User
 level: Beginner
 exl-id: 17423156-1e0c-4698-9af2-b59f0753176f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 2%
+source-wordcount: '85'
+ht-degree: 0%
 
 ---
 
@@ -26,6 +26,6 @@ ht-degree: 2%
 
 Analysis Workspaceでは、11個のフィルター条件およびAND/OR演算子を使用した、より多くのフィルタリング制御を提供するようになりました。
 
-使用可能なフィルターの詳細については、[ドキュメント](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/pagination_filtering_sorting.html)を参照してください。
+使用可能なフィルターの詳細については、[ドキュメント](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html#cja-workspace?lang=en)を参照してください。
 
 **注意：** 詳細な特殊文字は、Analysis Workspaceでは使用できません。

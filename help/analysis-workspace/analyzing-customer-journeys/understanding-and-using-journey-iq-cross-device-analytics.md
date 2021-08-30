@@ -10,10 +10,10 @@ kt: 4138
 role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '1664'
-ht-degree: 6%
+source-wordcount: '1641'
+ht-degree: 4%
 
 ---
 
@@ -55,11 +55,11 @@ ht-degree: 6%
 
 ## [!DNL Cross-Device Analytics]の仕組み
 
-[!DNL Journey IQ: Cross-Device Analytics (CDA)] はと統合し、または [!DNL Adobe Experience Platform Identity Service]を使用して [[!DNL Co-op Graph]](https://docs.adobe.com/content/help/ja-JP/device-co-op/using/home.html) デバ [!DNL Private Graph] イスとユーザーとのマッピング方法を識別します。その後、このインテリジェンスを活用して、ユーザー行動のクロスデバイス表示を作成します。 CDAには、企業がマルチデバイスの使用状況や、ブランドとのやり取りに関する複数のデバイスの顧客体験を把握するのに役立つ、比類のない機能とツールが含まれています。 Analysis Workspaceの下のレイヤーとして配置され、[!UICONTROL フォールアウト]、[!DNL Flow]、[!DNL Cohort]、[!DNL Segment IQ]、[!DNL Attribution IQ]などの強力なツールを使用して、ユーザーベースのオーディエンス分析とクロスデバイスのアトリビューション、セグメント化、ジャーニー分析を深く分析できます。
+[!DNL Journey IQ: Cross-Device Analytics (CDA)] はと統合し、または [!DNL Adobe Experience Platform Identity Service]を使用して [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html?lang=ja) デバ [!DNL Private Graph] イスとユーザーとのマッピング方法を識別します。その後、このインテリジェンスを活用して、ユーザー行動のクロスデバイス表示を作成します。 CDAには、企業がマルチデバイスの使用状況や、ブランドとのやり取りに関する複数のデバイスの顧客体験を把握するのに役立つ、比類のない機能とツールが含まれています。 Analysis Workspaceの下のレイヤーとして配置され、[!UICONTROL フォールアウト]、[!DNL Flow]、[!DNL Cohort]、[!DNL Segment IQ]、[!DNL Attribution IQ]などの強力なツールを使用して、ユーザーベースのオーディエンス分析とクロスデバイスのアトリビューション、セグメント化、ジャーニー分析を深く分析できます。
 
 ###   [!DNL Cross-Device Virtual Report Suite]
 
-CDAは、特別な種類のクロスデバイス[[!UICONTROL 仮想レポートスイート]](https://docs.adobe.com/content/help/ja-JP/analytics/components/virtual-report-suites/vrs-about.html)を通じて提供されます。 これにより、組織にクロスデバイス分析を導入する際に、元のデバイスベースのレポートスイートを引き続き使用できます。 CDA VRSの設定は簡単です。
+CDAは、特別な種類のクロスデバイス[[!UICONTROL 仮想レポートスイート]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html)を通じて提供されます。 これにより、組織にクロスデバイス分析を導入する際に、元のデバイスベースのレポートスイートを引き続き使用できます。 CDA VRSの設定は簡単です。
 
 VRSビルダーの手順1で、AdobeがCDA対応として設定した[!UICONTROL レポートスイート]を選択します。
 
@@ -98,8 +98,8 @@ VRSの設定を完了し、保存します。 CDA VRSは、Analysis Workspaceに
 
 CDAは[[!DNL Analytics Ultimate]](https://helpx.adobe.com/legal/product-descriptions/adobe-analytics.html)に含まれます。 2019年9月以降、以下に示す前提条件を満たす[!DNL Analytics Ultimate]ユーザーは、CDAを使用する資格があります。 CDAの前提条件を次に示します。
 
-* 会社が[!DNL Adobe Experience Platform Identity Service] [[!DNL Co-op Graph]](https://docs.adobe.com/content/help/en/device-co-op/using/home.html)のメンバーであるか、[!DNL Adobe Experience Platform Identity Service Private Graph]を使用する必要があります。
-* [Experience CloudID(ECID)](https://docs.adobe.com/content/help/ja-JP/id-service/using/home.html)とグラフとのID同期など、[!DNL Co-op Graph]または[!DNL Private Graph]に必要なすべてを実装する必要があります。 [!DNL Co-op Graph]には、技術的な要件に加えて、その他の法的要件や契約上の要件も含まれることに注意してください。
+* 会社が[!DNL Adobe Experience Platform Identity Service] [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html)のメンバーであるか、[!DNL Adobe Experience Platform Identity Service Private Graph]を使用する必要があります。
+* [Experience CloudID(ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja)とグラフとのID同期など、[!DNL Co-op Graph]または[!DNL Private Graph]に必要なすべてを実装する必要があります。 [!DNL Co-op Graph]には、技術的な要件に加えて、その他の法的要件や契約上の要件も含まれることに注意してください。
 * 現在、1つの[!DNL Private Graph]で2つのIMS組織を使用することはできないので、1つのIMS組織で標準化する必要があります。 場合によっては、複数のIMS組織を持つ顧客がCDAと組み合わせて[!DNL Co-op Graph]を使用する可能性があります。
 * [!DNL Co-op graph]と[!DNL Private Graph]、およびCDAの特定のコンポーネントは、[!DNL Microsoft Azure]でホストされます。 つまり、[!DNL Analytics]データは、Adobeのデータ処理センターと[!DNL Microsoft Azure]内のAdobeの存在との間で、前後にコピーされます。 一部の[!DNL Analytics]データは[!DNL Azure]に保存されます。 あなたの会社はこの取り決めに同意しなければならない。
 * CDAには、「クロスデバイス」の[!UICONTROL レポートスイート]が必要です。 つまり、CDAに使用する[!UICONTROL レポートスイート]には、デスクトップWeb、モバイルWeb、モバイルアプリなど、複数の異なるデバイスタイプまたは「サーフェス」のデータを含める必要があります。 2019年9月以降、この[!UICONTROL レポートスイート]のサーバーコールの量は、100MMサーバーコール/日以下にする必要があります。 （今後数ヶ月間で、サーバーコールのボリューム制限が増加します）。
@@ -114,7 +114,7 @@ CDAの[!UICONTROL 仮想レポートスイート]内で、いくつかの変更�
 *人物と個別デバ*
 ![イスCDA [!UICONTROL 人物指標]](assets/cda-people-metric.png)
 
-[[!UICONTROL セグメントビルダー]](https://docs.adobe.com/content/help/ja-JP/analytics/components/segmentation/segmentation-workflow/seg-build.html)では、[!UICONTROL 訪問者]セグメントコンテナが[!UICONTROL 人]セグメントコンテナに置き換えられました。 CDA VRSを使用すると、次のようなクロスデバイスセグメントを作成できます。
+[[!UICONTROL セグメントビルダー]](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=ja)では、[!UICONTROL 訪問者]セグメントコンテナが[!UICONTROL 人]セグメントコンテナに置き換えられました。 CDA VRSを使用すると、次のようなクロスデバイスセグメントを作成できます。
 
 * 複数のデバイスを使用する人
 * モバイルデバイスでジャーニーを開始し、その後デスクトップデバイスで購入する人
@@ -136,21 +136,21 @@ CDA VRS内で、[!DNL eVars]などのディメンションは、デバイス間�
 
 ### ユーザーベースのオーディエンス分析
 
-何人の人がブランドと関わり合っているのか不思議に思ったことはありますか？ 使用するデバイスの数と種類を把握したい場合は、 使用状況はどのように重なっていますか。 CDA VRSを使用して、クロスデバイス[ベン図](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/visualizations/venn.html)およびデバイス/人体[ヒストグラム](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/visualizations/histogram.html)を作成できます。
+何人の人がブランドと関わり合っているのか不思議に思ったことはありますか？ 使用するデバイスの数と種類を把握したい場合は、 使用状況はどのように重なっていますか。 CDA VRSを使用して、クロスデバイス[ベン図](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=ja)およびデバイス/人体[ヒストグラム](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=ja)を作成できます。
 
 *ユーザーベースのオーディエン*
 ![ス分析（ベンおよびヒストグラム）](assets/cda-venn-and-histogram.png)
 
 ### クロスデバイス [!DNL Flow]
 
-CDAとAnalysis Workspaceを使用すると、[[!DNL Flow visualization]](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/visualizations/flow/flow.html)内で、ユーザーが時間の経過と共にデバイス間をどのように移動しているかを視覚化できます。 彼らが旅の中でどこに落ちて行くか、どこで行くかを見ることができます。
+CDAとAnalysis Workspaceを使用すると、[[!DNL Flow visualization]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html)内で、ユーザーが時間の経過と共にデバイス間をどのように移動しているかを視覚化できます。 彼らが旅の中でどこに落ちて行くか、どこで行くかを見ることができます。
 
 *[!DNL Flow]CDAを使用*
 ![[!DNL Flow Visualization]](assets/cda-flow-viz.png)
 
 ### クロスデバイス [!DNL Fallout]
 
-複数の[[!DNL Fallout visualizations]](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html)を使用して、成功に至る前に、特定の一連の手順をユーザーがどの程度実行したかを分析することができます。 従来のデバイスベースの分析を使用する場合、[!DNL Fallout visualizations]の表示が制限されることをご存じですか。 「フォールスルー」を正常に実行するには、次の手順が前の手順と同じブラウザーまたはアプリでおこなわれる必要があります。 デバイスベースの分析では、別のデバイスで次の手順を正常に完了した人は見えません。
+複数の[[!DNL Fallout visualizations]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=ja)を使用して、成功に至る前に、特定の一連の手順をユーザーがどの程度実行したかを分析することができます。 従来のデバイスベースの分析を使用する場合、[!DNL Fallout visualizations]の表示が制限されることをご存じですか。 「フォールスルー」を正常に実行するには、次の手順が前の手順と同じブラウザーまたはアプリでおこなわれる必要があります。 デバイスベースの分析では、別のデバイスで次の手順を正常に完了した人は見えません。
 
 心配するな、CDAがカバーしている。 CDAはクロスデバイスビューを作成し、[!DNL Fallout visualizations]をはるかに役に立たせます。 結局のところ、人が最終的にどこかで仕事に成功したかどうかが重要なのです。
 
@@ -159,11 +159,11 @@ CDAとAnalysis Workspaceを使用すると、[[!DNL Flow visualization]](https:/
 
 ### [!DNL Cross-Device Attribution IQ]
 
-CDAはAnalysis Workspaceの下にクロスデバイスデータのレイヤーを作成するので、すべての分析にクロスデバイスの視点が適用されます。 強力な例として、[[!DNL Attribution IQ]](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/attribution/models.html)が挙げられます。 [!DNL Attribution IQ] Analysis Workspaceでは、複数のアトリビューションモデルを並べて比較できます。この機能をCDAと共に使用すると、様々なデバイスが成功にどのように貢献しているかを比較できます。
+CDAはAnalysis Workspaceの下にクロスデバイスデータのレイヤーを作成するので、すべての分析にクロスデバイスの視点が適用されます。 強力な例として、[[!DNL Attribution IQ]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/attribution/attribution.html)が挙げられます。 [!DNL Attribution IQ] Analysis Workspaceでは、複数のアトリビューションモデルを並べて比較できます。この機能をCDAと共に使用すると、様々なデバイスが成功にどのように貢献しているかを比較できます。
 
 例えば、携帯電話がインタラクションで最初に使用され、最終的に成功に導くデバイスの頻度を把握したいとします。 これは、携帯電話の「獲得率」を表します。 CDA + [!DNL Attribution IQ]を使用すると、次の分析を実行できます。
 
 *[!DNL Attribution IQ]CDAを使用*
 ![[!DNL Attribution IQ]](assets/cda-attribution-iq.png)
 
-詳しくは、[[!DNL Cross-Device Analytics] ヘルプドキュメント](https://docs.adobe.com/content/help/ja-JP/analytics/components/cda/cda-home.html)を参照してください。
+詳しくは、[[!DNL Cross-Device Analytics] ヘルプドキュメント](https://experienceleague.adobe.com/docs/analytics/components/cda/cda-home.html)を参照してください。

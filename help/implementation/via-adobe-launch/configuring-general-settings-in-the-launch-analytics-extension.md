@@ -10,7 +10,7 @@ kt: 2837
 role: Developer, Data Engineer
 level: Beginner
 exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
-source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 14%
@@ -25,7 +25,7 @@ Experience Platform LaunchとAdobe Analytics [!UICONTROL Extension]を使い始�
 
 この使用例の側面に関する追加情報については、次のドキュメントトピックを参照してください。
 
-[郵便番号](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en)
+[郵便番号](https://docs.adobe.com/help/en/analytics/components/variables/dimensions-reports/reports-zip.html)
 
 [分類](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=ja)
 

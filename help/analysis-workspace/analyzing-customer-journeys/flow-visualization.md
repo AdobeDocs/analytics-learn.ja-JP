@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace のフロービジュアライゼーション
 description: このビデオでは、Analysis Workspaceのフロービジュアライゼーションについて説明します。 フローを使用して、ユーザーの動きを表示および調査し、カスタマージャーニーをより深く理解できます。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 2279
 role: User
 level: Beginner
 exl-id: 888fec4a-308d-4a05-9c7b-a4b4deba09b1
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 31%
+source-wordcount: '77'
+ht-degree: 18%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 31%
 
 >[!VIDEO](https://video.tv.adobe.com/v/24045/?quality=12)
 
-この機能について詳しくは、[ドキュメント](https://marketing.adobe.com/resources/help/ja_JP/analytics/analysis-workspace/flow.html)を参照してください。
+この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en)を参照してください。

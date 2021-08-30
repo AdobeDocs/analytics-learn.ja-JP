@@ -1,7 +1,7 @@
 ---
 title: Adobe Analyticsの分類の概要
 description: 分類は、説明的な属性を製品、キャンペーン、ページ、顧客などに追加する強力な方法です。 これらの属性を使用すると、類似した要素をグループ化し、データを分類して、が何で機能していないかを深く掘り下げることで、マーケティングとエクスペリエンスの取り組みをより深く理解できます。
-feature: 分類
+feature: Classifications
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 2350
 role: User
 level: Beginner
 exl-id: bca1c26b-d3dc-4f70-a406-0fe0bdf8d0a8
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 13%
+ht-degree: 6%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 13%
 
 >[!VIDEO](https://video.tv.adobe.com/v/16853/?quality=12)
 
-この機能について詳しくは、[ドキュメント](https://marketing.adobe.com/resources/help/ja_JP/reference/classifications.html)を参照してください。
+この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=en)を参照してください。

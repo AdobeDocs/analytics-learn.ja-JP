@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace でのカスタムカラーパレットの使用
 description: Analysis Workspaceで使用するカラーパレットを変更して、ブランドや顧客のカラーパレットに合わせて調整できます。
-feature: Workspace の基本
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 1943
 role: User
 level: Beginner
 exl-id: 03cb00ce-42c1-481b-8dc2-bf90d8a98acc
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 21%
+source-wordcount: '115'
+ht-degree: 11%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 21%
 
 5つのOOTBパレットと、独自の色文字列を指定する機能を提供しています。 色は、[!UICONTROL Analysis Workspace]のすべての分類ビジュアライゼーションに影響します。 除外される[!UICONTROL ビジュアライゼーション]は、[!UICONTROL 変更の概要]、[!UICONTROL フリーフォームテーブル]の条件付き書式、[!UICONTROL フロー]の入口/出口、[!UICONTROL マップ]のみです。
 
-詳しくは、[ドキュメント](https://marketing.adobe.com/resources/help/ja_JP/analytics/analysis-workspace/color_palettes.html)を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/color-palettes.html?lang=en)を参照してください。

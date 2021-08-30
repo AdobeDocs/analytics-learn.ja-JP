@@ -10,7 +10,7 @@ kt: 1774
 role: User
 level: Intermediate
 exl-id: 87568f06-1369-46d6-80bd-762a67e4bdcc
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 10%
@@ -31,4 +31,4 @@ ht-degree: 10%
 
 4:05 - Analysis WorkspaceでのVRSの使用
 
-この機能について詳しくは、[ドキュメント](https://marketing.adobe.com/resources/help/en_US/reference/vrs-components.html)を参照してください。
+この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-components.html?lang=en)を参照してください。

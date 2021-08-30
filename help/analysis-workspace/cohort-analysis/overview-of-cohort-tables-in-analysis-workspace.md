@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspaceのコホートテーブルの概要
 description: コホートテーブル内のローリング計算設定を使用すると、前期と同じユーザーが時間の経過に伴ってどのように保持（またはチャーン）されるかを把握できます。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 2477
 role: User
 level: Intermediate
 exl-id: 3c0b0814-61b0-43ad-b69c-9e55555d4edd
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 21%
+ht-degree: 8%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 21%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12)
 
-詳しくは、[ドキュメント](https://marketing.adobe.com/resources/help/ja_JP/analytics/analysis-workspace/cohort_analysis.html)を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en)を参照してください。

@@ -1,8 +1,8 @@
 ---
 title: Analysis Workspace の使用状況ログトラッキングの使用
-seo-title: Analysis Workspace の使用状況ログトラッキングの使用
+seo-title: Using the Usage Log Tracking for Analysis Workspace
 description: このビデオでは、Workspace プロジェクトで使用状況ログトラッキングを使用する方法を示します。これは、ユーザーの Adobe Analytics の使用状況をより深く理解するのに役立ちます。
-seo-description: このビデオでは、Workspace プロジェクトで使用状況ログトラッキングを使用する方法を示します。これは、ユーザーの Adobe Analytics の使用状況をより深く理解するのに役立ちます。
+seo-description: This video shows how to use the Usage Log Tracking on Workspace projects, which can help you better understand your users’ usage of Adobe Analytics.
 feature: data configuration and collection
 topics: null
 audience: analyst, marketer
@@ -11,11 +11,10 @@ doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1597
-translation-type: ht
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: ht
-source-wordcount: '188'
-ht-degree: 100%
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+workflow-type: tm+mt
+source-wordcount: '152'
+ht-degree: 94%
 
 ---
 
@@ -39,7 +38,7 @@ ht-degree: 100%
 
 ## その他のリソース {#additional-resources}
 
-* [ログの詳細情報](https://marketing.adobe.com/resources/help/ja_JP/reference/logs.html)
+* [ログの詳細情報](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)
 * [デモダッシュボードのダウンロード](https://adobe.ly/2ygP5ws)
 
 今後の課題：アドビでは、近日中にこの情報を [!DNL Analytics] 内のわかりやすい UI で（より詳しく）表示できるように取り組んでいます。

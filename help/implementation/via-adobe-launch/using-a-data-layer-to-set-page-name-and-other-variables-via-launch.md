@@ -1,7 +1,7 @@
 ---
 title: Launchを介したAdobe Analyticsでのデータレイヤーの使用によるページ名とその他の変数の設定
 description: Analyticsやその他のデータソリューションに対してデータレイヤーを使用するExperience Cloudは、ベストプラクティスと見なされます。 このビデオでは、データレイヤーから値を取り出し、Launchで値を使用してAdobe Analyticsで変数を設定する方法を説明します。
-feature: Launchの実装
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,9 +10,9 @@ kt: 1852
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '365'
 ht-degree: 7%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 7%
 
 ## データレイヤー {#data-layers}
 
-サイトやAdobe Experience Cloudソリューション(特にAdobe Analyticsを使用)でデータを操作する場合は、データレイヤーを使用することをお勧めします。 「_データ層_」とは、開発者がページに挿入する JavaScript オブジェクトのフレームワークのことを指します。データ層は、トラッキングツール（[!DNL Experience Platform Launch]のようなタグ管理システムを含む）でレポートに入力するために使用できます。 [Experience Cloudのドキュメント](https://marketing.adobe.com/resources/help/en_US/sc/implement/ref-data-layer.html)または[W3Cサイト](https://www.w3.org/)で、データレイヤーに関する追加情報を参照してください。
+サイトやAdobe Experience Cloudソリューション(特にAdobe Analyticsを使用)でデータを操作する場合は、データレイヤーを使用することをお勧めします。 「_データ層_」とは、開発者がページに挿入する JavaScript オブジェクトのフレームワークのことを指します。データ層は、トラッキングツール（[!DNL Experience Platform Launch]のようなタグ管理システムを含む）でレポートに入力するために使用できます。 [Experience Cloudのドキュメント](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=en)または[W3Cサイト](https://www.w3.org/)で、データレイヤーに関する追加情報を参照してください。
 
 さらに、ブログ「[データレイヤー：バズワードからベストプラクティスまで、](https://theblog.adobe.com/data-layers-buzzword-best-practice/)は、データ層に関する優れた情報と例を提供します。
 

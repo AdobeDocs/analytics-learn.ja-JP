@@ -10,10 +10,10 @@ kt: 2344
 role: User
 level: Intermediate
 exl-id: db5b7623-d863-4ecd-9902-8b20f6aea257
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 20%
+source-wordcount: '92'
+ht-degree: 9%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 20%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12)
 
-この機能について詳しくは、[ドキュメント](https://marketing.adobe.com/resources/help/ja_JP/arb/index.html)を参照してください。
+この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=en)を参照してください。

@@ -1,7 +1,7 @@
 ---
 title: タグマネージャーを使用しないカスタムリンクトラッキング
 description: ページ上の多くのアクションでは、トラッキングをページビューのように扱わないでください。 このビデオでは、タグマネージャー(Experience Platform Launchなど)を使用していない場合に、Analyticsにリンクトラッキングビーコンをコーディングする方法を学びます。 コードを参照し、重要なヒントを確認してください。
-feature: Appmeasurementの実装
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,10 +10,10 @@ kt: 1845
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 8%
+source-wordcount: '271'
+ht-degree: 5%
 
 ---
 
@@ -49,5 +49,3 @@ Adobe Analyticsにデータを送信する関数は2つあります。
     Click here to share on FaceBook
 </a>
 ```
-
-カスタムリンクの詳細については、[ドキュメント](https://marketing.adobe.com/resources/help/ja_JP/sc/implement/function_tl.html)を参照してください。

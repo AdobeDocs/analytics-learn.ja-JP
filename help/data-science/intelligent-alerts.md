@@ -1,7 +1,7 @@
 ---
 title: Adobe Analyticsのインテリジェントアラート
 description: インテリジェントアラートは、異常値検出の機能を直接インボックスまたは携帯電話に配置します。 主要指標およびセグメントの重要な変更を即座に認識することは、オポチュニティを逃さないことを意味します。
-feature: データサイエンス
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 2338
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 04af0dc3-3cf3-446d-924c-82f21ee6974c
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 22%
+source-wordcount: '92'
+ht-degree: 9%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 22%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25446/?quality=12)
 
-この機能について詳しくは、[ドキュメント](https://marketing.adobe.com/resources/help/ja_JP/analytics/analysis-workspace/intellligent_alerts.html)を参照してください。
+この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=en)を参照してください。

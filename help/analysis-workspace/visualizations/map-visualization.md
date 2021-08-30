@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspaceでのマップのビジュアライゼーション
 description: このビデオでは、Analysis Workspaceでの新しいマップビジュアライゼーションの使用方法を説明します。 マップビジュアライゼーションを使用すると、動的マップに対してモバイル（緯度/経度）またはWeb（IPアドレス）のデータを表示でき、場所のコンテキストで顧客の使用状況を把握できます。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -10,7 +10,7 @@ kt: 1771
 role: User
 level: Beginner
 exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -33,4 +33,4 @@ ht-degree: 0%
 
 7:00 — ヒートマップビュー
 
-この[!UICONTROL ビジュアライゼーション]について詳しくは、[ドキュメント](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/map-visualization.html)を参照してください。
+この[!UICONTROL ビジュアライゼーション]について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=en)を参照してください。

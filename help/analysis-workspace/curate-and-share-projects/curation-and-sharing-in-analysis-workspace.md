@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace でのキュレーションと共有
 description: Analysis Workspaceでプロジェクトを作成したら、プロジェクトをキュレーション（シンプル化）し、組織内の他のチームや個人と共有して、そのチームや個人がプロジェクトを調査し、データを活用してセルフサービスを提供できます。 このビデオでは、キュレーションと共有の操作方法を説明します。
-feature: キュレーションと共有
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 2294
 role: User
 level: Beginner
 exl-id: 892b7f9d-9351-4c68-a54f-85803a67c072
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 19%
+source-wordcount: '124'
+ht-degree: 9%
 
 ---
 
@@ -23,4 +23,4 @@ Analysis Workspaceでプロジェクトを構築したら、[!UICONTROL キュ�
 
 >[!VIDEO](https://video.tv.adobe.com/v/24711/?quality=12)
 
-この機能の詳細については、[ドキュメント](https://marketing.adobe.com/resources/help/ja_JP/analytics/analysis-workspace/curate.html)を参照してください。
+この機能の詳細については、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=en)を参照してください。

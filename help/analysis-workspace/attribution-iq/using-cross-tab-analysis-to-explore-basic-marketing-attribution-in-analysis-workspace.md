@@ -1,7 +1,7 @@
 ---
 title: クロスタブ分析を使用したAnalysis Workspaceの基本的なマーケティングアトリビューションの調査
 description: Adobe Analytics では、アトリビューション手法を次のレベルにまで引き継ぐ方法は数多くあります。このビデオでは、Workspace のクロスタブ分析を使用して、 マーケティングチャネルレポートからより深い洞察を得る方法を強調します。
-feature: マーケティングチャネル
+feature: Marketing Channels
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 38%
+source-wordcount: '288'
+ht-degree: 37%
 
 ---
 
@@ -39,4 +39,4 @@ Adobe Analytics では、アトリビューション手法を次のレベルに�
 * 4:30 — 現在、列設定を1つずつではなく一括で更新できます。 詳しくは、ビデオの8:45を参照してください。[フリーフォームテーブルの行および列設定](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 
-このトピックの詳細については、[ドキュメント](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/attribution/models.html)を参照してください。
+このトピックの詳細については、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=ja)を参照してください。

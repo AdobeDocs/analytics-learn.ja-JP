@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace のコホート分析
 description: Analysis Workspaceでコホート分析テーブルを作成する方法。
-feature: ビジュアライゼーション
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 2135
 role: User
 level: Intermediate
 exl-id: eec26e68-eed9-47b5-8ebf-26a1f6c28d40
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '51'
-ht-degree: 41%
+ht-degree: 19%
 
 ---
 
@@ -23,4 +23,4 @@ Analysis Workspaceで[!UICONTROL コホート]分析テーブルを作成する�
 
 >[!VIDEO](https://video.tv.adobe.com/v/23990/?quality=12)
 
-この機能の詳細については、[ドキュメント](https://marketing.adobe.com/resources/help/ja_JP/analytics/analysis-workspace/cohort_analysis.html)を参照してください。
+この機能の詳細については、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en)を参照してください。

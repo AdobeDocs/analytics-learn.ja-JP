@@ -1,7 +1,7 @@
 ---
 title: 個別ディメンションカウントに基づくセグメント化
 description: セグメントビルダーの新しいユニークカウント演算子を使用すると、任意のディメンション内の一意の項目数に基づいてセグメント化できます。 5ページを超える訪問、または5つを超える製品が購入されたヒット（1回の注文内など）をフィルターします。
-feature: セグメント化
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
@@ -10,9 +10,9 @@ kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '122'
 ht-degree: 13%
 
 ---
@@ -25,4 +25,4 @@ ht-degree: 13%
 
 この機能はもっと涼しいか？ :)
 
-詳しくは、[ドキュメント](https://marketing.adobe.com/resources/help/en_US/analytics/segment/seg_operators.html)を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=en)を参照してください。
