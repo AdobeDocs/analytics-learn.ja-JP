@@ -1,19 +1,19 @@
 ---
 title: Analysis Workspace の使用状況ログトラッキング
 description: 「管理者 — ログ — 使用状況およびアクセス」で、Adobe Analyticsのユーザーの使用状況をより深く理解できます。 このビデオでは、Workspaceプロジェクトの使用の測定に特に焦点を当てています。
-feature: データの設定と収集
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4024
-topic: 管理
+topic: Administration
 role: Admin
 level: Beginner
 exl-id: 397cfb51-7d7d-49dd-8b54-e928fe77d39e
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '98'
 ht-degree: 18%
 
 ---
@@ -24,4 +24,4 @@ ht-degree: 18%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12)
 
-詳しくは、[ドキュメント](https://docs.adobe.com/help/en/analytics/admin/admin-tools/logs.html)を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)を参照してください。
