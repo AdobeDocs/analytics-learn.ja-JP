@@ -1,19 +1,17 @@
 ---
 title: Analysis Workspaceでの時間分割ヒートマップの作成
 description: ビヘイビアーのヒートマップビジュアライゼーションを作成して、時間分割分析を次のレベルに進める方法を説明します。
-feature: ビジュアライゼーション
-topics: null
-activity: use
+feature: Visualizations
 doc-type: feature video
-team: Technical Marketing
+thumbnail: 26991.jpg
 kt: 2813
 role: User
 level: Beginner
 exl-id: 1bf591a4-fdce-4053-80d4-a9cd87e04ec6
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ad0fa7f4e781d826a3a10a5ad7e7022334cb44e4
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 1%
+source-wordcount: '50'
+ht-degree: 0%
 
 ---
 

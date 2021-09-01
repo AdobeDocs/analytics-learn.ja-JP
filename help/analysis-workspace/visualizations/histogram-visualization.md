@@ -2,15 +2,13 @@
 title: Analysis Workspace のヒストグラムビジュアライゼーション
 description: ヒストグラムを使用すると、訪問者、訪問および現在のヒットにわたる指標の分布を視覚化して、高い値および低い値のセグメントを見つけることができます。
 feature: Visualizations
-topics: null
-activity: use
 doc-type: feature video
-team: Technical Marketing
+thumbnail: 23725.jpg
 kt: 1909
 role: User
 level: Beginner
 exl-id: a24a9c3d-9bb2-4d72-8b36-d33fda777e4d
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: ad0fa7f4e781d826a3a10a5ad7e7022334cb44e4
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 13%
