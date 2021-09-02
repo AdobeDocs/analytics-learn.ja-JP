@@ -6,8 +6,8 @@ role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 336483.jpg
-kt: null
-source-git-commit: ff682b772fb0c261bee2e57b75f49ee07a318030
+kt: KT-8646
+source-git-commit: 70e465b504060b2898b502d2da7f0a5cd2f4beb0
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
