@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics 向けのビデオとチュートリア�
 breadcrumb-title: Analytics チュートリアル
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: ff682b772fb0c261bee2e57b75f49ee07a318030
 workflow-type: tm+mt
-source-wordcount: '2131'
-ht-degree: 98%
+source-wordcount: '2197'
+ht-degree: 96%
 
 ---
 
@@ -28,13 +28,15 @@ ht-degree: 98%
       + [Summit 2019 スーパーセッション - ハイテク分野](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + Analytics の基本事項 {#analytics-basics}
       + [Reports and Analytics の「Workspace で試す」ボタン](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
-      + [人物指標](intro-to-analytics/analytics-basics/people-metric.md)
       + [Analytics サイクルについて](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [Analytics データの収集方法](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Adobe Analytics へのログイン](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Analytics UI の紹介](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
       + [レポートスイートの理解と作成](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [Adobe Labs（技術プレビュー）](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
+      + [基本的な訪問者指標について](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
+      + [トラフィック変数（prop）の概要](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
+      + [コンバージョン変数（eVar）について](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
+      + [コンバージョンイベントの概要](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
    + UI のカスタマイズ {#customizing-the-ui}
       + [Adobe Analytics のユーザー環境設定](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [ディメンションと指標の説明の追加](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
@@ -59,6 +61,7 @@ ht-degree: 98%
       + [Analysis Workspace の標準テンプレート](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
       + [カスタムテンプレートを使用した Analysis Workspace 初級ユーザーの支援](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
       + [Analysis Workspace プロジェクトへのデータの入力について](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
+      + [Adobe Analyticsの基本指標](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
       + [Analysis Workspace のコンポーネント管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [コンポーネントマネージャーの使用](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
       + [Analysis Workspace でのレポートスイートの選択](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
@@ -147,7 +150,7 @@ ht-degree: 98%
       + [Analysis Workspace でのセグメントを使用したデータの制限](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
    + 指標 {#metrics}
       + [基本的な訪問者指標について](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [Analysis Workspace でのプロジェクトへのディメンションと指標の追加](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=ja)
+      + [Analysis Workspace でのプロジェクトへのディメンションと指標の追加](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
       + [コンバージョンイベントの概要](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [フリーフォームテーブルでの指標の操作](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=ja)
       + [Analysis Workspace でのパーティシペーション指標の使用](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
@@ -241,6 +244,7 @@ ht-degree: 98%
 + 実装 {#implementation}
    + 実装の基本 {#implementation-basics}
       + [初回の実装](implementation/implementation-basics/first-time-implementation.md)
+      + [レポートスイートの概要と作成](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html)
       + [処理ルールを使用した contextData 変数の prop および eVar へのマッピング](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [Analytics トラッキングサーバーおよびレポートスイートの識別方法](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [ビジネス要件ドキュメントの作成](implementation/implementation-basics/creating-a-business-requirements-document.md)
@@ -311,6 +315,7 @@ ht-degree: 98%
       + [Activity Map の概要](components/activity-map/activity-map-overview.md)
       + [Adobe Analytics Activity Map の有効化、デバッグ、カスタマイズ](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + 追加ツール {#additional-tools}
+   + [Adobe Labs（技術プレビュー）](additional-tools/adobe-labs-technology-previews.md)
    + Analytics ダッシュボード {#analytics-dashboards}
       + [Adobe Analytics ダッシュボードのスコアカードビルダー](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
       + [カスタム日付範囲の適用](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
