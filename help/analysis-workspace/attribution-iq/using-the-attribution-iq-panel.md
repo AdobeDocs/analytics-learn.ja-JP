@@ -11,8 +11,8 @@ thumbnail: 23139.jpg
 kt: 1667
 role: User
 level: Intermediate
-exl-id: 2c265c0b-5d5e-435f-9fdd-086f7faa0bd9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9,2c265c0b-5d5e-435f-9fdd-086f7faa0bd9
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+exl-id: 2c265c0b-5d5e-435f-9fdd-086f7faa0bd9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9
+source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%

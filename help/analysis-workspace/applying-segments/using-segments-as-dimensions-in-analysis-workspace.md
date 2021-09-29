@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace でのディメンションとしてのセグメントの使用
 description: このビデオでは、Analysis Workspaceでディメンションとして使用して、セグメントを比較および視覚化する方法を示します。
-feature: セグメント化
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
@@ -10,11 +10,11 @@ team: Technical Marketing
 kt: 2009
 role: User
 level: Beginner
-exl-id: 36b564bd-30ae-4474-8b05-9607397e02b8,69901e9c-42e6-423e-bb89-8b8b0763bac7,69901e9c-42e6-423e-bb89-8b8b0763bac7,36b564bd-30ae-4474-8b05-9607397e02b8
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+exl-id: 36b564bd-30ae-4474-8b05-9607397e02b8,69901e9c-42e6-423e-bb89-8b8b0763bac7
+source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 28%
+source-wordcount: '52'
+ht-degree: 26%
 
 ---
 
