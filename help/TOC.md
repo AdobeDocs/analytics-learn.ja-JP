@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: 3fa5d24147c0a2074921144d725d21ea57a92336
+source-git-commit: 808129e3d71b11446eadac44862e6a879c9e95b7
 workflow-type: tm+mt
-source-wordcount: '2197'
-ht-degree: 100%
+source-wordcount: '2201'
+ht-degree: 99%
 
 ---
 
@@ -317,6 +317,7 @@ ht-degree: 100%
    + [Adobe Labs（技術プレビュー）](additional-tools/adobe-labs-technology-previews.md)
    + Analytics ダッシュボード {#analytics-dashboards}
       + [Adobe Analytics ダッシュボードのスコアカードビルダー](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
+      + [モバイルスコアカードのビジュアライゼーション](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [カスタム日付範囲の適用](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Analytics ダッシュボードのアプリ内エクスペリエンス](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
 + エクスポート {#exporting}
