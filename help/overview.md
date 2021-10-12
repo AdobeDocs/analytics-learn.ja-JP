@@ -1,5 +1,5 @@
 ---
-title: Analyticsのビデオとチュートリアル
+title: Analytics ビデオおよびチュートリアル
 description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 feature: Analytics Basics
 topics: null
@@ -10,9 +10,9 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: 47061b035847e42d72dec3b83d7a8322f0276e6b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '294'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
