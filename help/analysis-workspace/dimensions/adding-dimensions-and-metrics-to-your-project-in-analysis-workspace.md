@@ -1,6 +1,6 @@
 ---
 title: Analysis Workspace でのプロジェクトへのディメンションと指標の追加
-description: このビデオでは、ディメンションと指標の違い、およびAnalysis Workspaceのテーブルとビジュアライゼーションにディメンションと指標を追加する方法について説明します。 また、標準の計算指標を追加する方法についても説明します。
+description: このビデオでは、ディメンションと指標、それらの違い、および Analysis Workspace のテーブルとビジュアライゼーションにそれらを追加する方法について説明します。また、標準の計算指標を追加する方法についても説明します。
 feature: Dimensions
 topics: null
 activity: use
@@ -11,15 +11,15 @@ role: User
 level: Beginner
 exl-id: 748ba7ff-a75d-4ecb-a5d8-5451d1922725,01466500-25ef-40d5-9ae1-ce1e0e92b0b5
 source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 24%
+ht-degree: 100%
 
 ---
 
-# Analysis Workspaceのプロジェクトに[!UICONTROL Dimension]と[!UICONTROL 指標]を追加する
+# Analysis Workspace でのプロジェクトへの[!UICONTROL ディメンション]と[!UICONTROL 指標]の追加
 
-このビデオでは、[!UICONTROL ディメンション]と[!UICONTROL 指標]、それらの違い、およびAnalysis Workspaceのテーブルとビジュアライゼーションに追加する方法について説明します。 また、標準の[!UICONTROL 計算指標]を追加する方法についても説明します。
+このビデオでは、[!UICONTROL ディメンション]と[!UICONTROL 指標]、それらの違い、および Analysis Workspace のテーブルとビジュアライゼーションにそれらを追加する方法について説明します。また、標準の[!UICONTROL 計算指標]を追加する方法についても説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12)
 
