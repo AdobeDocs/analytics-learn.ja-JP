@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: bf34fbd9aa8f707efd8cb96a3cebda03d6ebdeb1
+source-git-commit: da55943c5e956f7b03952babf8cdaf50d6239133
 workflow-type: tm+mt
 source-wordcount: '2209'
 ht-degree: 99%
@@ -280,7 +280,6 @@ ht-degree: 99%
    + セグメント化 {#segmentation}
       + [セグメントビルダーの概要](components/segmentation/segment-builder-overview.md)
       + [セグメントの検索と作成](components/segmentation/finding-and-creating-segments.md)
-      + [順次セグメント化での前後のシーケンス](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [セグメントでの周期的な日付範囲](components/segmentation/rolling-date-ranges-in-segments.md)
       + [Analysis Workspace におけるセグメント比較](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [セグメントコンテナ](components/segmentation/segment-containers.md)
@@ -289,6 +288,7 @@ ht-degree: 99%
       + [Analysis Workspace でのディメンションとしてのセグメントの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=ja)
       + [Analysis Workspace でのセグメントを使用したデータの制限](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=ja)
       + [順次セグメント化](components/segmentation/sequential-segmentation.md)
+      + [順次セグメント化での前後のシーケンス](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [個別ディメンションカウントに基づくセグメント化](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [セグメント化のディメンションモデル](components/segmentation/dimension-models-in-segmentation.md)
       + [セグメント化の「次のいずれかと等しい」演算子](components/segmentation/equals-any-of-operator-in-segmentation.md)
@@ -410,4 +410,4 @@ ht-degree: 99%
    + [市場内郵便番号分析の設定](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics 大学向けカリキュラム](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
-+ [ビジネスユーザー向け Analytics の基本事項は廃止されました](retired-courses/retire-fundamentals-for-business-users-course.md)
++ [ビジネスユーザー向けの分析の基礎が廃止されました。](retired-courses/retire-fundamentals-for-business-users-course.md)
