@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: da55943c5e956f7b03952babf8cdaf50d6239133
+source-git-commit: 74f9fce66df5b5b9cf9f05feed1b992aa6b7a114
 workflow-type: tm+mt
-source-wordcount: '2209'
+source-wordcount: '2208'
 ht-degree: 99%
 
 ---
@@ -160,8 +160,8 @@ ht-degree: 99%
       + [フリーフォームテーブルでのディメンションの操作](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=ja)
    + カレンダーと日付範囲 {#calendar-and-date-ranges}
       + [Analysis Workspace での日付の使用](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
+      + [プロジェクトに再利用可能な日付範囲を適用する](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
       + [Analysis Workspace での日付範囲と日付比較の使用](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
-      + [Analysis Workspace での日付範囲とカレンダーの使用](analysis-workspace/calendar-and-date-ranges/date-ranges-and-calendar-in-analysis-workspace.md)
       + [カスタム日付範囲の作成](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Analysis Workspace での日付比較](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [トレンドへの前月比および前年比の追加](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
@@ -410,4 +410,4 @@ ht-degree: 99%
    + [市場内郵便番号分析の設定](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics 大学向けカリキュラム](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
-+ [ビジネスユーザー向けの分析の基礎が廃止されました。](retired-courses/retire-fundamentals-for-business-users-course.md)
++ [ビジネスユーザー向け Analytics の基本事項は廃止されました](retired-courses/retire-fundamentals-for-business-users-course.md)
