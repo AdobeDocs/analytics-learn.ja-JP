@@ -9,16 +9,16 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 47061b035847e42d72dec3b83d7a8322f0276e6b
-workflow-type: ht
-source-wordcount: '294'
-ht-degree: 100%
+source-git-commit: c6cb1238e3e2da656976154445992e34bfa011ae
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 概要
 
-[!DNL Analytics] チュートリアルサイトへようこそ。  これらのチュートリアルを[ドキュメント](https://experienceleague.adobe.com/docs/analytics/landing/home.html?lang=ja)と併用すると、Adobe Analytics を使用して顧客インサイトをかつてないほど早く得る方法をより深く理解できます。  開始するには、Dynamic Tag Management アカウントで
+[!DNL Analytics] チュートリアルサイトへようこそ。  これらのチュートリアルを[ドキュメント](https://experienceleague.adobe.com/docs/analytics.html?lang=ja)と併用すると、Adobe Analytics を使用して顧客インサイトをかつてないほど早く得る方法をより深く理解できます。  開始するには、Dynamic Tag Management アカウントで
 * 最新の製品については、以下の&#x200B;**新機能**&#x200B;の節を参照してください。
 * **スタッフのおすすめ**&#x200B;ではお気に入りのコンテンツをいくつか紹介します。
 * **左側のナビゲーション**&#x200B;でトピックとサブトピック別のコンテンツをご覧ください。
