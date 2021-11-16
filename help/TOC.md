@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: 74f9fce66df5b5b9cf9f05feed1b992aa6b7a114
+source-git-commit: 4092033ff06e0b4805a94bb77e7d9c964adcf82a
 workflow-type: tm+mt
-source-wordcount: '2208'
-ht-degree: 99%
+source-wordcount: '2225'
+ht-degree: 98%
 
 ---
 
@@ -87,6 +87,7 @@ ht-degree: 99%
       + [Analysis Workspace の Quick Insights パネル](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Attribution IQ パネルの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=ja)
       + [Analysis Workspace のメディア同時視聴者数パネル](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
+      + [メディア再生滞在時間パネル](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
       + [ドロップダウンフィルターの使用](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [パネルを使用した Analysis Workspace プロジェクトの整理](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [セグメントドロップゾーンの改善](analysis-workspace/using-panels/segment-dropzone-improvements.md)
@@ -380,8 +381,9 @@ ht-degree: 99%
       + [購入イベントの Platform Launch ルールの追加](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
       + [Summit 2019 スーパーセッション - 小売分野](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=ja)
 + Media Analytics {#media-analytics}
-   + 音声またはオーディオの測定 {#measuring-voice-or-audio}
-      + [Analysis Workspace でのオーディオ消費テンプレートの使用](media-analytics/measuring-voice-or-audio/using-the-audio-consumption-template-in-analysis-workspace.md)
+   + Media Analytics の測定 {#measuring-media-analytics}
+      + [メディア再生滞在時間パネル](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
+      + [Analysis Workspace でのオーディオ消費テンプレートの使用](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
 + モバイルアプリ分析 {#mobile-app-analytics}
    + 実装 {#implementation}
       + [モバイルアプリの管理設定](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
