@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 4092033ff06e0b4805a94bb77e7d9c964adcf82a
 workflow-type: tm+mt
 source-wordcount: '2225'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -161,7 +161,7 @@ ht-degree: 98%
       + [フリーフォームテーブルでのディメンションの操作](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=ja)
    + カレンダーと日付範囲 {#calendar-and-date-ranges}
       + [Analysis Workspace での日付の使用](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
-      + [プロジェクトに再利用可能な日付範囲を適用する](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
+      + [プロジェクトへの再利用可能な日付範囲の適用](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
       + [Analysis Workspace での日付範囲と日付比較の使用](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
       + [カスタム日付範囲の作成](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Analysis Workspace での日付比較](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
