@@ -10,9 +10,9 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: c6cb1238e3e2da656976154445992e34bfa011ae
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '292'
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## 最新情報
 
-* **[右クリックで Workspace の効率性（ビデオ）を参照](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
+* **[右クリックでワークスペースの効率性（ビデオ）を参照](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
 
    <br>
    *当社お気に入りの Analysis Workspace 右クリックとその使い方をご紹介します。[!UICONTROL フリーフォームテーブル]から[!UICONTROL フォールアウトビジュアライゼーション]に至るまで、右クリックで、[!DNL Workspace].* における効率性と熟練度が向上します。
