@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 向けのビデオとチュートリア�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 source-git-commit: acc9965df12599640462302becd18d82e7dcbc33
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2231'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -293,7 +293,7 @@ ht-degree: 99%
       + [個別ディメンションカウントに基づくセグメント化](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [セグメント化のディメンションモデル](components/segmentation/dimension-models-in-segmentation.md)
       + [セグメント化の「次のいずれかと等しい」演算子](components/segmentation/equals-any-of-operator-in-segmentation.md)
-      + [Analytics Insider ウェビナー — 顧客セグメント化戦略](components/segmentation/customer-segmentation-strategies.md)
+      + [Analytics Insider ウェビナー - 顧客セグメンテーション戦略](components/segmentation/customer-segmentation-strategies.md)
    + 計算指標 {#calculated-metrics}
       + [計算指標での個別概算カウント関数](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [計算指標での Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=ja)
