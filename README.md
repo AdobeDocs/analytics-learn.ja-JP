@@ -1,11 +1,12 @@
 ---
-source-git-commit: 3d891c6a53a66344101dddabe10b51f12eeed013
+source-git-commit: fd9f28514f1afa5fce3c11b7a089a0b792fe1279
 workflow-type: tm+mt
-translation-type: tm+mt
-source-wordcount: '8'
-ht-degree: 0%
+source-wordcount: '9'
+ht-degree: 11%
 
 ---
 # analytics-learn.en
 
-Analyticsの共同チュートリアルと有効化資料
+Analytics 向けの共同チュートリアルとイネーブルメント資料
+
+[foo](bar)
