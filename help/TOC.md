@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 向けのビデオとチュートリア�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 source-git-commit: decddf7d0623120b9d2ee9620c922cf280476086
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2235'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -225,7 +225,7 @@ ht-degree: 99%
    + レポートスイートの管理 {#manage-report-suites}
       + [一般的なアカウント設定方法](administration/manage-report-suites/configuring-general-account-settings.md)
       + [カレンダー設定のカスタマイズ](administration/manage-report-suites/customize-calendar-settings.md)
-      + [有料検索検知の設定](administration/manage-report-suites/configure-paid-search-detection.md)
+      + [有料検索検出の設定](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Reports &amp; Analytics のメニューのカスタマイズ](administration/manage-report-suites/customize-menus.md)
       + [検索方法の設定](administration/manage-report-suites/configure-finding-methods.md)
       + [内部 URL フィルターの設定](administration/manage-report-suites/set-internal-url-filters.md)
