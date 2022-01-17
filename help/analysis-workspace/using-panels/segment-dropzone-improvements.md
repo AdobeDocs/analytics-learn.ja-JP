@@ -1,6 +1,6 @@
 ---
-title: Analysis Workspaceのセグメントドロップゾーンの改善
-description: セグメントドロップゾーンが改善され、プロジェクトの任意の場所に本当にドロップできるようになりました。
+title: Analysis Workspace でのセグメントドロップゾーンの改善
+description: セグメントドロップゾーンが改善され、本当にプロジェクトのどこにでも何でもドロップできるようになりました。
 feature: Panels
 topics: null
 activity: use
@@ -12,18 +12,18 @@ role: User
 level: Beginner
 exl-id: d07ba0a5-735b-43f2-ad67-31520ac897bd
 source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL セグメント] Analysis Workspaceのドロップゾーンの改善 {#segment-drop-zone-improvements-in-analysis-workspace}
+# Analysis Workspace での[!UICONTROL セグメント]ドロップゾーンの改善 {#segment-drop-zone-improvements-in-analysis-workspace}
 
-[!UICONTROL セグメント] ドロップゾーンが改善され、プロジェクト内の任意の場所に本当にドロップできるようになりました。
+[!UICONTROL セグメント]ドロップゾーンが改善され、本当にプロジェクトのどこにでも何でもドロップできるようになりました。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12)
 
-これで、完全にドロップできます [!UICONTROL 寸法] および [!UICONTROL 指標]( [!UICONTROL ディメンション] 項目 [!UICONTROL 日付範囲] および [!UICONTROL セグメント]. さらに、 [!UICONTROL ディメンション] 「未指定」と「なし」の項目は、 [!UICONTROL セグメント] ドロップゾーン。
+[!UICONTROL ディメンション]項目、[!UICONTROL 日付範囲]および[!UICONTROL セグメント]の既存のサポートに加え、すべての[!UICONTROL ディメンション]と[!UICONTROL 指標]をドロップできるようになりました。さらに、[!UICONTROL セグメント]ドロップゾーンにドロップされたときに「未指定」および「なし」の[!UICONTROL ディメンション]項目を処理する方法も改善されました。
 
-この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=en) を参照してください。
+この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=ja)を参照してください。
