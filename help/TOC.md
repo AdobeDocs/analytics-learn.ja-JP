@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 向けのビデオとチュートリア�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 source-git-commit: c04177fead4f2f7d3187907172ed916accaeecc6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2248'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -228,7 +228,7 @@ ht-degree: 99%
       + [有料検索検出の設定](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Reports &amp; Analytics のメニューのカスタマイズ](administration/manage-report-suites/customize-menus.md)
       + [処理ルールを使用した受信データの操作](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
-      + [トラフィック変数 (prop) の設定](administration/manage-report-suites/configuring-traffic-variables-props.md)
+      + [トラフィック変数（prop）の設定](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [リスト変数の設定](administration/manage-report-suites/configuring-list-variables.md)
       + [検索方法の設定](administration/manage-report-suites/configure-finding-methods.md)
       + [内部 URL フィルターの設定](administration/manage-report-suites/set-internal-url-filters.md)
