@@ -1,24 +1,23 @@
 ---
-title: 'アカウントで利用可能な機能を表示する '
-description: Analyticsの「管理者」セクションの「機能アクセスレベル」設定を表示すると、会社に権利を付与されているAdobe Analyticsパッケージおよび機能へのアクセスレベルを表示できます。 これには、Activity Map、Advertising Analytics、アラートでの異常値検出などが含まれます。
-feature: カンパニー設定
-topic: '管理 '
+title: アカウントで利用可能な機能を表示する
+description: Analytics の「管理者」セクションの「機能アクセスレベルを表示」設定を使用すると、会社が使用する権利を持つAdobe Analyticsパッケージおよび機能へのアクセスレベルを表示できます。 これには、Activity Map、Advertising Analytics、アラートでの異常値検出などが含まれます。
+feature: Company Settings
+topic: Administration
 role: User, Admin
 level: Beginner
-doc-type: feature video
 thumbnail: 335742.jpg
-kt: KT-8463
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
+kt: 8463
+exl-id: a8397a6b-0cbf-4a7e-b3dc-9f347b01b1f3
+source-git-commit: f53d322ca18abdd0c7f0f46de7a0146c5af14e6f
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 3%
+source-wordcount: '92'
+ht-degree: 10%
 
 ---
 
-
 # アカウントで利用可能な機能を表示する
 
-Analyticsの「管理者」セクションの「機能アクセスレベル」設定を表示すると、会社に権利を付与されているAdobe Analyticsパッケージおよび機能へのアクセスレベルを表示できます。 これには、以下が含まれます。Activity Map、Advertising Analytics、アラートでの異常値検出など
+Analytics の「管理者」セクションの「機能アクセスレベルを表示」設定を使用すると、会社が使用する権利を持つAdobe Analyticsパッケージおよび機能へのアクセスレベルを表示できます。 これには以下が含まれます。Activity Map、Advertising Analytics、アラートでの異常値検出など。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335742/?quality=12&learn=on)
