@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: 376accf865e72799c0238250ac1e17f000c8d5b5
+source-git-commit: d97a15fbefd174cbd5345b1ff7fe28502de676d8
 workflow-type: tm+mt
-source-wordcount: '2251'
+source-wordcount: '2254'
 ht-degree: 99%
 
 ---
@@ -230,11 +230,12 @@ ht-degree: 99%
       + [処理ルールを使用した受信データの操作](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [トラフィック変数（prop）の設定](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [トラフィック分類の設定](administration/manage-report-suites/configure-traffic-classifications.md)
+      + [Admin Console での変数の設定](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [コンバージョン分類の設定](administration/manage-report-suites/configure-conversion-classifications.md)
       + [リスト変数の設定](administration/manage-report-suites/configuring-list-variables.md)
       + [検索方法の設定](administration/manage-report-suites/configure-finding-methods.md)
       + [内部 URL フィルターの設定](administration/manage-report-suites/set-internal-url-filters.md)
       + [郵便番号の設定](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
-      + [Admin Console での変数の設定](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [タイムスタンプオプション設定の有効化](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Analytics でのボットルールの設定](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + データガバナンスと GDPR {#data-governance-and-gdpr}
