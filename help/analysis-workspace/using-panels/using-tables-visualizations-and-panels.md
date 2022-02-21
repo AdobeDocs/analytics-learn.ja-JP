@@ -23,4 +23,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/30369/?quality=12)
 
-詳しくは、[パネル](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=ja)と[ビジュアライゼーション](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=ja)のドキュメントを参照してください。
+詳しくは、 [パネル](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=ja) と [ビジュアライゼーション](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=ja) のドキュメントを参照してください。
