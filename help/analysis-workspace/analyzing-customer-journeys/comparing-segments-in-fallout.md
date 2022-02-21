@@ -1,6 +1,6 @@
 ---
-title: Analysis Workspaceでのフォールアウトでのセグメントの比較
-description: このビデオでは、Analysis Workspaceの様々なセグメントにわたる主要なワークフローを比較する方法を示します。
+title: Analysis Workspace でのフォールアウトのセグメント比較
+description: このビデオでは、Analysis Workspace の様々なセグメントをまたいで主要ワークフローを比較する方法を説明します。
 feature: Visualizations
 topics: null
 activity: use
@@ -12,16 +12,16 @@ role: User
 level: Beginner
 exl-id: 64097031-55a3-458b-bf5b-18ed4babb956
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
-# Analysis Workspaceの[!UICONTROL フォールアウト]のセグメントの比較 {#comparing-segments-in-fallout-in-analysis-workspace}
+# Analysis Workspace での [!UICONTROL フォールアウト] のセグメント比較  {#comparing-segments-in-fallout-in-analysis-workspace}
 
-このビデオでは、Analysis Workspaceの様々なセグメントにわたる主要なワークフローを比較する方法を示します。
+このビデオでは、Analysis Workspace の様々なセグメントをまたいで主要ワークフローを比較する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12)
 
-この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=en)を参照してください。
+この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=ja) を参照してください。
