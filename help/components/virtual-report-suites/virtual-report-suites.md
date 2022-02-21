@@ -1,6 +1,6 @@
 ---
-title: Adobe Analyticsの仮想レポートスイート
-description: Adobe Analyticsでは、ユーザーに「仮想レポートスイート」を作成できます。この仮想レポートスイートは、データをセグメント化し、ユーザー/グループを許可されたデータセグメントのみに制限します。 このビデオでは、仮想レポートスイートの作成方法と操作方法を説明します。
+title: Adobe Analytics の仮想レポートスイート
+description: Adobe Analytics では、ユーザーに対して「仮想レポートスイート」を作成できます。この仮想レポートスイートでは、データをセグメント化し、ユーザー／グループを、許可されたデータセグメントのみに制限します。 このビデオでは、仮想レポートスイートの作成方法と操作方法を説明します。
 feature: VRS
 topics: null
 activity: use
@@ -11,16 +11,16 @@ role: User
 level: Intermediate
 exl-id: db1c229a-96a0-4ca0-8c4e-a04721564c7d
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Adobe Analyticsの仮想レポ] ートスイート {#virtual-report-suites-in-adobe-analytics}
+# Adobe Analytics の [!UICONTROL 仮想レポートスイート] {#virtual-report-suites-in-adobe-analytics}
 
-Adobe Analyticsでは、ユーザーに対して「[!UICONTROL 仮想レポートスイート]」を作成できます。この仮想レポートスイートは、データをセグメント化し、許可されたデータセグメントのみにユーザー/グループを制限します。 このビデオでは、[!UICONTROL 仮想レポートスイート]の作成方法と使用方法を説明します。
+Adobe Analytics では、ユーザーに対して「[!UICONTROL 仮想レポートスイート]」を作成できます。この仮想レポートスイートでは、データをセグメント化し、ユーザー／グループを、許可されたデータセグメントのみに制限します。このビデオでは、 [!UICONTROL 仮想レポートスイート] の作成方法と操作方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25412/?quality=12)
 
-この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=en)を参照してください。
+この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=ja) を参照してください。
