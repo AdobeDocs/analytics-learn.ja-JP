@@ -1,6 +1,6 @@
 ---
 title: Analysis Workspace でのオーディオ消費テンプレートの使用
-description: このビデオでは、Analysis Workspaceのオーディオ消費テンプレートの概要を説明します。このテンプレートは、Audio Analytics で標準で使用できます。
+description: このビデオでは、Audio Analytics に標準搭載され、すぐに利用できる Analysis Workspace のオーディオ消費テンプレートの概要を説明します。
 feature: Panels
 topics: null
 activity: use
@@ -11,16 +11,16 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 08131913-cb39-4c58-a322-da1e83442e84
 source-git-commit: b15c7365a354f47edbb2c7661efb68bbc05758b9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
-# の使用 [!UICONTROL オーディオ消費] Analysis Workspaceのテンプレート {#using-the-audio-consumption-template-in-analysis-workspace}
+# Analysis Workspace での [!UICONTROL オーディオ消費] テンプレートの使用 {#using-the-audio-consumption-template-in-analysis-workspace}
 
-このビデオでは、 [!UICONTROL オーディオ消費] Analysis Workspaceのテンプレート。 [!DNL Audio Analytics].
+このビデオでは、[!DNL Audio Analytics] に標準搭載され、すぐに利用できる Analytics Workspace の [!UICONTROL オーディオ消費] テンプレートの概要を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23901/?quality=12)
 
-[!DNL Audio Analytics] は、リスナーのストリーミングオーディオエンゲージメントと完全なデジタル動作を結び付け、誰がどこで、いつ、どのくらいの頻度で、断片化されがちなオーディオ市場でのユーザーの行動を評価するかを把握します。 これにより、ビジネスはリスナーのリーチ、コンテンツの人気度、行動や類似モデリングに基づいた関与の維持方法を測定できます。
+[!DNL Audio Analytics]は、リスナーのストリーミングオーディオエンゲージメントをデジタル行動全体と結びつけ、誰がどこで、いつ、どのくらいの頻度で聴いているかを把握し、一般的に断片化しているオーディオ市場におけるユーザーの行動を評価します。これにより、企業はリスナーのリーチ、コンテンツの人気、行動と類似モデリングに基づいてリスナーの関心を維持する方法を測定できます。
