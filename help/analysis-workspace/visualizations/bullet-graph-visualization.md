@@ -1,7 +1,7 @@
 ---
-title: Analysis Workspaceでのブレットグラフビジュアライゼーション
-description: ブレットグラフは、分析の目標に向かって（または目標を超えて）進行状況を示す便利な方法です。 組織の成功を視覚化する別の方法を提供します。
-feature: ビジュアライゼーション
+title: Analysis Workspace でのブレットグラフのビジュアライゼーション
+description: ブレットグラフは、分析において、目標に対する進捗状況（または超過状況）を示すのに便利な方法です。組織の成功を異なる方法で視覚化することができます。
+feature: Visualizations
 activity: use
 doc-type: feature video
 kt: 2116
@@ -10,16 +10,16 @@ level: Beginner
 exl-id: 369904c2-5de9-495c-abd2-0c3900f6c49f
 thumbnail: 23989.jpg
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 8%
+workflow-type: ht
+source-wordcount: '89'
+ht-degree: 100%
 
 ---
 
-#  Analysis WorkspaceでのBulletGraphビ  ジュアライゼーション {#bullet-graph-visualization-in-analysis-workspace}
+# Analysis Workspace での [!UICONTROL ブレット] グラフの [!UICONTROL ビジュアライゼーション] {#bullet-graph-visualization-in-analysis-workspace}
 
- Bulletgraphsは、分析の目標に向けて（または目標を超えて）進捗を示す便利な方法です。組織の成功を視覚化する別の方法を提供します。
+[!UICONTROL ブレット] グラフは、分析において、目標に対する進捗状況（または超過状況）を示すのに便利な方法です。組織の成功を異なる方法で視覚化することができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=en)を参照してください。
+詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=ja) を参照してください。
