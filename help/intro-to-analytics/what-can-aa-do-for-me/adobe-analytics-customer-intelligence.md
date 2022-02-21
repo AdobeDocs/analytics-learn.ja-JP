@@ -1,7 +1,7 @@
 ---
 title: Adobe Analytics - 単なるデータ分析にとどまらず、顧客インテリジャンスを提供
 description: エクスペリエンス企業になるためには、データドリブン型マーケティングが重要です。 分析の成熟度を、データからインサイトさらにはアクションへと、新しいレベルに高めます。
-feature: Analytics の基本事項
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: value video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 9aeb8371-3fac-41db-bea3-35c7ca3deeef
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
