@@ -1,24 +1,24 @@
 ---
-title: プロジェクトに再利用可能な日付範囲を適用する
-description: 製品でカスタム日付や日付範囲を使用すると、データストーリーを示す情報のみを把握できます。 このビデオでは、Analysis Workspaceプロジェクトで日付範囲を使用できる場所をいくつか調べます。
+title: プロジェクトでの再利用可能な日付範囲の適用
+description: 製品でカスタム日付や日付範囲を使用すると、データストーリーを伝える情報だけに絞り込むことができます。このビデオでは、Analysis Workspace プロジェクトで日付範囲を使用できる場所をいくつか説明します。
 feature: Calendar
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 338293.jpg
 kt: 9293
-source-git-commit: 74f9fce66df5b5b9cf9f05feed1b992aa6b7a114
-workflow-type: tm+mt
+exl-id: a49b4bf3-a28e-4125-a8f9-d46f5531affa
+source-git-commit: ca2683e56d101f540680713483ec3ff6aac57492
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
+# プロジェクトでの再利用可能な日付範囲の適用
 
-# プロジェクトに再利用可能な日付範囲を適用する
-
-製品でカスタム日付や日付範囲を使用すると、データストーリーを示す情報のみを把握できます。 このビデオでは、Analysis Workspaceプロジェクトで日付範囲を使用できる場所をいくつか調べます。
+製品でカスタム日付や日付範囲を使用すると、データストーリーを伝える情報だけに絞り込むことができます。このビデオでは、Analysis Workspace プロジェクトで日付範囲を使用できる場所をいくつか説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/338293/?quality=12&learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=en)を参照してください。
+詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=ja) を参照してください。
