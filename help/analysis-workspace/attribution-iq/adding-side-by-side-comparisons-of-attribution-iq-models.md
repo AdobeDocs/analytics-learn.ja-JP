@@ -1,7 +1,7 @@
 ---
-title: Analysis WorkspaceでのAttribution IQモデルの比較を並べて追加
-description: このビデオでは、2つのモデルの数値の割合の違いを示す自動作成された列を含め、Attribution IQモデルをすばやく比較する方法を説明します。
-feature: アトリビューション
+title: Analysis Workspace での Attribution IQ モデルの並列比較の追加
+description: このビデオでは、2 つのモデルの数値のパーセント差を示す自動作成された列を含め、Attribution IQ モデルを即座に比較する方法を説明します。
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User
 level: Intermediate
 exl-id: 3c259132-250a-4579-a4d8-344e0b0055f1
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 1%
+workflow-type: ht
+source-wordcount: '64'
+ht-degree: 100%
 
 ---
 
-# Analysis Workspaceの[!DNL Attribution IQ] [!DNL Models]の比較を並べて追加 {#adding-side-by-side-comparisons-of-attribution-iq-models-in-analysis-workspace}
+# Analysis Workspace での [!DNL Attribution IQ] [!DNL Models] の並列比較の追加 {#adding-side-by-side-comparisons-of-attribution-iq-models-in-analysis-workspace}
 
-このビデオでは、2つのモデルの数値の割合の違いを示す自動作成された列を含め、[!DNL Attribution IQ models]をすばやく比較する方法を説明します。
+このビデオでは、2 つのモデルの数値のパーセント差を示す自動作成された列を含め、[!DNL Attribution IQ models] を即座に比較する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23651/?quality=12)
