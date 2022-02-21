@@ -8,7 +8,7 @@ role: Architect
 level: Beginner
 exl-id: 05bbfccf-a76f-4f01-9f44-a959afc7d12a
 source-git-commit: d8ac4494a517608fce4c78769136b684937c7639
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
 ht-degree: 100%
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 [!DNL Labs] プロトタイプを使用すると、独自のビジネス用途やデータのコンテキスト内で機能を評価できます。
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html?lang=ja)を参照してください。
+詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html?lang=ja) を参照してください。
