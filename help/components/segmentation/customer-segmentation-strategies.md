@@ -1,22 +1,22 @@
 ---
-title: Adobe Analyticsの顧客セグメント化戦略とベストプラクティス
-description: 木曜日に、顧客セグメントの基本、戦略、ベストプラクティスに焦点を当てた Analytics の Analytics インサイダーに参加します。 Carolyn Sebasky at athenahealth では、Demandbase と CRM のデータセットをAdobe Analyticsに統合して分析し、Adobe Targetをパーソナライズする方法のケーススタディを順を追って説明します。 注意：ビジュアライゼーションは、機密データを開示しないように調整されました。
+title: Adobe Analytics の顧客セグメント化戦略とベストプラクティス
+description: 木曜日に、顧客セグメントの基本、戦略、ベストプラクティスにフォーカスした Analytics の分析インサイダーに参加します。athenahealth の Carolyn Sebasky が、組織が Demandbase と CRM データセットを、分析のために Adobe Analytics に統合し、パーソナライズのために Adobe Target に統合したユーザー事例を順を追って説明します。メモ - 機密データを開示しないようにビジュアライゼーションを調整しました。
 feature: Segmentation
 role: User
 level: Beginner
 doc-type: event
 thumbnail: 338829.jpg
 kt: 9404
-source-git-commit: acc9965df12599640462302becd18d82e7dcbc33
-workflow-type: tm+mt
+exl-id: c14474e8-658b-4607-8bf7-39a685ecbf4d
+source-git-commit: 2b45b5ec9d56df1b5ae831473ffabae48d42c790
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Adobe Analytics の顧客セグメント化戦略とベストプラクティス
 
-# Adobe Analyticsの顧客セグメント化戦略とベストプラクティス
-
-木曜日に、顧客セグメントの基本、戦略、ベストプラクティスに焦点を当てた Analytics の Analytics インサイダーに参加します。 Carolyn Sebasky at athenahealth では、Demandbase と CRM のデータセットをAdobe Analyticsに統合して分析し、Adobe Targetをパーソナライズする方法のケーススタディを順を追って説明します。 注意：機密データを開示しないようにビジュアライゼーションを調整しました。
+木曜日に、顧客セグメントの基本、戦略、ベストプラクティスにフォーカスした Analytics の分析インサイダーに参加します。athenahealth の Carolyn Sebasky が、組織が Demandbase と CRM データセットを、分析のために Adobe Analytics に統合し、パーソナライズのために Adobe Target に統合したユーザー事例を順を追って説明します。メモ：機密データを開示しないようにビジュアライゼーションを調整しました。
 
 >[!VIDEO](https://video.tv.adobe.com/v/338829/?quality=12&learn=on)
