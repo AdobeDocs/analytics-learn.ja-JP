@@ -24,7 +24,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23136/?quality=12)
 
-各アトリビューション[!UICONTROL モデル]は、セグメント化と分類を完全にサポートしており、任意のディメンション（[!DNL props] も含む）で無制限に比較できます。
+各アトリビューション [!UICONTROL モデル] は、セグメント化と分類を完全にサポートしており、任意のディメンション（[!DNL props] も含む）で無制限に比較できます。
 
 [!DNL Attribution IQ] は、お客様が次のパッケージをお持ちの場合、Analysis Workspace でのみ利用できます。
 
