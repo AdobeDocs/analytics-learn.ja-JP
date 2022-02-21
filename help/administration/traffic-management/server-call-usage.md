@@ -1,30 +1,30 @@
 ---
-title: Adobe Analyticsのサーバーコールの使用状況
-seo-title: Adobe Analyticsのサーバーコールの使用状況
-description: サーバーコールの使用状況のレポートにより、お客様がいつ使用したかを正確に追跡でき、また、お客様の合計取り組みに近づいた際に積極的に警告を発します。
-seo-description: サーバーコールの使用状況のレポートにより、お客様がいつ使用したかを正確に追跡でき、また、お客様の合計取り組みに近づいた際に積極的に警告を発します。
-feature: データの設定と収集
+title: Adobe Analytics でのサーバーコールの使用状況
+seo-title: Server Call Usage in Adobe Analytics
+description: サーバーコールの使用状況レポートを使用すると、任意の時点に使用したサーバーコールのコミットメントの量を正確に追跡できるのに加え、合計コミットメントに近づくと早めに警告します。
+seo-description: Server Call usage reporting will make it possible for you to track exactly how much of your server call commitment you’ve used at any point in time, and will also proactively alert you when you are approaching your total commitment.
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1665
-topic: 管理
+topic: Administration
 role: Admin, Architect
 level: Beginner
 exl-id: 8ada68ff-c7fc-45e3-a663-c477519f557f
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '186'
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Adobe Analyticsでのサーバーコ] ールの使用 {#server-call-usage-in-adobe-analytics}
+# Adobe Analytics での [!UICONTROL サーバーコールの使用状況] {#server-call-usage-in-adobe-analytics}
 
-[!UICONTROL サーバーコ] ールの利用状況レポートにより、お客様が現在使用しているサーバーコールのコミットメントの量を正確に追跡でき、また、お客様が合計コミットメントに近づいた際に積極的に警告を発します。
+[!UICONTROL サーバーコールの使用状況] レポートを使用すると、任意の時点に使用したサーバーコールのコミットメントの量を正確に追跡できるのに加え、合計コミットメントに近づくと早めに警告します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23137/?quality=12)
 
-組織のサーバーコールの消費状況に追いつくのが困難で、超過分の時間に対する不満が生じる可能性があります。 [!UICONTROL サーバーコールの使用状況]のレポートを使用すると、任意の時点で使用したサーバーコールのコミットメントの量を正確に追跡でき、また、合計コミットメントに近づいたときに事前に警告を出します。 付属のダッシュボードを使用すると、サーバーコールが使用されている場所を分析できるので、暴走した実装を修正したり、同僚と協力して、価値の低い大量のデータが収集される可能性のある場所を元に戻したりできます。
+組織のサーバーコールの消費量を常に把握するのは難しく、超過分に対するフラストレーションにつながります。[!UICONTROL サーバーコールの使用状況] レポートを使用すると、任意の時点に使用したサーバーコールのコミットメントの量を正確に追跡できるのに加え、合計コミットメントに近づくと早めに警告します。付属のダッシュボードを使用すると、サーバーコールが使用されている場所を分析できるので、逸脱した実装を修正したり、同僚と協力して、価値の低い大量のデータを収集している可能性のある場所の規模を縮小することができます。
