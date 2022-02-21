@@ -1,24 +1,24 @@
 ---
 title: データフィードジョブの再実行
-description: Adobe AnalyticsのデータフィードUIを使用すると、データフィードの管理がはるかに容易になります。 データフィードの管理にアクセスできる場合は、カスタマーサポートチームに最近のデータフィードファイルを再送信してもらうことなく、データフィードUIを使用してデータフィードジョブを再実行できます。
-feature: データフィード、データ設定およびコレクション
-topic: 管理
+description: Adobe Analytics の データフィード UI を使用すると、データフィードの管理がはるかに容易になります。データフィードを管理するアクセス権を持っている場合は、カスタマーサポートチームに最近のデータフィードファイルを再送してもらわなくても、データフィード UI からデータフィードジョブを再実行できます。
+feature: Data Feeds, Data Configuration and Collection
+topic: Administration
 role: User, Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 335748.jpg
 kt: KT-8465
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
-workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 0%
+exl-id: 7cf7ea59-4516-486d-99f5-79cb55b23a3c
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
+source-wordcount: '108'
+ht-degree: 100%
 
 ---
 
-
 # データフィードジョブの再実行
 
-Adobe AnalyticsのデータフィードUIを使用すると、データフィードの管理がはるかに容易になります。 データフィードの管理にアクセスできる場合は、カスタマーサポートチームに最近のデータフィードファイルを再送信してもらうことなく、データフィードUIを使用してデータフィードジョブを再実行できます。
+Adobe Analytics の データフィード UI を使用すると、データフィードの管理がはるかに容易になります。データフィードを管理するアクセス権を持っている場合は、カスタマーサポートチームに最近のデータフィードファイルを再送してもらわなくても、データフィード UI からデータフィードジョブを再実行できます。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335748/?quality=12&learn=on)
