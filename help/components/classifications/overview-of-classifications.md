@@ -1,6 +1,6 @@
 ---
-title: Adobe Analyticsの分類の概要
-description: 分類は、説明的な属性を製品、キャンペーン、ページ、顧客などに追加する強力な方法です。 これらの属性を使用すると、類似した要素をグループ化し、データを分類して、が何で機能していないかを深く掘り下げることで、マーケティングとエクスペリエンスの取り組みをより深く理解できます。
+title: Adobe Analytics での分類の概要
+description: 分類は、製品、キャンペーン、ページ、顧客などに説明的な属性のメタデータを追加する強力な方法です。これらの属性は、類似した要素をグループ化し、データを分類して、何が効果的で何が効果的でないかを深く掘り下げることで、マーケティングとエクスペリエンスの取り組みをよりよく理解するのに役立ちます。
 feature: Classifications
 topics: null
 activity: use
@@ -11,16 +11,16 @@ role: User
 level: Beginner
 exl-id: bca1c26b-d3dc-4f70-a406-0fe0bdf8d0a8
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-# Adobe Analyticsの[!UICONTROL 分類]の概要 {#overview-of-classifications-in-adobe-analytics}
+# Adobe Analytics での [!UICONTROL 分類] の概要 {#overview-of-classifications-in-adobe-analytics}
 
- 分類は、商品、キャンペーン、ページ、顧客などに、説明的な属性のメタデータを追加する強力な方法です。これらの属性を使用すると、類似した要素をグループ化し、データを分類して、が何で機能していないかを深く掘り下げることで、マーケティングとエクスペリエンスの取り組みをより深く理解できます。
+[!UICONTROL 分類] は、製品、キャンペーン、ページ、顧客などに説明的な属性のメタデータを追加する強力な方法です。これらの属性は、類似した要素をグループ化し、データを分類して、何が効果的で何が効果的でないかを深く掘り下げることで、マーケティングとエクスペリエンスの取り組みをよりよく理解するのに役立ちます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/16853/?quality=12)
 
-この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=en)を参照してください。
+この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=ja) を参照してください。
