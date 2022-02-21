@@ -1,7 +1,7 @@
 ---
 title: Adobe Mobile Analytics 使用の手引き
 description: テンプレートを使用してモバイルアプリへの Adobe Analytics の使用に着手する方法について説明します。 事前定義済みの標準テンプレートを使用すると、Analysis Workspace のユーザーエンゲージメント指標とアプリパフォーマンス指標を把握するうえで役に立ちます。 また、使いやすいドラッグ＆ドロップインターフェイスでプロジェクトをカスタマイズする方法も説明します。
-feature: Workspace の基本
+feature: Workspace Basics
 topics: mobile
 activity: use
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 80d3545c-3c3c-4003-a92a-39a410c76996
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '98'
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
