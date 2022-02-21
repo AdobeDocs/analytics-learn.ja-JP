@@ -18,7 +18,7 @@ ht-degree: 100%
 
 ---
 
-# Analysis Workspace での[!UICONTROL セグメント]ドロップゾーンの改善 {#segment-drop-zone-improvements-in-analysis-workspace}
+# Analysis Workspace での [!UICONTROL セグメント] ドロップゾーンの改善 {#segment-drop-zone-improvements-in-analysis-workspace}
 
 [!UICONTROL セグメント]ドロップゾーンが改善され、本当にプロジェクトのどこにでも何でもドロップできるようになりました。
 
@@ -26,4 +26,4 @@ ht-degree: 100%
 
 [!UICONTROL ディメンション]項目、[!UICONTROL 日付範囲]および[!UICONTROL セグメント]の既存のサポートに加え、すべての[!UICONTROL ディメンション]と[!UICONTROL 指標]をドロップできるようになりました。さらに、[!UICONTROL セグメント]ドロップゾーンにドロップされたときに「未指定」および「なし」の[!UICONTROL ディメンション]項目を処理する方法も改善されました。
 
-この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=ja)を参照してください。
+この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=ja) を参照してください。
