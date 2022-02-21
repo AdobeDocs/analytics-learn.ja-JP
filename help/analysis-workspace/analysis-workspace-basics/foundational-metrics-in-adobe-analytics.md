@@ -21,4 +21,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336483/?quality=12&learn=on)
 
-このドキュメントについて詳しくは、[ページビュー](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=ja)、[訪問回数](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=ja)、[ユニーク訪問者](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=ja)を参照してください。
+このドキュメントについて詳しくは、 [ページビュー](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=ja)、 [訪問回数](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=ja)、 [ユニーク訪問者](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=ja) を参照してください。
