@@ -1,7 +1,7 @@
 ---
-title: ' Launch でのグローバルページ読み込みルールの検証'
-description: サイトにAdobe Analyticsを実装する場合、途中で何をおこなっているかを検証できる必要があります。 Experience Cloud・デバッガーを救出！ このビデオでは、デバッガーを使用してグローバルページ型ルールを検証する方法を示します。
-feature: 検証
+title: Launch でのグローバルページ読み込みルールの検証
+description: サイトに Adobe Analytics を実装する際には、途中の処理を検証できるようにする必要があります。そのようなときは、Experience Cloud Debugger が役に立ちます。このビデオでは、デバッガーを使用してグローバルページ読み込みルールを検証する方法を説明します。
+feature: Validation
 topics: null
 activity: implement
 doc-type: feature video
@@ -11,14 +11,14 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 57bc5a02-6b78-48e2-9b67-85b97fe52d6a
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 9%
+workflow-type: ht
+source-wordcount: '99'
+ht-degree: 100%
 
 ---
 
-# [!DNL Launch]のグローバルページ読み込み[!UICONTROL ルール]の検証
+# [!DNL Launch] でのグローバルページ読み込み [!UICONTROL ルール] の検証
 
-サイトにAdobe Analyticsを実装する場合、Adobeでは、進行中の操作を検証することをお勧めします。 [!DNL Experience Cloud debugger]を使用すると、これを実行できます。 このビデオでは、[!DNL debugger]を使用してグローバルページ読み込み[!UICONTROL ルール]を検証する方法を示します。
+アドビでは、サイトに Adobe Analytics を実装する場合に、途中の処理を検証することをお勧めします。[!DNL Experience Cloud debugger] では、これを実現できます。 このビデオでは、グローバルページの読み込み [!UICONTROL ルール] を [!DNL debugger] で検証する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28776/?quality=12)
