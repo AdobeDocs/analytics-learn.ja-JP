@@ -1,6 +1,6 @@
 ---
-title: Analysis Workspace の Analytics for Target（A4T）パネル
-description: Analytics for Target（A4T）パネルを使用すると、Analysis Workspace で上昇率と信頼性を使用して Adobe Target のアクティビティとエクスペリエンスを分析できます。
+title: Analysis Workspace での Analytics for Target（A4T）パネル
+description: Analytics for Target（A4T）パネルを使用すると、Analysis Workspace でリフトと信頼度を使用して Adobe Target のアクティビティとエクスペリエンスを分析できます。
 feature: Experience Cloud Integration
 topics: null
 activity: use
@@ -13,16 +13,16 @@ role: User
 level: Intermediate
 exl-id: 2dad80ba-4032-490f-b7b4-30f0c2f0d608
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 44%
+ht-degree: 100%
 
 ---
 
-# [!DNL Analytics for Target] Analysis Workspaceの(A4T)パネル
+# Analysis Workspace での [!DNL Analytics for Target]（A4T）パネル
 
-[!DNL Analytics for Target](A4T)パネルを使用すると、[!UICONTROL Analysis Workspace]で、上昇率と信頼性を使用してAdobe Targetのアクティビティとエクスペリエンスを分析できます。
+[!DNL Analytics for Target]（A4T）パネルを使用すると、[!UICONTROL Analysis Workspace] でリフトと信頼度を使用して Adobe Target のアクティビティとエクスペリエンスを分析できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html)を参照してください。
+詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html?lang=ja) を参照してください。
