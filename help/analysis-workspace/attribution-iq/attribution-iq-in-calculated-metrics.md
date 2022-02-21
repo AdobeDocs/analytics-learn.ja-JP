@@ -26,4 +26,4 @@ ht-degree: 100%
 
 ## その他のリソース {#additional-resources}
 
-[!DNL Attribution IQ] の詳細情報については、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/overview.html?lang=ja)を参照してください。
+[!DNL Attribution IQ] の詳細情報については、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/overview.html?lang=ja) を参照してください。
