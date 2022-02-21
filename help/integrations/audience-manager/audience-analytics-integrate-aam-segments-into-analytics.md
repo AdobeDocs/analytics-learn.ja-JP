@@ -1,6 +1,6 @@
 ---
-title: Audience Analytics - AAM セグメントの Analytics への統合
-description: Audience Analyticsは、Audience Manager(AAM)からAnalytics(AA)にセグメントをリアルタイムで共有し、オーディエンスの検出、セグメント化および最適化を通知する新しい統合です。
+title: Audience Analytics - AAM Segments の Analytics への統合
+description: Audience Analytics は、Audience Manager（AAM）から Analytics（AA）までのセグメントをリアルタイムで共有し、オーディエンスの検出、セグメント化および最適化を知らせる新しい統合です。
 feature: Experience Cloud Integration
 topics: null
 activity: use
@@ -13,18 +13,18 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 5db98e46-c91e-4e24-9745-82e54d19152a
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# Audience Analytics:AAM [!DNL Segments]を[!DNL Analytics]に統合する {#audience-analytics-integrate-aam-segments-into-analytics}
+# Audience Analytics：AAM [!DNL Segments] の [!DNL Analytics] への統合 {#audience-analytics-integrate-aam-segments-into-analytics}
 
-[!UICONTROL Audience Analytics] の新しい統合により、Audience Managerからへセグメントをリアルタイムで共有 [!DNL Analytics] し、オーディエンスの検出、セグメント化および最適化を通知できます。
+[!UICONTROL Audience Analytics] は、Audience Manager（AAM）から [!DNL Analytics] までのセグメントをリアルタイムで共有し、オーディエンスの検出、セグメント化および最適化を知らせる新しい統合です。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25450/?quality=12)
 
-共有可能な[!UICONTROL セグメント]データの例を次に示します。サードパーティデータプロバイダーの人口統計データ、広告サーバーのキャンペーンデータ（オフサイトのインプレッションなど）、オンボードCRMデータ。 これは、DMPと分析エンジンの間の製品化された最初の統合です。
+例えば、共有可能な [!UICONTROL セグメント] データには、サードパーティのデータプロバイダーからのデモグラフィックデータ、広告サーバーからのキャンペーンデータ（オフサイトインプレッションなど）、およびオンボードされた CRM データが含まれます。これは、市販されている DMP と分析エンジン間の最初の製品化された統合です。
 
-この機能の詳細については、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=en)を参照してください。
+この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ja) を参照してください。
