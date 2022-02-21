@@ -1,7 +1,7 @@
 ---
-title: Analysis Workspace の表示密度
-description: プロジェクト/情報および設定の「表示密度」設定を使用すると、左側のレールおよびテーブル（フリーフォームおよびコホート）に適用する垂直方向のパディングを制御できます。 「拡張」（デフォルト）、「快適」、「コンパクト」のいずれかを選択できます。
-feature: プロジェクト
+title: Analysis Workspace での表示密度
+description: プロジェクト／情報および設定の表示密度設定を使用すると、左側のパネルおよびテーブル（フリーフォームおよびコホート）に適用する垂直方向のパディングを制御できます。「拡張」（デフォルト）、「快適」、「コンパクト」のいずれかを選択できます。
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ role: User
 level: Beginner
 exl-id: 378426ce-fc29-4912-9289-e763b941877a
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 14%
+workflow-type: ht
+source-wordcount: '77'
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Analysis Workspace の表示密度] {#view-density-in-analysis-workspace}
+# Analysis Workspace の [!UICONTROL 表示密度] {#view-density-in-analysis-workspace}
 
-[!UICONTROL プロジェクト] / [!UICONTROL プロジェクト情報および設定]の下の[!UICONTROL 表示密度]設定を使用すると、左側のレールとテーブル（[!UICONTROL フリーフォーム] &amp; [!UICONTROL コホート]）に適用する垂直方向のパディングを制御できます。 「拡張」（デフォルト）、「快適」、「コンパクト」のいずれかを選択できます。
+[!UICONTROL プロジェクト]／[!UICONTROL 情報および設定] の [!UICONTROL 表示密度] 設定を使用すると、左側のパネルおよびテーブル（[!UICONTROL フリーフォーム] および [!UICONTROL コホート]）に適用する垂直方向のパディングを制御できます。「拡張」（デフォルト）、「快適」、「コンパクト」のいずれかを選択できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25963/?quality=12)
