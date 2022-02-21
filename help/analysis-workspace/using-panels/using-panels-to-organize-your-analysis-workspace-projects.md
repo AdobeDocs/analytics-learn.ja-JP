@@ -1,7 +1,7 @@
 ---
 title: パネルを使用した Analysis Workspace プロジェクトの整理
-description: パネルは、Analysis Workspaceのビジュアライゼーションのコレクションです。 空のパネルとフリーフォームパネルは分析を開始する場所ですが、Attribution IQとセグメント比較はより高度な分析をおこなうために大きな負荷をかけます。 また、「+」パネルボタンが追加され、空のパネルをすぐに追加できるようになりました。
-feature: パネル
+description: パネルは、Analysis Workspace のビジュアライゼーションのコレクションです。空のパネルとフリーフォームパネルでは分析を開始し、Attribution IQ およびセグメント比較では、非常に手間のかかる多くの作業を行ってさらに詳細に分析します。また、空のパネルを即座に追加できるよう、「+」パネルボタンも追加しました。
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ role: User
 level: Beginner
 exl-id: 4dfe699c-f5f3-4d5c-8b64-f2072292901c
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 14%
+workflow-type: ht
+source-wordcount: '115'
+ht-degree: 100%
 
 ---
 
 # パネルを使用した Analysis Workspace プロジェクトの整理 {#using-panels-to-organize-your-analysis-workspace-projects}
 
-パネルは、Analysis Workspaceのビジュアライゼーションのコレクションです。 [!UICONTROL 空のパネル] とフリーフ [!UICONTROL ォーム] パネルは、分析を開始する場所です。 [!DNL Attribution IQ] とセグメン [!UICONTROL ト比較で] は、より高度な分析をおこなうための重い処理が多くおこなわれます。また、「+」パネルボタンが追加され、空のパネルをすぐに追加できるようになりました。
+パネルは、Analysis Workspace のビジュアライゼーションのコレクションです。[!UICONTROL 空のパネル] と [!UICONTROL フリーフォームパネル] では分析を開始し、は [!DNL Attribution IQ] および [!UICONTROL セグメント比較] では、非常に手間のかかる多くの作業を行ってさらに詳細に分析します。また、空のパネルを即座に追加できるよう、「+」パネルボタンも追加しました。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23388/?quality=12)
