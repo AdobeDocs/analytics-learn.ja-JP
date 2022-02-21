@@ -1,22 +1,22 @@
 ---
-title: SFTPを使用したData Warehouseリクエストの送信
+title: SFTP 経由での Data Warehouse リクエストの送信
 description: Data Warehouse は、データをフィルタリングして、保存用およびカスタムレポート用の Analytics データのコピーを参照できます。ユーザー独自の質問に基づいて、生データから詳細なデータの関連性を表示するようレポートにリクエストできます。Data Warehouse レポートは、電子メールまたは FTP 経由で送信できます。処理のために最大で 72 時間かかります。処理に要する時間は、クエリの複雑さとリクエストされたデータの量に応じて異なります。
 feature: Data Warehouse
-topic: 管理
+topic: Administration
 role: User, Architect
 level: Beginner
 doc-type: feature video
 thumbnail: 335751.jpg
 kt: KT-8467
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
-workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 92%
+exl-id: 76ae8c9f-def3-4da5-ad39-49bd74e5bd8a
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
+source-wordcount: '154'
+ht-degree: 100%
 
 ---
 
-
-# SFTPを使用したData Warehouseリクエストの送信
+# SFTP 経由での Data Warehouse リクエストの送信
 
 Data Warehouse は、データをフィルタリングして、保存用およびカスタムレポート用の Analytics データのコピーを参照できます。ユーザー独自の質問に基づいて、生データから詳細なデータの関連性を表示するようレポートにリクエストできます。Data Warehouse レポートは、電子メールまたは FTP 経由で送信できます。処理のために最大で 72 時間かかります。処理に要する時間は、クエリの複雑さとリクエストされたデータの量に応じて異なります。
 
