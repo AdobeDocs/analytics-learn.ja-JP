@@ -1,7 +1,7 @@
 ---
 title: Adobe Analytics と Adobe Sensei - すべてのユーザーが利用できるデータサイエンス
-description: Adobe AnalyticsのAdobe Sensei機械学習とAIテクノロジーが、ビジネスユーザーがデータを常に把握し、そのデータを実際にどのようなタイミングでどこで重要かを実用的に活用するのに役立つかを説明します。
-feature: データサイエンス
+description: Adobe Analytics の Adobe Sensei 機械学習と AI テクノロジーが、ビジネスユーザーがデータを常に把握し、本当に重要なタイミングと場所でそのデータを実際に活用するのに役立つ方法について説明します。
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 32f5ad95-1995-494f-9857-165bb81ae04f
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 13%
+workflow-type: ht
+source-wordcount: '85'
+ht-degree: 100%
 
 ---
 
-# Adobe Analytics + Adobe Sensei:すべてのデータサイエンスの民主化 {#adobe-analytics-adobe-sensei-democratizing-data-science-for-all}
+# Adobe Analytics + Adobe Sensei：すべてのユーザーが利用できるデータサイエンス {#adobe-analytics-adobe-sensei-democratizing-data-science-for-all}
 
-Adobe AnalyticsのAdobe Sensei機械学習とAIテクノロジーが、ビジネスユーザーがデータを常に把握し、そのデータを実際にどのようなタイミングでどこで重要かを実用的に活用するのに役立つかを説明します。
+Adobe Analytics の Adobe Sensei 機械学習と AI テクノロジーが、ビジネスユーザーがデータを常に把握し、本当に重要なタイミングと場所でそのデータを実際に活用するのに役立つ方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25838/?quality=12)
