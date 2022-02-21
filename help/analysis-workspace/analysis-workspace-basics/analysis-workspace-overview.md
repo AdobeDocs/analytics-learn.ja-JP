@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace の概要
 description: Adobe Analytics ソリューションの Analysis Workspace の概要（プロジェクトの作成とテンプレート、パネル、ビジュアライゼーション、ディメンション、指標、セグメント、高価値機能およびテクニックなど）。
-feature: Workspace の基本
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: a975a004-d044-47f6-b4ff-d6158a467c2a
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '56'
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
