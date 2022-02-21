@@ -1,7 +1,7 @@
 ---
-title: Analysis Workspaceで視覚化するデータの選択
-description: フリーフォーム分析でビジュアライゼーションの対象を正確に制御する方法を説明します
-feature: ビジュアライゼーション
+title: Analysis Workspace で視覚化するデータの選択
+description: フリーフォーム分析で視覚化される内容を正確に制御する方法を学ぶ
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ role: User
 level: Beginner
 exl-id: b5721a9b-ecdc-4498-8bb9-222ace0dc6dc
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 2%
+workflow-type: ht
+source-wordcount: '38'
+ht-degree: 100%
 
 ---
 
-# Analysis Workspaceで視覚化するデータの選択
+# Analysis Workspace で視覚化するデータの選択
 
-フリーフォーム分析でビジュアライゼーションの対象を正確に制御する方法を説明します
+フリーフォーム分析で視覚化される内容を正確に制御する方法を学ぶ
 
 >[!VIDEO](https://video.tv.adobe.com/v/23993/?quality=12)
