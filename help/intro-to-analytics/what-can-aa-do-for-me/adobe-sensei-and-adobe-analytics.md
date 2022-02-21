@@ -1,7 +1,7 @@
 ---
 title: Adobe Sensei と Adobe Analytics
 description: Adobe Sensei の活用で、Adobe Analytics がさらにインテリジェントになり、マーケターが顧客に関する有意義なインサイトを見つけやすくなります。 このビデオでは、異常値検出、貢献度分析、インテリジェントアラート、クラスタリング、セグメントIQ、傾向モデリングなど、Adobe Sensei を活用した Adobe Analytics の主な機能について詳しく説明します。
-feature: データサイエンス
+feature: Data Science
 topics: null
 activity: understand
 doc-type: value video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 4dda7501-43ae-4cc7-8b7e-c1f2bcd2950a
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '101'
+source-wordcount: '99'
 ht-degree: 100%
 
 ---
