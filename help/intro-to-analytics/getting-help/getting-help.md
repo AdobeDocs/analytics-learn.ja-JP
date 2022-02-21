@@ -1,7 +1,7 @@
 ---
-title: Adobe Analytics でのヘルプの入手
-description: いつか、私たちは皆Adobe Analyticsの助けを必要とするでしょう。 このビデオでは、壁にぶつかって助けを必要とする際に、手元にある優れたリソースを紹介します。
-feature: Analytics の基本事項
+title: Adobe Analytics でのヘルプの利用
+description: 遅かれ早かれ、Adobe Analytics でヘルプが必要な状況に遭遇します。このビデオでは、問題が発生してサポートが必要となったときにすぐに使える、優れたリソースをいくつか紹介します。
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8ea4295b-c374-4f89-b0aa-2fd09376c689
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 14%
+workflow-type: ht
+source-wordcount: '82'
+ht-degree: 100%
 
 ---
 
-# Adobe Analytics でのヘルプの入手
+# Adobe Analytics でのヘルプの利用
 
-いつか、私たちは皆Adobe Analyticsの助けを必要とするでしょう。 このビデオでは、壁にぶつかって助けを必要とする際に、手元にある優れたリソースを紹介します。
+遅かれ早かれ、Adobe Analytics でヘルプが必要な状況に遭遇します。このビデオでは、問題が発生してサポートが必要となったときにすぐに使える、優れたリソースをいくつか紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28753/?quality=12)
