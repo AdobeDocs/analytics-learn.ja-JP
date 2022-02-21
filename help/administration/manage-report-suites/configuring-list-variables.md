@@ -1,24 +1,24 @@
 ---
 title: リスト変数の設定
-description: 一度に 1 つのeVar（コンバージョン変数）に複数の値を入力する必要がある場合は、どのようにしますか？ 救助に変数をリスト！ このビデオでは、Adobe Analyticsでリスト変数を設定して使用する方法と理由を説明します。
+description: 一度に複数の値を eVar（コンバージョン変数）に入力する必要がある場合、どうすればよいでしょうか。そのようなときは、リスト変数が役に立ちます。このビデオでは、Adobe Analytics でリスト変数を設定および使用する方法と理由を説明します。
 feature: Variables
 role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 339450.jpg
 kt: 9527
-source-git-commit: c04177fead4f2f7d3187907172ed916accaeecc6
-workflow-type: tm+mt
+exl-id: cb073b69-cf1b-4602-82d0-7fcc180a6e5d
+source-git-commit: b6ba0e9a2291e30cb0ac979bbac79714dc981fca
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-
 # リスト変数の設定
 
-一度に 1 つのeVar（コンバージョン変数）に複数の値を入力する必要がある場合は、どのようにしますか？ 救助に変数をリスト！ このビデオでは、Adobe Analyticsでリスト変数を設定して使用する方法と理由を説明します。
+一度に複数の値を eVar（コンバージョン変数）に入力する必要がある場合、どうすればよいでしょうか。そのようなときは、リスト変数が役に立ちます。このビデオでは、Adobe Analytics でリスト変数を設定および使用する方法と理由を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/339450/?quality=12&learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/list-var-admin.html)を参照してください。
+詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/list-var-admin.html?lang=ja) を参照してください。
