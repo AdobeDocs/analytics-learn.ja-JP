@@ -25,4 +25,4 @@ ht-degree: 100%
 
 [!UICONTROL アドビの標準テンプレート]で対応できる場合はそれで十分ですが、自分専用のテンプレートが必要な場合もあります。 これで、独自のカスタムテンプレート内に任意のプロジェクトを作成できるようになりました。新しいユーザーが迅速に作業を進めたり、お気に入りのダッシュボードやプロジェクトを見つけたり、チーム間でダッシュボードを共有したりするのがさらに容易になります。
 
-標準テンプレートとカスタムテンプレートの詳細については、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=ja)を参照してください。
+標準テンプレートとカスタムテンプレートの詳細については、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=ja) を参照してください。
