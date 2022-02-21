@@ -1,7 +1,7 @@
 ---
 title: Reports and Analytics の「Workspace で試す」ボタン
 description: Reports and Analytics のほとんどのレポートには、「ワークスペースで試す」ボタンがあります。このボタンを使用すると、現在のビューを Analysis Workspace で再現して、さらにカスタマイズすることができます。
-feature: Analytics の基本事項
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: d5aab59f-ff73-4ef5-82d6-fd4ada90a7cd
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '66'
+source-wordcount: '64'
 ht-degree: 100%
 
 ---
