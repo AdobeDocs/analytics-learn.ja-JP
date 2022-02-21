@@ -1,24 +1,24 @@
 ---
-title: データフィードIDを見つける
-description: 'データフィードの配信が失敗した場合や、データフィードファイルの再送信のリクエストがあった場合は、Adobeに連絡する必要が生じる場合があります。 データフィードIDが顧客から提供されると、カスタマーサポートチームがこのような要求に対処するのに便利になります。 '
-feature: 管理ツール、データフィード、データ設定およびコレクション
-topic: 管理
+title: データフィード ID の検索
+description: データフィードの配信に失敗した場合や、データフィードファイル再送信のリクエストがあった場合は、アドビに問い合わせる必要が生じることがあります。顧客からデータフィード ID が提供されれば、カスタマーサポートチームがそのようなリクエストを処理する際に役立ちます。
+feature: Admin Tools, Data Feeds, Data Configuration and Collection
+topic: Administration
 role: User, Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 335747.jpg
 kt: KT-8464
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
-workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 0%
+exl-id: 5687e37d-8284-43c2-9b5f-39852bce538a
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
+source-wordcount: '104'
+ht-degree: 100%
 
 ---
 
+# データフィード ID の検索
 
-# データフィードIDを見つける
-
-データフィードの配信が失敗した場合や、データフィードファイルの再送信のリクエストがあった場合は、Adobeに連絡する必要が生じる場合があります。 データフィードIDが顧客から提供されると、カスタマーサポートチームがこのような要求に対処するのに便利になります。
+データフィードの配信に失敗した場合や、データフィードファイル再送信のリクエストがあった場合は、アドビに問い合わせる必要が生じることがあります。顧客からデータフィード ID が提供されれば、カスタマーサポートチームがそのようなリクエストを処理する際に役立ちます。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335747/?quality=12&learn=on)
