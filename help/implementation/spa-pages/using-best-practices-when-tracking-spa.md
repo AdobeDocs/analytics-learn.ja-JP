@@ -1,7 +1,7 @@
 ---
-title: 'Adobe Analyticsでシングルページアプリケーション(SPA)を追跡する際のベストプラクティスの使用 '
-description: このドキュメントでは、Adobe Analyticsを使用してシングルページアプリケーション(SPA)を追跡する際に従って注意する必要がある、いくつかのベストプラクティスについて説明します。 このドキュメントでは、推奨される実装方法であるExperience Platform Launchの使用に焦点を当てます。
-feature: 実装の基本
+title: 'Adobe Analytics で単一ページアプリケーション（SPA）をトラッキングする際のベストプラクティスの使用 '
+description: このドキュメントでは、Adobe Analytics を使用して単一ページアプリケーション（SPA）をトラッキングする際に、従う必要があり、注意する必要のあるいくつかのベストプラクティスについて説明します。このドキュメントでは、推奨される実装方法である Experience Platform Launch の使用に焦点を当てます。
+feature: Implementation Basics
 topics: spa
 activity: implement
 doc-type: technical video
@@ -12,32 +12,32 @@ role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '1672'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '1669'
+ht-degree: 100%
 
 ---
 
-# Adobe Analyticsでシングルページアプリケーション(SPA)を追跡する際のベストプラクティスの使用 {#using-best-practices-when-tracking-spa-in-adobe-analytics}
+# Adobe Analytics で単一ページアプリケーション（SPA）をトラッキングする際のベストプラクティスの使用 {#using-best-practices-when-tracking-spa-in-adobe-analytics}
 
-このドキュメントでは、Adobe Analyticsを使用してシングルページアプリケーション(SPA)を追跡する際に従って注意する必要がある、いくつかのベストプラクティスについて説明します。 このドキュメントでは、推奨される実装方法であるAdobe[!DNL Experience Platform Launch]の使用に焦点を当てます。
+このドキュメントでは、Adobe Analytics を使用して単一ページアプリケーション（SPA）をトラッキングする際に、従う必要があり、注意する必要のあるいくつかのベストプラクティスについて説明します。このドキュメントでは、推奨される実装方法である Adobe [!DNL Experience Platform Launch] の使用に焦点を当てます。
 
-初期メモ：
+最初のメモ：
 
-* 以下の項目は、サイトに[!DNL Experience Platform Launch]を実装することを前提としています。 [!DNL Experience Platform Launch]を使用しない場合でも、考慮事項は存在しますが、実装方法に合わせて調整する必要があります。
-* すべてのSPAは異なるので、ニーズに合わせて以下の項目を調整する必要が生じる場合がありますが、ベストプラクティスをいくつかお客様と共有したいと考えています。SPAページにAdobe Analyticsを実装する際に考慮する必要がある事項について説明します。
+* 以下の項目は、[!DNL Experience Platform Launch] を使用してサイトに実装していることを前提としています。[!DNL Experience Platform Launch] を使用していない場合でも考慮事項は存在しますが、実装方法に合わせて調整する必要があります。
+* SPA はそれぞれ異なるため、必要に応じて次の項目を微調整する必要が生じる場合がありますが、SPA ページに Adobe Analytics を実装する際に考える必要がある、いくつかのベストプラクティスを紹介します。
 
-## [!DNL Experience Platform Launch]でのSPAの操作の簡単な図 {#simple-diagram-of-working-with-spas-in-launch}
+## [!DNL Experience Platform Launch] でのSPAの操作に関する簡単な図 {#simple-diagram-of-working-with-spas-in-launch}
 
-![launchでのanalytics用spa](assets/spa_for_analyticsinlaunch.png)
+![ローンチでの分析用 SPA](assets/spa_for_analyticsinlaunch.png)
 
-**注意：** この図は、Adobe Analytics実装でのSPAページの使用方法を簡略化したもので [!DNL Experience Platform Launch]す。このページの以降の節では、慎重に検討または対処する必要がある手順と問題について説明します。
+**メモ：** 前述のように、これは [!DNL Experience Platform Launch] を使用した Adobe Analytics 実装において、SPA ページがどのように処理されるかを簡略化した図です。このページの以降の節では、慎重に検討または行動すべき手順と問題について説明します。
 
 ## データレイヤーの設定 {#setting-the-data-layer}
 
-新しいコンテンツがSPAページに読み込まれる場合、またはSPAページでアクションが実行される場合、最初におこなうべきことの1つは、データレイヤーを更新することです。 これは、 [!DNL Experience Platform Launch]でカスタムイベントが発生し、トリガールールが発生する前に発生する必要があります。そのため、 [!DNL Experience Platform Launch]がデータレイヤーから新しい値を取得し、Adobe Analyticsにプッシュできます。
+新しいコンテンツが SPA ページに読み込まれるとき、またはアクションが SPA ページで実行されるとき、最初におこなうべきことの 1 つは、データレイヤーを更新することです。これは、[!DNL Experience Platform Launch] はデータレイヤーから新しい値を取得して、Adobe Analytics にプッシュできるよう、カスタムイベントが発生して [!DNL Experience Platform Launch] でルールがトリガーされる前に実行する必要があります。
 
-以下に、データレイヤーの例を示します。このレイヤーの要素は、SPAでの表示の変更や操作時に変更できます。 例えば、全画面/大部分の画面を変更する場合、[!DNL Experience Platform Launch]で新しい要素を取り込んでAdobe Analyticsに送信できるように、「[!DNL pageName]」要素を変更するのが一般的です。
+以下はデータレイヤーのサンプルで、ビューの変更または SPA でのアクションによってその要素が変更される可能性があります。例えば、全画面または大画面の変更では、「[!DNL pageName]」要素を変更して、新しい要素を [!DNL Experience Platform Launch] でキャプチャして Adobe Analytics に送信できるようにするのが一般的です。
 
 ```JavaScript
 <script>
@@ -73,72 +73,72 @@ ht-degree: 0%
     </script>
 ```
 
-## [!DNL Experience Platform Launch]でのカスタムイベントとリスンの設定 {#setting-custom-events-and-listening-in-launch}
+## [!DNL Experience Platform Launch] でのカスタムイベントとリスニングの設定  {#setting-custom-events-and-listening-in-launch}
 
-ページに新しいコンテンツが読み込まれる場合や、サイトでアクションが発生した場合は、ルールを実行して[!DNL Analytics]にデータを送信できるように、[!DNL Experience Platform Launch]に通知する必要があります。 これをおこなう方法はいくつかあります。[!UICONTROL 直接呼び出し] [!UICONTROL ルール]またはカスタムイベント。
+新しいコンテンツがページに読み込まれたとき、またはサイトでアクションが発生したとき、ルールを実行してデータを [!DNL Analytics] に送信できるように、[!DNL Experience Platform Launch] に通知する必要があります。これを行うには、[!UICONTROL 直接呼出し] [!UICONTROL ルール] とカスタムイベントの 2 つの方法があります。
 
-* [!UICONTROL 直接呼] [!UICONTROL び出しルール]:では、ペ [!DNL Experience Platform Launch]ージから直接呼び出さ [!UICONTROL れ]  たときに実行する直接呼び出しルールを設定できます。ページの読み込みやサイトでの操作が非常に簡単な場合、または一意で、毎回特定の命令セットを実行できる場合([!DNL eVar4]をXに設定し、トリガー[!DNL event2]を毎回)、[!UICONTROL 直接呼び出し] [!UICONTROL ルール]を使用できます。 [!UICONTROL 直接呼び出し] [!UICONTROL ルール]の作成に関する[!DNL Experience Platform Launch]ドキュメントを参照してください。
-* カスタムイベント：機能の強化と、異なる値を持つペイロードを動的にアタッチする機能のために、[!DNL Experience Platform Launch]でカスタムJavaScriptイベントを設定し、それらをリッスンする必要があります。ここでは、ペイロードを使用して変数を設定し、データをAdobe Analyticsに送信します。 この機能が必要になる可能性が高いので、このオプションがベストプラクティスと見なされます。 ただし、サイトの各機能によって、どの方法が最適かが判断されます。 このカスタムイベントメソッドを使用する必要があると仮定して、このドキュメントを進めます。
+* [!UICONTROL 直接呼出し] [!UICONTROL ルール]：[!DNL Experience Platform Launch] では、ページから直接呼び出されたときに実行される [!UICONTROL 直接呼出し] [!UICONTROL ルール] を設定できます。ページの読み込みやサイトでのアクションが非常に単純な場合、またはそれが一意であり、毎回特定の命令セットを実行できる場合（[!DNL eVar4] を X に設定し、毎回 [!DNL event2] をトリガーする）、[!UICONTROL 直接呼び出し] [!UICONTROL ルール] を使用できます。[!UICONTROL 直接呼出し] [!UICONTROL ルール] の作成については、[!DNL Experience Platform Launch] ドキュメントを参照してください。
+* カスタムイベント：より多くの機能および異なる値でペイロードを動的に添付する機能のために、カスタム JavaScript イベントを設定し、[!DNL Experience Platform Launch] でリッスンする必要があります。そこでは、ペイロードを使用して変数を設定し、データを Adobe Analytics に送信できます。 この機能が必要になる可能性が高いので、このオプションはベストプラクティスと見なされます。 ただし、サイトの各機能によって、どの方法が最も適切かを判断できます。このカスタムイベントメソッドを使用する必要があると仮定して、このドキュメントを進めます。
 
-**例：** THIShelpドキュメ [](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html) ントには、(およびその他のExperience Cloudソリューション)を実装したSPAサイトのサンプルへのリンク、および実装内容を説明するドキュメントが含まれていま [!DNL Analytics] す。これらのSPAの例では、次のカスタムイベントが使用されています。
+**例：** [この](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html?lang=ja)ヘルプ ドキュメントには、[!DNL Analytics]（およびその他の Experience Cloud ソリューション）を実装した SPA サイトのサンプルへのリンクと、実装内容を説明するドキュメントがあります。これらの SPA の例では、次のカスタムイベントが使用されています。
 
-* [!DNL event-view-start]:このイベントは、読み込み中のビュー/状態のビュー開始時に発生します。
-* [!DNL event-view-end]:このイベントは、ビュー/状態の変更が発生し、ページ上のすべてのSPAコンポーネントの読み込みが終了した場合でも実行する必要があります。これは、通常、Adobe Analyticsへの呼び出しをトリガーするイベントです。
-* [!DNL event-action-trigger]:このイベントは、表示/状態の読み込みを除く、ページ上でイベントが発生した場合に発生します。これは、クリックイベントや、ビューの変更なしでの小さなコンテンツの変更である可能性があります。
+* [!DNL event-view-start]：このイベントは、読み込み中のビュー／状態のビュー開始時に発生します。
+* [!DNL event-view-end]：このイベントは、ビュー／状態の変更が発生し、ページ上のすべての SPA コンポーネントの読み込みが完了した場合でも実行する必要があります。これは、通常、Adobe Analytics への呼び出しをトリガーにするイベントです。
+* [!DNL event-action-trigger]：このイベントは、ビュー／状態の読み込みを除く、ページでイベントが発生したときに発生します。これは、クリックイベントか、ビューの変更を伴わない小さなコンテンツの変更である可能性があります。
 
-呼び出し方法とタイミングについて詳しくは、上記の参照ページ/ドキュメントを参照してください。 同じイベント名を使用する必要はありませんが、ここに示す機能は推奨ベストプラクティスです。 次のビデオでは、サンプルサイトと、 [!DNL Experience Platform Launch]内でカスタムイベントをリッスンする場所を示します。
+実行方法とタイミングについて詳しくは、上記の参照ページ／ドキュメントを参照してください。 これらの同じイベント名を使用する必要はありませんが、ここに記載されている機能は推奨されるベストプラクティスです。次のビデオでは、サンプルサイトと、[!DNL Experience Platform Launch] でカスタムイベントをリッスンするための場所を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12)
 
-## [!DNL Experience Platform Launch] [!UICONTROL ルール]でs.t()またはs.tl()を実行する {#running-s-t-or-s-tl-in-the-launch-rule}
+## [!DNL Experience Platform Launch] [!UICONTROL ルール] の s.t() または s.tl() を実行 {#running-s-t-or-s-tl-in-the-launch-rule}
 
-SPAを使用する際に[!DNL Analytics]にとって最も重要な点の1つは、`s.t()`と`s.tl()`の違いです。 [!DNL Experience Platform Launch]でこれらのメソッドの1つを呼び出して[!DNL Analytics]にデータを送信しますが、それぞれを送信するタイミングを知る必要があります。
+SPA で作業する際に [!DNL Analytics] について理解しておくべき最も重要なことの 1 つは、`s.t()` と `s.tl()` の違いです。[!DNL Experience Platform Launch] でこれらのメソッドのいずれかをトリガーして [!DNL Analytics] にデータを送ることになりますが、それぞれのメソッドをいつ送信するかを知っておく必要があります。
 
-* **s.t()**  - 「t」は「track」を表し、通常のページビューです。URLが変更されない場合でも、**&#x200B;を新しい「ページ」と見なすほど、ビューが十分に変更されますか。 その場合は、 s.[!DNL pageName]変数を設定し、 `s.t()`を使用して呼び出しを[!DNL Analytics]に送信します。
+* **s.t()** - 「t」は「track」を表します。通常のページビューです。URL が変更されない場合でも、ビューは新しい「ページ」と *見なされる* ほどに変更されますか？その場合は、s.[!DNL pageName] 変数を設定し、`s.t()` を使用して呼び出しを [!DNL Analytics] に送信します。
 
-* **s.tl()**  - 「tl」は「リンクを追跡」を表し、通常は、全画面表示の変更とは対照的に、ページ上のクリック数や小さなコンテンツの変更を追跡するために使用されます。ページ上の変更が小さく、完全な新しい「ページ」と見なさないようにする場合は、`s.tl()`を使用し、s.pageName変数の設定について心配しないでください。[!DNL Analytics]では無視されます。
+* **s.tl()** - 「tl」は「リンクをトラック」を表し、通常は全画面の変更とは異なり、ページ上のクリックまたは小さなコンテンツ変更のトラッキングに使用されます。ページ上の変更が小さく、完全に新しい「ページ」と見なされない場合は、`s.tl()` を使用します。[!DNL Analytics] は無視されるので、s.pageName 変数の設定について心配する必要はありません。
 
-**ヒント：** 一部のユーザーは、画面が50%を超える場合、ページビューと見なしてを使用する必要があるという一般的なガイドラインを使用し `s.t()`ます。画面への変更が50%未満の場合は、`s.tl()`を使用します。 ただし、これは完全にユーザー次第で、新しい「ページ」と見なすものと、Adobe Analyticsでのサイトの追跡方法が決まります。
+**ヒント：** 画面が 50% 以上変化する場合は、これをページビューと見なして `s.t()` を使用するという一般的なガイドラインを使用するユーザーもいます。画面の変化が 50% 未満の場合は、`s.tl()` を使用します。ただし、これは、完全にユーザー次第であり、新しい「ページ」と見なす内容と、Adobe Analytics でのサイトの追跡方法によって異なります。
 
-次のビデオでは、Launch by Adobe内の`s.t()`または`s.tl()`のトリガーの場所と方法を示します。
+次のビデオでは、Experience Platform Launch で `s.t()` または `s.tl()` をトリガーする場所／方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12)
 
 ## 変数のクリア {#clearing-variables}
 
-Adobe Analyticsでサイトを追跡する場合、当然ながら適切なタイミングで[!DNL Analytics]に適切なデータを送信するだけで済みます。 SPA環境では、 [!DNL Analytics]変数で追跡された値が保持され、 [!DNL Analytics]に再送される可能性があります（これが不要になった場合もあります）。 このため、[!DNL Analytics] [!DNL Launch]拡張機能に変数をクリアする関数があるので、次のイメージリクエストを実行して[!DNL Analytics]にデータを送信する際に新しいスレートが生成されます。
+当然、Adobe Analytics を使用してサイトを追跡する場合は、適切なデータを適切なタイミングで [!DNL Analytics] に送信するだけです。SPA 環境では、[!DNL Analytics] 変数で追跡された値が保持され、不要になった場合には [!DNL Analytics] に再送信される可能性があります。このため、[!DNL Analytics] [!DNL Launch] 拡張機能には変数をクリアする機能があり、次のイメージリクエストを実行してデータを [!DNL Analytics] に送信すると、新しい状態になります。 
 
-上の図では、ヒットを送信した&#x200B;*後ろの変数*&#x200B;をクリアし、プロセスの最後にリストされています。 実際には、ヒットが送信される前または後におこなうことができますが、[!DNL Experience Platform Launch]ルールでは一貫性があるので、常に変数を設定して送信する前または後にクリアします。 `s.t()`を実行する前に&#x200B;*変数をクリアする場合は、まず変数をクリアし、次に新しい変数を設定してから、最後に[!DNL Analytics]に新しいデータを送信します。*
+上の図では、プロセスの最後にリストされており、ヒットを送信した *後* に変数をクリアしています。実際には、ヒットが送信される前または後に実行できますが、[!DNL Experience Platform Launch] ルールで一貫性を維持する必要があるため、変数を設定して送信する前または後に常にクリアする必要があります。`s.t()` を実行する *前* に変数をクリアする場合は、必ず最初に変数をクリアし、次に新しい変数を設定して、最後に新しいデータを [!DNL Analytics] に送信してください。 
 
-**注意：** 実行時には必ずしも変数のクリアが必要とは限りませ `s.tl()`ん。これは、 `s.tl()` 設定される変数を指定するた [!DNL linkTrackVars] め、毎回変数を使用する必要があるからです(のバックグラウンドで自動的に追加されま [!DNL Analytics]  [!DNL Experience Platform Launch]す)。つまり、`s.tl()`を使用する際には必要な変数が入ってこないのが普通ですが、SPA環境で`s.t()`を使用する場合は非常にお勧めします。 ただし、SPA環境では、品質の高いデータ収集を確実におこなうために、`s.t()`と`s.tl()`の両方でClear Variables関数を使用することをお勧めします。
+**メモ：** `s.tl()` では、どの変数が設定されるか（[!DNL Experience Platform Launch] のバックグラウンドで自動的に追加される）を [!DNL Analytics] に通知するために、毎回 [!DNL linkTrackVars] 変数を一緒に使用する必要があるため、`s.tl()` を実行するときに変数をクリアする必要はありません。つまり、`s.tl()` を使用する場合、通常は誤った変数は含まれませんが、SPA 環境で `s.t()` を使用する場合は非常に推奨されます。そうは言っても、質の高いデータ収集を確実に行うために、SPA 環境で `s.t()` と `s.tl()` の両方に変数のクリア関数を使用することをベストプラクティスとしてお勧めします。
 
-次のビデオでは、[!DNL Launch]内の変数をクリアする場所と方法を示します。
+次のビデオでは、[!DNL Launch] で変数をクリアする場所／方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12)
 
 ## その他の考慮事項 {#additional-considerations}
 
-### [!DNL Experience Platform Launch]のカスタムコードウィンドウ {#custom-code-windows-in-launch}
+### [!DNL Experience Platform Launch] のカスタムコードウィンドウ {#custom-code-windows-in-launch}
 
-[!DNL Launch] [!DNL Analytics]拡張機能には、カスタムコードを挿入できる場所が2つあります。[!UICONTROL ライブラリ管理]セクションと、追加の「[!UICONTROL カスタムコードを使用したトラッカーの設定]」セクション。
+[!DNL Launch] [!DNL Analytics] 拡張機能では、カスタムコードを挿入できる場所が 2 つあります。[!UICONTROL ライブラリ管理] セクションと追加の「[!UICONTROL カスタムコードを使用したトラッカーの設定]」セクションです。
 
-![Analyticsカスタムコードウィンドウの起動](assets/launch_analyticscustomcodewindows.png)
+![Analytics カスタムコードウィンドウの起動](assets/launch_analyticscustomcodewindows.png)
 
-SPAページで最初のページ読み込みが発生した場合、これらの場所のいずれかが実際には1回だけコードを実行することを把握しておくことが重要です。 ビューの変更時またはサイト上のアクションでコードを実行する必要がある場合、適切な&#x200B;**[!UICONTROL ルール]**&#x200B;に追加のアクションを追加する必要があります(例：「ページ読み込み：event-view-end&quot; [!UICONTROL rule])と呼ばれ、[!UICONTROL rule]が実行されるたびにコードが実行されます。 [!UICONTROL ルール]でそのアクションを作成する場合、*拡張機能=コア*&#x200B;および&#x200B;*アクションタイプ=カスタムコード*&#x200B;を設定します。
+SPA ページで最初のページの読み込みが行われる際に、これらの場所のいずれかが実際にコードを実行するのは 1 回だけであることを知っておくことが重要です。ビューの変更またはサイトのアクションでコードを実行する必要がある場合は、適切な **[!UICONTROL ルール]** にアクションを（例：「ページの読み込み：イベント／表示／終了」 [!UICONTROL ルール]）を追加し、その [!UICONTROL ルール] が実行されるたびにコードが実行されるようにする必要があります。[!UICONTROL ルール] でそのアクションを作成するときは、 *拡張機能 = Core* および *アクションタイプ = カスタムコード* を設定します。
 
-### 「ハイブリッド」SPA/通常のサイト {#hybrid-spa-regular-sites}
+### 「ハイブリッド」SPA／通常のサイト {#hybrid-spa-regular-sites}
 
-一部のサイトは、「通常」のページとSPAのページを組み合わせたものです。 この場合、両方のページタイプで機能する方法を使用する必要があります。 サイトでカスタムイベントを設定し、[!DNL Experience Platform Launch]でルールをトリガーする場合は、ハッシュの変更などに基づいて、ページから[!DNL Analytics]に二重のヒットが入らないように注意してください。 (その場合、[!DNL Experience Platform Launch]ルールのトリガーを選択します)。 この場合、Adobe Analyticsで誤ったデータが返されないように、ページビューの1つを抑制する必要があります。
+一部のサイトは、「通常の」ページと SPA ページを組み合わせています。この場合、両方のページタイプで機能する方法を使用する必要があります。サイトでカスタムイベントを設定し、[!DNL Experience Platform Launch] でルールをトリガーするときは、ハッシュの変更などに基づいて、ページから [!DNL Analytics] に重複ヒットが発生しないように注意してください（それが [!DNL Experience Platform Launch] ルールのトリガーを選択した方法である場合）。この場合、Adobe Analytics で誤ったデータが返されないように、ページビューの 1 つを抑制する必要があります。
 
-より詳細な制御が可能なように、機能を個別の[!UICONTROL ルール]に分割する場合は、[!UICONTROL ルール]を他の[!UICONTROL ルール]に変更し、[!DNL Analytics]データの整合性を保護できるように、記憶と文書を作成します。
+機能を個別の [!UICONTROL ルール] に分割して、より詳細に制御できるようにする場合は、これを行ったことを忘れずに文書化してください。これにより、一方の [!UICONTROL ルール] に変更を加えて、もう一方の [!UICONTROL ルール] にも変更を加えると、 [!DNL Analytics] データの整合性を保護できます。
 
-### A4Tによる[!DNL Target]との統合 {#integration-with-target-via-a4t}
+### A4T 経由での [!DNL Target] との統合 {#integration-with-target-via-a4t}
 
-ちょっとした引き出し線です A4Tを使用して[!DNL Target]と統合する場合は、同じビュー上の[!DNL Target]リクエストと[!DNL Analytics]リクエストのSDIDが同じに変更されていることを確認してください。 これにより、データがソリューション上で正しく同期されます。
+ここでは、簡単に説明します。A4T を使用して [!DNL Target] と統合する場合は、同じ表示変更での [!DNL Target] リクエストと [!DNL Analytics] リクエストの SDID が同じであることを確認してください。これにより、データがソリューション上で適切に同期されるようになります。
 
-ヒットを確認するには、デバッガーまたはパケットスニファープログラムを使用します。 また、[HERE](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)をダウンロードできるChrome拡張機能であるExperience Cloud Debuggerを使用することもできます。 [!DNL Target] は最初にページで実行される必要があるので、JavaScriptコンソールまたはデバッガーでもを確認できます。
+ヒットを確認するには、デバッガーまたはパケットスニファープログラムを使用します。[こちら](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) からダウンロード可能な Chrome 拡張機能である Experience Cloud Debugger を使用することもできます。[!DNL Target] はページの最初に起動する必要があるため、JavaScript コンソールまたはデバッガーでも確認できます。
 
 ## その他のリソース {#additional-resources}
 
-* [SPAフォーラムでのAdobe](https://forums.adobe.com/thread/2451022)
-* [Experience Platform LaunchでのSPAの実装方法を示すリファレンスアーキテクチャのサイト](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
+* [アドビフォーラムでの SPA ディスカッション](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/best-practices-for-single-page-apps/m-p/267940?profile.language=ja)
+* [Experience Platform Launch での SPA の実装方法を示すリファレンスアーキテクチャのサイト](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html?lang=ja)
