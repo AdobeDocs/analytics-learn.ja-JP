@@ -1,7 +1,7 @@
 ---
-title: Experience Platform Launch を使用しない場合の AppMeasurement の更新
-description: このビデオでは、Experience Platform Launchを使用していない場合にappMeasurementコードを更新する方法を説明します。 これには、コードの取得場所と更新場所が含まれます。
-feature: Appmeasurementの実装
+title: Experience Platform Launch を使用していない場合の AppMeasurement の更新
+description: このビデオでは、Experience Platform Launch を使用していない場合に appMeasurement コードを更新する方法を説明します。これには、コードの取得場所と更新場所が含まれます。
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -11,18 +11,18 @@ role: Developer, Data Engineer
 level: Intermediate
 exl-id: 27a8ce2f-afea-4505-9525-49720432f40f
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 5%
+workflow-type: ht
+source-wordcount: '138'
+ht-degree: 100%
 
 ---
 
-# [!DNL Experience Platform Launch] {#updating-appmeasurement-when-not-using-adobe-launch}
+# [!DNL Experience Platform Launch] を使用していない場合の AppMeasurement の更新 {#updating-appmeasurement-when-not-using-adobe-launch}
 
-このビデオでは、Adobe[!DNL Experience Platform Launch]を使用していない場合にappMeasurementコードを更新する方法を説明します。 これには、コードの取得場所と更新場所が含まれます。
+このビデオでは、Adobe [!DNL Experience Platform Launch] を使用していない場合に appMeasurement コードを更新する方法を説明します。これには、コードの取得場所と更新場所が含まれます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25913/?quality=12)
 
 >[!NOTE]
 >
->Adobe以外のタグ管理ソリューションを使用する場合は、タグ管理ソリューションを使用しない場合と同様に、[!DNL AppMeasurement]の更新を処理する必要があります。 つまり、AppMeasurementコードがある場所であればどこでも、更新を実行できます（新しいコードを取得し、ファイル内またはTMS内の古いコードを置き換えます）。 [!DNL Experience Platform Launch]を使用する場合、更新は迅速かつ簡単におこなえ、コードをコピーまたは貼り付ける必要はありません。
+>アドビ以外のタグ管理ソリューションを使用する場合は、タグ管理ソリューションを使用していない場合と同様に [!DNL AppMeasurement] の更新を処理する必要があります。つまり、AppMeasurement コードがある場所では必ず更新を実行します（新しいコードを取得し、ファイルまたは TMS 内の古いコードを置き換えます）。[!DNL Experience Platform Launch] を使用すると、更新がすばやく簡単になり、コードのコピーや貼り付けは必要ありません。
