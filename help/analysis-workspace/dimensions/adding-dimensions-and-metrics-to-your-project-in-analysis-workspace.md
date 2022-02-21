@@ -17,10 +17,10 @@ ht-degree: 100%
 
 ---
 
-# Analysis Workspace でのプロジェクトへの[!UICONTROL ディメンション]と[!UICONTROL 指標]の追加
+# Analysis Workspace でのプロジェクトへの [!UICONTROL ディメンション] と [!UICONTROL 指標] の追加
 
-このビデオでは、[!UICONTROL ディメンション]と[!UICONTROL 指標]、それらの違い、および Analysis Workspace のテーブルとビジュアライゼーションにそれらを追加する方法について説明します。また、標準の[!UICONTROL 計算指標]を追加する方法についても説明します。
+このビデオでは、 [!UICONTROL ディメンション] と [!UICONTROL 指標]、それらの違い、および Analysis Workspace のテーブルとビジュアライゼーションにそれらを追加する方法について説明します。また、標準の[!UICONTROL 計算指標]を追加する方法についても説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=ja)を参照してください。
+詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=ja) を参照してください。
