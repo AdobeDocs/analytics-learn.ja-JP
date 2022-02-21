@@ -23,4 +23,4 @@ Adobe Analytics の実装で [!DNL contextData] 変数を使用する場合、�
 
 >[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=ja)を参照してください。
+詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=ja) を参照してください。
