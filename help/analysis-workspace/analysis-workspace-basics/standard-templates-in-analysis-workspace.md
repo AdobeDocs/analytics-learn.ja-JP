@@ -26,4 +26,4 @@ Analysis Workspace では、[!DNL Standard Templates]（以前の[!DNL Starter P
 
 >[!VIDEO](https://video.tv.adobe.com/v/23960/?quality=12)
 
-[!DNL Standard Templates]は、一般的なビジネストピックを中心に設計された完全にカスタマイズ可能および共有可能なテンプレートで、美しく直観的なビジュアライゼーションを備えており、より簡単にインサイトを見つけることができます。この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=ja)を参照してください。
+[!DNL Standard Templates]は、一般的なビジネストピックを中心に設計された完全にカスタマイズ可能および共有可能なテンプレートで、美しく直観的なビジュアライゼーションを備えており、より簡単にインサイトを見つけることができます。この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=ja) を参照してください。
