@@ -1,6 +1,6 @@
 ---
 title: タグマネージャーを使用しないカスタムリンクトラッキング
-description: ページ上の多くのアクションでは、トラッキングをページビューのように扱わないでください。 このビデオでは、タグマネージャー(Experience Platform Launchなど)を使用していない場合に、Analyticsにリンクトラッキングビーコンをコーディングする方法を学びます。 コードを参照し、重要なヒントを確認してください。
+description: ページ上の多くのアクションでは、トラッキングをページビューのように扱わないでください。このビデオでは、タグマネージャー（Experience Platform Launch など）を使用していない場合に、Analytics へのリンクトラッキングビーコンをコード化する方法を説明します。コードを参照し、重要なヒントを確認してください。
 feature: Appmeasurement Implementation
 topics: null
 activity: implement
@@ -11,32 +11,32 @@ role: Developer, Data Engineer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '271'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 # タグマネージャーを使用しないカスタムリンクトラッキング {#custom-link-tracking-without-a-tag-manager}
 
-ページ上の多くのアクションでは、トラッキングをページビューのように扱わないでください。 このビデオでは、タグマネージャー(Adobe[!DNL Experience Platform Launch]など)を使用していない場合に、Analyticsにリンクトラッキングビーコンをコーディングする方法を学びます。 コードを参照し、重要なヒントを確認してください。
+ページ上の多くのアクションでは、トラッキングをページビューのように扱わないでください。このビデオでは、タグマネージャー（Adobe [!DNL Experience Platform Launch] など）を使用していない場合に、Analytics へのリンクトラッキングビーコンをコード化する方法を説明します。コードを参照し、重要なヒントを確認してください。
 
-## s.tl()ビーコンの送信 {#sending-an-s-tl-beacon}
+## s.tl() ビーコンの送信 {#sending-an-s-tl-beacon}
 
-Adobe Analyticsにデータを送信する関数は2つあります。
+Adobe Analytics にデータを送信する関数は 2 つあります。
 
-1. s.t() - 「track」ビーコン。ページビューヒットで、特定のページ名のページビュー数を増分し、他の変数を設定します。
-1. s.tl() - 「リンクを追跡」ビーコン。「カスタムリンク」ヒット/ビーコンと呼ばれ、ページビューを増分せず、pageName変数を無視します。 これは、一般に、新しいページや画面を読み込まないページ上の小さなアクションや、新しいページ読み込みにつながらないその他のアクションを追跡するために使用されます。
+1. s.t() - 「トラック」ビーコン。特定のページ名のページビューを増分し、その他の変数を設定するページビューヒットです。
+1. s.tl() - 「トラックリンク」ビーコン。「カスタムリンク」ヒット／ビーコンとも呼ばれ、ページビューを増分せず、pageName 変数を無視します。これは、新しいページや画面を読み込まないページ上の小さなアクションや、新しいページ読み込みにつながらない他のアクションをトラッキングするために一般的に使用されます。
 
 >[!NOTE]
 >
->このビデオでは、Adobe[!DNL Experience Platform Launch]のようなタグマネージャーを使用していない場合に、カスタムリンクヒットをコード化する方法を示します。 実装のベストプラクティスとして、[!DNL Experience Platform Launch]を使用することをお勧めします。 ただし、`s.tl()`にコードを記述する必要がある場合は、次の方法を使用します。
+>このビデオでは、Adobe [!DNL Experience Platform Launch] などのタグマネージャーを使用していない場合に、カスタムリンクヒットをコード化する方法を説明します。実装に関するベストプラクティスの推奨である [!DNL Experience Platform Launch] を使用することをお勧めします。ただし、`s.tl()` でコード化する必要がある場合は、次の方法でコード化できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12)
 
 ## サンプルコード {#sample-code}
 
-次に、ビデオのカスタムリンクで使用されるサンプルコードを示します。
+ビデオ内のカスタムリンクで使用されるサンプルコードを次に示します。
 
 ```JavaScript
 <a href="#" onclick="
