@@ -1,6 +1,6 @@
 ---
-title: Adobe Analyticsでのセグメントの管理と共有
-description: 優れたセグメントを作成できますが、なぜそれらを自分に留め置くのか このビデオでは、セグメントの共有と管理に関するヒントを学び、他のユーザーと共に優れた機能を活用する方法を学びます。
+title: Adobe Analytics でのセグメント管理と共有
+description: 優れたセグメントを作成したら、他のメンバーと共有しましょう。このビデオでは、自身や他のメンバーがそのセグメントのメリットを享受できるよう、セグメントを共有および管理するためのヒントをいくつか説明します。
 feature: Segmentation
 thumbnail: 25402.jpg
 kt: 2305
@@ -8,16 +8,16 @@ role: User
 level: Beginner
 exl-id: d78f2b6f-d685-4a21-8f45-4f410c3a0e5c
 source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL セグメント] Adobe Analyticsでの管理と共有 {#segment-management-and-sharing-in-adobe-analytics}
+# Adobe Analytics での [!UICONTROL セグメント] 管理と共有 {#segment-management-and-sharing-in-adobe-analytics}
 
-優れたセグメントを作成できますが、なぜそれらを自分に留め置くのか このビデオでは、セグメントの共有と管理に関するヒントを学び、他のユーザーと共に優れた機能を活用する方法を学びます。
+優れたセグメントを作成したら、他のメンバーと共有しましょう。このビデオでは、自身や他のメンバーがそのセグメントのメリットを享受できるよう、セグメントを共有および管理するためのヒントをいくつか説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25402/?quality=12&learn=on)
 
-この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-manage.html?lang=en) を参照してください。
+この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-manage.html?lang=ja) を参照してください。
