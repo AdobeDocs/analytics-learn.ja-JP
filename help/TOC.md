@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: d97a15fbefd174cbd5345b1ff7fe28502de676d8
+source-git-commit: c08c284f9e69cb2e16266e54c42ea15307e946b5
 workflow-type: tm+mt
-source-wordcount: '2254'
+source-wordcount: '2268'
 ht-degree: 99%
 
 ---
@@ -214,6 +214,9 @@ ht-degree: 99%
 + Reports and Analytics {#reports-and-analytics}
    + [Reports and Analytics のリアルタイムレポート](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + 管理 {#administration}
+   + 主な管理者スキル {#key-admin-skills}
+      + [強力なコミュニティの作成](administration/key-admin-skills/empowered-community.md)
+      + [ユーザーのトレーニングに費やす時間を短縮し、シンプル化を実現](administration/key-admin-skills/simplify-training-users.md)
    + カンパニー設定 {#company-settings}
       + [電子メールドメイン制限の強制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [アカウントで利用可能な機能を表示する](administration/company-settings/view-your-accounts-available-features.md)
