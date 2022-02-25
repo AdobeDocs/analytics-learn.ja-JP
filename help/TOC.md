@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: c08c284f9e69cb2e16266e54c42ea15307e946b5
+source-git-commit: c9984b0e1081f3ac19d8c49bc01626a69cd77b55
 workflow-type: tm+mt
 source-wordcount: '2268'
 ht-degree: 99%
@@ -217,6 +217,7 @@ ht-degree: 99%
    + 主な管理者スキル {#key-admin-skills}
       + [強力なコミュニティの作成](administration/key-admin-skills/empowered-community.md)
       + [ユーザーのトレーニングに費やす時間を短縮し、シンプル化を実現](administration/key-admin-skills/simplify-training-users.md)
+      + [Analytics チームへの適切な人物の割り当て](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
    + カンパニー設定 {#company-settings}
       + [電子メールドメイン制限の強制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [アカウントで利用可能な機能を表示する](administration/company-settings/view-your-accounts-available-features.md)
@@ -243,7 +244,6 @@ ht-degree: 99%
       + [Analytics でのボットルールの設定](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + データガバナンスと GDPR {#data-governance-and-gdpr}
       + [Adobe Analytics のデータガバナンスと GDPR](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
-      + [Analytics チームへの適切なメンバーの割り当て](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
    + トラフィック管理 {#traffic-management}
       + [サーバーコールの使用状況](administration/traffic-management/server-call-usage.md)
       + [今後のトラフィックスパイクの管理](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
