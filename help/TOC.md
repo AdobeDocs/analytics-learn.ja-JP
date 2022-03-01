@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: c9984b0e1081f3ac19d8c49bc01626a69cd77b55
+source-git-commit: 55ab1f97bcc06c497c7f367a3d56bdd21763be45
 workflow-type: tm+mt
-source-wordcount: '2268'
+source-wordcount: '2271'
 ht-degree: 99%
 
 ---
@@ -233,9 +233,10 @@ ht-degree: 99%
       + [Reports &amp; Analytics のメニューのカスタマイズ](administration/manage-report-suites/customize-menus.md)
       + [処理ルールを使用した受信データの操作](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [トラフィック変数（prop）の設定](administration/manage-report-suites/configuring-traffic-variables-props.md)
-      + [トラフィック分類の設定](administration/manage-report-suites/configure-traffic-classifications.md)
+      + [トラフィック分類を設定](administration/manage-report-suites/configure-traffic-classifications.md)
+      + [階層変数の設定](administration/manage-report-suites/configure-hierarchy-variables.md)
       + [Admin Console での変数の設定](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
-      + [コンバージョン分類の設定](administration/manage-report-suites/configure-conversion-classifications.md)
+      + [コンバージョン分類を設定](administration/manage-report-suites/configure-conversion-classifications.md)
       + [リスト変数の設定](administration/manage-report-suites/configuring-list-variables.md)
       + [検索方法の設定](administration/manage-report-suites/configure-finding-methods.md)
       + [内部 URL フィルターの設定](administration/manage-report-suites/set-internal-url-filters.md)
