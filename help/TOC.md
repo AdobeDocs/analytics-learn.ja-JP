@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: 55ab1f97bcc06c497c7f367a3d56bdd21763be45
+source-git-commit: fe6f05a290666634db50e0b5053cf0ea99bcf1d5
 workflow-type: tm+mt
-source-wordcount: '2271'
-ht-degree: 99%
+source-wordcount: '2280'
+ht-degree: 98%
 
 ---
 
@@ -230,6 +230,8 @@ ht-degree: 99%
       + [一般的なアカウント設定方法](administration/manage-report-suites/configuring-general-account-settings.md)
       + [カレンダー設定のカスタマイズ](administration/manage-report-suites/customize-calendar-settings.md)
       + [有料検索検出の設定](administration/manage-report-suites/configure-paid-search-detection.md)
+      + [マーケティングチャネルの設定](administration/manage-report-suites/set-up-marketing-channels.md)
+      + [マーケティングチャネルの処理ルールの作成](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
       + [Reports &amp; Analytics のメニューのカスタマイズ](administration/manage-report-suites/customize-menus.md)
       + [処理ルールを使用した受信データの操作](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [トラフィック変数（prop）の設定](administration/manage-report-suites/configuring-traffic-variables-props.md)
