@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: fe6f05a290666634db50e0b5053cf0ea99bcf1d5
 workflow-type: tm+mt
 source-wordcount: '2280'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -215,7 +215,7 @@ ht-degree: 98%
    + [Reports and Analytics のリアルタイムレポート](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + 管理 {#administration}
    + 主な管理者スキル {#key-admin-skills}
-      + [強力なコミュニティの作成](administration/key-admin-skills/empowered-community.md)
+      + [権限を持つコミュニティの作成](administration/key-admin-skills/empowered-community.md)
       + [ユーザーのトレーニングに費やす時間を短縮し、シンプル化を実現](administration/key-admin-skills/simplify-training-users.md)
       + [Analytics チームへの適切な人物の割り当て](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
    + カンパニー設定 {#company-settings}
