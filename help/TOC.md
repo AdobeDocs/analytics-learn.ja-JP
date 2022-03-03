@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: fe6f05a290666634db50e0b5053cf0ea99bcf1d5
+source-git-commit: cbdee5b0a5968edfdc19cbcfaaebe63af270bd34
 workflow-type: tm+mt
-source-wordcount: '2280'
-ht-degree: 99%
+source-wordcount: '2288'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 99%
       + [Summit 2019 スーパーセッション - 旅行およびホスピタリティ分野](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Summit 2019 スーパーセッション - 小売分野](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Summit 2019 スーパーセッション - ハイテク分野](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+   + 他のプラットフォームからの移行 {#transitioning-from-other-platforms}
+      + [Google Analyticsからの移行](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics の基本事項 {#analytics-basics}
       + [Reports and Analytics の「ワークスペースで試す」ボタン](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [Analytics サイクルについて](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
