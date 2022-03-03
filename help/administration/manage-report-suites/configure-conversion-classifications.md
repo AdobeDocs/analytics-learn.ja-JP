@@ -1,6 +1,6 @@
 ---
-title: コンバージョン分類の設定
-description: このビデオでは、コンバージョン変数（多くの場合 eVar）の分類の設定について説明します。 これは、製品およびリスト変数にも当てはまります。
+title: コンバージョン分類を設定
+description: このビデオでは、コンバージョン変数（多くの場合 eVar）の分類の設定について説明します。これは、製品およびリスト変数にも適用されます。
 feature: Classifications
 topic: Administration
 role: Admin
@@ -8,18 +8,18 @@ level: Beginner
 doc-type: feature video
 thumbnail: 340078.jpg
 kt: 9576
-source-git-commit: d97a15fbefd174cbd5345b1ff7fe28502de676d8
-workflow-type: tm+mt
+exl-id: ae7760e6-5ec3-4e2a-a717-cf63b760bba0
+source-git-commit: 099b919c0c2060d727b65888644ed3ce3642e66f
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 21%
+ht-degree: 100%
 
 ---
 
+# コンバージョン分類を設定
 
-# コンバージョン分類の設定
-
-このビデオでは、「eVar」と呼ばれるコンバージョン変数の分類の設定について説明します。 これは、製品およびリスト変数にも当てはまります。
+このビデオでは、「eVar」と呼ばれるコンバージョン変数の分類の設定について説明します。これは、製品およびリスト変数にも適用されます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340078/?quality=12&learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/conversion-classifications.html?lang=ja)を参照してください。
+詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/conversion-classifications.html?lang=ja) を参照してください。
