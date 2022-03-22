@@ -7,13 +7,13 @@ level: Beginner
 doc-type: feature video
 thumbnail: 34749.jpg
 kt: 9830
-source-git-commit: 404ec61f8e1ad389f9d0f51d60ce5d9634b0a38c
+exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
+source-git-commit: de78868e07b0fa59a7babc092c463bbe4d8e2da7
 workflow-type: tm+mt
-source-wordcount: '3644'
+source-wordcount: '3690'
 ht-degree: 1%
 
 ---
-
 
 # Google AnalyticsからAdobe Analyticsへの移行に関する包括的なガイド
 
@@ -116,7 +116,7 @@ Adobeでは、セグメント（基本的にはデータのフィルター）が
 
 フリーフォームテーブルでは、必要に応じて、複数の列とセグメントを使用し、データを希望の方法で視覚化できます。
 
-上記の内訳を日付別に表示したくない場合は、 別のディメンションまたはセグメントをドラッグ&amp;ドロップして別の方法でデータを表示します。例えば、デバイスタイプにセグメントを使用し、モバイル/タブレットユーザーに OS で分類を追加します。
+上記の内訳を日付別に表示したくない場合は、 別のディメンションまたはセグメントをドラッグ&amp;ドロップして別の方法でデータを表示します。例えば、デバイスタイプにセグメントを使用し、Mobile/タブレットユーザーに OS で分類を追加します。
 
 ![image3](assets/ga-to-aa_4.png)
 
@@ -170,7 +170,7 @@ Adobe Analyticsには「レポート」セクションもありますが、大�
 
 サイトコンテンツは、次のAdobe標準ディメンションのグループです。ページ名、サイトセクション（チャネル）、階層（Web サイト内の組織のカスタムドリルダウンレポートを作成する方法）、サーバー（サイトに複数のサブドメインがある場合、または複数のサイトを 1 つのトラッキングスイートにタグ付けする場合に特に役立ちます）など。 これらはすべて、Workspace で使用できます。
 
-モバイルは、デバイス、デバイスタイプなど、モバイルデバイス固有のデータをグループ化したものです。 これらはすべて、Workspace で使用できます。
+Mobileは、デバイス、デバイスタイプなど、Mobileデバイス固有のデータのグループです。 これらはすべて、Workspace で使用できます。
 
 パスは、「Workspace ではまだ利用できません」項目の 1 つです。Workspace にはフロー図がありますが、単一のページ/値の入出力フローのみが表示されます。パスは、Web サイトで使用される最も一般的なパスを表示できます。 デフォルトでは、ページはユーザーに代わって設定される最初のパスレポートですが、カスタム prop（「ページタイプ」値を追跡する場合など）に対してこれをオンにすると、ページタイプ内のパスを確認できます。 私が個人的に気に入っているもう一つの点は、情報を簡単に表示する方法です…ワークスペースのフロー図（どの程度を見ようとしているかによって異なります）は圧倒される可能性があります。 両方を試してみることをお勧めします…それぞれが、何を達成しようとしているかに応じて、使用と価値を持っています。 フローでは任意のディメンションを使用できますが、パスは管理パネルの Prop で設定する必要があります。
 
@@ -268,20 +268,19 @@ AdobeとGoogleの両方が、このような方法で情報を取り込む機能
 
 このガイドの他にも、戦略の改善に役立つ様々なリソースを利用できます。
 
-* [Adobe Experience League](https://experienceleague.adobe.com/?lang=ja#home) （チュートリアル、ビデオ、ドキュメントおよびコミュニティフォーラムを含む）
-* [Adobeのユーザーグループ](https://analytics-augs.adobe.com/) （これは、ユーザーが相互に接続し、実装を改善するのに役立つコミュニティ実行イベントのハブです。特定のタイムゾーンに基づいているので、他の地域も実行しているかどうかを確認するのが最適です）。
-* YouTube Channel
-   * [Adobe Analytics User Groups](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA)
-* Slackチャネル
-   * [チャットを測定](https://www.measure.chat/)
-* その他の機能
+* [Adobe Experience League](https://experienceleague.adobe.com/?lang=ja#home)  — チュートリアル、ビデオ、ドキュメントおよびコミュニティフォーラムが含まれます
+* [Adobeのユーザーグループ](https://analytics-augs.adobe.com/)  — コミュニティ実行イベントのハブは、ユーザーが相互に接続し、実装を改善するのに役立ちます。イベントは特定のタイムゾーンに基づいているので、他の地域も実行しているかどうかを確認するのが最適です。
+* [Adobe AnalyticsユーザーグループYouTubeチャネル](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Adobe Analyticsユーザーグループをセッションできなかった場合は、 世界中で以前のユーザーグループセッションを再度視聴し、同業者がツールをどのように使用しているかを確認します。
+* [チャットSlackチャネルを測定](https://www.measure.chat/)  — 世界中のAdobe Analyticsユーザーとつながり、業界に関する知識を共有し、仲間に質問し、測定に焦点を当てた関心グループに参加します。
+* その他の機能!
 
 ## 作成者
 
 このドキュメントの作成者：
 
-![ジェニファードゥガン](assets/Jennifer_Dungan_Headshot150.png)
+![ジェニファーダンガン](assets/Jennifer_Dungan_Headshot150.png)
+
+Torstar の Optimization Manager Analytics 担当 Jennifer Dungan 氏
 
 Adobe Analyticsチャンピオン
 
-Torstar の Optimization Manager Analytics 担当 Jennifer Dugan 氏
