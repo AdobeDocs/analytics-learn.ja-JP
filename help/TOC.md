@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: cbdee5b0a5968edfdc19cbcfaaebe63af270bd34
+source-git-commit: d0ea66f585fbe2d4e54495ada024f8f39cdc8472
 workflow-type: tm+mt
-source-wordcount: '2288'
+source-wordcount: '2292'
 ht-degree: 98%
 
 ---
@@ -78,6 +78,7 @@ ht-degree: 98%
       + [目次の作成](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [右クリックで ワークスペースの効率性を確認](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [キーボードショートカット](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
+      + [Analysis Workspaceの注釈](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [メニューバー](analysis-workspace/navigating-workspace-projects/menu-bar.md)
       + [プロジェクト管理](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
       + [Analysis Workspace でのアクションの取り消し](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
