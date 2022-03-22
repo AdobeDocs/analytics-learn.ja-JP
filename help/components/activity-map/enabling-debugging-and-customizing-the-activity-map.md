@@ -2,16 +2,14 @@
 title: Adobe Analytics Activity Map の有効化、デバッグ、カスタマイズ
 description: Adobe Analytics 拡張機能で Activity Map をデプロイする方法の有効化、デバッグ、カスタマイズを説明します。
 feature: Activity Map
-topics: null
-activity: use
-doc-type: feature video
 team: Technical Marketing
+thumbnail: 25878.jpg
 kt: 1995
 role: User
 level: Beginner
 exl-id: 4160b974-fbdb-42e7-b77d-e1322db433b3
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+source-git-commit: d087d830c6ddf03eb5c620fa0a9484ff6c817e7f
+workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 100%
 
