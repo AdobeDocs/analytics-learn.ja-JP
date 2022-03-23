@@ -2,25 +2,24 @@
 title: Analysis Workspace での埋め込みコンポーネントの共有
 description: Analysis Workspace のプロジェクトを共有する際に、プロジェクトに含めたセグメントや指標を同僚と共有することを忘れてしまうことがあります。このビデオでは、プロジェクトを共有するプロセスでセグメントと指標を共有し、意図した内容が毎回同僚に表示されるようにする方法を説明します。
 feature: Curate and Share
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2295
+topic: Collaboration
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 341273.jpg
+kt: 2295
 exl-id: 14af33e2-659e-4d78-923f-20752e26067b
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
+source-git-commit: eb553f8a90a4f53329a1907e78d837fdb1d49f85
+workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
 
 ---
 
-# Analysis Workspace での埋め込みコンポーネントの共有 {#share-embedded-components-in-analysis-workspace}
+# Analysis Workspace での埋め込みコンポーネントの共有
 
-Analysis Workspace のプロジェクトを共有する際に、プロジェクトに含めた [!UICONTROL セグメント] や [!UICONTROL 指標] を同僚と共有することを忘れてしまうことがあります。 このビデオでは、プロジェクトを共有するプロセスで [!UICONTROL セグメント] と [!UICONTROL 指標] を共有し、意図した内容が毎回同僚に表示されるようにする方法を説明します。
+Analysis Workspace のプロジェクトを共有する際に、プロジェクトに含めたセグメントや指標を同僚と共有することを忘れてしまうことがあります。このビデオでは、プロジェクトを共有するプロセスでセグメントと指標を共有し、意図した内容が毎回同僚に表示されるようにする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24713/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/341273/?quality=12&learn=on)
 
 この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=ja) を参照してください。
