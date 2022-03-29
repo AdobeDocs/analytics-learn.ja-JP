@@ -8,18 +8,22 @@ level: Beginner
 doc-type: feature video
 thumbnail: 340792.jpg
 kt: 9624
-source-git-commit: fe6f05a290666634db50e0b5053cf0ea99bcf1d5
+exl-id: fc07dd0f-76dd-40a6-b8f2-e777eac2473b
+source-git-commit: 9836913129127648ffda01fec5b60240f5de5870
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 12%
+source-wordcount: '82'
+ht-degree: 19%
 
 ---
-
 
 # マーケティングチャネルの処理ルールの作成
 
 このビデオでは、マーケティングチャネルの処理ルールを設定する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340792/?quality=12&learn=on)
+
+>[!NOTE]
+>
+>Attribution IQとCustomer Journey Analyticsに対するマーケティングチャネルの効果を最大限に高めるため、 [改訂されたベストプラクティス](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=ja).
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-rules.html?lang=en) を参照してください。

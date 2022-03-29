@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: e434c7f884bbc98ce1c296848abe0f7d2179bb1b
+source-git-commit: 61bbee615d9b65029a7f33fe50908276132f9820
 workflow-type: tm+mt
-source-wordcount: '2286'
-ht-degree: 98%
+source-wordcount: '2294'
+ht-degree: 97%
 
 ---
 
@@ -343,6 +343,7 @@ ht-degree: 98%
    + Data Warehouse {#data-warehouse}
       + [Data Warehouse の概要](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [SFTP 経由での Data Warehouse リクエストの送信](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
+      + [Tableau のデータ抽出でのData Warehouseレポートの送信](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + データフィード {#data-feeds}
       + [データフィード管理 UI](exporting/data-feeds/data-feeds-management-ui.md)
       + [データフィード認証キーのダウンロード](exporting/data-feeds/download-the-data-feed-authentication-key.md)
