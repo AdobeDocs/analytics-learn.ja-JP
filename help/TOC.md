@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: 61bbee615d9b65029a7f33fe50908276132f9820
+source-git-commit: f9e9a8e194305d382c8090c212656d3019fb0a2b
 workflow-type: tm+mt
-source-wordcount: '2294'
+source-wordcount: '2299'
 ht-degree: 97%
 
 ---
@@ -151,6 +151,7 @@ ht-degree: 97%
       + [パネルレベルセグメント](analysis-workspace/using-panels/panel-level-segments.md)
       + [Analysis Workspace でのディメンションとしてのセグメントの使用](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Analysis Workspace でのセグメントを使用したデータの制限](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
+      + [Analysis Workspaceのクイックセグメント](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
    + 指標 {#metrics}
       + [基本的な訪問者指標について](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Analysis Workspace でのプロジェクトへのディメンションと指標の追加](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=ja)
@@ -234,12 +235,12 @@ ht-degree: 97%
       + [カレンダー設定のカスタマイズ](administration/manage-report-suites/customize-calendar-settings.md)
       + [有料検索検出の設定](administration/manage-report-suites/configure-paid-search-detection.md)
       + [マーケティングチャネルの設定](administration/manage-report-suites/set-up-marketing-channels.md)
-      + [マーケティングチャネルの処理ルールの作成](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
+      + [マーケティングチャネルの処理ルールを作成](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
       + [Reports &amp; Analytics のメニューのカスタマイズ](administration/manage-report-suites/customize-menus.md)
       + [処理ルールを使用した受信データの操作](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [トラフィック変数（prop）の設定](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [トラフィック分類を設定](administration/manage-report-suites/configure-traffic-classifications.md)
-      + [階層変数の設定](administration/manage-report-suites/configure-hierarchy-variables.md)
+      + [階層変数を設定](administration/manage-report-suites/configure-hierarchy-variables.md)
       + [Admin Console での変数の設定](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [コンバージョン分類を設定](administration/manage-report-suites/configure-conversion-classifications.md)
       + [リスト変数の設定](administration/manage-report-suites/configuring-list-variables.md)
