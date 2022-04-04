@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: f9e9a8e194305d382c8090c212656d3019fb0a2b
 workflow-type: tm+mt
 source-wordcount: '2299'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 97%
       + [Summit 2019 スーパーセッション - 小売分野](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Summit 2019 スーパーセッション - ハイテク分野](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + 他のプラットフォームからの移行 {#transitioning-from-other-platforms}
-      + [Google Analyticsからの移行](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
+      + [Google Analytics からの移行](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics の基本事項 {#analytics-basics}
       + [Reports and Analytics の「ワークスペースで試す」ボタン](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [Analytics サイクルについて](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
@@ -218,9 +218,9 @@ ht-degree: 97%
 + Reports and Analytics {#reports-and-analytics}
    + [Reports and Analytics のリアルタイムレポート](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + 管理 {#administration}
-   + 主な管理者スキル {#key-admin-skills}
+   + 主な管理スキル {#key-admin-skills}
       + [権限を持つコミュニティの作成](administration/key-admin-skills/empowered-community.md)
-      + [ユーザーのトレーニングに費やす時間を短縮し、シンプル化を実現](administration/key-admin-skills/simplify-training-users.md)
+      + [ユーザートレーニングを簡素化し時間を短縮](administration/key-admin-skills/simplify-training-users.md)
       + [Analytics チームへの適切な人物の割り当て](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
    + カンパニー設定 {#company-settings}
       + [電子メールドメイン制限の強制](administration/company-settings/enforce-email-domain-restrictions.md)
@@ -234,7 +234,7 @@ ht-degree: 97%
       + [一般的なアカウント設定方法](administration/manage-report-suites/configuring-general-account-settings.md)
       + [カレンダー設定のカスタマイズ](administration/manage-report-suites/customize-calendar-settings.md)
       + [有料検索検出の設定](administration/manage-report-suites/configure-paid-search-detection.md)
-      + [マーケティングチャネルの設定](administration/manage-report-suites/set-up-marketing-channels.md)
+      + [マーケティングチャネルを設定](administration/manage-report-suites/set-up-marketing-channels.md)
       + [マーケティングチャネルの処理ルールを作成](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
       + [Reports &amp; Analytics のメニューのカスタマイズ](administration/manage-report-suites/customize-menus.md)
       + [処理ルールを使用した受信データの操作](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
