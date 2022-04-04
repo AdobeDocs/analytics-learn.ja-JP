@@ -9,7 +9,7 @@ thumbnail: 338699.jpg
 kt: 9379
 exl-id: 100f33bb-9a2f-4181-835b-16537e02cd80
 source-git-commit: c9984b0e1081f3ac19d8c49bc01626a69cd77b55
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
 ht-degree: 100%
 
@@ -21,4 +21,5 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/338699/?quality=12&learn=on)
 
-詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-playback-time-spent.html?lang=ja) を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-playback-time-spent.html?lang=ja)を参照してください。
+
