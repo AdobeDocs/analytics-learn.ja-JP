@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: f9e9a8e194305d382c8090c212656d3019fb0a2b
+source-git-commit: 7caea7a0194180dd1d4489703adc0356d9564609
 workflow-type: tm+mt
-source-wordcount: '2299'
-ht-degree: 98%
+source-wordcount: '2321'
+ht-degree: 97%
 
 ---
 
@@ -222,6 +222,10 @@ ht-degree: 98%
       + [権限を持つコミュニティの作成](administration/key-admin-skills/empowered-community.md)
       + [ユーザートレーニングを簡素化し時間を短縮](administration/key-admin-skills/simplify-training-users.md)
       + [Analytics チームへの適切な人物の割り当て](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
+      + [テーブルに座る](administration/key-admin-skills/gaining-a-seat-at-the-table.md)
+      + [データを使用した効果的なストーリーの伝達](administration/key-admin-skills/telling-impactful-stories-with-data.md)
+      + [技術的でない方法でのAdobe Analyticsの技術言語の翻訳](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
+      + [機能をまたいだ作業](administration/key-admin-skills/working-cross-functionally.md)
    + カンパニー設定 {#company-settings}
       + [電子メールドメイン制限の強制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [アカウントで利用可能な機能を表示する](administration/company-settings/view-your-accounts-available-features.md)
