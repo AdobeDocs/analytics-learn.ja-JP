@@ -7,9 +7,9 @@ role: Admin
 level: Experienced
 thumbnail: 342361.jpg
 kt: 10272
-source-git-commit: 55c2a148ef766bc2b4d38c0d22490e9ae8c58d5c
+source-git-commit: b5cda911edf548886cc0aeb404a8289bcea4f454
 workflow-type: tm+mt
-source-wordcount: '1080'
+source-wordcount: '1082'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ An [!DNL Analytics] 管理者は、重要なデータを識別できますが、
 
 質問は、技術的または分析的なプロセス、会社の構造、またはデータ収集トピックの複雑さによって異なります。 組織全体に関する質問を持ち、組織全体に関する質問から始め、その組織の目標を支援するステークホルダーの役割など、より詳細なレベルについて話し合うと役に立つ場合が多いです。 その後、詳細なデータポイントが、組織の全体的な目標を効果的にサポートするようにできます。 また、データを創造的に考え、目標を支える新しいアイデアを提案する力も得られます。
 
-[このテンプレートを参照](assets/stakeholder-questionnaire.pdf) 関係者への聞き取り調査に関するいくつかのサンプルの質問が含まれています。 それらを再利用するか、調整して、ディスカッションに関する関連する質問を準備します。
+[このテンプレートを参照](assets/stakeholder-questionnaire.pdf)関係者への聞き取り調査に関するいくつかの質問を含む {target=&quot;_blank&quot;}。 それらを再利用するか、調整して、ディスカッションに関する関連する質問を準備します。
 
 ### 2.サンプルレポートのリクエスト
 
