@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: c127c940ee352cc4815c34551e74564b725c776d
+source-git-commit: 0c61d08819b6a6d2fa15f287b9f6d88b6f5ef246
 workflow-type: tm+mt
 source-wordcount: '2346'
 ht-degree: 96%
@@ -360,7 +360,7 @@ ht-degree: 96%
       + [Report Builder での異常値検出](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [すべてのリクエストにわたる指標の編集](exporting/report-builder/edit-metrics-across-requests.md)
       + [Report Builder を使用した Adobe Analytics API の学習](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
-      + [Report Builder の概要](exporting/report-builder/get-started-with-report-builder.md)
+      + [Report Builder](exporting/report-builder/get-started-with-report-builder.md)
       + [スケジュールのReport Builderリクエスト](exporting/report-builder/schedule-a-report-builder-request.md)
       + [Power BIにReport Builderのアドバンス配信オプションを使用](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + 統合 {#integrations}
