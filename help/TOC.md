@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: 0c61d08819b6a6d2fa15f287b9f6d88b6f5ef246
+source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
 workflow-type: tm+mt
-source-wordcount: '2346'
+source-wordcount: '2364'
 ht-degree: 96%
 
 ---
@@ -56,6 +56,8 @@ ht-degree: 96%
    + Analysis Workspace の基礎 {#analysis-workspace-basics}
       + [Analysis Workspace の紹介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace の概要](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
+      + [新しいランディングページのナビゲーション](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [Analysis Workspaceランディングページの更新](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [新しい Analysis Workspace プロジェクトの作成](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [ワークスペースプロジェクトを一から作成する](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Analysis Workspace でのカスタムテンプレートの作成と管理](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
@@ -95,6 +97,7 @@ ht-degree: 96%
       + [パネルを使用した Analysis Workspace プロジェクトの整理](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [セグメントドロップゾーンの改善](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Analysis Workspace の複数のレポートスイート](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
+      + [次/前/ページの概要 Workspace パネルとレポート](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + フリーフォームテーブルの作成 {#building-freeform-tables}
       + [データについて：フリーフォームテーブル](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [左側のレールを使用した Analysis Workspace のフリーフォームテーブルの作成](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
