@@ -1,17 +1,15 @@
 ---
 title: 'Report Builder での複数リクエストに対する Adobe Analytics セグメントの一括追加 '
 description: このビデオでは、Report Builder を使用してすべてのリクエストにセグメントを一度に追加し、時間と手間を節約する方法を説明します。
-feature: Report Builder
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2344
 role: User
 level: Intermediate
+feature: Report Builder
+doc-type: feature video
+thumbnail: 25445.jpg
+kt: 2344
 exl-id: db5b7623-d863-4ecd-9902-8b20f6aea257
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
+source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
 

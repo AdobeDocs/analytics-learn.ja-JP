@@ -1,23 +1,21 @@
 ---
-title: Report Builder での異常値検出
+title: 異常値検出のReport Builder
 description: データリクエストに異常値検出指標を追加する方法と、データをクリエイティブにグラフ化する方法を説明します。
 feature: Report Builder
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 1768
 role: User
 level: Intermediate
+doc-type: feature video
+thumbnail: 25444.jpg
+kt: 1768
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '106'
-ht-degree: 100%
+source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# [!UICONTROL Report Builder] での [!UICONTROL 異常値検出] {#anomaly-detection-in-report-builder}
+# [!UICONTROL 異常値検出] in [!UICONTROL Report Builder] {#anomaly-detection-in-report-builder}
 
 データリクエストに [!UICONTROL 異常値検出] [!UICONTROL 指標] を追加する方法と、データをクリエイティブにグラフ化する方法を説明します。
 

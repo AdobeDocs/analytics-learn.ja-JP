@@ -1,24 +1,22 @@
 ---
 title: Data Warehouse の概要
-description: Adobe Analytics の Data Warehouse リクエストツールを使用すると、生データをクエリするためのアクセスが可能になります。スケジュールに従ってダウンロードされる個々のレポートに対する 1 回のリクエストで、Data Warehouse が処理できる行数に制限はありません。このビデオでは、Data Warehouse レポートを作成するためのウォークスルーを含む、ツールの概要を説明します。
+description: Adobe Analyticsの Data Warehouse リクエストツールを使用すると、生データに対するクエリを実行できます。 Data Warehouse で処理できる行数は、個々の予定レポートとダウンロードされたレポートに対して 1 回のリクエストで無制限です。 このビデオでは、Data Warehouse レポートを作成するためのウォークスルーを含む、ツールの概要を説明します。
 feature: Data Warehouse
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2916
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: null
+kt: 2916
 exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 100%
+ht-degree: 15%
 
 ---
 
-# [!UICONTROL Data Warehouse] の概要 {#introduction-to-data-warehouse}
+# の概要 [!UICONTROL データウェアハウス] {#introduction-to-data-warehouse}
 
-Adobe Analytics の [!UICONTROL Data Warehouse] リクエストツールを使用すると、生データをクエリするためのアクセスが可能になります。スケジュールに従ってダウンロードされる個々のレポートに対する 1 回のリクエストで、[!UICONTROL Data Warehouse] が処理できる行数に制限はありません。このビデオは、[!UICONTROL Data Warehouse] レポートの作成手順を含む、ツールの概要です。
+この [!UICONTROL データウェアハウス] Adobe Analyticsのリクエストツールを使用すると、生データに対するクエリを実行できます。 [!UICONTROL Data warehouse] は、個々の予定レポートとダウンロードされたレポートに対して、1 回のリクエストで無制限の数の行を処理できます。 このビデオでは、ツールの概要を示し、 [!UICONTROL データウェアハウス] レポート。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12)
