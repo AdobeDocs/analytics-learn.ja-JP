@@ -5,10 +5,10 @@ feature: Data Warehouse
 role: User
 level: Beginner
 doc-type: feature video
-thumbnail: null
+thumbnail: 27306.jpg
 kt: 2916
 exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
-source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+source-git-commit: 036646c3343a7025f394d74f344b0f8780ebc7df
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 15%
