@@ -10,9 +10,9 @@ thumbnail: 340792.jpg
 kt: 9624
 exl-id: fc07dd0f-76dd-40a6-b8f2-e777eac2473b
 source-git-commit: 9836913129127648ffda01fec5b60240f5de5870
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -24,6 +24,6 @@ ht-degree: 76%
 
 >[!NOTE]
 >
->Attribution IQとCustomer Journey Analyticsに対するマーケティングチャネルの効果を最大限に高めるため、 [改訂されたベストプラクティス](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=ja).
+>Attribution IQ と Customer Journey Analytics に対するマーケティングチャネルの効果を最大限に高めるために、[改訂されたベストプラクティス](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=ja)を公開しました。
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-rules.html?lang=ja)を参照してください。
