@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
 workflow-type: tm+mt
 source-wordcount: '2364'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -80,7 +80,7 @@ ht-degree: 96%
       + [目次の作成](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [右クリックで ワークスペースの効率性を確認](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [キーボードショートカット](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
-      + [Analysis Workspaceの注釈](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
+      + [Analysis Workspace の注釈](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [メニューバー](analysis-workspace/navigating-workspace-projects/menu-bar.md)
       + [プロジェクト管理](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
       + [Analysis Workspace でのアクションの取り消し](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
@@ -154,7 +154,7 @@ ht-degree: 96%
       + [パネルレベルセグメント](analysis-workspace/using-panels/panel-level-segments.md)
       + [Analysis Workspace でのディメンションとしてのセグメントの使用](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Analysis Workspace でのセグメントを使用したデータの制限](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
-      + [Analysis Workspaceのクイックセグメント](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
+      + [Analysis Workspace のクイックセグメント](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
    + 指標 {#metrics}
       + [基本的な訪問者指標について](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Analysis Workspace でのプロジェクトへのディメンションと指標の追加](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=ja)
@@ -188,7 +188,7 @@ ht-degree: 96%
       + [Analysis Workspace でのキュレーションと共有](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [プロジェクトへの直接リンク](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [50,000 個の項目を CSV としてダウンロード](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [Analysis Workspaceから CSV およびPDFに書き出し](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
+      + [Analysis Workspace から CSV および PDF へのエクスポート](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [埋め込みコンポーネントの共有](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [プロジェクトのスケジュール設定とダウンロード](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Analysis Workspace でのプロジェクト共有](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
@@ -225,10 +225,10 @@ ht-degree: 96%
       + [権限を持つコミュニティの作成](administration/key-admin-skills/empowered-community.md)
       + [ユーザートレーニングを簡素化し時間を短縮](administration/key-admin-skills/simplify-training-users.md)
       + [Analytics チームへの適切な人物の割り当て](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
-      + [テーブルに座る](administration/key-admin-skills/gaining-a-seat-at-the-table.md)
-      + [データを使用した効果的なストーリーの伝達](administration/key-admin-skills/telling-impactful-stories-with-data.md)
-      + [技術的でない方法でのAdobe Analyticsの技術言語の翻訳](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
-      + [機能をまたいだ作業](administration/key-admin-skills/working-cross-functionally.md)
+      + [テーブルの席を確保する](administration/key-admin-skills/gaining-a-seat-at-the-table.md)
+      + [データを伴う影響力のあるストーリーの伝達](administration/key-admin-skills/telling-impactful-stories-with-data.md)
+      + [一般的な用語による Adobe Analytics 専門用語の翻訳](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
+      + [部門横断的な働き方](administration/key-admin-skills/working-cross-functionally.md)
       + [正しい質問をしてるの？](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + カンパニー設定 {#company-settings}
       + [電子メールドメイン制限の強制](administration/company-settings/enforce-email-domain-restrictions.md)
@@ -352,7 +352,7 @@ ht-degree: 96%
    + Data Warehouse {#data-warehouse}
       + [Data Warehouse の概要](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [SFTP 経由での Data Warehouse リクエストの送信](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
-      + [Tableau のデータ抽出でのData Warehouseレポートの送信](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
+      + [Tableau Data Extract での Data Warehouse レポートの送信](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + データフィード {#data-feeds}
       + [データフィード管理 UI](exporting/data-feeds/data-feeds-management-ui.md)
       + [データフィード認証キーのダウンロード](exporting/data-feeds/download-the-data-feed-authentication-key.md)
