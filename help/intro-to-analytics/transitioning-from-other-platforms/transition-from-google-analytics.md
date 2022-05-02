@@ -9,9 +9,9 @@ thumbnail: 34749.jpg
 kt: 9830
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
 source-git-commit: de78868e07b0fa59a7babc092c463bbe4d8e2da7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3690'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -268,19 +268,19 @@ API は、プルリクエストで指定されているように、分類とセ�
 
 このガイド以外にも、戦略の改善に役立つリソースが多くあります。
 
-* [Adobe Experience League](https://experienceleague.adobe.com/?lang=ja#home)  — チュートリアル、ビデオ、ドキュメントおよびコミュニティフォーラムが含まれます
-* [Adobeのユーザーグループ](https://analytics-augs.adobe.com/)  — コミュニティ実行イベントのハブは、ユーザーが相互に接続し、実装を改善するのに役立ちます。イベントは特定のタイムゾーンに基づいているので、他の地域も実行しているかどうかを確認するのが最適です。
-* [Adobe AnalyticsユーザーグループYouTubeチャネル](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Adobe Analyticsユーザーグループをセッションできなかった場合は、 世界中で以前のユーザーグループセッションを再度視聴し、同業者がツールをどのように使用しているかを確認します。
-* [チャットSlackチャネルを測定](https://www.measure.chat/)  — 世界中のAdobe Analyticsユーザーとつながり、業界に関する知識を共有し、仲間に質問し、測定に焦点を当てた関心グループに参加します。
-* その他の機能!
+* [Adobe Experience League](https://experienceleague.adobe.com/?lang=ja#home) - チュートリアル、ビデオ、ドキュメントおよびコミュニティフォーラムが含まれています
+* [アドビユーザーグループ](https://analytics-augs.adobe.com/) - ユーザーが相互につながって実装を改善するのに役立つコミュニティ実行イベントのハブです。これらは特定のタイムゾーンに基づいているので、他のどのリージョンが実行されているかを確認するのにも適しています。
+* [Adobe Analytics ユーザーグループ YouTube チャンネル](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Adobe Analytics ユーザーグループのセッションに参加できなかった場合は、世界中の過去のユーザーグループセッションを再視聴して、同業者がどのようにツールを使用しているかを知ることができます。
+* [Measure Chat Slack チャンネル](https://www.measure.chat/) - 世界中の Adobe Analytics ユーザーとつながって、業界の学びを共有したり、同業者に質問したり、測定に焦点を当てたインタレストグループに参加したりできます。
+* その他
 
 ## 作成者
 
 このドキュメントの作成者：
 
-![ジェニファーダンガン](assets/Jennifer_Dungan_Headshot150.png)
+![Jennifer Dungan](assets/Jennifer_Dungan_Headshot150.png)
 
-Torstar の Optimization Manager Analytics 担当 Jennifer Dungan 氏
+Jennifer Dungan（Torstar 社 Optimization Manager Analytics）
 
 Adobe Analytics Champion
 
