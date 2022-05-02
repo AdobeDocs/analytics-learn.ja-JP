@@ -1,6 +1,6 @@
 ---
-title: Tableau のデータ抽出でのData Warehouseレポートの送信
-description: 'Data Warehouseは、Tableau Data Extract(TDE) ファイル形式でレポートを配信できます。この形式では、Adobe Analytics外部のデータを民主化し、組み合わせることができます。 '
+title: Tableau Data Extract での Data Warehouse レポートの送信
+description: Data Warehouse では、Adobe Analytics 以外からのデータを民主化したり組み合わせたりすることが可能な Tableau Data Extract（TDE）ファイル形式でレポートを配信できます。
 feature: Data Warehouse
 topic: Collaboration
 role: User
@@ -8,17 +8,18 @@ level: Beginner
 doc-type: feature video
 thumbnail: 341449.jpg
 kt: 9860
-source-git-commit: 61bbee615d9b65029a7f33fe50908276132f9820
-workflow-type: tm+mt
+exl-id: ebe9e66f-30a3-40b8-bd29-1572620a4fdb
+source-git-commit: 3cecbbde6edfc94fcd7968a27bd372f740101b9a
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
-# Tableau のデータ抽出でのData Warehouseレポートの送信
+# Tableau Data Extract での Data Warehouse レポートの送信
 
-Data Warehouseは、Tableau Data Extract(TDE) ファイル形式でレポートを配信できます。この形式では、Adobe Analytics外部のデータを民主化し、組み合わせることができます。
+Data Warehouse では、Adobe Analytics 以外からのデータを民主化したり組み合わせたりすることが可能な Tableau Data Extract（TDE）ファイル形式でレポートを配信できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
 
-この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/t-tableau.html?lang=en) を参照してください。
+この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/t-tableau.html?lang=ja)を参照してください。
