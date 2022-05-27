@@ -1,45 +1,44 @@
 ---
 title: Analytics ビデオおよびチュートリアル
-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
+description: 'Adobe Analyticsを最大限に活用  これらのチュートリアルを使用して Analytics の機能を習得し、ビジネスにとってのメリットを享受できます。 このコンテンツは、管理者、データアナリスト、マーケター、開発者およびアーキテクトに適しています。 '
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: overview
-team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
+doc-type: overview
+thumbnail: null
+kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: c6cb1238e3e2da656976154445992e34bfa011ae
-workflow-type: ht
-source-wordcount: '292'
-ht-degree: 100%
+source-git-commit: e66ac6397db58e403cb2bc10cb6a2af2eb7b1081
+workflow-type: tm+mt
+source-wordcount: '345'
+ht-degree: 39%
 
 ---
 
-# 概要
 
-[!DNL Analytics] チュートリアルサイトへようこそ。  これらのチュートリアルを[ドキュメント](https://experienceleague.adobe.com/docs/analytics.html?lang=ja)と併用すると、Adobe Analytics を使用して顧客インサイトをかつてないほど早く得る方法をより深く理解できます。  開始するには、Dynamic Tag Management アカウントで
-* 最新の製品については、以下の **新機能** の節を参照してください。
+
+# Analytics チュートリアル
+
+最大限に活用する [!DNL Adobe Analytics].  これらのチュートリアルを使用して Analytics の機能を習得し、ビジネスにとってのメリットを享受できます。 このコンテンツは、管理者、データアナリスト、マーケター、開発者およびアーキテクトに適しています。
+
+開始するには、Dynamic Tag Management アカウントで
+* 詳しくは、 **新機能** 以下の節で、最新の更新および機能について説明します。
 * **スタッフのおすすめ**&#x200B;ではお気に入りのコンテンツをいくつか紹介します。
 * **左側のナビゲーション**&#x200B;でトピックとサブトピック別のコンテンツをご覧ください。
-* 検索対象がわかっている場合は、ページ上部の「**検索**」フィールドを使用します。
+* 以下を使用： **検索** フィールド（学習したい情報がわかっている場合）
+
+役割別およびスキルレベル別のキュレーションされた学習体験も、コースセクションで提供されています。 Adobe IDでサインインし、に移動します。 **学習/推奨コース** 」をクリックします。
 
 ## 最新情報
 
-* **[右クリックでワークスペースの効率性（ビデオ）を参照](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
+* **[Adobe Analyticsモバイルスコアカードビルダー（ビデオ）](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)**
+   *で作成したモバイルスコアカードを作成および共有する方法について説明します。 [!DNL Analysis Workspace] エグゼクティブユーザー向け*
 
-   <br>
-   *当社お気に入りの Analysis Workspace 右クリックとその使い方をご紹介します。[!UICONTROL フリーフォームテーブル]から[!UICONTROL フォールアウトビジュアライゼーション]に至るまで、右クリックで、[!DNL Workspace].* における効率性と熟練度が向上します。
+* **[Adobe Analytics mobile scorecard アプリ](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
+   *モバイルスコアカードアプリケーションをダウンロードし、 [!DNL Analysis Workspace].*
 
-* **[Analysis Workspace のクイックインサイトパネル（ビデオ）](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)**
-
-   <br>
-   *クイックインサイトは、Analysis Workspace のアナリスト以外のユーザーと新規ユーザーに対して、ビジネスの質問にすばやく簡単に答える方法を学ぶためのガイダンスを提供します。*
-
-* **[Analysis Workspace でのプロジェクト共有（ビデオ）](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)**
-
-   <br>
-   *プロジェクトの共有は、Analysis Workspace から組織のユーザーに至るデータや洞察を民主化する 1 つの方法です。受信者を、使用するプロジェクトエクスペリエンスに応じて、編集、複製、表示の 3 つのプロジェクトの役割のいずれかに受信者を配置できます。*
+* **[ワークスペース内の注釈（ビデオ）](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
+   *の注釈を使用すると、組織全体のユーザーに対して、コンテキストデータのニュアンスやインサイトを効果的に伝えることができます。[!DNL Analysis Workspace]既知のデータの問題、祝日、キャンペーンの起動などを使用して日付や日付範囲に注釈を付け、折れ線グラフ、テーブルなどに表示される内容がなぜユーザーに表示されるかを知らせます。*
 
 ## スタッフのおすすめ
 
@@ -86,3 +85,7 @@ ht-degree: 100%
   </td>
 </tr>
 </table>
+
+## その他のリソース
+
+[Adobe Analytics ドキュメント](https://experienceleague.adobe.com/docs/analytics.html?lang=ja)
