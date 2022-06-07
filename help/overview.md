@@ -10,8 +10,8 @@ kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: e66ac6397db58e403cb2bc10cb6a2af2eb7b1081
 workflow-type: tm+mt
-source-wordcount: '345'
-ht-degree: 39%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -59,11 +59,11 @@ ht-degree: 39%
   </td>
    <td>
     <a href="analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md">
-      <img alt="Analysis Workspaceのトレーニングチュートリアルテンプレート" src="assets/33773.jpg" />
+      <img alt="Analysis Workspace のトレーニングチュートリアルテンプレート" src="assets/33773.jpg" />
     </a>
     <div>
       <a href="analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md">
-    <strong>Analysis Workspaceのトレーニングチュートリアルテンプレート</strong>
+    <strong>Analysis Workspace のトレーニングチュートリアルテンプレート</strong>
     </a>
     </div>
     <p>

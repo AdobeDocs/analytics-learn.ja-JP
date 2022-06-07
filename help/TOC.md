@@ -5,8 +5,8 @@ breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 source-git-commit: 3b5c8dae86d714a2735a9e9516ae02f9843abd58
 workflow-type: tm+mt
-source-wordcount: '2365'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 98%
    + 他のプラットフォームからの移行 {#transitioning-from-other-platforms}
       + [Google Analytics からの移行](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics の基本事項 {#analytics-basics}
-      + [Reports and Analytics の「ワークスペースで試す」ボタン](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
+      + [Reports and Analytics の「Workspace で試す」ボタン](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [Analytics サイクルについて](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [Analytics データの収集方法](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Adobe Analytics へのログイン](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
@@ -53,13 +53,13 @@ ht-degree: 98%
       + [製品内サポートチケットの送信](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
       + [Adobe Analytics でのヘルプの入手](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
-   + Analysis Workspace の基礎 {#analysis-workspace-basics}
+   + Analysis Workspace の基本 {#analysis-workspace-basics}
       + [Analysis Workspace の紹介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace の概要](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
-      + [新しいランディングページのナビゲーション](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
-      + [Analysis Workspaceランディングページの更新](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
+      + [新しいランディングページのナビゲート](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [Analysis Workspace ランディングページの更新](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [新しい Analysis Workspace プロジェクトの作成](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
-      + [ワークスペースプロジェクトを一から作成する](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
+      + [Workspace プロジェクトを一から作成する](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Analysis Workspace でのカスタムテンプレートの作成と管理](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Analysis Workspace の標準テンプレート](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
       + [カスタムテンプレートを使用した Analysis Workspace 初級ユーザーの支援](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
@@ -75,10 +75,10 @@ ht-degree: 98%
       + [Adobe Analytics のラーニングジャーニーを継続するためのお客様向けヒント](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + ワークスペースプロジェクトのナビゲーション {#navigating-workspace-projects}
       + [Analysis Workspace での初めてのプロジェクトの開始](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
-      + [Analysis Workspaceのトレーニングチュートリアルテンプレート](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
+      + [Analysis Workspace のトレーニングチュートリアルテンプレート](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Analysis Workspace でのコピーと挿入](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [目次の作成](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
-      + [右クリックで ワークスペースの効率性を確認](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
+      + [右クリックで Workspace の効率性を確認](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [キーボードショートカット](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [Analysis Workspace の注釈](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [メニューバー](analysis-workspace/navigating-workspace-projects/menu-bar.md)
@@ -97,7 +97,7 @@ ht-degree: 98%
       + [パネルを使用した Analysis Workspace プロジェクトの整理](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [セグメントドロップゾーンの改善](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Analysis Workspace の複数のレポートスイート](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
-      + [次/前/ページの概要 Workspace パネルとレポート](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
+      + [次／前およびページの概要ワークスペースパネルとレポート](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + フリーフォームテーブルの作成 {#building-freeform-tables}
       + [データについて：フリーフォームテーブル](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [左側のレールを使用した Analysis Workspace のフリーフォームテーブルの作成](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
@@ -184,7 +184,7 @@ ht-degree: 98%
       + [フロービジュアライゼーションの詳細](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
       + [テキストの折り返しと複数ディメンションのフロー](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + プロジェクトのキュレーションと共有 {#curate-and-share-projects}
-      + [Analysis Workspace のプロジェクトを保存、共有、共同作業](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
+      + [Analysis Workspace でのプロジェクトの保存、共有、共同作業](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Analysis Workspace でのキュレーションと共有](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [プロジェクトへの直接リンク](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [50,000 個の項目を CSV としてダウンロード](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
@@ -229,7 +229,7 @@ ht-degree: 98%
       + [データを伴う影響力のあるストーリーの伝達](administration/key-admin-skills/telling-impactful-stories-with-data.md)
       + [一般的な用語による Adobe Analytics 専門用語の翻訳](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [部門横断的な働き方](administration/key-admin-skills/working-cross-functionally.md)
-      + [正しい質問をしてるの？](administration/key-admin-skills/are-you-asking-the-right-questions.md)
+      + [正しい質問をしていますか？](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + カンパニー設定 {#company-settings}
       + [電子メールドメイン制限の強制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [アカウントで利用可能な機能を表示する](administration/company-settings/view-your-accounts-available-features.md)
@@ -363,9 +363,9 @@ ht-degree: 98%
       + [Report Builder での異常値検出](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [すべてのリクエストにわたる指標の編集](exporting/report-builder/edit-metrics-across-requests.md)
       + [Report Builder を使用した Adobe Analytics API の学習](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
-      + [Report Builder](exporting/report-builder/get-started-with-report-builder.md)
-      + [スケジュールのReport Builderリクエスト](exporting/report-builder/schedule-a-report-builder-request.md)
-      + [Power BIにReport Builderのアドバンス配信オプションを使用](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
+      + [Report Builder の概要](exporting/report-builder/get-started-with-report-builder.md)
+      + [Report Builder リクエストのスケジュール設定](exporting/report-builder/schedule-a-report-builder-request.md)
+      + [Power BI に Report Builder のアドバンス配信オプションを使用](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + 統合 {#integrations}
    + Experience Cloud {#experience-cloud}
       + [Experience Cloud オーディエンスパブリッシングの改善](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
