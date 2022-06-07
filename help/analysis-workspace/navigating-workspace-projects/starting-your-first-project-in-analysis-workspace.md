@@ -23,4 +23,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12)
 
-詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=ja) を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=ja) を参照してください。
