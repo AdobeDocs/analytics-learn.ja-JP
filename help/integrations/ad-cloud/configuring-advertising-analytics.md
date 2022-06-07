@@ -26,4 +26,4 @@ ht-degree: 100%
 
 ## その他のリソース {#additional-resources}
 
-詳しくは、 [機能ドキュメント](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/overview.html?lang=ja) を参照してください。
+詳しくは、[機能ドキュメント](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/overview.html?lang=ja) を参照してください。
