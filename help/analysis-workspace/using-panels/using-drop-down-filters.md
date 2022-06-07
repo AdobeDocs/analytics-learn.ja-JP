@@ -28,4 +28,4 @@ ht-degree: 100%
 
 ドロップダウンは、プロジェクトとパネルを統合する場合にも便利です。 例えば、国別のレポートを提供するプロジェクトのバージョンが複数ある場合、それらのプロジェクトを 1 つのプロジェクトにまとめ、ユーザーが国を切り替えることができるドロップダウンを追加できるようになりました。
 
-詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=ja) を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=ja) を参照してください。
