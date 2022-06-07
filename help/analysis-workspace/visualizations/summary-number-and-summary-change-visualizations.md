@@ -1,6 +1,6 @@
 ---
-title: Analysis Workspaceの数の概要および変更概要ビジュアライゼーション
-description: このビデオでは、Analyst Workspaceでの数の概要ビジュアライゼーションと変更の概要ビジュアライゼーションの使用方法を示します。
+title: Analysis Workspace の数値概要および変更概要のビジュアライゼーション
+description: このビデオでは、Analysis Workspace での数値概要および変更概要のビジュアライゼーションを使用する方法について説明します。
 feature: Visualizations
 topics: null
 activity: use
@@ -11,16 +11,16 @@ role: User
 level: Beginner
 exl-id: 82ded2b3-b032-40fe-8288-a759fd533d68
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Analysis Workspaceの] 数値の概 [!UICONTROL 要と変]  更概要ビジュアライゼーション {#summary-number-and-summary-change-visualizations-in-analysis-workspace}
+# Analysis Workspace の[!UICONTROL 数値概要]および[!UICONTROL 変更概要]の[!UICONTROL ビジュアライゼーション] {#summary-number-and-summary-change-visualizations-in-analysis-workspace}
 
-このビデオでは、Analyst Workspaceで[!UICONTROL 概要番号]と[!UICONTROL 変更概要] [!UICONTROL ビジュアライゼーション]を使用する方法を示します。
+このビデオでは、Analysis Workspace の[!UICONTROL 数値概要]および[!UICONTROL 変更概要]の[!UICONTROL ビジュアライゼーション]を使用する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23992/?quality=12)
 
-この機能の詳細については、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/summary-number-change.html?lang=en)を参照してください。
+この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/summary-number-change.html?lang=ja)を参照してください。
