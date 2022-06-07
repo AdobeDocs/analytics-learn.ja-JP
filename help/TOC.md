@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: 3b5c8dae86d714a2735a9e9516ae02f9843abd58
+source-git-commit: f96f1412447c175b6e963176af11af2a82a706e6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2392'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,10 @@ ht-degree: 0%
       + [Summit 2019 スーパーセッション - 旅行およびホスピタリティ分野](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Summit 2019 スーパーセッション - 小売分野](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Summit 2019 スーパーセッション - ハイテク分野](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+   + 戦略と思考のリーダーシップ{#strategy}
+      + [第 1 部 — 効率を高めるためのシンプルなハック](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
+      + [第 2 部 — 効率を高めるためのシンプルなハック](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
+      + [Adobe Analyticsの Virtual Analyst と Segment IQ を使用して顧客インテリジェンスを習得する](strategy/customer-intelligence-with-virtual-analyst.md)
    + 他のプラットフォームからの移行 {#transitioning-from-other-platforms}
       + [Google Analytics からの移行](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics の基本事項 {#analytics-basics}
@@ -442,3 +446,4 @@ ht-degree: 0%
 + [Analytics 大学向けカリキュラム](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
 + [ビジネスユーザー向け Analytics 入門は廃止されました](retired-courses/retire-fundamentals-for-business-users-course.md)
+
