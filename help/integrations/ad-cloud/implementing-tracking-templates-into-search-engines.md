@@ -26,4 +26,4 @@ ht-degree: 100%
 
 ## その他のリソース {#additional-resources}
 
-* [Adobe Analytics での [!DNL Advertising Analytics]  の設定](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/configuring-advertising-analytics.html?lang=ja)
+* [Adobe Analytics での  [!DNL Advertising Analytics]  の設定](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/configuring-advertising-analytics.html?lang=ja)
