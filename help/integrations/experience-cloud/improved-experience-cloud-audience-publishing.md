@@ -1,7 +1,7 @@
 ---
 title: Experience Cloud のオーディエンス公開機能の改善
 landing-page-description: 公開オーディエンス（セグメント）について学習し、かつてないほどに短時間で利用できるようにします。
-description: Experience Cloud のオーディエンス公開機能が改善されました。オーディエンス（セグメント）を 6 倍の速さで公開して利用できるようになり、現在の待ち時間が 48 時間から約 8 時間に短縮されました。また、トラフィックやセグメントサイズによってはさらに高速になります。
+description: Experience Cloud のオーディエンス公開機能が改善されました。オーディエンス（セグメント）を 6 倍の速さで公開して利用できるようになり、現在は待ち時間が 48 時間から約 8 時間に短縮されました。トラフィックや セグメント サイズによってはさらに高速になります。
 feature: Experience Cloud Integration
 topics: null
 activity: setup
