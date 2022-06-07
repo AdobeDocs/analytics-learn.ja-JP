@@ -1,5 +1,5 @@
 ---
-title: 複数のリクエストにわたる指標の編集 (Report Builder)
+title: Report Builder でリクエスト全体の指標を編集
 description: 追加、置換、削除のオプションを使用して、複数の Report Builder データリクエストの指標を一度に編集できるようになりました。
 feature: Report Builder
 role: User
@@ -9,13 +9,13 @@ thumbnail: 23547.jpg
 kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
 source-git-commit: 4c6120752763383727ddec5e9bbc8e391bfec4d9
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '108'
+ht-degree: 100%
 
 ---
 
-# 編集 [!UICONTROL 指標] 次の要求に対して： [!UICONTROL Report Builder] {#edit-metrics-across-requests-in-report-builder}
+# [!UICONTROL Report Builder] でリクエスト全体の[!UICONTROL 指標]を編集 {#edit-metrics-across-requests-in-report-builder}
 
 追加、置換、削除のオプションを使用して、複数の [!UICONTROL Report Builder] データリクエストの [!UICONTROL 指標] を一度に編集できるようになりました。
 
