@@ -24,6 +24,6 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/330176/?quality=12&learn=on)
 
-詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=ja#analysis-workspace) を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=ja#analysis-workspace) を参照してください。
 
-移動平均を書き出す場合や、多数の平均を一度にテーブルに追加する場合は、代わりに計算指標を作成できます。詳しくは、 [このビデオ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.html?lang=ja#analysis-workspace) を参照してください。
+移動平均を書き出す場合や、多数の平均を一度にテーブルに追加する場合は、代わりに計算指標を作成できます。詳しくは、[このビデオ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.html?lang=ja#analysis-workspace) を参照してください。
