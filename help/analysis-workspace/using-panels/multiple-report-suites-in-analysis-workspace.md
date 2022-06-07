@@ -29,4 +29,4 @@ ht-degree: 100%
 
 複数の [!UICONTROL レポートスイート] のデータを組み合わせてテーブル、 [!UICONTROL セグメント]、 または [!UICONTROL 計算指標] （合計、分割など）にすることはできません。総合的なデータアプローチのベストプラクティスは、引き続きすべてのヒットを「グローバルスイート」に送信することです。
 
-詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html?lang=ja) を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html?lang=ja) を参照してください。
