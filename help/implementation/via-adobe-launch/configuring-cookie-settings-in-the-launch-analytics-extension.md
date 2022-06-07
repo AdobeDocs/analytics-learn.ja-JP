@@ -1,6 +1,6 @@
 ---
 title: Launch Analytics 拡張機能での cookie の設定
-description: アドビによる Launch、および Adobe Analytics 拡張機能を使い始めたばかりのユーザーは、このビデオを視聴すると、Analytics 拡張機能で cookie を設定するかどうかとその方法を理解するのに役立ちます。
+description: Adobe Experience Platform Launch および Adobe Analytics 拡張機能を使い始めたばかりのユーザーは、このビデオを視聴すると、Analytics 拡張機能で cookie を設定するかどうかとその方法を理解するのに役立ちます。
 feature: Launch Implementation
 topics: null
 activity: implement
