@@ -22,4 +22,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/338699/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-playback-time-spent.html?lang=ja)を参照してください。
-
