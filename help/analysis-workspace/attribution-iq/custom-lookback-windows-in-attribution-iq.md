@@ -24,4 +24,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/36204/?quality=12&learn=on)
 
-詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=ja#lookback-windows) を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=ja#lookback-windows) を参照してください。
