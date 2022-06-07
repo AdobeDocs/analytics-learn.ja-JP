@@ -1,6 +1,6 @@
 ---
 title: Launch Analytics 拡張機能での一般設定の指定
-description: アドビによる Launch および Adobe Analytics 拡張機能を使い始めたばかりの場合、このビデオは、トラッキングサーバーの設定など、設定の一般設定部分に役立ちます。
+description: Adobe Experience Platform Launch および Adobe Analytics 拡張機能を使い始めたばかりのユーザーは、このビデオを視聴すると、トラッキングサーバーの設定など、設定の一般設定部分を行うのに役立ちます。
 feature: Launch Implementation
 topics: null
 activity: implement
