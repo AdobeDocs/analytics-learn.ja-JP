@@ -19,7 +19,7 @@ ht-degree: 100%
 
 # Analysis Workspace での [!UICONTROL オーディオ消費] テンプレートの使用 {#using-the-audio-consumption-template-in-analysis-workspace}
 
-このビデオでは、[!DNL Audio Analytics] に標準搭載され、すぐに利用できる Analytics Workspace の [!UICONTROL オーディオ消費] テンプレートの概要を説明します。
+このビデオでは、[!DNL Audio Analytics] に標準搭載され、すぐに利用できる Analysis Workspace の [!UICONTROL オーディオ消費] テンプレートの概要を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23901/?quality=12)
 
