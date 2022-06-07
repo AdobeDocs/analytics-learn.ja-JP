@@ -1,5 +1,5 @@
 ---
-title: Analysis Workspace のクイックインサイトパネル
+title: Analysis Workspace の Quick Insights パネル
 description: クイックインサイトは、Analysis Workspace のアナリスト以外のユーザーや新規ユーザーに対して、ビジネス上の質問に手軽に回答する方法を学ぶためのガイダンスを提供します。
 feature: Panels
 topics: null
@@ -24,4 +24,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/37248/?quality=12&learn=on)
 
-詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=ja) を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=ja) を参照してください。
