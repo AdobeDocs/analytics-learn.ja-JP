@@ -25,4 +25,4 @@ ht-degree: 100%
 
 5 つの OOTB パレットと、独自のカラー文字列を指定する機能を用意しています。カラーは、[!UICONTROL Analysis Workspace] のすべてのカテゴリのビジュアライゼーションに影響します。除外される [!UICONTROL ビジュアライゼーション] は、[!UICONTROL 変更概要]、[!UICONTROL フリーフォームテーブル] の条件付き書式、 [!UICONTROL フロー] の入口／出口、 [!UICONTROL マップ] のみです。
 
-詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/color-palettes.html?lang=ja) を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/color-palettes.html?lang=ja) を参照してください。
