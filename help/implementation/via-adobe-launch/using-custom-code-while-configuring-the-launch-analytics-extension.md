@@ -1,6 +1,6 @@
 ---
 title: ' Analytics Launch 拡張機能の設定時のカスタムコードの使用'
-description: アドビによる Launchおよび Adobe Analytics 拡張機能を使い始めたばかりの場合、このビデオは、カスタムコードウィンドウオプション、コード実行のタイミングなどを理解するのに役立ちます。
+description: Adobe Experience Platform Launch および Adobe Analytics 拡張機能を使い始めたばかりのユーザーは、このビデオを視聴すると、カスタムコードウィンドウオプション、コード実行のタイミングなどを理解するのに役立ちます。
 feature: Launch Implementation
 topics: null
 activity: implement
