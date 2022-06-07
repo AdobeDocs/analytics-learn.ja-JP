@@ -23,4 +23,4 @@ ht-degree: 100%
 
 素晴らしい機能だと思いませんか？:)
 
-詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=ja) を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=ja) を参照してください。
