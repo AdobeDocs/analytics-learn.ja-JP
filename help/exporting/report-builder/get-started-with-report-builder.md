@@ -1,24 +1,24 @@
 ---
-title: Report Builder
-description: インストール、ログイン、Report Builderリクエストなど、データの使用に関する基本について説明します。
+title: Report Builder の概要
+description: インストール、ログイン、データリクエストなど、Report Builder の使用に関する基本について説明します。
 feature: Report Builder
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 342373.jpg
 kt: 9872
-source-git-commit: 73dfeab6c698d2637e54d9b7e0a280d51e155e7e
-workflow-type: tm+mt
+exl-id: d7b81d6d-1b8a-4796-ae13-3359d5949457
+source-git-commit: fd823be4eb59136ceec1f583bb7bbc405dd1f3ea
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 42%
+ht-degree: 100%
 
 ---
 
-
 # [!DNL Report Builder] の基本を学ぶ
 
-の基本を学ぶ [!DNL Report Builder]（インストール、ログイン、データ要求を含む）。
+インストール、ログイン、データ要求など、[!DNL Report Builder] の使用に関する基本について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342373/?quality=12&learn=on)
 
-この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=ja) を参照してください。
+この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=ja)を参照してください。
