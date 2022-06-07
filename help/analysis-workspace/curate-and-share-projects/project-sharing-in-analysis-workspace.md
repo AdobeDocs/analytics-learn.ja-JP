@@ -1,6 +1,6 @@
 ---
 title: Analysis Workspace でのプロジェクト共有
-description: プロジェクトの共有は、Analysis Workspace から組織のユーザーに至るデータや洞察を民主化する 1 つの方法です。プロジェクトエクスペリエンスに応じて、編集、複製、表示の 3 つのプロジェクトの役割のいずれかを受信者に割り当てることができます。
+description: プロジェクトの共有は、Analysis Workspace のデータやインサイトを、組織のユーザーが使えるよう民主化する方法の一つです。プロジェクトエクスペリエンスに応じて、編集、複製、表示の 3 つのプロジェクトの役割のいずれかを受信者に割り当てることができます。
 feature: Curate and Share
 topics: null
 activity: use
@@ -24,4 +24,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/36207/?quality=12&learn=on)
 
-詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=ja) を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=ja) を参照してください。
