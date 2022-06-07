@@ -24,4 +24,4 @@ Media Analytics のお客様は、メディア同時閲覧者数パネルを使�
 
 >[!VIDEO](https://video.tv.adobe.com/v/330177/?quality=12&learn=on)
 
-詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html?lang=ja#analysis-workspace) を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html?lang=ja#analysis-workspace) を参照してください。
