@@ -96,7 +96,7 @@ Isabelle が購入の直前までログインしなかった可能性があり�
 
 ## [!UICONTROL クロスデバイス分析] の前提条件
 
-CDA は [[!DNL Analytics Ultimate]](https://helpx.adobe.com/jp/legal/product-descriptions/adobe-analytics.html?lang=ja) に含まれています。2019年9月以降、以下の前提条件を満たしている [!DNL Analytics Ultimate] のお客様は CDA を使用する資格があります。CDA の前提条件を次に示します。
+CDA は [[!DNL Analytics Ultimate]](https://helpx.adobe.com/jp/legal/product-descriptions/adobe-analytics.html) に含まれています。2019年9月以降、以下の前提条件を満たしている [!DNL Analytics Ultimate] のお客様は CDA を使用する資格があります。CDA の前提条件を次に示します。
 
 * 会社は [!DNL Adobe Experience Platform Identity Service] [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html?lang=ja) のメンバーであるか、[!DNL Adobe Experience Platform Identity Service Private Graph] を使用している必要があります。
 * [Experience Cloud ID（ECID）](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja) やグラフとの ID 同期など、[!DNL Co-op Graph] または [!DNL Private Graph] に必要なすべてを実装する必要があります。[!DNL Co-op Graph] には、技術要件に加えて、その他の法的要件および契約要件があることに注意してください。
@@ -166,4 +166,4 @@ CDA は Analysis Workspace の下にクロスデバイスデータのレイヤ�
 CDA を使用した *[!DNL Attribution IQ]*
 ![[!DNL Attribution IQ]](assets/cda-attribution-iq.png)
 
-詳しくは、 [[!DNL Cross-Device Analytics] ヘルプドキュメント](https://experienceleague.adobe.com/docs/analytics/components/cda/cda-home.html?lang=ja) を参照してください。
+詳しくは、[[!DNL Cross-Device Analytics] ヘルプドキュメント](https://experienceleague.adobe.com/docs/analytics/components/cda/cda-home.html?lang=ja) を参照してください。
