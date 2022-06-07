@@ -22,4 +22,4 @@ ht-degree: 100%
 
 [!DNL Labs] プロトタイプを使用すると、独自のビジネス用途やデータのコンテキスト内で機能を評価できます。
 
-詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html?lang=ja) を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html?lang=ja) を参照してください。
