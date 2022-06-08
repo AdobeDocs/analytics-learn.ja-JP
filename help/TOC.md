@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: f96f1412447c175b6e963176af11af2a82a706e6
+source-git-commit: eb3c42b38a22bceb8e65690956066584205fe0c2
 workflow-type: tm+mt
-source-wordcount: '2392'
-ht-degree: 98%
+source-wordcount: '2430'
+ht-degree: 97%
 
 ---
 
@@ -234,6 +234,14 @@ ht-degree: 98%
       + [一般的な用語による Adobe Analytics 専門用語の翻訳](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [部門横断的な働き方](administration/key-admin-skills/working-cross-functionally.md)
       + [正しい質問をしていますか？](administration/key-admin-skills/are-you-asking-the-right-questions.md)
+   + 管理に関するヒントとベストプラクティス {#admin-tips}
+      + [実装プレイブックのダウンロード](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [標準化された命名規則の作成](administration/admin-tips/create-standardized-naming-conventions.md)
+      + [標準化されたコードテンプレートの作成](administration/admin-tips/create-standardized-code-templates.md)
+      + [基本的なビデオとトレーニングの作成](administration/admin-tips/create-basic-videos-and-training.md)
+      + [内部Adobe Analyticsサイトの作成](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
+      + [グローバルレポートスイートの使用](administration/admin-tips/use-a-global-report-suite.md)
+      + [ニュースとお知らせのプロジェクトを作成する](administration/admin-tips/create-a-news-and-announcements-project.md)
    + カンパニー設定 {#company-settings}
       + [電子メールドメイン制限の強制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [アカウントで利用可能な機能を表示する](administration/company-settings/view-your-accounts-available-features.md)
