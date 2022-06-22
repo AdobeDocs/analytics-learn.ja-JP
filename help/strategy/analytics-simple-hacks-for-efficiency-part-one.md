@@ -1,10 +1,11 @@
 ---
 title: 効率性とセルフサービスを向上させるためのシンプルなハック — 第 1 部
-description: '分析チームが現在直面している主な課題と、Adobe Analytics UI 以外の戦略を使用してチームを克服するための推奨事項について説明します。 '
+description: 分析チームが現在直面している主な課題と、Adobe Analytics UI 以外の戦略を使用してチームを克服するための推奨事項について説明します。
 solution: Analytics
-source-git-commit: 70097d69b165d63fe5a99d5083208b19725ad263
+exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
+source-git-commit: dad200fdb5c5d15c00254d693fb47bbcec80afaf
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '712'
 ht-degree: 0%
 
 ---
@@ -84,3 +85,5 @@ Analytics チームは、様々な理由で生産性と効率性が低下して�
    * 組織内の各チームに中小企業を設立する
    * リリースと獲得を社会化することで、存在感を高める
    * 通常の営業時間を使用して、トレーナーのトレーニングを行い、アドホックな質問を減らす
+
+戦略と思考のリーダーシップに関する詳細は、 [顧客の成功](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) ハブ。

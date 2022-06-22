@@ -1,10 +1,11 @@
 ---
 title: 効率性とセルフサービスを向上させるためのシンプルなハック — 第 2 部
-description: 'Analytics チームが現在直面している主な課題と、ツール内戦略を使用して解決するための推奨事項について説明します。 '
+description: Analytics チームが現在直面している主な課題と、ツール内戦略を使用して解決するための推奨事項について説明します。
 solution: Analytics
-source-git-commit: f96f1412447c175b6e963176af11af2a82a706e6
+exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
+source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '802'
 ht-degree: 6%
 
 ---
@@ -94,3 +95,5 @@ Adobe Analytics Platform 以外での効果的なソリューションの詳細�
 レポート API を活用して、標準レポートを移動する [!UICONTROL Workspace] をスケジュール済みのレポートおよびダッシュボードに追加します。 さらに、 [!UICONTROL Analysis Workspace] を使用して API リクエストを作成します。
 
 この記事がツール内戦略に関する貴重な情報であることを願っています。 Adobe Analytics Platform 以外で効率を高めるための効果的なソリューションに関する詳細は、 [ここ](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
+
+戦略と思考のリーダーシップに関する詳細は、 [顧客の成功](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) ハブ。

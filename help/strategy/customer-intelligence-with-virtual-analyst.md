@@ -1,10 +1,11 @@
 ---
 title: Virtual Analyst と Segment IQ を使用して顧客インテリジェンスを習得する
-description: '人工知能と機械学習 (AI/ML) を使用する重要性を学びます。 Virtual Analyst と Segment IQ を使用して異常値を検出し、異常値を回避し、ROI を最大化することにより、グローバルな顧客から実際の成功事例を確認し、実際の成功事例を学びます。 '
+description: 人工知能と機械学習 (AI/ML) を使用する重要性を学びます。 Virtual Analyst と Segment IQ を使用して異常値を検出し、異常値を回避し、ROI を最大化することにより、グローバルな顧客から実際の成功事例を確認し、実際の成功事例を学びます。
 solution: Analytics
-source-git-commit: 3915782f800ad5e7c1ab8c1157919dec40cc3183
+exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
+source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
 workflow-type: tm+mt
-source-wordcount: '1086'
+source-wordcount: '1104'
 ht-degree: 4%
 
 ---
@@ -121,3 +122,5 @@ Analytics は困難で時間のかかる作業ですが、常に、インサイ�
 **製品の在庫切れ：** 「Fitbit を購入するお客様は、在庫切れになる確率が他の全員の 6 倍でした。そのため、すぐに追加の Fitbit を注文しました。」 →在庫切れが生じ、年末商戦の注文が増えた
 
 詳細については、 [ウェビナー](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/).
+
+戦略と思考のリーダーシップに関する詳細は、 [顧客の成功](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) ハブ。
