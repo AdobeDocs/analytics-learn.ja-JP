@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: eb3c42b38a22bceb8e65690956066584205fe0c2
+source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
 workflow-type: tm+mt
-source-wordcount: '2430'
+source-wordcount: '2432'
 ht-degree: 97%
 
 ---
@@ -150,6 +150,17 @@ ht-degree: 97%
       + [100% 積み重ねビジュアライゼーション](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [テーブルとビジュアライゼーションのデータソース設定](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [時間分割ヒートマップの作成](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
+   + カスタマージャーニーの分析 {#analyzing-customer-journeys}
+      + [データについて：フォールアウトとフロー](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [Journey IQ：デバイス間分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+      + [フォールアウトビジュアライゼーション](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+      + [フォールアウトビジュアライゼーションの機能強化](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
+      + [複数ディメンションのフォールアウト](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
+      + [フォールアウトでのセグメントの比較](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
+      + [フロービジュアライゼーション](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+      + [フロービジュアライゼーションの詳細](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
+      + [2022 年のフローの改善](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
+      + [テキストの折り返しと複数ディメンションのフロー](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + セグメントの適用 {#applying-segments}
       + [Analysis Workspace プロジェクトへのセグメントの適用](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Analysis Workspace でのセグメントの使用](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
@@ -177,16 +188,6 @@ ht-degree: 97%
       + [カスタム日付範囲の作成](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Analysis Workspace での日付比較](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [トレンドへの前月比および前年比の追加](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
-   + カスタマージャーニーの分析 {#analyzing-customer-journeys}
-      + [データについて：フォールアウトとフロー](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
-      + [Journey IQ：デバイス間分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
-      + [フォールアウトビジュアライゼーション](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [フォールアウトビジュアライゼーションの機能強化](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
-      + [複数ディメンションのフォールアウト](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
-      + [フォールアウトでのセグメントの比較](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
-      + [フロービジュアライゼーション](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [フロービジュアライゼーションの詳細](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [テキストの折り返しと複数ディメンションのフロー](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + プロジェクトのキュレーションと共有 {#curate-and-share-projects}
       + [Analysis Workspace でのプロジェクトの保存、共有、共同作業](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Analysis Workspace でのキュレーションと共有](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
