@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 向けのビデオとチュートリア�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2432'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,14 +25,14 @@ ht-degree: 97%
       + [Summit 2019 スーパーセッション - 旅行およびホスピタリティ分野](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Summit 2019 スーパーセッション - 小売分野](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Summit 2019 スーパーセッション - ハイテク分野](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
-   + 戦略と思考のリーダーシップ{#strategy}
-      + [第 1 部 — 効率を高めるためのシンプルなハック](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
-      + [第 2 部 — 効率を高めるためのシンプルなハック](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
-      + [Adobe Analyticsの Virtual Analyst と Segment IQ を使用して顧客インテリジェンスを習得する](strategy/customer-intelligence-with-virtual-analyst.md)
+   + 戦略とソートリーダーシップ {#strategy}
+      + [第 1 部 - 効率を高める簡単な工夫](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
+      + [第 2 部 - 効率を高める簡単な工夫](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
+      + [Adobe Analytics の Virtual Analyst と Segment IQ を使用して顧客インテリジェンスを習得する](strategy/customer-intelligence-with-virtual-analyst.md)
    + 他のプラットフォームからの移行 {#transitioning-from-other-platforms}
       + [Google Analytics からの移行](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics の基本事項 {#analytics-basics}
-      + [Reports and Analytics の「Workspace で試す」ボタン](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
+      + [Reports and Analytics の「ワークスペースで試す」ボタン](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [Analytics サイクルについて](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [Analytics データの収集方法](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Adobe Analytics へのログイン](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
@@ -63,7 +63,7 @@ ht-degree: 97%
       + [新しいランディングページのナビゲート](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Analysis Workspace ランディングページの更新](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [新しい Analysis Workspace プロジェクトの作成](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
-      + [Workspace プロジェクトを一から作成する](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
+      + [ワークスペースプロジェクトを一から作成する](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Analysis Workspace でのカスタムテンプレートの作成と管理](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Analysis Workspace の標準テンプレート](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
       + [カスタムテンプレートを使用した Analysis Workspace 初級ユーザーの支援](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
@@ -82,7 +82,7 @@ ht-degree: 97%
       + [Analysis Workspace のトレーニングチュートリアルテンプレート](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Analysis Workspace でのコピーと挿入](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [目次の作成](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
-      + [右クリックで Workspace の効率性を確認](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
+      + [右クリックでワークスペースの効率性を確認](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [キーボードショートカット](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [Analysis Workspace の注釈](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [メニューバー](analysis-workspace/navigating-workspace-projects/menu-bar.md)
@@ -159,7 +159,7 @@ ht-degree: 97%
       + [フォールアウトでのセグメントの比較](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
       + [フロービジュアライゼーション](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
       + [フロービジュアライゼーションの詳細](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [2022 年のフローの改善](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
+      + [2022年フローの改善](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
       + [テキストの折り返しと複数ディメンションのフロー](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + セグメントの適用 {#applying-segments}
       + [Analysis Workspace プロジェクトへのセグメントの適用](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
@@ -236,13 +236,13 @@ ht-degree: 97%
       + [部門横断的な働き方](administration/key-admin-skills/working-cross-functionally.md)
       + [正しい質問をしていますか？](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + 管理に関するヒントとベストプラクティス {#admin-tips}
-      + [実装プレイブックのダウンロード](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [ 継承された実装プレイブックをダウンロードします。](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
       + [標準化された命名規則の作成](administration/admin-tips/create-standardized-naming-conventions.md)
       + [標準化されたコードテンプレートの作成](administration/admin-tips/create-standardized-code-templates.md)
       + [基本的なビデオとトレーニングの作成](administration/admin-tips/create-basic-videos-and-training.md)
-      + [内部Adobe Analyticsサイトの作成](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
+      + [内部 Adobe Analytics サイトの作成](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [グローバルレポートスイートの使用](administration/admin-tips/use-a-global-report-suite.md)
-      + [ニュースとお知らせのプロジェクトを作成する](administration/admin-tips/create-a-news-and-announcements-project.md)
+      + [ニュースとお知らせのプロジェクトを作成](administration/admin-tips/create-a-news-and-announcements-project.md)
    + カンパニー設定 {#company-settings}
       + [電子メールドメイン制限の強制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [アカウントで利用可能な機能を表示する](administration/company-settings/view-your-accounts-available-features.md)
