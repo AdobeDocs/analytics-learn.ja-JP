@@ -1,6 +1,6 @@
 ---
-title: 内部Adobe Analyticsサイト（Confluence など）の作成
-description: トレーニングドキュメントを共有し、すべてのユーザーから問い合わせることができる一元的な場所を作成します。
+title: 内部 Adobe Analytics サイトの作成（Confluence またはその他）
+description: トレーニングドキュメントを共有し、すべてのユーザーが参照できる一元的な場所を作成します。
 feature: Implementation Basics
 topic: Administration
 role: Admin
@@ -8,39 +8,40 @@ level: Beginner
 doc-type: article
 thumbnail: 10534.jpg
 kt: 10534
-source-git-commit: 160df6c23acb67f1b07f2fcd25f1eca96eb6dee7
-workflow-type: tm+mt
+exl-id: 692b6726-12f8-45fb-b7c7-8ae42e1a14b7
+source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
+workflow-type: ht
 source-wordcount: '300'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 内部 Adobe Analytics サイトの作成（Confluence またはその他）
 
-# 内部Adobe Analyticsサイト（Confluence など）の作成
+**対象：**[このヒント](create-basic-videos-and-training.md){target=&quot;_blank&quot;} のレコメンデーションに従ってトレーニングドキュメントを作成する場合、ハードドライブ上に保持できません。 これらのドキュメントを共有し、すべてのユーザーが参照できる一元的な場所を作成します。内部の Adobe Analytics サイト（Confluence など）では、これらのドキュメントをすべて投稿し、様々なバージョンを維持できます。
 
-**対象：** レコメンデーションを次のページに移動した場合： [このヒント](create-basic-videos-and-training.md){target=&quot;_blank&quot;} でトレーニングドキュメントを作成する場合、ハードドライブ上に保持できないことが原因です。 これらのドキュメントを共有し、すべてのユーザーから相談できる一元的な場所を作成します。内部のAdobe Analyticsサイト（Confluence など）では、これらのドキュメントをすべて投稿し、様々なバージョンを維持できます。
+**理由：**&#x200B;単一の共有リポジトリを設定すると、すべての新規ユーザーを 1 箇所で管理し、すべてのドキュメントの最新バージョンに関して、単一の情報源を提供できます。最適なバージョン管理と共同作業が可能です。
 
-**理由：** 単一の共有リポジトリを設定すると、すべての新しいユーザーを 1 つの場所で指示し、すべてのドキュメントの最新バージョンに関して、単一の情報源を提供できます。 最適なバージョン管理とコラボレーションが可能です。
+**方法：**&#x200B;この内部サイトのセクションに対する推奨事項を次に示します。
 
-**方法：** この内部サイトのセクションに対する推奨事項を以下に示します。
+* _概要_：アクセス方法、連絡先、ログイン方法、JIRA チケットの作成方法、ヘルプの取得先など。
+* _タグ付けドキュメント_：プロパティドキュメント、タグ付けドキュメント、コードテンプレートなど。
+* _ナレッジドキュメント_：ここで命名規則を投稿できますが、トレーニングビデオと同じ目的を持つナレッジドキュメントも投稿できます。例：ダウンロードの追跡方法、クーポンの追跡方法など。
+* _トレーニングドキュメント_：基本および高度なトレーニングセッション、5 ～ 10 分の短編ビデオ。また、Experience League、YouTube チャネルなど Adobe リソースにリンクを提供できます。
+* _管理者ドキュメント_：SAINT ファイル、JS ファイル、管理者向けのナレッジドキュメント（データフィードなど）。
 
-* _導入_:アクセス方法、連絡先、ログイン方法、JIRA チケットの作成方法、ヘルプの取得先など
-* _タグ付けドキュメント_:プロパティドキュメント、タグ付けドキュメント、コードテンプレートなど。
-* _ナレッジドキュメント_:ここで命名規則を投稿できますが、トレーニングビデオと同じ目的を持つナレッジドキュメントも投稿できます。 例：ダウンロードの追跡方法、クーポンのトラッキング方法など
-* _トレーニングドキュメント_:基本および高度なトレーニングセッション、5 ～ 10 分のビデオの短縮。 また、次のリソースへのリンクをAdobeできます。Experience League、YouTubeチャネルなど
-* _管理者ドキュメント_:SAINTファイル、JS ファイル、管理者向けの知識ドキュメント（データフィードなど）
-
-また、新しいアカウントを作成する際に、「Adobe Analyticsへようこそ」というメールで、このサイトへのリンクを共有する（トレーニングセクションをハイライト表示する）ことをお勧めします。
+また、新しいアカウントを作成する際に、「Adobe Analytics へようこそ」というメールで、このサイトへのリンクを共有する（トレーニングセクションをハイライト表示する）ことをお勧めします。
 
 
-## 発言者
+## 作成者
 
-このドキュメントは次のユーザーによって共同で作成されました：
+このドキュメントの共同作成者：
 
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
-NortonLifeLock Adobe Analyticsチャンピオンの Digital Analytics Platform Manager、Christel Guidon 氏
+Christel Guidon（デジタル分析プラットフォームマネージャー、NortonLifeLock）
+Adobe Analytics Champion
 
-![レイチェルフェンウィック](assets/Rachel-Fenwick-150.png)
+![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 
-レイチェル・フェンウィック、Adobeのシニアコンサルタント
+Rachel Fenwick（アドビ のシニアコンサルタント）
