@@ -1,6 +1,6 @@
 ---
-title: 基本的な記録済みトレーニングセッションと短いビデオの作成
-description: 基本的なトピックや高度なトピックを扱うシンプルで短いトレーニングビデオをいくつか作成します。新しいユーザーがこのツールに追いつくので、毎回会議を通じて同じコンテンツを配信する必要はありません。
+title: 基本的な録画トレーニングセッションと短いビデオの作成
+description: 基本的なトピックから高度なトピックまでをカバーするシンプルで短いトレーニングビデオをいくつか作成します。このツールは新規ユーザーでもすぐに使えるので、毎回会議で同じコンテンツを配信する必要はありません。
 feature: Implementation Basics
 topic: Administration
 role: Admin
@@ -8,41 +8,42 @@ level: Beginner
 doc-type: article
 thumbnail: 10533.jpg
 kt: 10533
-source-git-commit: 160df6c23acb67f1b07f2fcd25f1eca96eb6dee7
-workflow-type: tm+mt
+exl-id: 60307702-9348-48b5-8364-49e90946d793
+source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
+workflow-type: ht
 source-wordcount: '345'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
+# 基本的な録画トレーニングセッションと短いビデオの作成
 
-# 基本的な記録済みトレーニングセッションと短いビデオの作成
+**対象：**&#x200B;基本的なトピックから高度なトピックまでをカバーするシンプルで短いトレーニングビデオをいくつか作成します。このツールは新規ユーザーでもすぐに使えるので、毎回会議で同じコンテンツを配信する必要はありません。
 
-**対象：** 基本的なトピックや高度なトピックを扱うシンプルで短いトレーニングビデオをいくつか作成します。新しいユーザーがこのツールに追いつくので、毎回会議を通じて同じコンテンツを配信する必要はありません。
+**理由：**&#x200B;これにより、AA 管理者の時間が節約され、一人が他のメンバーのトレーニングを担当するという依存関係をなくし、新規ユーザーが自分のペースで自己啓発を行うことができます。
 
-**理由：** これにより、AA 管理者の時間を節約し、他のユーザーのトレーニングを担当する 1 人のユーザーに依存しなくなり、新しいユーザーが自分のペースで自己有効にすることができます。
-
-**方法：** 組織やビジネスユーザーに最も関連のあるトピックを選択し、一口サイズのトレーニングビデオを録画するのに時間をかけます。 基本トピックから高度なトピックへの推奨事項を以下に示します。
+**方法：**&#x200B;組織やビジネスユーザーに最も関連のあるトピックを選択し、短いトレーニングビデオを時間をかけて録画します。基本トピックから高度なトピックまで、いくつかの提案を以下に示します。
 
 * キャンペーンの追跡方法
-* ページのパフォーマンスの理解
-* Workspace でビジュアライゼーションを作成する方法
-* セグメントおよび計算指標に関するすべて
-* Adobe Analyticsでのヒント上位 5 件 ( 例：ドロップダウンの作成方法
-* Attribution IQの使用方法
+* ページのパフォーマンスの把握方法
+* ワークスペースでのビジュアライゼーションの作成方法
+* セグメントと計算指標に関するすべて
+* Adobe Analytics で役立つヒントのトップ 5（ドロップダウンの作成方法など）
+* Attribution IQ の使用方法
 
-その後、長いメールを書いたり、別の会議を開いたりする代わりに、ユーザーがこれらを指すように簡単に指示できます。 トレーニングユーザーに関するその他のヒントとテクニックについては、 [Adobeチャンピオンのトーマス・エドワード・バックリーの記事](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=ja){target=&quot;_blank&quot;} 簡単にして、トレーニングに費やす時間を短縮することに関するすべてです。
+これで、長文のメールを書いたり、別の会議を開いたりすることなく、ユーザーにこれらの情報を簡単に提供できます。ユーザー教育に関するその他のヒントとテクニックについては、[Adobe Champion の Thomas Edward Buckley の記事](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=ja){target=&quot;_blank&quot;}「ユーザートレーニングの簡単化と時間短縮のすべて」を参照してください。
 
-また、（はい、多毛）の多毛（はい、多毛） [ビデオチュートリアル](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja){target=&quot;_blank&quot;}(Adobe Experience Leagueの場合 ) と [無料コース](https://experienceleague.adobe.com/?lang=en#dashboard/learning){target=&quot;_blank&quot;}。 会社のデータおよびビジネス KPI に固有のビデオが必要な場合は、必ず独自のビデオを記録します。 しかし一般的な教育ビデオで十分なのなら車輪を作り直す理由はありません
+また、Adobe Experience League についての[ビデオチュートリアル](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja){target=&quot;_blank&quot;}と[無料コース](https://experienceleague.adobe.com/?lang=ja#dashboard/learning){target=&quot;_blank&quot;}もたくさん（山のように）あります。自社のデータやビジネス KPI に固有のビデオが必要な場合は、ぜひ独自のビデオを録画してください。一般的な教育ビデオで十分な場合は、一から新しく作る必要はありません。
 
-## 発言者
+## 作成者
 
-このドキュメントは次のユーザーによって共同で作成されました：
+このドキュメントの共同作成者：
 
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
-NortonLifeLock Adobe Analyticsチャンピオンの Digital Analytics Platform Manager、Christel Guidon 氏
+Christel Guidon（デジタル分析プラットフォームマネージャー、NortonLifeLock）
+Adobe Analytics Champion
 
-![レイチェルフェンウィック](assets/Rachel-Fenwick-150.png)
+![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 
-レイチェル・フェンウィック、Adobeのシニアコンサルタント
+Rachel Fenwick（アドビ のシニアコンサルタント）
