@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
-workflow-type: ht
-source-wordcount: '2432'
-ht-degree: 100%
+source-git-commit: eac3aedaf58c56a1607ef6ba8b6ca361e26ccd56
+workflow-type: tm+mt
+source-wordcount: '2422'
+ht-degree: 99%
 
 ---
 
@@ -151,16 +151,13 @@ ht-degree: 100%
       + [テーブルとビジュアライゼーションのデータソース設定](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [時間分割ヒートマップの作成](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + カスタマージャーニーの分析 {#analyzing-customer-journeys}
-      + [データについて：フォールアウトとフロー](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
-      + [Journey IQ：デバイス間分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+      + [データの理解 — フォールアウトとフロー](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [ジャーニーIQ — クロスデバイス分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [フォールアウトビジュアライゼーション](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [フォールアウトビジュアライゼーションの機能強化](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
-      + [複数ディメンションのフォールアウト](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
-      + [フォールアウトでのセグメントの比較](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
       + [フロービジュアライゼーション](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [フロービジュアライゼーションの詳細](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [2022年フローの改善](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
-      + [テキストの折り返しと複数ディメンションのフロー](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
+      + [フロービジュアライゼーションの展開](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
+      + [2022 年のフローの改善](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
+      + [テキストの折り返しと多次元のフロー](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + セグメントの適用 {#applying-segments}
       + [Analysis Workspace プロジェクトへのセグメントの適用](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Analysis Workspace でのセグメントの使用](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
