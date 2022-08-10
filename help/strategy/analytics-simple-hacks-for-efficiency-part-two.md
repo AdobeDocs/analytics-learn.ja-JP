@@ -3,10 +3,10 @@ title: 効率化とセルフサービスを実現するシンプルな秘訣 - �
 description: 分析チームが今日直面している主な課題と、それらを克服するためにツール内の戦略を使用した推奨事項について説明します。
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
-source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
-workflow-type: ht
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+workflow-type: tm+mt
 source-wordcount: '802'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -96,4 +96,4 @@ Adobe Analytics Platform 以外での効果的なソリューションの詳細�
 
 ツール内戦略に関するこの記事が、お役に立つことを願っています。Adobe Analytics Platform 以外で効率を高める効果的なソリューションに関する詳細は、[こちら](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)を参照してください。
 
-戦略と思考のリーダーシップに関する詳細は、[カスタマーサクセス](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=ja)のハブを参照してください。
+戦略と思考のリーダーシップに関する詳細は、[カスタマーサクセス](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)のハブを参照してください。

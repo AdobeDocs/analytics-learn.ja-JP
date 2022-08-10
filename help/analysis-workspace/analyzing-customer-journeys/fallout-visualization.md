@@ -1,6 +1,6 @@
 ---
-title: フォールアウトビジュアライゼーションレポートの作成
-description: フォールアウトレポートの使用例と、Analysis Workspaceでこのレポートを設定する方法について説明します。 複数のタイプのタッチポイントを追加する方法と、このコンポーネントでセグメントを作成して使用する方法を説明します。
+title: フォールアウトビジュアライゼーションの作成
+description: Analysis Workspaceのフォールアウトビジュアライゼーションは、顧客がデジタルプロパティ上で主要なフローをフォールスルーまたはフォールアウトした場所を調査するために使用します。 複数のタイプのタッチポイントを追加する方法と、このコンポーネントでセグメントを作成して使用する方法を説明します。
 feature: Visualizations
 role: User
 level: Beginner
@@ -8,16 +8,16 @@ doc-type: feature video
 thumbnail: 345883.jpg
 kt: 2275
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
-source-git-commit: 1b141ab4e15a6db80a6de3cc80bef22dc3499302
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 21%
+source-wordcount: '110'
+ht-degree: 18%
 
 ---
 
-# フォールアウトビジュアライゼーションレポートの作成
+# フォールアウトビジュアライゼーションの作成
 
-フォールアウトレポートの使用例と、 [!DNL Analysis Workspace]. 複数のタイプのタッチポイントを追加する方法と、このコンポーネントでセグメントを作成して使用する方法を説明します。
+のフォールアウトビジュアライゼーション [!DNL Analysis Workspace] は、顧客がデジタルプロパティ上の主要なフローをフォールスルーまたはフォールアウトする場所を調べるために使用されます。 複数のタイプのタッチポイントを追加する方法と、このコンポーネントでセグメントを作成して使用する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12)
 

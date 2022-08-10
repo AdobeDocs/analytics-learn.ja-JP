@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: eac3aedaf58c56a1607ef6ba8b6ca361e26ccd56
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
 workflow-type: tm+mt
-source-wordcount: '2422'
+source-wordcount: '2416'
 ht-degree: 99%
 
 ---
@@ -151,13 +151,10 @@ ht-degree: 99%
       + [テーブルとビジュアライゼーションのデータソース設定](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [時間分割ヒートマップの作成](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + カスタマージャーニーの分析 {#analyzing-customer-journeys}
-      + [データの理解 — フォールアウトとフロー](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [フォールアウトビジュアライゼーションの作成](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+      + [フロービジュアライゼーションの作成](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+      + [フォールアウトとフローを一緒に使用](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [ジャーニーIQ — クロスデバイス分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
-      + [フォールアウトビジュアライゼーション](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [フロービジュアライゼーション](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [フロービジュアライゼーションの展開](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [2022 年のフローの改善](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
-      + [テキストの折り返しと多次元のフロー](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + セグメントの適用 {#applying-segments}
       + [Analysis Workspace プロジェクトへのセグメントの適用](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Analysis Workspace でのセグメントの使用](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)

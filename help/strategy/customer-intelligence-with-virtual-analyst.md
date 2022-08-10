@@ -3,10 +3,10 @@ title: Virtual Analyst と Segment IQ を使用して顧客インテリジェン
 description: 人工知能と機械学習（AI／ML）を使用することの重要性を説明します。Virtual Analyst と Segment IQ を使用して、異常値の検出、異常値の回避、ROI の最大化を実現するメリットを確認し、実際の成功事例をグローバル顧客から学びます。
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
-source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
-workflow-type: ht
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+workflow-type: tm+mt
 source-wordcount: '1104'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -123,4 +123,4 @@ Adobe Analytics は、エクスペリエンスビジネスのインテリジェ�
 
 詳細については、[ウェビナー](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/)をご覧ください。
 
-戦略と思考のリーダーシップに関する詳細は、[カスタマーサクセス](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=ja)のハブを参照してください。
+戦略と思考のリーダーシップに関する詳細は、[カスタマーサクセス](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)のハブを参照してください。
