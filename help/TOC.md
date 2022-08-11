@@ -154,7 +154,7 @@ ht-degree: 99%
       + [フォールアウトビジュアライゼーションの作成](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [フロービジュアライゼーションの作成](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
       + [フォールアウトとフローを一緒に使用](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
-      + [ジャーニーIQ — クロスデバイス分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+      + [ジャーニー IQ：クロスデバイス分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
    + セグメントの適用 {#applying-segments}
       + [Analysis Workspace プロジェクトへのセグメントの適用](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Analysis Workspace でのセグメントの使用](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
