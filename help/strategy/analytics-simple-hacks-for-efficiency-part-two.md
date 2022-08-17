@@ -4,9 +4,9 @@ description: 分析チームが今日直面している主な課題と、それ�
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '802'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -36,19 +36,19 @@ Adobe Analytics Platform 以外での効果的なソリューションの詳細�
 
 1. 右クリックを極める。
 
-   * [!UICONTROL ワークスペース]には、時間を節約するための右クリックオプションが複数あります。
+   * [!UICONTROL Workspace]には、時間を節約するための右クリックオプションが複数あります。
 
 1. ドロップダウンフィルター。
 
 1. ホットキー。
 
-## ワークスペースのパフォーマンスの最適化
+## Workspace のパフォーマンスの最適化
 
 [!UICONTROL Analysis Workspace] のパフォーマンスのヘルプページには、プロジェクトのパフォーマンスに影響を与えるネットワーク、ブラウザ、プロジェクトの要因が表示されます。より高速なダッシュボードを作成して、導入を促進します。最適化に関するヒントへのリンクもあり、**[!UICONTROL ヘルプ]** > **[!UICONTROL パフォーマンス]** > [!UICONTROL ワークスペース]メニューからアクセスできます。
 
-## ワークスペース内またはワークスペース間パネルのリンク
+## Workspace 内または Workspace 間パネルのリンク
 
-パネルのリンクを使用して、[!UICONTROL ワークスペース]のパフォーマンスを改善します。折りたたみ式のパネルを使用して大きなレポートを分割することができ、複数のワークスペースプロジェクトを理解して入れ替える負担をかけることもありません。
+パネルのリンクを使用して、[!UICONTROL Workspace]のパフォーマンスを改善します。折りたたみ式のパネルを使用して大きなレポートを分割することができ、複数の Workspace プロジェクトを理解して入れ替える負担をかけることもありません。
 
 ## ナレッジリポジトリの作成
 
@@ -58,7 +58,7 @@ Adobe Analytics Platform 以外での効果的なソリューションの詳細�
 * 業務時間のスケジュールを共有します。
 * [!DNL Analytics] リリースとバグ修正に関する情報へのリンク。
 
-## トレーニングチュートリアルのワークスペース
+## トレーニングチュートリアルの Workspace
 
 [!UICONTROL Analysis Workspace] トレーニングチュートリアルでは、[!UICONTROL ワークスペース]で初めて分析を作成するための一般的な用語と手順を順を追って説明します。このテンプレートは、[!UICONTROL 新規プロジェクト]モーダルで標準テンプレートとして利用でき、組織独自のユースケースやデータ構造（eVar、カスタムイベントなど）に合わせて、独自のチュートリアルを作成することが可能です。これは、スケーラブルで自動化された啓発の一形態です。
 
@@ -92,8 +92,8 @@ Adobe Analytics Platform 以外での効果的なソリューションの詳細�
 
 ## Adobe 2.0 レポート API
 
-レポート API を活用して、標準レポートを[!UICONTROL ワークスペース]からスケジュール済みのレポートおよびダッシュボードに移動します。さらに、[!UICONTROL Analysis Workspace] を使用して API リクエストを作成します。
+レポート API を活用して、標準レポートを[!UICONTROL Workspace]からスケジュール済みのレポートおよびダッシュボードに移動します。さらに、[!UICONTROL Analysis Workspace] を使用して API リクエストを作成します。
 
 ツール内戦略に関するこの記事が、お役に立つことを願っています。Adobe Analytics Platform 以外で効率を高める効果的なソリューションに関する詳細は、[こちら](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)を参照してください。
 
-戦略と思考のリーダーシップに関する詳細は、[カスタマーサクセス](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)のハブを参照してください。
+戦略と思考のリーダーシップに関する詳細は、[カスタマーサクセス](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=ja)のハブを参照してください。
