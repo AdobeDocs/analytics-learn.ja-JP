@@ -9,9 +9,9 @@ thumbnail: 346063.jpg
 kt: 2279
 exl-id: 888fec4a-308d-4a05-9c7b-a4b4deba09b1
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 51%
+ht-degree: 100%
 
 ---
 
