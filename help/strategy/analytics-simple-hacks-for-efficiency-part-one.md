@@ -4,9 +4,9 @@ description: 分析チームが今日直面している主な課題と、それ�
 solution: Analytics
 exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
 source-git-commit: 1181bfa62c5ec3d465aec5d1293e927c2c56f288
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '712'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -86,4 +86,4 @@ ht-degree: 99%
    * リリースと勝利のソーシャル化を支援することで、存在感を高めます
    * 通常の業務時間を使用してトレーナーを育成し、アドホックな質問を減らす
 
-戦略と思考のリーダーシップに関する詳細は、[カスタマーサクセス](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)のハブを参照してください。
+戦略と思考のリーダーシップに関する詳細は、[カスタマーサクセス](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=ja)のハブを参照してください。
