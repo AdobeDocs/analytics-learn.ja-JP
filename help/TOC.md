@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 向けのビデオとチュートリア�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2416'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -63,7 +63,7 @@ ht-degree: 99%
       + [新しいランディングページのナビゲート](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Analysis Workspace ランディングページの更新](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [新しい Analysis Workspace プロジェクトの作成](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
-      + [ワークスペースプロジェクトを一から作成する](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
+      + [Workspace プロジェクトを一から作成する](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Analysis Workspace でのカスタムテンプレートの作成と管理](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Analysis Workspace の標準テンプレート](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
       + [カスタムテンプレートを使用した Analysis Workspace 初級ユーザーの支援](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
@@ -82,7 +82,7 @@ ht-degree: 99%
       + [Analysis Workspace のトレーニングチュートリアルテンプレート](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Analysis Workspace でのコピーと挿入](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [目次の作成](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
-      + [右クリックでワークスペースの効率性を確認](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
+      + [右クリックで Workspace の効率性を確認](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [キーボードショートカット](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [Analysis Workspace の注釈](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [メニューバー](analysis-workspace/navigating-workspace-projects/menu-bar.md)
@@ -153,7 +153,7 @@ ht-degree: 99%
    + カスタマージャーニーの分析 {#analyzing-customer-journeys}
       + [フォールアウトビジュアライゼーションの作成](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [フロービジュアライゼーションの作成](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [フォールアウトとフローを一緒に使用](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [フォールアウトとフローの併用](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [ジャーニー IQ：クロスデバイス分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
    + セグメントの適用 {#applying-segments}
       + [Analysis Workspace プロジェクトへのセグメントの適用](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
