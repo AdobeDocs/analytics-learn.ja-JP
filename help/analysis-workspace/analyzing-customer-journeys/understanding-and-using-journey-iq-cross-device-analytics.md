@@ -10,10 +10,10 @@ kt: 4138
 role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '1641'
-ht-degree: 100%
+source-git-commit: 01e6e84f748e359aeb42c9be3afa52088f41018b
+workflow-type: tm+mt
+source-wordcount: '1529'
+ht-degree: 93%
 
 ---
 
@@ -55,7 +55,7 @@ Isabelle の行動をユーザーを中心としたクロスデバイス表示�
 
 ## [!DNL Cross-Device Analytics] のしくみ
 
-[!DNL Journey IQ: Cross-Device Analytics (CDA)] は、[!DNL Adobe Experience Platform Identity Service] と統合され、[[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html?lang=ja) または [!DNL Private Graph] のいずれかを利用して、デバイスが人物にどのようにマッピングされるかを識別します。次に、このインテリジェンスを活用して、ユーザーの行動のクロスデバイス表示を作成します。CDA には、企業がマルチデバイスの使用法と、ブランドとのやり取りにおけるマルチデバイス全体のカスタマーエクスペリエンスを理解するのに役立つ、比類のない機能とツールが含まれています。Analysis Workspace の下のレイヤーとして機能し、[!UICONTROL フォールアウト]、[!DNL Flow]、[!DNL Cohort]、[!DNL Segment IQ]、[!DNL Attribution IQ] などの強力なツールを使用して、ユーザーベースのオーディエンス分析とクロスデバイスアトリビューション、セグメンテーション、ジャーニー分析に関する深いインサイトを提供します。
+[!DNL Journey IQ: Cross-Device Analytics (CDA)] との統合 [!DNL Adobe Experience Platform Identity Service]、 [!DNL Device Graph] を使用して、デバイスがユーザーにどのようにマッピングされているかを特定します。 次に、このインテリジェンスを活用して、ユーザーの行動のクロスデバイス表示を作成します。CDA には、企業がマルチデバイスの使用法と、ブランドとのやり取りにおけるマルチデバイス全体のカスタマーエクスペリエンスを理解するのに役立つ、比類のない機能とツールが含まれています。Analysis Workspace の下のレイヤーとして機能し、[!UICONTROL フォールアウト]、[!DNL Flow]、[!DNL Cohort]、[!DNL Segment IQ]、[!DNL Attribution IQ] などの強力なツールを使用して、ユーザーベースのオーディエンス分析とクロスデバイスアトリビューション、セグメンテーション、ジャーニー分析に関する深いインサイトを提供します。
 
 ### [!DNL Cross-Device Virtual Report Suite]
 
@@ -82,13 +82,13 @@ VRS の設定を完了し、保存します。CDA VRS は、次に示すよう�
 
 ### 履歴の再記述
 
-ユーザーがログインし、[!DNL Co-op Graph] または [!DNL Private Graph] がユーザーを識別してデバイスをマッピングするのに時間がかかる場合があります。CDA では 30 日間のルックバックウィンドウを利用して、以前は識別されていなかった訪問者を、最大過去 30 日までユーザーとして再表示できるようにします。
+ユーザーがログインし、 [!DNL Device Graph] を使用して、ユーザーを特定し、デバイスをまとめます。 CDA では 30 日間のルックバックウィンドウを利用して、以前は識別されていなかった訪問者を、最大過去 30 日までユーザーとして再表示できるようにします。
 
 これはどのように役立つでしょうか。上記のディスカッションから Isabelle のユーザージャーニーを思い出してください。
 
 ![[!DNL Cross-Device Analytics] ジャーニー](assets/cda-isabelle-journey-cross-device-analytics.png)
 
-Isabelle が購入の直前までログインしなかった可能性があり、[!DNL Co-op Graph] または [!DNL Private Graph] が購入後のある時点まで Isabelle のデバイスを一緒にマッピングしなかった可能性があります。しかし、CDA では 30 日間のルックバックによって Isabelle の過去の行動を個人レベルで再表示でき、必要な Isabelle のジャーニーのクロスデバイス表示を提供します。
+イザベルが購入直前までログインしなかった可能性があり、 [!DNL Device Graph] イザベルの装置は、購入後のいつかまで一緒に地図を作成しなかった。 しかし、CDA では 30 日間のルックバックによって Isabelle の過去の行動を個人レベルで再表示でき、必要な Isabelle のジャーニーのクロスデバイス表示を提供します。
 
 >[!NOTE]
 >
@@ -98,12 +98,11 @@ Isabelle が購入の直前までログインしなかった可能性があり�
 
 CDA は [[!DNL Analytics Ultimate]](https://helpx.adobe.com/jp/legal/product-descriptions/adobe-analytics.html) に含まれています。2019年9月以降、以下の前提条件を満たしている [!DNL Analytics Ultimate] のお客様は CDA を使用する資格があります。CDA の前提条件を次に示します。
 
-* 会社は [!DNL Adobe Experience Platform Identity Service] [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html?lang=ja) のメンバーであるか、[!DNL Adobe Experience Platform Identity Service Private Graph] を使用している必要があります。
-* [Experience Cloud ID（ECID）](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja) やグラフとの ID 同期など、[!DNL Co-op Graph] または [!DNL Private Graph] に必要なすべてを実装する必要があります。[!DNL Co-op Graph] には、技術要件に加えて、その他の法的要件および契約要件があることに注意してください。
-* 現在、単一の [!DNL Private Graph] で 2 つの IMS 組織を使用することはできないため、単一の IMS 組織で標準化する必要があります。場合によっては、複数の IMS 組織を持つお客様が、CDA と組み合わせて [!DNL Co-op Graph] を使用することが可能です。
-* [!DNL Co-op graph] と [!DNL Private Graph]、および CDA の特定のコンポーネントは、[!DNL Microsoft Azure] でホストされます。つまり、[!DNL Analytics] データがアドビのデータ処理センターとアドビの [!DNL Microsoft Azure] でのプレゼンスの間で相互にコピーされます。一部の [!DNL Analytics] データは [!DNL Azure] に保存されます。会社はこの取り決めに同意する必要があります。
+* 会社は、 [!DNL Adobe Experience Platform Identity Service Device Graph].
+* に必要なすべてのを実装する必要があります。 [!DNL Device Graph] 含む [Experience CloudID (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja) とグラフとの ID 同期。
+* 現在、単一の [!DNL Device Graph] で 2 つの IMS 組織を使用することはできないため、単一の IMS 組織で標準化する必要があります。
+* この [!DNL Device Graph]と、CDA の特定のコンポーネントがでホストされている [!DNL Microsoft Azure]. つまり、[!DNL Analytics] データがアドビのデータ処理センターとアドビの [!DNL Microsoft Azure] でのプレゼンスの間で相互にコピーされます。一部の [!DNL Analytics] データは [!DNL Azure] に保存されます。会社はこの取り決めに同意する必要があります。
 * CDA には、「クロスデバイス」 [!UICONTROL レポートスイート] が必要です。つまり、CDA に使用する [!UICONTROL レポートスイート] には、複数の異なるデバイスタイプまたは「サーフェス」（デスクトップ web、モバイル web、モバイルアプリなど）からのデータが含まれている必要があります。2019年9月の時点で、この [!UICONTROL レポートスイート] のサーバーコールのボリュームは 1 日あたり 1 億サーバーコール以下である必要があります（サーバーコールボリュームの制限は、今後数か月で増加します）。 
-* 2019年9月現在、[!DNL Co-op Graph] と [!DNL Private Graph] は北米でのみ利用できます。EMEA および APAC でのグラフプレゼンスのスケジュールは、今後発表される予定です。これらの地域にいる場合は、グラフが使用可能になったらすぐに利用できるように、これらの前提条件を今すぐ確認することをお勧めします。
 
 ## クロスデバイスデータの解釈
 
