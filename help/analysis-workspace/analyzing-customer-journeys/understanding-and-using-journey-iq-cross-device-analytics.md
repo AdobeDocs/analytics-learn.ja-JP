@@ -11,9 +11,9 @@ role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
 source-git-commit: 01e6e84f748e359aeb42c9be3afa52088f41018b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1529'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -55,7 +55,7 @@ Isabelle の行動をユーザーを中心としたクロスデバイス表示�
 
 ## [!DNL Cross-Device Analytics] のしくみ
 
-[!DNL Journey IQ: Cross-Device Analytics (CDA)] との統合 [!DNL Adobe Experience Platform Identity Service]、 [!DNL Device Graph] を使用して、デバイスがユーザーにどのようにマッピングされているかを特定します。 次に、このインテリジェンスを活用して、ユーザーの行動のクロスデバイス表示を作成します。CDA には、企業がマルチデバイスの使用法と、ブランドとのやり取りにおけるマルチデバイス全体のカスタマーエクスペリエンスを理解するのに役立つ、比類のない機能とツールが含まれています。Analysis Workspace の下のレイヤーとして機能し、[!UICONTROL フォールアウト]、[!DNL Flow]、[!DNL Cohort]、[!DNL Segment IQ]、[!DNL Attribution IQ] などの強力なツールを使用して、ユーザーベースのオーディエンス分析とクロスデバイスアトリビューション、セグメンテーション、ジャーニー分析に関する深いインサイトを提供します。
+[!DNL Journey IQ: Cross-Device Analytics (CDA)] は、[!DNL Adobe Experience Platform Identity Service] と統合され、[!DNL Device Graph] を利用して、デバイスが人物にどのようにマッピングされるかを識別します。次に、このインテリジェンスを活用して、ユーザーの行動のクロスデバイス表示を作成します。CDA には、企業がマルチデバイスの使用法と、ブランドとのやり取りにおけるマルチデバイス全体のカスタマーエクスペリエンスを理解するのに役立つ、比類のない機能とツールが含まれています。Analysis Workspace の下のレイヤーとして機能し、[!UICONTROL フォールアウト]、[!DNL Flow]、[!DNL Cohort]、[!DNL Segment IQ]、[!DNL Attribution IQ] などの強力なツールを使用して、ユーザーベースのオーディエンス分析とクロスデバイスアトリビューション、セグメンテーション、ジャーニー分析に関する深いインサイトを提供します。
 
 ### [!DNL Cross-Device Virtual Report Suite]
 
@@ -82,13 +82,13 @@ VRS の設定を完了し、保存します。CDA VRS は、次に示すよう�
 
 ### 履歴の再記述
 
-ユーザーがログインし、 [!DNL Device Graph] を使用して、ユーザーを特定し、デバイスをまとめます。 CDA では 30 日間のルックバックウィンドウを利用して、以前は識別されていなかった訪問者を、最大過去 30 日までユーザーとして再表示できるようにします。
+ユーザーがログインし、[!DNL Device Graph] がユーザーを識別してデバイスをマッピングするのに時間がかかる場合があります。CDA では 30 日間のルックバックウィンドウを利用して、以前は識別されていなかった訪問者を、最大過去 30 日までユーザーとして再表示できるようにします。
 
 これはどのように役立つでしょうか。上記のディスカッションから Isabelle のユーザージャーニーを思い出してください。
 
 ![[!DNL Cross-Device Analytics] ジャーニー](assets/cda-isabelle-journey-cross-device-analytics.png)
 
-イザベルが購入直前までログインしなかった可能性があり、 [!DNL Device Graph] イザベルの装置は、購入後のいつかまで一緒に地図を作成しなかった。 しかし、CDA では 30 日間のルックバックによって Isabelle の過去の行動を個人レベルで再表示でき、必要な Isabelle のジャーニーのクロスデバイス表示を提供します。
+Isabelle が購入の直前までログインしなかった可能性があり、[!DNL Device Graph] が購入後のある時点まで Isabelle のデバイスを一緒にマッピングしなかった可能性があります。しかし、CDA では 30 日間のルックバックによって Isabelle の過去の行動を個人レベルで再表示でき、必要な Isabelle のジャーニーのクロスデバイス表示を提供します。
 
 >[!NOTE]
 >
@@ -98,10 +98,10 @@ VRS の設定を完了し、保存します。CDA VRS は、次に示すよう�
 
 CDA は [[!DNL Analytics Ultimate]](https://helpx.adobe.com/jp/legal/product-descriptions/adobe-analytics.html) に含まれています。2019年9月以降、以下の前提条件を満たしている [!DNL Analytics Ultimate] のお客様は CDA を使用する資格があります。CDA の前提条件を次に示します。
 
-* 会社は、 [!DNL Adobe Experience Platform Identity Service Device Graph].
-* に必要なすべてのを実装する必要があります。 [!DNL Device Graph] 含む [Experience CloudID (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja) とグラフとの ID 同期。
-* 現在、単一の [!DNL Device Graph] で 2 つの IMS 組織を使用することはできないため、単一の IMS 組織で標準化する必要があります。
-* この [!DNL Device Graph]と、CDA の特定のコンポーネントがでホストされている [!DNL Microsoft Azure]. つまり、[!DNL Analytics] データがアドビのデータ処理センターとアドビの [!DNL Microsoft Azure] でのプレゼンスの間で相互にコピーされます。一部の [!DNL Analytics] データは [!DNL Azure] に保存されます。会社はこの取り決めに同意する必要があります。
+* 会社は [!DNL Adobe Experience Platform Identity Service Device Graph] を使用する必要があります。
+* [Experience Cloud ID（ECID）](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja)やグラフとの ID 同期など、[!DNL Device Graph] に必要なすべてを実装する必要があります。
+* 現在、単一の [!DNL Device Graph] で 2 つの IMS 組織を使用することはできないので、単一の IMS 組織で標準化する必要があります。
+* [!DNL Device Graph]、および CDA の特定のコンポーネントは、[!DNL Microsoft Azure] でホストされます。つまり、[!DNL Analytics] データがアドビのデータ処理センターとアドビの [!DNL Microsoft Azure] でのプレゼンスの間で相互にコピーされます。一部の [!DNL Analytics] データは [!DNL Azure] に保存されます。会社はこの取り決めに同意する必要があります。
 * CDA には、「クロスデバイス」 [!UICONTROL レポートスイート] が必要です。つまり、CDA に使用する [!UICONTROL レポートスイート] には、複数の異なるデバイスタイプまたは「サーフェス」（デスクトップ web、モバイル web、モバイルアプリなど）からのデータが含まれている必要があります。2019年9月の時点で、この [!UICONTROL レポートスイート] のサーバーコールのボリュームは 1 日あたり 1 億サーバーコール以下である必要があります（サーバーコールボリュームの制限は、今後数か月で増加します）。 
 
 ## クロスデバイスデータの解釈
@@ -144,16 +144,16 @@ CDA VRS 内で、[!DNL eVars] などのディメンションがデバイス間�
 
 CDA と Analysis Workspace を使用すると、ユーザーが時間とともに、あるデバイスから別のデバイスにどのように移動しているかを [[!DNL Flow visualization]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=ja) で視覚化できます。ユーザーがジャーニーのどこで離脱し、どこで継続するかを確認することができます。
 
-CDA を使用した *[!DNL Flow]*
+CDA を使用した *[!DNL Flow]*
 ![[!DNL Flow Visualization]](assets/cda-flow-viz.png)
 
 ### クロスデバイス [!DNL Fallout]
 
-いくつかの [[!DNL Fallout visualizations]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=ja) を使用して、成功を収める前に、ユーザーが特定の一連の手順をどの程度うまく実行しているかを分析する可能性があります。従来のデバイスベースの分析を使用すると、これらの [!DNL Fallout visualizations] の表示が制限されることをご存知ですか？ 「フォールスルー」を正常に行うには、次の手順を前の手順と同じブラウザーまたはアプリで実行する必要があります。デバイスベースの分析では、別のデバイスで次の手順を正常に完了したユーザーが誰かはわかりません。
+いくつかの [[!DNL Fallout visualizations]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=ja) を使用して、成功を収める前に、ユーザーが特定の一連の手順をどの程度うまく実行しているかを分析する可能性があります。従来のデバイスベースの分析を使用すると、これらの [!DNL Fallout visualizations] の表示が制限されることをご存知ですか？「フォールスルー」を正常に行うには、次の手順を前の手順と同じブラウザーまたはアプリで実行する必要があります。デバイスベースの分析では、別のデバイスで次の手順を正常に完了したユーザーが誰かはわかりません。
 
 ご安心ください。CDA がこれを可能にします。CDA は、[!DNL Fallout visualizations] をはるかに便利にするクロスデバイス表示を作成します。結局のところ、本当に重要なのは、そのユーザーが最終的にどこかで自分のタスクに成功したかどうかです。
 
-CDA を使用した *[!DNL Fallout]*
+CDA を使用した *[!DNL Fallout]*
 ![[!DNL Fallout Visualization]](assets/cda-fallout-viz.png)
 
 ### [!DNL Cross-Device Attribution IQ]
@@ -162,7 +162,7 @@ CDA は Analysis Workspace の下にクロスデバイスデータのレイヤ�
 
 例えば、最終的に成功につながるやり取りで使用された最初のデバイスが携帯電話であった頻度を把握したいとします。これは、携帯電話の「獲得率」を表します。CDA と [!DNL Attribution IQ] を使用すると、次の分析を行うことができます。
 
-CDA を使用した *[!DNL Attribution IQ]*
+CDA を使用した *[!DNL Attribution IQ]*
 ![[!DNL Attribution IQ]](assets/cda-attribution-iq.png)
 
 詳しくは、[[!DNL Cross-Device Analytics] ヘルプドキュメント](https://experienceleague.adobe.com/docs/analytics/components/cda/cda-home.html?lang=ja) を参照してください。
