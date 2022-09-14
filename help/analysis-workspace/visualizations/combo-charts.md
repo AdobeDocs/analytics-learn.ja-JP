@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspaceのコンボグラフ
-description: Analysis Workspaceのコンボグラフのビジュアライゼーションについて説明します。 コンボチャートビジュアライゼーションを使用すると、最初にテーブルを作成しなくても、比較ビジュアライゼーションをすばやく簡単に作成できます。折れ線グラフと棒グラフの組み合わせでデータの傾向を簡単に表示できます。（60～160 文字で指定しますが、258 文字です）
+description: Analysis Workspaceのコンボグラフのビジュアライゼーションについて説明します。 コンボチャートビジュアライゼーションを使用すると、最初にテーブルを作成しなくても、比較ビジュアライゼーションをすばやく簡単に作成できます。折れ線グラフと棒グラフの組み合わせでデータの傾向を簡単に表示できます。
 feature: Visualizations
 role: User
 level: Beginner
 kt: 11111
-thumbnail: 3409159.jpeg
-source-git-commit: ac000e8726196b07934f05fcbcdc8f0eb0530f55
+thumbnail: 3409159.jpg
+source-git-commit: 7bfb42fa1896b31ec291fd1cddc02da73da3af8c
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 69%
+source-wordcount: '109'
+ht-degree: 66%
 
 ---
 
