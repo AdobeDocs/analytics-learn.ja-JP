@@ -1,5 +1,5 @@
 ---
-title: 'コホートテーブルでのローリングリテンションの計算 '
+title: コホートテーブルでのローリングリテンションの計算
 description: コホートテーブルのローリング計算の設定を使用すると、コホートを期間ごとに分析し、同じユーザーが時間の経過とともにどのように定着（またはチャーン）するかを把握できます。
 feature: Visualizations
 topics: null
@@ -12,7 +12,7 @@ role: User
 level: Intermediate
 exl-id: 3439b31c-dd4a-4a21-857a-1884463003cf
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
 

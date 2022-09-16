@@ -1,6 +1,6 @@
 ---
 title: 仮想レポートスイートの任意のイベントで新しい訪問を開始する
-description: 'このビデオでは、仮想レポートスイートの訪問設定を使用することにより、Adobe Analytics でイベントを使用して新しい訪問の開始をトリガーする方法を説明します。 '
+description: このビデオでは、仮想レポートスイートの訪問設定を使用することにより、Adobe Analytics でイベントを使用して新しい訪問の開始をトリガーする方法を説明します。
 feature: VRS
 topics: null
 activity: use
@@ -11,7 +11,7 @@ role: User
 level: Intermediate
 exl-id: ca1d8ca8-a854-4d02-8017-4e3e3587ab9e
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 100%
 

@@ -7,13 +7,13 @@ role: Admin
 level: Experienced
 thumbnail: impactful-stories.jpg
 kt: 10157
-source-git-commit: 5c1a78ea47373af78e3ad33e48f1401405e8bd88
-workflow-type: ht
+exl-id: b7902626-fbce-4333-909f-60878cd3ac99
+source-git-commit: 32af3db3bd0abe57504708318d9b641324569c65
+workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 100%
 
 ---
-
 
 # データを伴う影響力のあるストーリーの伝達
 

@@ -1,6 +1,6 @@
 ---
 title: Analysis Workspace でのトレーニングチュートリアルテンプレート
-description: 'Analysis Workspace トレーニングチュートリアルでは、Workspace で初めて分析を作成するための一般的な用語と手順を順を追って説明します。 '
+description: Analysis Workspace トレーニングチュートリアルでは、Workspace で初めて分析を作成するための一般的な用語と手順を順を追って説明します。
 feature: Panels
 topics: null
 activity: use
@@ -11,7 +11,7 @@ role: User
 level: Beginner
 exl-id: 52f800b6-f184-4a82-8729-e6edd478331c
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 100%
 

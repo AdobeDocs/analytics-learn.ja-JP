@@ -1,6 +1,6 @@
 ---
-title: 'Adobe Analytics での分類ルールビルダーの使用 '
-description: '分類ルールビルダーを使用して、Adobe Analytics でルールベースの分類を自動的に適用する方法を説明します。 '
+title: Adobe Analytics での分類ルールビルダーの使用
+description: 分類ルールビルダーを使用して、Adobe Analytics でルールベースの分類を自動的に適用する方法を説明します。
 feature: Classifications
 topics: null
 activity: use
@@ -11,7 +11,7 @@ role: User
 level: Beginner
 exl-id: 066d0ebf-1921-48be-8531-bdd766330825
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 100%
 

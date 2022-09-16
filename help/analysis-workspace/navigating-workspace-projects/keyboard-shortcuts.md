@@ -1,6 +1,6 @@
 ---
 title: Analysis Workspace のキーボードショートカット
-description: 'このビデオでは、Analysis Workspace のキーボードショートカットオプションを調べ、より迅速かつ効率的に移動する方法を示します。 '
+description: このビデオでは、Analysis Workspace のキーボードショートカットオプションを調べ、より迅速かつ効率的に移動する方法を示します。
 feature: Workspace Basics
 topics: null
 activity: use
@@ -11,7 +11,7 @@ role: User
 level: Beginner
 exl-id: f344469b-b925-4978-918f-5204f6f10094
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
 

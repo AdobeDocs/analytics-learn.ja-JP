@@ -9,8 +9,8 @@ thumbnail: 27306.jpg
 kt: 2916
 exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
 source-git-commit: 036646c3343a7025f394d74f344b0f8780ebc7df
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '112'
 ht-degree: 100%
 
 ---

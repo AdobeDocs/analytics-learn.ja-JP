@@ -1,6 +1,6 @@
 ---
 title: Adobe Analytics 実装プレイブックのダウンロード
-description: 'ビジネス要件定義書（BRD と呼ばれることが多い）は、主要な関係者、ビジネスユーザー、技術ユーザーが共同作業を行うために必要となる、非常に重要なドキュメントです。このドキュメントに、目標とする KPI、レポート要件、AA の実装が完了したときに確認できるようにしたいデータポイントのすべてを文書化します。 '
+description: ビジネス要件定義書（BRD と呼ばれることが多い）は、主要な関係者、ビジネスユーザー、技術ユーザーが共同作業を行うために必要となる、非常に重要なドキュメントです。このドキュメントに、目標とする KPI、レポート要件、AA の実装が完了したときに確認できるようにしたいデータポイントのすべてを文書化します。
 feature: Implementation Basics
 topic: Administration
 role: Admin
@@ -10,7 +10,7 @@ thumbnail: 10530.jpg
 kt: 10530
 exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1805'
 ht-degree: 100%
 

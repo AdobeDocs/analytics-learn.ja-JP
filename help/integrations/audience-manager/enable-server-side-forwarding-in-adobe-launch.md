@@ -1,6 +1,6 @@
 ---
 title: Experience Platform Launch でのサーバーサイド転送の有効化
-description: 'Experience Platform Launch を使用して、Adobe Analytics のヒットをサーバー側転送経由で Adobe Audience Manager に自動的に送信する方法を説明します。 '
+description: Experience Platform Launch を使用して、Adobe Analytics のヒットをサーバー側転送経由で Adobe Audience Manager に自動的に送信する方法を説明します。
 feature: Experience Cloud Integration
 topics: null
 activity: use
@@ -13,7 +13,7 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 393d23f9-8c25-4210-b11b-cd9e02e63712
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 100%
 

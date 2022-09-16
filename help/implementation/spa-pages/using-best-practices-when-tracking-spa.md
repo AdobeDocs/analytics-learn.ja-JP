@@ -1,5 +1,5 @@
 ---
-title: 'Adobe Analytics で単一ページアプリケーション（SPA）をトラッキングする際のベストプラクティスの使用 '
+title: Adobe Analytics で単一ページアプリケーション（SPA）をトラッキングする際のベストプラクティスの使用
 description: このドキュメントでは、Adobe Analytics を使用して単一ページアプリケーション（SPA）をトラッキングする際に、従う必要があり、注意する必要のあるいくつかのベストプラクティスについて説明します。このドキュメントでは、推奨される実装方法である Experience Platform Launch の使用に焦点を当てます。
 feature: Implementation Basics
 topics: spa
@@ -12,7 +12,7 @@ role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1669'
 ht-degree: 100%
 
@@ -141,4 +141,4 @@ SPA ページで最初のページの読み込みが行われる際に、これ�
 ## その他のリソース {#additional-resources}
 
 * [アドビフォーラムでの SPA ディスカッション](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/best-practices-for-single-page-apps/m-p/267940?profile.language=ja)
-* [Experience Platform Launch での SPA の実装方法を示すリファレンスアーキテクチャのサイト](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html?lang=ja)
+* [Experience Platform Launch での SPA の実装方法を示すリファレンスアーキテクチャのサイト](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)

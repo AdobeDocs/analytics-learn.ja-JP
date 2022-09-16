@@ -1,6 +1,6 @@
 ---
 title: Experience Platform SDK を使用したモバイルアプリでのアクション（カスタムリンク）のトラッキング
-description: 'アクションは、モバイルアプリで発生するイベントです。 このビデオでは、trackAction API を使用してアクションを追跡し測定する方法を説明します。 '
+description: アクションは、モバイルアプリで発生するイベントです。 このビデオでは、trackAction API を使用してアクションを追跡し測定する方法を説明します。
 feature: Mobile SDK
 topics: null
 activity: implement
@@ -12,7 +12,7 @@ role: Developer, Data Engineer
 level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 100%
 

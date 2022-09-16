@@ -1,6 +1,6 @@
 ---
 title: Analytics ビデオおよびチュートリアル
-description: 'Adobe Analytics を最大限に活用しましょう。これらのチュートリアルを使用して Analytics の機能を習得し、ビジネスにとってのメリットを享受できます。このコンテンツは、管理者、データアナリスト、マーケター、開発者およびアーキテクトに適しています。 '
+description: Adobe Analytics を最大限に活用しましょう。これらのチュートリアルを使用して Analytics の機能を習得し、ビジネスにとってのメリットを享受できます。このコンテンツは、管理者、データアナリスト、マーケター、開発者およびアーキテクトに適しています。
 feature: Analytics Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -9,7 +9,7 @@ thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: e66ac6397db58e403cb2bc10cb6a2af2eb7b1081
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 100%
 

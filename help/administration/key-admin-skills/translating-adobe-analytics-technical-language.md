@@ -7,13 +7,13 @@ role: Admin
 level: Experienced
 thumbnail: 342066.jpg
 kt: 10128
-source-git-commit: 5c1a78ea47373af78e3ad33e48f1401405e8bd88
-workflow-type: ht
+exl-id: 00a457dc-ff0b-461f-8f02-afc4ecd6b54b
+source-git-commit: 32af3db3bd0abe57504708318d9b641324569c65
+workflow-type: tm+mt
 source-wordcount: '1017'
 ht-degree: 100%
 
 ---
-
 
 # 一般的な用語による Adobe Analytics 専門用語の翻訳
 

@@ -1,6 +1,6 @@
 ---
 title: 音声アシスタントアプリのデータを管理および追跡する方法
-description: 'カスタマイズされたダッシュボードを作成して、音声アシスタントアプリのパフォーマンスを簡単、柔軟、直感的、視覚的に管理およびトラックする方法を説明します。 '
+description: カスタマイズされたダッシュボードを作成して、音声アシスタントアプリのパフォーマンスを簡単、柔軟、直感的、視覚的に管理およびトラックする方法を説明します。
 feature: Visualizations
 topics: null
 activity: use
@@ -11,7 +11,7 @@ role: User
 level: Intermediate
 exl-id: 3fd55eac-e485-41b9-9178-c7add90fa292
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
 
