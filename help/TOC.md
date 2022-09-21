@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: ac000e8726196b07934f05fcbcdc8f0eb0530f55
 workflow-type: tm+mt
 source-wordcount: '2418'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -131,7 +131,7 @@ ht-degree: 99%
       + [ドーナツグラフのビジュアライゼーション](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [ヒストグラムビジュアライゼーション](analysis-workspace/visualizations/histogram-visualization.md)
       + [折れ線グラフのビジュアライゼーション](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
-      + [コンボグラフ](analysis-workspace/visualizations/combo-charts.md)
+      + [複合グラフ](analysis-workspace/visualizations/combo-charts.md)
       + [折れ線グラフのビジュアライゼーションへのトレンドラインの追加](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [マップのビジュアライゼーション](analysis-workspace/visualizations/map-visualization.md)
       + [数値概要と変化概要の視覚化](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
