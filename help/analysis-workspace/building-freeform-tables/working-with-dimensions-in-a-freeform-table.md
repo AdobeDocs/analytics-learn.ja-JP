@@ -2,19 +2,15 @@
 title: フリーフォームテーブルでのディメンションの操作
 description: ディメンションの追加、並べ替え、フィルタリング、他のディメンションによる分類など、フリーフォームテーブルでのディメンションのすべての操作について説明します。
 feature: Dimensions
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 40179.jpg
 kt: 6176
 role: User
 level: Beginner
 exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db
-source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
+source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 100%
+source-wordcount: '112'
+ht-degree: 83%
 
 ---
 
@@ -36,3 +32,7 @@ ht-degree: 100%
 * ディメンション（フィルター） (8:30)
 * 分類 (9:48)
 * ランク、経時的およびトレンドレポート (13:11)
+
+>[!INFO]
+>
+> このビデオはコースの一部です。 [フリーフォームテーブル、分析の基盤](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)(Experience League時に無料で利用可能 )
