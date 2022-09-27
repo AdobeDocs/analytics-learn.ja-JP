@@ -8,10 +8,10 @@ kt: 4105
 role: User
 level: Beginner
 exl-id: 0962f332-acc7-4ebe-9841-4d3fdf1d77b3
-source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
+source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 100%
+source-wordcount: '106'
+ht-degree: 83%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=ja) を参照してください。
+
+>[!INFO]
+>
+> このビデオはコースの一部です。 [Analysis Workspaceの概要](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=ja)(Experience League時に無料で利用可能 )
