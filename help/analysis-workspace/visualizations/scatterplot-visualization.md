@@ -4,14 +4,13 @@ description: このビジュアライゼーションを使用すると、ディ�
 feature: Visualizations
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 334459.jpg
 kt: 8188
 exl-id: 6c9aa05b-ada3-489c-832f-bf9438dd3572
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 100%
+source-wordcount: '112'
+ht-degree: 82%
 
 ---
 
@@ -22,3 +21,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/scatterplot.html?lang=ja) を参照してください。
+
+>[!INFO]
+>
+> このビデオはコースの一部です。 [ビジュアライゼーションを使用したデータストーリーの把握](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=ja)(Experience League時に無料で利用可能 )

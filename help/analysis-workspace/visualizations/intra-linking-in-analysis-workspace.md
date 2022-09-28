@@ -2,16 +2,15 @@
 title: Analysis Workspace でのイントラリンク
 description: イントラリンクを使用すると、Analysis Workspace でプロジェクトを作成するアナリストは、プロジェクトの読者を、プロジェクト内の正確なパネルとビジュアライゼーションに導くことができます。
 feature: Visualizations
-doc-type: feature video
 thumbnail: 23724.jpg
 kt: 1908
 role: User
 level: Beginner
 exl-id: acc44e46-1fd1-45ca-ad4b-485ff6fff5b5
-source-git-commit: ad0fa7f4e781d826a3a10a5ad7e7022334cb44e4
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 100%
+source-wordcount: '104'
+ht-degree: 80%
 
 ---
 
@@ -22,3 +21,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12)
 
 イントラリンクは、目次を作成し、全体的により効果的なデータストーリーを伝える場合にも使用できます。 新しいハイパーリンク機能により、クロスプロジェクトリンクも使用できるようになりました。
+
+>[!INFO]
+>
+> このビデオはコースの一部です。 [ビジュアライゼーションを使用したデータストーリーの把握](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=ja)(Experience League時に無料で利用可能 )
