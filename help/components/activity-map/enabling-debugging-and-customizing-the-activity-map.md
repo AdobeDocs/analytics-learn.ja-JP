@@ -8,10 +8,10 @@ kt: 1995
 role: User
 level: Beginner
 exl-id: 4160b974-fbdb-42e7-b77d-e1322db433b3
-source-git-commit: d087d830c6ddf03eb5c620fa0a9484ff6c817e7f
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 100%
+source-wordcount: '81'
+ht-degree: 72%
 
 ---
 
@@ -20,3 +20,7 @@ ht-degree: 100%
 Adobe Analytics 拡張機能で [!UICONTROL Activity Map] をデプロイする方法の有効化、デバッグ、カスタマイズを説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12)
+
+>[!INFO]
+>
+> このビデオはコースの一部です [Adobe Analyticsでのレポートスイートの設定と管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=ja)(Experience League時に無料で利用可能 )

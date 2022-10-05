@@ -1,27 +1,23 @@
 ---
-title: Adobe Analysis Workspace でビジネスがどう変わるか
-landing-page-description: Analysis Workspace を使用して Ad Hoc Analysis、フレキシブル分析、コホート分析、フォールアウト分析を実行する方法について説明します。
-description: Analysis Workspace は Adobe Analytics の使いやすい新しいインターフェースです。 Analysis Workspace では、Ad Hoc Analysis、 柔軟な分析、コホート分析、フォールアウト分析を実行できます。また、分析作業環境を社内のすべてのユーザーと共有することもできます。ドラッグ&ドロップ機能を使用すると、全員がデータを簡単に分析し、インサイトを迅速に取得できます。
+title: AdobeAnalysis Workspaceでビジネスを変更
+description: Ad Hoc、Cohort、フォールアウトなど、Analysis Workspaceで使用できる分析のタイプについて説明します。 ドラッグ&ドロップ機能を使用して、データを簡単かつ迅速に分析できます。
 feature: Workspace Basics
-topics: null
-activity: understand
-doc-type: value video
-team: Technical Marketing
-kt: 4382
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
+kt: 4382
+thumbnail: 31501.jpg
 exl-id: 6e23fcf4-b4e2-4370-8904-801a13acf651
-source-git-commit: f08de1c175fc5d77d574b8abd9ad3e826661237d
+source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 100%
+source-wordcount: '82'
+ht-degree: 0%
 
 ---
 
-# Adobe Analysis Workspace でビジネスがどう変わるか
+# AdobeAnalysis Workspaceでビジネスを変更
 
-[!UICONTROL Analysis Workspace] は Adobe Analytics の使いやすい新しいインターフェースです。 [!UICONTROL Analysis Workspace] では、[!UICONTROL Ad Hoc Analysis]、 [!UICONTROL 柔軟な分析]、[!UICONTROL コホート分析]、[!UICONTROL フォールアウト分析]を実行できます。また、分析作業環境を社内のすべてのユーザーと共有することもできます。ドラッグ&amp;ドロップ機能を使用すると、全員がデータを簡単に分析し、インサイトを迅速に取得できます。
+で使用できる分析のタイプについて説明します。 [!DNL Analysis Workspace]例： [!DNL Ad Hoc],[!DNL Cohort]、および [!DNL Fallout]. ドラッグ&amp;ドロップ機能を使用して、データを簡単かつ迅速に分析できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31501/?quality=12)
 
-Adobe Analysis Workspace について詳しくは、 [こちら](https://www.adobe.com/jp/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&amp;mv=search) を参照してください。
+[AdobeAnalysis Workspaceの詳細](https://business.adobe.com/products/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&amp;mv=search)

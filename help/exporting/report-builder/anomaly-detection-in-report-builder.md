@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 25444.jpg
 kt: 1768
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
-source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '130'
+ht-degree: 81%
 
 ---
 
@@ -26,3 +26,7 @@ ht-degree: 100%
 [!UICONTROL Report Builder] では、[!UICONTROL 指標]の実績値を期待値および上限／下限値とともに返して、分析および共有しているデータに深みを持たせることができます。
 
 この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=ja) を参照してください。
+
+>[!INFO]
+>
+> このビデオはコースの一部です [Adobe Analyticsのデータのエクスポートと民主化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)(Experience League時に無料で利用可能 )

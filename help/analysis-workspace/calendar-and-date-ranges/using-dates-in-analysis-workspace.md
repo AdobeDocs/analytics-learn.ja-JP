@@ -10,10 +10,10 @@ kt: 2014
 role: User
 level: Beginner
 exl-id: 5b738273-867e-4eb9-bab2-3f16d18608b6
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 100%
+source-wordcount: '105'
+ht-degree: 80%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 このビデオでは、[!DNL Freeform] 分析で日付を操作する 3 つの異なる方法、すなわちカレンダー、[!UICONTROL 日付範囲]要素、精度要素を説明します。日付を使用して折れ線グラフを有効にする方法については、残念ながら紹介されていません。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24136/?quality=12)
+
+>[!INFO]
+>
+> このビデオはコースの一部です [カスタムセグメント化と日付でのデータのフィルタリング](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=ja)(Experience League時に無料で利用可能 )

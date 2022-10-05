@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 339441.jpg
 kt: 9528
 exl-id: 39ac3d0e-7f5c-44c3-946d-57e2a395a9f6
-source-git-commit: b6ba0e9a2291e30cb0ac979bbac79714dc981fca
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 100%
+source-wordcount: '86'
+ht-degree: 74%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/339441/?quality=12&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-var.html?lang=ja) を参照してください。
+
+>[!INFO]
+>
+> このビデオはコースの一部です [Adobe Analyticsでのレポートスイートの設定と管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=ja)(Experience League時に無料で利用可能 )

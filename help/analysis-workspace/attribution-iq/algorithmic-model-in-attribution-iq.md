@@ -11,10 +11,10 @@ kt: 5554
 role: User
 level: Intermediate
 exl-id: fc7a4eda-0e1b-45a5-876d-022b97ef6e42
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 100%
+source-wordcount: '94'
+ht-degree: 76%
 
 ---
 
@@ -25,3 +25,7 @@ Analysis Workspace のアルゴリズムアトリビューションモデルで�
 >[!VIDEO](https://video.tv.adobe.com/v/36205/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/algorithmic.html?lang=ja) を参照してください。
+
+>[!INFO]
+>
+> このビデオはコースの一部です [顧客ジャーニーにおけるデジタルタッチポイントに対する価値の関連付け](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=ja)(Experience League時に無料で利用可能 )

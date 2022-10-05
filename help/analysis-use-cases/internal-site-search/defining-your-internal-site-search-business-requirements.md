@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 333511.jpg
 kt: 7987
 exl-id: a6d26b85-3e04-4444-bbd7-89a476bfea07
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 8275dc8a85b2a46b349e12e44c7a001d52b372f8
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 100%
+source-wordcount: '122'
+ht-degree: 80%
 
 ---
 
@@ -20,3 +20,7 @@ ht-degree: 100%
 サイト上で内部検索を追跡することを決定する際には、まず、検索のどの側面を追跡したいのか、そして結果を分析することでどのようなアクションが取れるのかを決定することが重要です。このビデオでは、ビジネス要件の文書化について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333511/?quality=12&learn=on)
+
+>[!INFO]
+>
+> このビデオはコースの一部です [内部サイト検索の実装と測定](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search)(Experience League時に無料で利用可能 )

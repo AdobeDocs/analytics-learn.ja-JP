@@ -10,10 +10,10 @@ kt: 3591
 role: Developer, Data Engineer
 level: Beginner
 exl-id: ae600143-87cc-435d-bba2-0bce929070ac
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 100%
+source-wordcount: '100'
+ht-degree: 84%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 このビデオでは、[!DNL Experience Platform Launch] を使用してサイトのコンバージョンイベント（成功イベントとも呼ばれる）を追跡する方法を説明します。サンプルサイトでのアプリケーションプロセスを追跡するユースケースを用いて示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12)
+
+>[!INFO]
+>
+> このビデオはコースの一部です [ガイド付き Analytics の実装](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)(Experience League時に無料で利用可能 )

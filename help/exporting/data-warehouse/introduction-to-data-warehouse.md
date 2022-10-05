@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 27306.jpg
 kt: 2916
 exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
-source-git-commit: 036646c3343a7025f394d74f344b0f8780ebc7df
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 100%
+source-wordcount: '136'
+ht-degree: 82%
 
 ---
 
@@ -20,3 +20,7 @@ ht-degree: 100%
 Adobe Analytics の [!UICONTROL Data Warehouse] リクエストツールを使用すると、生データをクエリするためのアクセスが可能になります。[!UICONTROL Data Warehouse] は、個々のスケジュールされダウンロードされたレポートに対して、1 回のリクエストで処理できる行数に制限はありません。このビデオでは、[!UICONTROL Data Warehouse] レポートを作成するためのウォークスルーを含む、ツールの概要を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12)
+
+>[!INFO]
+>
+> このビデオはコースの一部です [Adobe Analyticsのデータのエクスポートと民主化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)(Experience League時に無料で利用可能 )

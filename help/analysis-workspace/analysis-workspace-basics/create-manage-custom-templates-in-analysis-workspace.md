@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 23231.jpg
 kt: 1695
 exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
-source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 100%
+source-wordcount: '165'
+ht-degree: 85%
 
 ---
 
@@ -24,3 +24,7 @@ ht-degree: 100%
 [!UICONTROL アドビの標準テンプレート]で対応できる場合はそれで十分ですが、自分専用のテンプレートが必要な場合もあります。 これで、独自のカスタムテンプレート内に任意のプロジェクトを作成できるようになりました。新しいユーザーが迅速に作業を進めたり、お気に入りのダッシュボードやプロジェクトを見つけたり、チーム間でダッシュボードを共有したりするのがさらに容易になります。
 
 標準テンプレートとカスタムテンプレートの詳細については、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=ja) を参照してください。
+
+>[!INFO]
+>
+> このビデオはコースの一部です [Adobe Analyticsのデータのエクスポートと民主化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)(Experience League時に無料で利用可能 )

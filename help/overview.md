@@ -1,6 +1,6 @@
 ---
 title: Analytics ビデオおよびチュートリアル
-description: Adobe Analytics を最大限に活用しましょう。これらのチュートリアルを使用して Analytics の機能を習得し、ビジネスにとってのメリットを享受できます。このコンテンツは、管理者、データアナリスト、マーケター、開発者およびアーキテクトに適しています。
+description: Adobe Analytics を最大限に活用しましょう。これらのチュートリアルを使用して、Analytics の機能を学び、ビジネスにとってのメリットを享受できます。 このコンテンツは、管理者、データアナリスト、マーケター、開発者およびアーキテクトに適しています。
 feature: Analytics Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -8,10 +8,10 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: e66ac6397db58e403cb2bc10cb6a2af2eb7b1081
+source-git-commit: 2e20de678e255981b8fc8f230ddf420793e3b4a5
 workflow-type: tm+mt
-source-wordcount: '345'
-ht-degree: 100%
+source-wordcount: '320'
+ht-degree: 80%
 
 ---
 
@@ -19,9 +19,10 @@ ht-degree: 100%
 
 # Analytics チュートリアル
 
-[!DNL Adobe Analytics] を最大限に活用しましょう。これらのチュートリアルを使用して Analytics の機能を習得し、ビジネスにとってのメリットを享受できます。このコンテンツは、管理者、データアナリスト、マーケター、開発者およびアーキテクトに適しています。
+[!DNL Adobe Analytics] を最大限に活用しましょう。これらのチュートリアルを使用して、Analytics の機能を学び、ビジネスにとってのメリットを享受できます。 このコンテンツは、管理者、データアナリスト、マーケター、開発者およびアーキテクトに適しています。
 
 開始するには、Dynamic Tag Management アカウントで
+
 * 最新の情報と機能については、以下の&#x200B;**「新機能」**&#x200B;の節を参照してください。
 * **スタッフのおすすめ**&#x200B;ではお気に入りのコンテンツをいくつか紹介します。
 * **左側のナビゲーション**&#x200B;でトピックとサブトピック別のコンテンツをご覧ください。
@@ -31,14 +32,11 @@ ht-degree: 100%
 
 ## 最新情報
 
-* **[Adobe Analytics モバイルスコアカードビルダー（ビデオ）](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)**
-   *エグゼクティブユーザー向け [!DNL Analysis Workspace] で作成したモバイルスコアカードを作成および共有する方法について説明します。*
-
 * **[Adobe Analytics モバイルスコアカードアプリ](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
    *モバイルスコアカードアプリケーションをダウンロードし、[!DNL Analysis Workspace].* で作成したモバイルスコアカードを表示します。
 
 * **[ワークスペース内の注釈（ビデオ）](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *の注釈を使用すると、組織全体のユーザーに対して、コンテキストデータのニュアンスやインサイトを効果的に伝えることができます。[!DNL Analysis Workspace]日付や日付範囲に、既知のデータの問題、祝日、キャンペーン開始などの注釈を付けることで、折れ線グラフや表などに表示されるものがなぜ表示されているかをより分かりやすくユーザーに伝えます。*
+   *の注釈を使用すると、組織全体のユーザーに対して、コンテキストデータのニュアンスやインサイトを効果的に伝えることができます。[!DNL Analysis Workspace]既知のデータの問題、祝日、キャンペーンの起動などを使用して、日付や日付範囲に注釈を付けます。 これにより、折れ線グラフやテーブルに不規則が表示される理由をユーザーに知らせます。*
 
 ## スタッフのおすすめ
 

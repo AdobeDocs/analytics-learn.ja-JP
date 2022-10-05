@@ -2,7 +2,6 @@
 title: コホートテーブルを使用した待ち時間分析
 description: コホートテーブルの待ち時間テーブル設定を使用すると、（標準コホートが示すように）インクルージョンイベントの前後のコホートの動作を分析できます。この設定は、例えば、新しい製品やキャンペーンの立ち上げの影響を分析する場合に役立ちます。
 feature: Visualizations
-topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,10 +10,10 @@ kt: 2480
 role: User
 level: Intermediate
 exl-id: e31fc334-9a60-4b90-a126-98ff169952b3
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 100%
+source-wordcount: '146'
+ht-degree: 84%
 
 ---
 
@@ -25,3 +24,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/25964/?quality=12)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=ja) を参照してください。
+
+>[!INFO]
+>
+> このビデオはコースの一部です [顧客ジャーニーにおけるデジタルタッチポイントに対する価値の関連付け](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=ja)(Experience League時に無料で利用可能 )

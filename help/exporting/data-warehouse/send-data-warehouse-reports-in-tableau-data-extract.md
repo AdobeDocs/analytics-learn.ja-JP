@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 341449.jpg
 kt: 9860
 exl-id: ebe9e66f-30a3-40b8-bd29-1572620a4fdb
-source-git-commit: 3cecbbde6edfc94fcd7968a27bd372f740101b9a
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 100%
+source-wordcount: '105'
+ht-degree: 77%
 
 ---
 
@@ -23,3 +23,7 @@ Data Warehouse では、Adobe Analytics 以外からのデータを民主化し�
 >[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
 
 この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/t-tableau.html?lang=ja)を参照してください。
+
+>[!INFO]
+>
+> このビデオはコースの一部です [Adobe Analyticsのデータのエクスポートと民主化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)(Experience League時に無料で利用可能 )

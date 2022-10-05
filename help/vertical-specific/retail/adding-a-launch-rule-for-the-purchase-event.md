@@ -10,10 +10,10 @@ kt: 3593
 role: Developer, Data Engineer
 level: Beginner
 exl-id: d5f29523-5726-4c49-8ce6-a21c0a7a6c73
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 100%
+source-wordcount: '91'
+ht-degree: 82%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 このビデオでは、[!DNL Experience Platform Launch] の製品文字列[!UICONTROL 拡張機能]を使用して、サイトでの購入を追跡し、分析の[!UICONTROL 売上高]、[!UICONTROL 注文]、[!UICONTROL 数量]の[!UICONTROL 指標]を取得する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28766/?quality=12)
+
+>[!INFO]
+>
+> このビデオはコースの一部です [ガイド付き Analytics の実装](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)(Experience League時に無料で利用可能 )

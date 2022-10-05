@@ -2,7 +2,6 @@
 title: コホートテーブルを使用したチャーン分析
 description: コホートテーブルには、リテンションとチャーンの 2 つの分析タイプがあります。リテンションが時間の経過とともにどれだけのユーザーを維持したかを示すのに対し、「チャーン」オプションはどれだけのユーザーが失われたかを示します（1 - リテンション）。
 feature: Visualizations
-topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,10 +10,10 @@ kt: 2479
 role: User
 level: Intermediate
 exl-id: 4abb937f-24be-4a91-bcab-489a093e96b6
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 100%
+source-wordcount: '114'
+ht-degree: 80%
 
 ---
 
@@ -25,3 +24,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=ja) を参照してください。
+
+>[!INFO]
+>
+> このビデオはコースの一部です [顧客ジャーニーにおけるデジタルタッチポイントに対する価値の関連付け](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=ja)(Experience League時に無料で利用可能 )

@@ -8,10 +8,10 @@ level: Beginner
 thumbnail: 335749.jpg
 kt: 8466
 exl-id: ce096b45-a7bf-4ebd-96e9-b2e10c2c175b
-source-git-commit: f53d322ca18abdd0c7f0f46de7a0146c5af14e6f
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 100%
+source-wordcount: '125'
+ht-degree: 82%
 
 ---
 
@@ -19,5 +19,8 @@ ht-degree: 100%
 
 Adobe Analytics で IMS ID が間違っている、または欠落している場合、ユーザーのログインに問題が生じる可能性があります。ユーザーは、リンクされた IMS ID 自体を確認し、問題がある場合はカスタマーサポートに問い合わせることができるので、一般的なトラブルシューティング手順を実行する手間を省くことができます。
 
-
 >[!VIDEO](https://video.tv.adobe.com/v/335749/?quality=12&learn=on)
+
+>[!INFO]
+>
+> このビデオはコースの一部です [Adobe Analyticsでのレポートスイートの設定と管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=ja)(Experience League時に無料で利用可能 )

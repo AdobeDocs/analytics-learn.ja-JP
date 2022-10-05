@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 346063.jpg
 kt: 2279
 exl-id: 888fec4a-308d-4a05-9c7b-a4b4deba09b1
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 100%
+source-wordcount: '120'
+ht-degree: 81%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/346063/?quality=12&learn=on)
 
 この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=ja)を参照してください。
+
+>[!INFO]
+>
+> このビデオはコースの一部です [顧客ジャーニーにおけるデジタルタッチポイントに対する価値の関連付け](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=ja)(Experience League時に無料で利用可能 )

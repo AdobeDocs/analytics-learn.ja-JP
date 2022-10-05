@@ -7,10 +7,10 @@ kt: 1661
 role: User
 level: Intermediate
 exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 81%
+source-wordcount: '130'
+ht-degree: 83%
 
 ---
 
@@ -31,4 +31,8 @@ ht-degree: 81%
 
 >[!INFO]
 >
-> このビデオはコースの一部です。 [フリーフォームテーブル、分析の基盤](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)(Experience League時に無料で利用可能 )
+> このビデオは[フリーフォームテーブル、分析の基盤](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)コース（Experience League で無料で利用可能）の一部です。
+
+>[!INFO]
+>
+> このビデオはコースの一部です [顧客ジャーニーにおけるデジタルタッチポイントに対する価値の関連付け](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=ja)(Experience League時に無料で利用可能 )

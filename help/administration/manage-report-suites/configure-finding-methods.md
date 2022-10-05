@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 333042.jpg
 kt: 7708
 exl-id: 2cee782a-1d21-47e6-ab47-911b7610c7f2
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 100%
+source-wordcount: '103'
+ht-degree: 78%
 
 ---
 
@@ -23,3 +23,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/333042/?quality=12&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html?lang=ja) を参照してください。
+
+>[!INFO]
+>
+> このビデオはコースの一部です [Adobe Analyticsでのレポートスイートの設定と管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=ja)(Experience League時に無料で利用可能 )

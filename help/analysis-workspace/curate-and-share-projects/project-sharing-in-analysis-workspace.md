@@ -11,10 +11,10 @@ kt: 5555
 role: User
 level: Beginner
 exl-id: edba5887-bb72-49d5-a5b2-0065591e7c1b
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 100%
+source-wordcount: '132'
+ht-degree: 81%
 
 ---
 
@@ -25,3 +25,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/36207/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=ja) を参照してください。
+
+>[!INFO]
+>
+> このビデオはコースの一部です [Adobe Analyticsのデータのエクスポートと民主化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)(Experience League時に無料で利用可能 )

@@ -10,10 +10,10 @@ kt: 3584
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 057b7a82-882d-4cee-beb0-2dfc1e6c94b4
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 100%
+source-wordcount: '115'
+ht-degree: 86%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 Experience Platform Launch を使用して [!DNL Analytics] を実装する前に、いくつかのドキュメントを準備しておく必要があります。また、[!DNL Analytics] と [!DNL Launch] の両方のシステムでいくつかの設定が必要です。このビデオでは、それらについて詳しく説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28752/?quality=12)
+
+>[!INFO]
+>
+> このビデオはコースの一部です [ガイド付き Analytics の実装](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)(Experience League時に無料で利用可能 )
