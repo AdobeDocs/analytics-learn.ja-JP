@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 1a4e82fe-12ac-4c44-afec-60010f1214f6
 source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 81%
 
 >[!INFO]
 >
-> このビデオはコースの一部です。 [フリーフォームテーブル、分析の基盤](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)(Experience League時に無料で利用可能 )
+> このビデオは[フリーフォームテーブル、分析の基盤](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)コース（Experience League で無料で利用可能）の一部です。
