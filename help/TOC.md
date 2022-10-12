@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: ac000e8726196b07934f05fcbcdc8f0eb0530f55
+source-git-commit: 7785ccc22eb4f22f14928f62ac8cae4cb27a4d71
 workflow-type: tm+mt
-source-wordcount: '2418'
-ht-degree: 100%
+source-wordcount: '2426'
+ht-degree: 99%
 
 ---
 
@@ -135,6 +135,7 @@ ht-degree: 100%
       + [折れ線グラフのビジュアライゼーションへのトレンドラインの追加](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [マップのビジュアライゼーション](analysis-workspace/visualizations/map-visualization.md)
       + [数値概要と変化概要の視覚化](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
+      + [主要指標の概要ビジュアライゼーション](analysis-workspace/visualizations/key-metric-summary.md)
       + [テキストのビジュアライゼーション](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [散布図のビジュアライゼーション](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [ツリーマップのビジュアライゼーション](analysis-workspace/visualizations/treemap-visualization.md)
@@ -354,6 +355,7 @@ ht-degree: 100%
       + [モバイルスコアカードのビジュアライゼーション](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [カスタム日付範囲の適用](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Analytics ダッシュボードのアプリ内エクスペリエンス](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
+      + [カスタム詳細ビューの作成](additional-tools/analytics-dashboards/create-custom-detail-views.md)
 + エクスポート {#exporting}
    + UI から {#from-the-ui}
       + [Analysis Workspace を使用した CSV へのエクスポート](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
