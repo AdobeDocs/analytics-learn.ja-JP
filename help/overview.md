@@ -8,10 +8,10 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 3cf17558385944871209a801463e013663d58b3a
+source-git-commit: d05f59507a766881250090547b177ffdd0fdf5e0
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 80%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -41,12 +41,14 @@ ht-degree: 80%
    *の注釈を使用すると、組織全体のユーザーに対して、コンテキストデータのニュアンスやインサイトを効果的に伝えることができます。[!DNL Analysis Workspace]既知のデータの問題、祝日、キャンペーンの起動などを使用して、日付や日付範囲に注釈を付けます。 これにより、折れ線グラフやテーブルに不規則が表示される理由をユーザーに知らせます。*
 
 </div>
+
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
 <div id="recs-overview-body-3"></div>
 <div id="recs-overview-body-4"></div>
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div>
+
 <div id="staff-picks-section">
 
 ## スタッフのおすすめ
