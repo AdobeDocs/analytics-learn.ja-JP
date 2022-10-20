@@ -1,6 +1,6 @@
 ---
 title: Adobe Analytics の初回実装
-description: Adobe Analyticsのデータを使い始めて、数分で実行する方法を説明します。
+description: Adobe Analytics のデータをすぐに活用する方法を説明します。
 feature: Implementation Basics
 role: User
 level: Beginner
@@ -10,7 +10,7 @@ exl-id: 110d2962-cbcf-4574-bd39-308f2ad33c5e
 source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 29%
+ht-degree: 59%
 
 ---
 
