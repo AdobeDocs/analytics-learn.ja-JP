@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 338293.jpg
 kt: 9293
 exl-id: a49b4bf3-a28e-4125-a8f9-d46f5531affa
-source-git-commit: ca2683e56d101f540680713483ec3ff6aac57492
-workflow-type: tm+mt
-source-wordcount: '114'
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+workflow-type: ht
+source-wordcount: '140'
 ht-degree: 100%
 
 ---
@@ -22,3 +22,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/338293/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=ja) を参照してください。
+
+>[!INFO]
+>
+> このビデオは、Experience League で無償で利用できる、[カスタムセグメント化と日付によるデータのフィルタリング](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=ja)コースの一部です。
