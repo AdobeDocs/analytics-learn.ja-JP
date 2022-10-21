@@ -9,9 +9,9 @@ role: User
 level: Beginner
 exl-id: 4160b974-fbdb-42e7-b77d-e1322db433b3
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Adobe Analytics 拡張機能で [!UICONTROL Activity Map] をデプロイする�
 
 >[!INFO]
 >
-> このビデオはコースの一部です [Adobe Analyticsでのレポートスイートの設定と管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=ja)(Experience League時に無料で利用可能 )
+> このビデオは、Experience League で無償で利用できる、[Adobe Analytics でのレポートスイートの設定と管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=ja)コースの一部です。
