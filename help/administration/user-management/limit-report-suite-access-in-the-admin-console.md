@@ -13,9 +13,9 @@ role: Admin
 level: Beginner
 exl-id: 71050e4f-a6e3-4fe2-88dd-866d207f6c7c
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -27,4 +27,4 @@ Adobe Analytics のユーザーは、適切なデータにアクセスする必�
 
 >[!INFO]
 >
-> このビデオはコースの一部です [Adobe Analyticsでのレポートスイートの設定と管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=ja)(Experience League時に無料で利用可能 )
+> このビデオは、Experience League で無償で利用できる、[Adobe Analytics でのレポートスイートの設定と管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=ja)コースの一部です。
