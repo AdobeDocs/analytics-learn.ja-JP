@@ -9,9 +9,9 @@ thumbnail: 339440.jpg
 kt: 9529
 exl-id: 630864be-b60e-4ed0-b675-77bd20567ec1
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '176'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 87%
 
 >[!VIDEO](https://video.tv.adobe.com/v/339440/?quality=12&learn=on)
 
-詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=ja) を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=ja) を参照してください。
 
 >[!INFO]
 >
-> このビデオはコースの一部です [Adobe Analyticsでのレポートスイートの設定と管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=ja)(Experience League時に無料で利用可能 )
+> このビデオは、Experience League で無償で利用できる、[Adobe Analytics でのレポートスイートの設定と管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=ja)コースの一部です。
