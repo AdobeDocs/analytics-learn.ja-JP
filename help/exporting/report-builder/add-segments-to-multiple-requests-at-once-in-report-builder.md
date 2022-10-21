@@ -9,9 +9,9 @@ thumbnail: 25445.jpg
 kt: 2344
 exl-id: db5b7623-d863-4ecd-9902-8b20f6aea257
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 79%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12)
 
-この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=ja) を参照してください。
+この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=ja) を参照してください。
 
 >[!INFO]
 >
-> このビデオはコースの一部です [Adobe Analyticsのデータのエクスポートと民主化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)(Experience League時に無料で利用可能 )
+> このビデオは、Experience League で無償で利用できる、[Adobe Analytics データのエクスポートと民主化](https://experienceleague.adobe.com/?lang=ja/?recommended=Analytics-A-1-2022.1.democratizing#dashboard/learning)コースの一部です。
