@@ -12,9 +12,9 @@ role: User
 level: Beginner
 exl-id: 080edb20-1005-4a9e-8067-167a2dd575be
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 80%
 
 >[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12)
 
-この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=ja#analysis-workspace) を参照してください。
+この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=ja#analysis-workspace) を参照してください。
 
 >[!INFO]
 >
-> このビデオはコースの一部です [顧客ジャーニーにおけるデジタルタッチポイントに対する価値の関連付け](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=ja)(Experience League時に無料で利用可能 )
+> このビデオは、Experience League で無償で利用できる、[カスタマージャーニーのデジタルタッチポイントに値を関連付ける](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=ja)コースの一部です。
