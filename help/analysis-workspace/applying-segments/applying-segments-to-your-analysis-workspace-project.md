@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: d8bd4226-a3f0-4faa-8b78-4b47b5a008ce
 source-git-commit: e021df988079334ecd81b8c320f9e3d9a43da2e4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 78%
 >[!INFO]
 >
 > このビデオは、次の 2 つのコースの一部です。
-> * [Analysis Workspace を使い始める](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=ja)
-> * [カスタムセグメント化と日付でのデータのフィルタリング](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=ja)
+> * [Analysis Workspace の基本を学ぶ](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=ja)
+> * [カスタムセグメント化と日付によるデータのフィルタリング](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=ja)
 >
-> どちらも無料でExperience League!
+> どちらも Experience League から無償で利用できます。
 
