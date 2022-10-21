@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: 5b738273-867e-4eb9-bab2-3f16d18608b6
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 80%
 
 >[!INFO]
 >
-> このビデオはコースの一部です [カスタムセグメント化と日付でのデータのフィルタリング](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=ja)(Experience League時に無料で利用可能 )
+> このビデオは、Experience League で無償で利用できる、[カスタムセグメント化と日付でのデータのフィルタリング](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=ja)コースの一部です。
