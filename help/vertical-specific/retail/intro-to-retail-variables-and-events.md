@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: 3cf9d641-bb99-40b3-a76b-d9ea62ee7548
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 84%
 
 >[!INFO]
 >
-> このビデオはコースの一部です [ガイド付き Analytics の実装](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)(Experience League時に無料で利用可能 )
+> このビデオは、Experience League で無償で利用できる、[Analytics 実装ガイド](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)コースの一部です。
