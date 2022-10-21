@@ -11,9 +11,9 @@ role: Admin, Architect
 level: Beginner
 exl-id: 6bbca02c-e788-431b-bcdc-57cda794a76e
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '150'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 82%
 
 >[!INFO]
 >
-> このビデオは複数のコースの一部です [ガイド付き Analytics の実装](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1) および [Adobe Analyticsでのレポートスイートの設定と管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=ja)(Experience League時に無料で利用可能 )
+> このビデオは、Experience League で無償で利用できる複数のコース（[Analytics 実装ガイド](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)および [Adobe Analytics でのレポートスイートの設定と管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=ja)）の一部です。
