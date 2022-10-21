@@ -2,18 +2,14 @@
 title: Analysis Workspace でのドロップダウンフィルターの使用
 description: このビデオでは、Analysis Workspace のドロップダウンフィルターを使用して、パネルのコンテンツを動的に変更する方法を説明します。
 feature: Panels
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 23877.jpg
 kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
-workflow-type: tm+mt
-source-wordcount: '177'
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+workflow-type: ht
+source-wordcount: '203'
 ht-degree: 100%
 
 ---
@@ -29,3 +25,7 @@ ht-degree: 100%
 ドロップダウンは、プロジェクトとパネルを統合する場合にも便利です。 例えば、国別のレポートを提供するプロジェクトのバージョンが複数ある場合、それらのプロジェクトを 1 つのプロジェクトにまとめ、ユーザーが国を切り替えることができるドロップダウンを追加できるようになりました。
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=ja) を参照してください。
+
+>[!INFO]
+>
+> このビデオは、Experience League で無償で利用できる、[カスタムセグメント化と日付によるデータのフィルタリング](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=ja)コースの一部です。
