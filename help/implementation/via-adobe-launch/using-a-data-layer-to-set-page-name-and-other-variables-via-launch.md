@@ -1,6 +1,6 @@
 ---
-title: データレイヤーを使用し、タグを介して Analytics 変数を設定します
-description: Analytics データやその他のデータソリューションを調達するためのデータレイヤーのExperience Cloudについて説明します。
+title: データレイヤーを使用し、タグを介して Analytics 変数を設定する
+description: Analytics データやその他の Experience Cloud ソリューションを調達するためのデータレイヤーの使用について説明します。
 feature: Launch Implementation
 role: Developer, Data Engineer
 level: Beginner
@@ -8,31 +8,31 @@ kt: 1852
 thumbnail: 25899.jpg
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
 source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '324'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
-# データレイヤーを使用し、を介して Analytics 変数を設定します。 [!DNL Tags] {#use-a-data-layer-to-set-analytics-variables-in-adobe-analytics-via-tags}
+# データレイヤーを使用し、[!DNL Tags] を介して Analytics 変数を設定する {#use-a-data-layer-to-set-analytics-variables-in-adobe-analytics-via-tags}
 
-のデータレイヤーの使用 [!DNL Analytics] その他のExperience Cloudソリューションは、ベストプラクティスです。 このビデオでは、データレイヤーから値を取り出し、で使用する方法を説明します。 [!DNL Experience Platform Tags] Adobe Analyticsで変数を設定する
+[!DNL Analytics] やその他の Experience Cloud ソリューションにデータレイヤーを使用することは、ベストプラクティスです。このビデオでは、データレイヤーから値を取り込み、[!DNL Experience Platform Tags] でその値を使用して Adobe Analytics に変数を設定する方法を説明します。
 
 ## データレイヤー {#data-layers}
 
-A _データレイヤー_ は、開発者がデジタル Web ページに追加する JavaScript オブジェクトのフレームワークです。 Analytics ソリューションは、最終的にデータレイヤーを使用してレポートに入力します。 タグ管理システム ( [!DNL Experience Platform Tags]) は、データレイヤーを読み取り、値を変数にマッピングし、そのデータをデジタルエクスペリエンスソリューションに送信する仲介者です。
+_データレイヤー_&#x200B;とは、開発者がページに挿入する JavaScript オブジェクトのフレームワークのことを指します。Analytics ソリューションでは最終的に、データレイヤーを使用してレポートに入力します。タグ管理システム（[!DNL Experience Platform Tags]）は、データレイヤーを読み取り、値を変数にマッピングし、そのデータをデジタルエクスペリエンスソリューションに送信する仲介者です。
 
-内のデータレイヤーに関する追加情報の確認 [Experience Cloud文書](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=ja) そしてブログ [データレイヤー：バズワードからベストプラクティスまで](https://blog.adobe.com/en/2014/03/13/data-layers-buzzword-best-practice).
+[Experience Cloud ドキュメント](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=ja)とブログ「[データレイヤー：バズワードからベストプラクティスまで](https://blog.adobe.com/en/2014/03/13/data-layers-buzzword-best-practice)」で、データレイヤーに関する追加情報を確認します。
 
-## データレイヤー、 [!DNL Experience Platform Tags]、およびAdobe Analytics{#data-layers-launch-and-adobe-analytics}
+## データレイヤー、[!DNL Experience Platform Tags]、および Adobe Analytics{#data-layers-launch-and-adobe-analytics}
 
-1. サイトで使用するデータレイヤー規格を定義または識別します。
+1. サイトで使用するデータレイヤー標準を定義または特定します。
 
-   1. データレイヤーを、ページの head セクション内、および [!DNL Experience Platform Tags]. これにより、 [!DNL Tags] Adobe Targetのように、ページ上で高く設定する必要があるAdobeソリューションによって実行されます。
+   1. データレイヤーを、できる限り、ページの head セクション内、および [!DNL Experience Platform Tags] への呼び出しの前に配置します。こうすることにより、[!DNL Tags] や Adobe ソリューション（Adobe Target のように、ページ上部に設定する必要があるもの）で、すぐに値にアクセスできるようにします。
 
 1. データレイヤーにデータを入力します。
-1. In [!DNL Experience Platform Tags], create &quot;[!UICONTROL データ要素]」と呼ばれ、データレイヤー内のデータポイントをマッピングします。 これらのデータ要素は、 [!DNL Experience Platform Tags] in [!UICONTROL ルール] および [!UICONTROL 拡張機能].
-1. 次の [!DNL Analytics] 拡張機能のグローバル変数セクション、または [!DNL Tags rule]を設定し、 [!UICONTROL データ要素] から [!UICONTROL prop], [!UICONTROL eVar], [!UICONTROL pageName]、その他 [!DNL Analytics] 変数。
+1. [!DNL Experience Platform Tags] では、データレイヤー内のデータポイントをマッピングする「[!UICONTROL データ要素]」を作成します。これらのデータ要素は、[!DNL Experience Platform Tags] 全体で、[!UICONTROL ルール]や[!UICONTROL 拡張機能]で使用されます。
+1. [!DNL Analytics] 拡張機能のグローバル変数セクション、または [!DNL Tags rule] で、[!UICONTROL データ要素]の値を、[!UICONTROL prop]、[!UICONTROL eVar]、[!UICONTROL pageName]、およびその他の [!DNL Analytics] 変数に割り当てます。
 1. データを [!DNL Analytics] に送信するビーコンをトリガーします。
 
 次のビデオでは、プロセスを順を追って説明します。
@@ -41,4 +41,4 @@ A _データレイヤー_ は、開発者がデジタル Web ページに追加�
 
 >[!NOTE]
 >
->このビデオで使用される特定のデータレイヤーは、組織にとって「ベストプラクティス」とは見なされない場合があります。 データレイヤーを使用して重要なデータをデジタルマーケティングソリューションに表示する概念は、ベストプラクティスです。
+>このビデオで使用される特定のデータレイヤーは、組織にとって「ベストプラクティス」とは見なされない場合があります。データレイヤーを使用して重要なデータをデジタルマーケティングソリューションに表示するという概念は、ベストプラクティスです。
