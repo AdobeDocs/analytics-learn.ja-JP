@@ -12,9 +12,9 @@ role: User
 level: Beginner
 exl-id: fe7d41f1-a6ec-4601-9266-b4c3aa6a6963
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ ht-degree: 83%
 
 >[!INFO]
 >
-> このビデオはコースの一部です [Adobe Analyticsのデータのエクスポートと民主化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)(Experience League時に無料で利用可能 )
+> このビデオは、Experience League で無償で利用できる、[Adobe Analytics のデータの書き出しと民主化](https://experienceleague.adobe.com/?lang=ja/?recommended=Analytics-A-1-2022.1.democratizing#dashboard/learning)コースの一部です。
