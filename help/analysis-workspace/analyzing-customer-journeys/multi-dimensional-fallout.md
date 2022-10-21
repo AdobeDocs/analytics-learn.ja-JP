@@ -12,9 +12,9 @@ role: User
 level: Beginner
 exl-id: 927b5fe0-1eb5-404c-8439-a5dbacd3c640
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -28,6 +28,6 @@ Analysis Workspace の [!DNL Fallout] を使用すると、ファネルとワー
 
 >[!INFO]
 >
-> このビデオはコースの一部です [顧客ジャーニーにおけるデジタルタッチポイントに対する価値の関連付け](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=ja)(Experience League時に無料で利用可能 )
+> このビデオは、Experience League で無償で利用できる、[カスタマージャーニーのデジタルタッチポイントに値を関連付ける](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=ja)コースの一部です。
 
 この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/configuring-interdimensional-fallout.html?lang=ja)を参照してください。
