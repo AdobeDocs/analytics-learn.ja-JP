@@ -9,9 +9,9 @@ thumbnail: 342377.jpg
 kt: 9874
 exl-id: b1b8d519-c035-498b-ac40-a939a019a616
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 76%
 
 >[!INFO]
 >
-> このビデオはコースの一部です [Adobe Analyticsのデータのエクスポートと民主化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)(Experience League時に無料で利用可能 )
+> このビデオは、Experience League で無償で利用できる、[Adobe Analytics のデータの書き出しと民主化](https://experienceleague.adobe.com/?lang=ja/?recommended=Analytics-A-1-2022.1.democratizing#dashboard/learning)コースの一部です。
