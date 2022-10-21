@@ -8,9 +8,9 @@ level: Beginner
 exl-id: 369904c2-5de9-495c-abd2-0c3900f6c49f
 thumbnail: 23989.jpg
 source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 82%
 
 >[!INFO]
 >
-> このビデオはコースの一部です。 [ビジュアライゼーションを使用したデータストーリーの把握](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=ja)(Experience League時に無料で利用可能 )
+> このビデオは、Experience League で無償で利用できる、[ビジュアライゼーションを使用してデータストーリーを伝える](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=ja)コースの一部です。
