@@ -9,9 +9,9 @@ thumbnail: 333607.jpg
 kt: 7999
 exl-id: 6b545589-fb29-4993-b7b3-11bb8eb4775a
 source-git-commit: 8275dc8a85b2a46b349e12e44c7a001d52b372f8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 65%
 
 >[!INFO]
 >
-> このビデオはコースの一部です [内部サイト検索の実装と測定](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search)(Experience League時に無料で利用可能 )
+> このビデオは、Experience League で無償で利用できる、[内部サイト検索の実装と測定](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search)コースの一部です。
