@@ -1,6 +1,6 @@
 ---
 title: クロスタブ分析を使用した Analysis Workspace の基本的なマーケティングアトリビューションの調査
-description: Adobe Analytics でアトリビューション手法を次のレベルまで引き上げる方法は数多くあります。このビデオでは、Workspace のクロスタブ分析を使用して、 マーケティングチャネルレポートからより深いインサイトを引き出す方法を重点的に説明します。
+description: Adobe Analytics でアトリビューション手法を次のレベルまで引き上げる方法は数多くあります。このビデオでは、Workspace のクロスタブ分析を使用して、マーケティングチャネルレポートからより深いインサイトを引き出す方法を重点的に説明します。
 feature: Marketing Channels
 activity: use
 doc-type: feature video
@@ -11,15 +11,15 @@ role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '314'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
 # クロスタブ分析を使用した Analysis Workspace の基本的なマーケティングアトリビューションの調査
 
-Adobe Analytics でアトリビューション手法を次のレベルまで引き上げる方法は数多くあります。このビデオでは、Workspace のクロスタブ分析を使用して、 マーケティングチャネルレポートからより深いインサイトを引き出す方法を重点的に説明します。
+Adobe Analytics でアトリビューション手法を次のレベルまで引き上げる方法は数多くあります。このビデオでは、Workspace のクロスタブ分析を使用して、マーケティングチャネルレポートからより深いインサイトを引き出す方法を重点的に説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/39237/?quality=12&learn=on)
 
@@ -34,11 +34,11 @@ Adobe Analytics でアトリビューション手法を次のレベルまで引�
 
 **次に**、このビデオの手順に従っている場合は、[フリーフォームテーブルビルダーを使用](../building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)してテーブルを設定できることに注意してください。
 
-* 3:20 - クロスタブディメンションは、ドロップした際に自動的に動的となり、値は時間の経過と共に変化する可能性があります。この分析では、代わりに静的列を引き継ぐことをお勧めします。動的な列について詳しくは、ビデオの [フリーフォームテーブルの行および列設定](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md) （6:33）を参照してください。
-* 4:30 - 列の設定を 1 列ずつではなく、一括で更新できるようになりました。詳しくは、ビデオの 「[フリーフォームテーブルの行および列設定](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)」（8:45）を参照してください。
+* 3:20 - クロスタブディメンションは、ドロップした際に自動的に動的となり、値は時間の経過と共に変化する可能性があります。この分析では、代わりに静的列を引き継ぐことをお勧めします。動的な列について詳しくは、ビデオの[フリーフォームテーブルの行および列設定](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)（6:33）を参照してください。
+* 4:30 - 列の設定を 1 列ずつではなく、一括で更新できるようになりました。詳しくは、ビデオの「[フリーフォームテーブルの行および列設定](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)」（8:45）を参照してください。
 
-このトピックについて詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=ja) を参照してください。
+このトピックについて詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=ja)を参照してください。
 
 >[!INFO]
 >
-> このビデオはコースの一部です [顧客ジャーニーにおけるデジタルタッチポイントに対する価値の関連付け](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=ja)(Experience League時に無料で利用可能 )
+> このビデオは、Experience League で無償で利用できる、[カスタマージャーニーでデジタルタッチポイントに値を関連付ける](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=ja)コースの一部です。
