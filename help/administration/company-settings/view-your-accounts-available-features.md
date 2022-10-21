@@ -9,9 +9,9 @@ thumbnail: 335742.jpg
 kt: 8463
 exl-id: a8397a6b-0cbf-4a7e-b3dc-9f347b01b1f3
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Analytics の「管理者」セクションの「機能アクセスレベル」�
 
 >[!INFO]
 >
-> このビデオはコースの一部です [Adobe Analyticsでのレポートスイートの設定と管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=ja)(Experience League時に無料で利用可能 )
+> このビデオは、[Adobe Analytics でのレポートスイートの設定と管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=ja)コースの一部であり、Experience League で無償で利用できます。
