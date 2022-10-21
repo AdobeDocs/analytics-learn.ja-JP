@@ -10,9 +10,9 @@ thumbnail: 340680.jpg
 kt: 9793
 exl-id: 607c9ade-c060-4484-a45a-5f50172cee6a
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ ht-degree: 82%
 
 >[!INFO]
 >
-> このビデオはコースの一部です [Adobe Analyticsでのレポートスイートの設定と管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=ja)(Experience League時に無料で利用可能 )
+> このビデオは、Experience League で無償で利用できる、[Adobe Analytics でのレポートスイートの設定と管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=ja)コースの一部です。
