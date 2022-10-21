@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 6086f4b7-e8a7-4b04-90c7-1721ee31646e
 source-git-commit: a890d4d9883ee17dfe4a89ab64d9dad8340eacb0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 74%
 
 >[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html?lang=ja) を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html?lang=ja)を参照してください。
 
 >[!INFO]
 >
-> このビデオは複数のコースの一部です [Analysis Workspaceの概要](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=ja) および [Adobe Analyticsのデータのエクスポートと民主化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing) 無料Experience League!
+> このビデオは、Experience League で無償で利用できる複数のコース（[Analysis Workspace 基本を学ぶ](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=ja)および[Adobe Analytics データの書き出しと民主化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)）の一部です。
 
