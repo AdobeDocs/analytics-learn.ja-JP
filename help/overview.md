@@ -1,6 +1,6 @@
 ---
 title: Analytics ビデオおよびチュートリアル
-description: Adobe Analytics を最大限に活用しましょう。これらのチュートリアルを使用して、Analytics の機能を学び、ビジネスにとってのメリットを享受できます。 このコンテンツは、管理者、データアナリスト、マーケター、開発者およびアーキテクトに適しています。
+description: Adobe Analytics を最大限に活用しましょう。これらのチュートリアルを使用して Analytics の機能を習得し、ビジネスにとってのメリットを享受しましょう。このコンテンツは、管理者、データアナリスト、マーケター、開発者およびアーキテクトに適しています。
 feature: Analytics Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -10,8 +10,8 @@ kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: d05f59507a766881250090547b177ffdd0fdf5e0
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '320'
+ht-degree: 99%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Analytics チュートリアル
 
-[!DNL Adobe Analytics] を最大限に活用しましょう。これらのチュートリアルを使用して、Analytics の機能を学び、ビジネスにとってのメリットを享受できます。 このコンテンツは、管理者、データアナリスト、マーケター、開発者およびアーキテクトに適しています。
+[!DNL Adobe Analytics] を最大限に活用しましょう。これらのチュートリアルを使用して Analytics の機能を習得し、ビジネスにとってのメリットを享受しましょう。このコンテンツは、管理者、データアナリスト、マーケター、開発者およびアーキテクトに適しています。
 
 開始するには、Dynamic Tag Management アカウントで
 
@@ -38,7 +38,7 @@ ht-degree: 0%
    *モバイルスコアカードアプリケーションをダウンロードし、[!DNL Analysis Workspace].* で作成したモバイルスコアカードを表示します。
 
 * **[ワークスペース内の注釈（ビデオ）](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *の注釈を使用すると、組織全体のユーザーに対して、コンテキストデータのニュアンスやインサイトを効果的に伝えることができます。[!DNL Analysis Workspace]既知のデータの問題、祝日、キャンペーンの起動などを使用して、日付や日付範囲に注釈を付けます。 これにより、折れ線グラフやテーブルに不規則が表示される理由をユーザーに知らせます。*
+   *の注釈を使用すると、組織全体のユーザーに対して、コンテキストデータのニュアンスやインサイトを効果的に伝えることができます。[!DNL Analysis Workspace]日付や日付範囲に、既知のデータ問題、祝日、キャンペーン開始などの注釈を付けます。これにより、折れ線グラフやテーブルなどに不規則が表示される理由をユーザーに知らせます。*
 
 </div>
 
