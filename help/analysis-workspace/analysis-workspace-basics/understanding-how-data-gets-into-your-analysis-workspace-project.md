@@ -8,9 +8,9 @@ kt: 4109
 thumbnail: 31072.jpg
 exl-id: eb6eada2-74b1-423c-a80d-2bcc2148e167
 source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 85%
 
 >[!VIDEO](https://video.tv.adobe.com/v/31072/?quality=12)
 
-Adobe Experience Platform Debugger の詳細については、 [ドキュメント](https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html?lang=ja) を参照してください。
+Adobe Experience Platform Debugger の詳細については、[ドキュメント](https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html?lang=ja)を参照してください。
 
 >[!INFO]
 >
-> このビデオはコースの一部です。 [Analysis Workspaceの概要](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=ja)(Experience League時に無料で利用可能 )
+> このビデオは、Experience League で無償で利用できる、[Analysis Workspace の基本を学ぶ](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=ja)コースの一部です。
