@@ -7,9 +7,9 @@ thumbnail: 25405.jpg
 role: User
 level: Beginner
 exl-id: be1610a0-dbec-46d0-8cad-b4726333b8f9
-source-git-commit: da55943c5e956f7b03952babf8cdaf50d6239133
-workflow-type: tm+mt
-source-wordcount: '163'
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+workflow-type: ht
+source-wordcount: '178'
 ht-degree: 100%
 
 ---
@@ -20,10 +20,8 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25405/?quality=12)
 
-## 関連ビデオ
+このトピックについて詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=ja)を参照してください。
 
-[順次セグメント化における前後のシーケンス](before-after-sequences-in-sequential-segmentation.md)
-
-## 追加情報
-
-このトピックについて詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=ja) を参照してください。
+>[!INFO]
+>
+> このビデオは、Experience League で無償で利用できる、[カスタムセグメント化と日付によるデータのフィルタリング](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=ja)コースの一部です。
