@@ -15,7 +15,7 @@ ht-degree: 99%
 
 + [Analytics チュートリアル](overview.md)
 + Analytics の概要 {#intro-to-analytics}
-   + [Analytics とは](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
+   + [分析とは](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
    + Adobe Analytics は何に役立つか {#what-can-aa-do-for-me}
       + [Adobe Analysis Workspace でビジネスがどう変わるか](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
       + [単なるデータにとどまらず、顧客インテリジャンスを提供](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
