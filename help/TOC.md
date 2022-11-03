@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analyticsのビデオチュートリアルを見て、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: f3959874cdba14adbae2b3916417863a017b5ff0
+source-git-commit: d817981dd65fc53bbf04b96087d264bf2116eaca
 workflow-type: tm+mt
-source-wordcount: '2410'
-ht-degree: 98%
+source-wordcount: '2388'
+ht-degree: 97%
 
 ---
 
@@ -59,15 +59,11 @@ ht-degree: 98%
       + [Analysis Workspace の概要](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [新しいランディングページのナビゲート](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Analysis Workspace ランディングページの更新](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
-      + [新しい Analysis Workspace プロジェクトの作成](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [Workspace プロジェクトを一から作成する](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Analysis Workspace でのカスタムテンプレートの作成と管理](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
-      + [Analysis Workspace の標準テンプレート](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
-      + [カスタムテンプレートを使用した Analysis Workspace 初級ユーザーの支援](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
       + [Analysis Workspace プロジェクトへのデータの入力について](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
       + [Adobe Analytics の基本指標](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
       + [Analysis Workspace のコンポーネント管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
-      + [コンポーネントマネージャーの使用](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
       + [Analysis Workspace でのレポートスイートの選択](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [Analysis Workspace のパフォーマンス指標の表示](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + ヒントとテクニック {#tips-and-tricks}
