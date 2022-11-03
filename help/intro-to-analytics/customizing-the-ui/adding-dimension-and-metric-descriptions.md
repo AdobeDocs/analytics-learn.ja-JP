@@ -1,24 +1,22 @@
 ---
-title: Adobe Analytics でのディメンションと指標の説明の追加
-description: このビデオでは、Adobe Analytics でのレポート、指標およびディメンションにコンテキストを追加する方法を説明します。
+title: Adobe Analyticsにディメンションと指標の説明を追加
+description: Adobe Analyticsでディメンションと指標にコンテキストを追加する方法を説明します。
 feature: Workspace Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2352
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 25453.jpg
+kt: 2352
 exl-id: ffc9c54c-1afc-47f0-b057-e57f05139d88
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 01812bf314ee0ba4fda322d08c27b282dfca7db2
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 100%
+source-wordcount: '59'
+ht-degree: 0%
 
 ---
 
-# Adobe Analytics での [!UICONTROL ディメンション] と [!UICONTROL 指標] の説明の追加 {#adding-dimension-and-metric-descriptions-in-adobe-analytics}
+# にディメンションと指標の説明を追加 [!DNL Adobe Analytics] {#add-dimension-and-metric-descriptions-in-adobe-analytics}
 
-このビデオでは、Adobe Analytics でのレポート、 [!UICONTROL 指標] および [!UICONTROL ディメンション] にコンテキストを追加する方法を説明します。
+ディメンションと指標にコンテキストを追加する方法については、 [!DNL Adobe Analytics]. レポートや指標に割り当てられた名前で、組織内のユーザーに対して十分な明確性が提供されない場合は、説明フィールドを使用します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25453/?quality=12)

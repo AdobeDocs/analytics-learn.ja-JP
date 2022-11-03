@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analyticsのビデオチュートリアルを見て、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: 6915876d8d4fa4497a968cf913bf6e9fac3b6c6e
+source-git-commit: f3959874cdba14adbae2b3916417863a017b5ff0
 workflow-type: tm+mt
-source-wordcount: '2437'
-ht-degree: 99%
+source-wordcount: '2410'
+ht-degree: 98%
 
 ---
 
@@ -44,15 +44,11 @@ ht-degree: 99%
       + [コンバージョン変数（eVar）について](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=ja)
       + [コンバージョンイベントの概要](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=ja)
    + UI のカスタマイズ {#customizing-the-ui}
-      + [Adobe Analytics のユーザー環境設定](intro-to-analytics/customizing-the-ui/user-preferences.md)
-      + [ディメンションと指標の説明の追加](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-      + [Analysis Workspace でのカスタムカラーパレットの使用](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
-      + [カスタムパレットを定義するための Color Eyedropper 拡張機能](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
-      + [Reports and Analytics のメニューのカスタマイズ](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
-      + [Adobe Analytics のセキュリティの強化](intro-to-analytics/customizing-the-ui/enhancing-security.md)
-      + [Analysis Workspace をランディングページとして設定](intro-to-analytics/customizing-the-ui/set-analysis-workspace-as-your-landing-page.md)
-      + [ランディングページとしての Analysis Workspace プロジェクトの設定](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
-      + [Analysis Workspace 向けダークモード拡張機能](intro-to-analytics/customizing-the-ui/dark-mode-extension-for-analysis-workspace.md)
+      + [Analysis Workspaceのユーザー環境設定のカスタマイズ](intro-to-analytics/customizing-the-ui/user-preferences.md)
+      + [ディメンションと指標の説明を追加](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
+      + [Reports and Analyticsのメニューのカスタマイズ](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
+      + [Adobe Analyticsのセキュリティの強化](intro-to-analytics/customizing-the-ui/enhancing-security.md)
+      + [Analysis Workspaceプロジェクトをランディングページとして設定する](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + ヘルプ {#getting-help}
       + [Analysis Workspace 製品内ヒント](intro-to-analytics/getting-help/in-product-tips.md)
       + [製品内サポートチケットの送信](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
