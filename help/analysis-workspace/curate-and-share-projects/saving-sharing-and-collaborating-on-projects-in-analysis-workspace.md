@@ -2,13 +2,13 @@
 title: Analysis Workspace でのプロジェクトの保存、共有、共同作業
 description: このビデオでは、自分用にプロジェクトを保存して書き出す方法、他の受信者にプロジェクトを送信する方法、プロジェクトでの共同作業に他のメンバーを招待する方法について説明します。
 feature: Curate and Share
-thumbnail: 33634.jpg
-kt: 4108
 role: User
 level: Beginner
+thumbnail: 33634.jpg
+kt: 4108
 exl-id: 6086f4b7-e8a7-4b04-90c7-1721ee31646e
-source-git-commit: a890d4d9883ee17dfe4a89ab64d9dad8340eacb0
-workflow-type: ht
+source-git-commit: 953ba61db6f3fb50ab4caa57c402ec6f75b7831f
+workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
 
