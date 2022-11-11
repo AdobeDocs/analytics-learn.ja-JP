@@ -1,24 +1,22 @@
 ---
-title: Reports and Analytics のメニューのカスタマイズ
-description: このビデオでは、Analytics でビジネスに合わせてメニューをカスタマイズする方法を説明します。
+title: Reports & Analytics のメニューのカスタマイズ
+description: 組織内のユーザーに合わせて Reports & Analytics メニューをカスタマイズする方法を説明します。
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2365
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 333035.jpg
+kt: 2365
 exl-id: e07dd703-0e68-473c-a764-145019bf671f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 1b57a173b65903c83ccee4a0ea127568b51b4a93
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# [!DNL Reports & Analytics] のメニューのカスタマイズ {#customizing-the-menu-in-reports-analytics}
+# のメニューのカスタマイズ [!DNL Reports & Analytics] {#custome-the-menu-in-reports-analytics}
 
-このビデオでは、[!DNL Analytics] でビジネスに合わせてメニューをカスタマイズする方法を説明します。
+カスタマイズ方法 [!DNL Reports & Analytics] 」メニューが表示されます。 これにより、ユーザーが最も頻繁に使用するレポートを見つけるのに役立ちます。
 
->[!VIDEO](https://video.tv.adobe.com/v/25457/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/333035/?quality=12)
