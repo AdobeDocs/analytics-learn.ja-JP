@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: d817981dd65fc53bbf04b96087d264bf2116eaca
+source-git-commit: f3a000ac21b937f3d8f95997a588dc38af529c79
 workflow-type: tm+mt
-source-wordcount: '2388'
+source-wordcount: '2382'
 ht-degree: 98%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 98%
       + [Analysis Workspaceのユーザー環境設定のカスタマイズ](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [ディメンションと指標の説明を追加](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [Reports and Analyticsのメニューのカスタマイズ](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
-      + [Adobe Analyticsのセキュリティの強化](intro-to-analytics/customizing-the-ui/enhancing-security.md)
+      + [セキュリティの強化](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Analysis Workspaceプロジェクトをランディングページとして設定する](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + ヘルプ {#getting-help}
       + [Analysis Workspace 製品内ヒント](intro-to-analytics/getting-help/in-product-tips.md)
@@ -71,7 +71,7 @@ ht-degree: 98%
       + [Analysis Workspace で生産性を高めるコツ](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [Adobe Analytics のラーニングジャーニーを継続するためのお客様向けヒント](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + ワークスペースプロジェクトのナビゲーション {#navigating-workspace-projects}
-      + [Analysis Workspace での初めてのプロジェクトの開始](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
+      + [テンプレートを使用したプロジェクトの作成](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Analysis Workspace のトレーニングチュートリアルテンプレート](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Analysis Workspace でのコピーと挿入](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [目次の作成](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)

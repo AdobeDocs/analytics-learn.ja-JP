@@ -1,24 +1,23 @@
 ---
-title: Adobe Analytics でのセキュリティの強化
-description: Adobe Analytics は最新のセキュリティ標準に準拠しています。組織が強力なパスワードや IP ログイン制限などを使用してセキュリティを拡張する場合は、このビデオで方法をご覧ください。
+title: セキュリティの強化
+description: Adobe Analyticsへのアクセスを制御するためのカンパニー設定のセキュリティマネージャー設定について説明します。
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2366
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 25458.jpg
+team: Technical Marketing
+kt: 2366
 exl-id: b50f383f-2eb2-4671-a841-0b5b98a7e3db
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 846450b63ef18cb275a8a08ec3324223044fdaac
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 100%
+source-wordcount: '47'
+ht-degree: 0%
 
 ---
 
-# Adobe Analytics でのセキュリティの強化 {#enhancing-security-in-adobe-analytics}
+# セキュリティの強化 {#enhance-security}
 
-Adobe Analytics は最新のセキュリティ標準に準拠しています。組織が強力なパスワードや IP ログイン制限などを使用してセキュリティを拡張する場合は、このビデオで方法を説明します。
+Adobe Analyticsへのアクセスを制御するためのカンパニー設定のセキュリティマネージャー設定について説明します。 これには、堅牢なパスワード、パスワードの有効期限と回復機能、E メールドメインの制限が含まれます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12)
