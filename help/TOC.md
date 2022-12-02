@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: efa60f017c4dcea7949e00a5a11ce2630ca66dad
+source-git-commit: f0569db5990d9766f57fcedb6a84ce3f7c03487d
 workflow-type: tm+mt
-source-wordcount: '2383'
-ht-degree: 97%
+source-wordcount: '2394'
+ht-degree: 96%
 
 ---
 
@@ -92,8 +92,8 @@ ht-degree: 97%
       + [メディア再生滞在時間パネル](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=ja)
       + [ドロップダウンフィルターの使用](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [パネルを使用した Analysis Workspace プロジェクトの整理](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
-      + [セグメントドロップゾーンの改善](analysis-workspace/using-panels/segment-dropzone-improvements.md)
-      + [Analysis Workspace の複数のレポートスイート](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
+      + [パネルのセグメントの選択](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
+      + [Analysis Workspace での複数のレポートスイート](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [次／前およびページの概要ワークスペースパネルとレポート](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + フリーフォームテーブルの作成 {#building-freeform-tables}
       + [データについて：フリーフォームテーブル](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
@@ -155,7 +155,7 @@ ht-degree: 97%
       + [Analysis Workspace でのセグメントの使用](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
       + [アドホック（一時）セグメント](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
       + [様々な Attribution IQ モデルとセグメントの併用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=ja)
-      + [パネルレベルセグメント](analysis-workspace/using-panels/panel-level-segments.md)
+      + [パネルのセグメントの選択](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
       + [Analysis Workspace でのディメンションとしてのセグメントの使用](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Analysis Workspace でのセグメントを使用したデータの制限](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace のクイックセグメント](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
