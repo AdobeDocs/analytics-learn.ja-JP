@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: f0569db5990d9766f57fcedb6a84ce3f7c03487d
+source-git-commit: 9dfd262512ea4c36e5fad6c335b176b269c20652
 workflow-type: tm+mt
-source-wordcount: '2394'
-ht-degree: 96%
+source-wordcount: '2377'
+ht-degree: 95%
 
 ---
 
@@ -72,18 +72,18 @@ ht-degree: 96%
       + [Adobe Analytics のラーニングジャーニーを継続するためのお客様向けヒント](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + ワークスペースプロジェクトのナビゲーション {#navigating-workspace-projects}
       + [テンプレートを使用したプロジェクトの作成](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
-      + [Analysis Workspace のトレーニングチュートリアルテンプレート](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
-      + [Analysis Workspace でのコピーと挿入](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
+      + [トレーニングチュートリアルテンプレート](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
+      + [パネルとビジュアライゼーションのコピーおよび挿入](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [目次の作成](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
-      + [右クリックで Workspace の効率性を確認](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
+      + [右クリックで Workspace の効率を確認](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [キーボードショートカット](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
-      + [Analysis Workspace の注釈](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
+      + [注釈](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [メニューバー](analysis-workspace/navigating-workspace-projects/menu-bar.md)
       + [プロジェクト管理](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
-      + [Analysis Workspace でのアクションの取り消し](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
-      + [Analysis Workspace の表示密度](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
+      + [アクションの取り消し](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
+      + [表示密度](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [ゼロ状態の改善](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
-      + [左側パネルでのフィルター（タグ）の使用](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+      + [フィルターを使用](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
    + パネルの使用 {#using-panels}
       + [Analysis Workspace でのテーブル、ビジュアライゼーション、パネルの使用](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Analysis Workspace の Quick Insights パネル](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
