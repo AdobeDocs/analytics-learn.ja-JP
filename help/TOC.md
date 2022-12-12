@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: 9dfd262512ea4c36e5fad6c335b176b269c20652
+source-git-commit: c0c05641658d5ad5b1901ff1b95f44d17353ec25
 workflow-type: tm+mt
-source-wordcount: '2377'
-ht-degree: 95%
+source-wordcount: '2372'
+ht-degree: 93%
 
 ---
 
@@ -151,13 +151,12 @@ ht-degree: 95%
       + [フォールアウトとフローの併用](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [ジャーニー IQ：クロスデバイス分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
    + セグメントの適用 {#applying-segments}
-      + [Analysis Workspace プロジェクトへのセグメントの適用](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
-      + [Analysis Workspace でのセグメントの使用](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
-      + [アドホック（一時）セグメント](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
-      + [様々な Attribution IQ モデルとセグメントの併用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=ja)
+      + [Analysis Workspaceプロジェクトへのセグメントの適用](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
+      + [アドホックセグメントの適用](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
+      + [セグメントでの様々なAttribution IQモデルの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=ja)
       + [パネルのセグメントの選択](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
-      + [Analysis Workspace でのディメンションとしてのセグメントの使用](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
-      + [Analysis Workspace でのセグメントを使用したデータの制限](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
+      + [Analysis WorkspaceでセグメントをDimensionとして使用](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
+      + [セグメントを使用してAnalysis Workspaceのデータを制限](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace のクイックセグメント](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
    + 指標 {#metrics}
       + [基本的な訪問者指標について](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
