@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: c0c05641658d5ad5b1901ff1b95f44d17353ec25
+source-git-commit: 143e78ce630df75af574e5547c7941c31a2e75b5
 workflow-type: tm+mt
-source-wordcount: '2372'
-ht-degree: 93%
+source-wordcount: '2363'
+ht-degree: 94%
 
 ---
 
@@ -78,11 +78,7 @@ ht-degree: 93%
       + [右クリックで Workspace の効率を確認](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [キーボードショートカット](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [注釈](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
-      + [メニューバー](analysis-workspace/navigating-workspace-projects/menu-bar.md)
-      + [プロジェクト管理](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
-      + [アクションの取り消し](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
       + [表示密度](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
-      + [ゼロ状態の改善](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
       + [フィルターを使用](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
    + パネルの使用 {#using-panels}
       + [Analysis Workspace でのテーブル、ビジュアライゼーション、パネルの使用](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
