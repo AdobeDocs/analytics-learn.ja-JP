@@ -1,6 +1,6 @@
 ---
-title: パネルとビジュアライゼーションのコピーおよび挿入
-description: Analysis Workspaceでパネルとビジュアライゼーションをコピーして挿入する方法を説明します。
+title: パネルとビジュアライゼーションのコピーと挿入
+description: Analysis Workspace のパネルおよびビジュアライゼーションをコピーしたり挿入したりする方法を説明します
 feature: Panels
 role: User
 level: Beginner
@@ -8,14 +8,14 @@ kt: 1698
 thumbnail: 23230.jpg
 exl-id: 972d49a3-af5e-4f57-bb50-90b6b16bc7d8
 source-git-commit: 980e3069b31ee572366e269143d2f45387f2b682
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# パネルとビジュアライゼーションのコピーおよび挿入 {#copy-and-insert-panels-and-visualizations}
+# パネルとビジュアライゼーションのコピーと挿入 {#copy-and-insert-panels-and-visualizations}
 
-Analysis Workspaceでパネルとビジュアライゼーションをコピーして挿入する方法を説明します。 これは、現在のプロジェクトを調整する、または新しいプロジェクトを優先的に開始するための、時間を節約する方法です。
+Analysis Workspace のパネルおよびビジュアライゼーションをコピーしたり挿入したりする方法を説明します。これらは、現在のプロジェクトを調整したり、新しいプロジェクトをいち早く開始したりするための時間節約テクニックです。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)
