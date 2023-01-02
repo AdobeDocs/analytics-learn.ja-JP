@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 source-git-commit: 143e78ce630df75af574e5547c7941c31a2e75b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2363'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -44,27 +44,27 @@ ht-degree: 94%
       + [コンバージョン変数（eVar）について](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=ja)
       + [コンバージョンイベントの概要](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=ja)
    + UI のカスタマイズ {#customizing-the-ui}
-      + [Analysis Workspaceのユーザー環境設定のカスタマイズ](intro-to-analytics/customizing-the-ui/user-preferences.md)
-      + [ディメンションと指標の説明を追加](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-      + [Reports and Analyticsのメニューのカスタマイズ](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
+      + [Analysis Workspace ユーザー環境設定のカスタマイズ](intro-to-analytics/customizing-the-ui/user-preferences.md)
+      + [ディメンションと指標の説明の追加](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
+      + [Reports and Analytics のメニューのカスタマイズ](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
       + [セキュリティの強化](intro-to-analytics/customizing-the-ui/enhancing-security.md)
-      + [Analysis Workspaceプロジェクトをランディングページとして設定する](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
+      + [ランディングページとしての Analysis Workspace プロジェクトの設定](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + ヘルプ {#getting-help}
       + [Analysis Workspace 製品内ヒント](intro-to-analytics/getting-help/in-product-tips.md)
       + [製品内サポートチケットの送信](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
       + [Adobe Analytics でのヘルプの入手](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
    + Analysis Workspace の基本 {#analysis-workspace-basics}
-      + [Analysis Workspaceクイックイントロ](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
+      + [Analysis Workspace の簡単な紹介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace の概要](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
-      + [新しいランディングページのナビゲーション](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [新しいランディングページのナビゲート](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Analysis Workspace ランディングページの更新](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
-      + [Workspace プロジェクトを一から作成する](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
+      + [ワークスペースプロジェクトを一から作成する](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Analysis Workspace でのカスタムテンプレートの作成と管理](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
-      + [データがAnalysis Workspaceプロジェクトに取り込まれる仕組みについて](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
-      + [Adobe Analyticsの基本指標](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
-      + [Analysis Workspaceでのコンポーネント管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
-      + [Analysis Workspaceでのレポートスイートの選択](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
+      + [Analysis Workspace プロジェクトへのデータの取り込みについて](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
+      + [Adobe Analytics の基本指標](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
+      + [Analysis Workspace のコンポーネント管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
+      + [Analysis Workspace でのレポートスイートの選択](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [Analysis Workspace のパフォーマンス指標の表示](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + ヒントとテクニック {#tips-and-tricks}
       + [Analysis Workspace の 7 つのヒントとテクニック](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
@@ -73,13 +73,13 @@ ht-degree: 94%
    + ワークスペースプロジェクトのナビゲーション {#navigating-workspace-projects}
       + [テンプレートを使用したプロジェクトの作成](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [トレーニングチュートリアルテンプレート](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
-      + [パネルとビジュアライゼーションのコピーおよび挿入](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
+      + [パネルとビジュアライゼーションのコピーと挿入](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [目次の作成](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
-      + [右クリックで Workspace の効率を確認](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
+      + [右クリックでワークスペースの効率性の確認](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [キーボードショートカット](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [注釈](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [表示密度](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
-      + [フィルターを使用](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+      + [フィルターの使用](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
    + パネルの使用 {#using-panels}
       + [Analysis Workspace でのテーブル、ビジュアライゼーション、パネルの使用](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Analysis Workspace の Quick Insights パネル](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
@@ -88,7 +88,7 @@ ht-degree: 94%
       + [メディア再生滞在時間パネル](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=ja)
       + [ドロップダウンフィルターの使用](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [パネルを使用した Analysis Workspace プロジェクトの整理](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
-      + [パネルのセグメントの選択](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
+      + [パネル用のセグメントの選択](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
       + [Analysis Workspace での複数のレポートスイート](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [次／前およびページの概要ワークスペースパネルとレポート](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + フリーフォームテーブルの作成 {#building-freeform-tables}
@@ -147,12 +147,12 @@ ht-degree: 94%
       + [フォールアウトとフローの併用](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [ジャーニー IQ：クロスデバイス分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
    + セグメントの適用 {#applying-segments}
-      + [Analysis Workspaceプロジェクトへのセグメントの適用](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
+      + [Analysis Workspace プロジェクトへのセグメントの適用](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [アドホックセグメントの適用](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
-      + [セグメントでの様々なAttribution IQモデルの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=ja)
-      + [パネルのセグメントの選択](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
-      + [Analysis WorkspaceでセグメントをDimensionとして使用](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
-      + [セグメントを使用してAnalysis Workspaceのデータを制限](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
+      + [セグメントでの様々な Attribution IQ モデルの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=ja)
+      + [パネル用のセグメントの選択](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html?lang=ja)
+      + [Analysis Workspace のディメンションとしてのセグメントの使用](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
+      + [Analysis Workspace でのセグメントを使用したデータの制限](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace のクイックセグメント](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
    + 指標 {#metrics}
       + [基本的な訪問者指標について](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
