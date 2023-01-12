@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: 143e78ce630df75af574e5547c7941c31a2e75b5
-workflow-type: ht
-source-wordcount: '2363'
-ht-degree: 100%
+source-git-commit: e2933c4aa1a56609719f38f131888c95dfe2f741
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -58,7 +58,6 @@ ht-degree: 100%
       + [Analysis Workspace の簡単な紹介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace の概要](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [新しいランディングページのナビゲート](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
-      + [Analysis Workspace ランディングページの更新](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [ワークスペースプロジェクトを一から作成する](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Analysis Workspace でのカスタムテンプレートの作成と管理](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Analysis Workspace プロジェクトへのデータの取り込みについて](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
@@ -73,6 +72,7 @@ ht-degree: 100%
    + ワークスペースプロジェクトのナビゲーション {#navigating-workspace-projects}
       + [テンプレートを使用したプロジェクトの作成](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [トレーニングチュートリアルテンプレート](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
+      + [Analysis Workspaceでのフォルダーの使用](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
       + [パネルとビジュアライゼーションのコピーと挿入](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [目次の作成](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [右クリックでワークスペースの効率性の確認](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
