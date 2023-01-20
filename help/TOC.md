@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 source-git-commit: e2933c4aa1a56609719f38f131888c95dfe2f741
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '2363'
+ht-degree: 100%
 
 ---
 
@@ -72,7 +72,7 @@ ht-degree: 0%
    + ワークスペースプロジェクトのナビゲーション {#navigating-workspace-projects}
       + [テンプレートを使用したプロジェクトの作成](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [トレーニングチュートリアルテンプレート](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
-      + [Analysis Workspaceでのフォルダーの使用](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
+      + [Analysis Workspace でフォルダーを使用します。](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
       + [パネルとビジュアライゼーションのコピーと挿入](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [目次の作成](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [右クリックでワークスペースの効率性の確認](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
