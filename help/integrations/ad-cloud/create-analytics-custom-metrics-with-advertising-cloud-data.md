@@ -1,7 +1,7 @@
 ---
-title: Advertising Cloud データを使用した Analytics カスタム指標の作成
-description: Adobe Analytics 内で Advertising Cloud データを使用する場合に作成すると便利なカスタム指標について説明します。
-feature: Advertising Cloud Integration
+title: Advertising データを使用した Analytics カスタム指標の作成
+description: Adobe Analytics 内で Advertising データを使用する場合に作成すると便利なカスタム指標について説明します。
+feature: Advertising Integration
 topics: null
 activity: use
 doc-type: feature video
@@ -12,15 +12,15 @@ topic: Integrations
 role: User
 level: Intermediate
 exl-id: 9c50787d-ee08-437a-81ab-4e0da7861269
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '38'
 ht-degree: 100%
 
 ---
 
-# Advertising Cloud データを使用した Analytics カスタム指標の作成
+# Advertising データを使用した Analytics カスタム指標の作成
 
-Adobe Analytics 内で Advertising Cloud データを使用する場合に作成すると便利なカスタム指標について説明します。
+Adobe Analytics 内で Advertising データを使用する場合に作成すると便利なカスタム指標について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35119/?quality=12&learn=on)
