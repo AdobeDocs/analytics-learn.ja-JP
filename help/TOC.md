@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
+source-git-commit: 6581a3a6bdcc471f786adca7f4a5334fa90a2a57
 workflow-type: tm+mt
 source-wordcount: '2347'
 ht-degree: 96%
@@ -98,6 +98,7 @@ ht-degree: 96%
       + [フリーフォームテーブルでのディメンションの操作](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [フリーフォームテーブルでの指標の操作](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [フリーフォームテーブルの行および列設定](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+      + [フリーフォームテーブルの合計](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
       + [フリーフォームテーブルビルダーの使用](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [右クリックでワークスペースの効率を確認](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
       + [静的行の並べ替え](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
@@ -105,7 +106,6 @@ ht-degree: 96%
       + [クロス販売分析](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [フリーフォームテーブルフィルター](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [時間分割ディメンション](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
-      + [フリーフォームテーブルの合計](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
    + ビジュアライゼーション {#visualizations}
       + [Analysis Workspace でのデータビジュアライゼーション](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [ビジュアライゼーションのタイプ](analysis-workspace/visualizations/visualization-types.md)
