@@ -1,26 +1,22 @@
 ---
-title: Adobe Analytics での Advertising Cloud アラートの作成
-description: Adobe Analytics アラートの機能を活用して Advertising 有料メディアキャンペーンを監視する方法。
+title: Adobe AnalyticsでのAdvertising Cloudアラートの作成
+description: Adobe Analyticsアラートの機能を活用してAdvertising Cloud有料メディアキャンペーンを監視する方法を説明します。
 feature: Advertising Integration
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 35118.jpg
-kt: 5475
 topic: Integrations
 role: User
 level: Intermediate
+thumbnail: 35118.jpg
+kt: 5475
 exl-id: c021f6b9-f242-4576-8f3a-cb2ef31f32fc
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+source-git-commit: ecfce7b894986903f28ecaaa3252c903420f5aa8
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 100%
+source-wordcount: '52'
+ht-degree: 0%
 
 ---
 
-# Adobe Analytics での Advertising Cloud アラートの作成
+# Adobe AnalyticsでのAdvertising Cloudアラートの作成
 
-Adobe Analytics アラートの機能を活用して Advertising Cloud 有料メディアキャンペーンを監視する方法。
+Adobe Analyticsアラートの機能を活用してAdvertising Cloud有料メディアキャンペーンを監視する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35118/?quality=12&learn=on)

@@ -1,26 +1,22 @@
 ---
-title: Advertising マーケティングチャネルを使用したレポート
-description: Advertising のビュースルーおよびクリックスルーエントリデータが Adobe Analytics マーケティングチャネルと連携する仕組み
+title: Advertising Cloudマーケティングチャネルを使用したレポート
+description: Advertising CloudのビュースルーおよびクリックスルーエントリデータがAdobe Analyticsマーケティングチャネルと連携する仕組みについて説明します。
 feature: Advertising Integration
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 35115.jpg
-kt: 5472
 topic: Integrations
 role: User
 level: Intermediate
+thumbnail: 35115.jpg
+kt: 5472
 exl-id: e879f628-99e9-41ab-a711-d9e6e1b22d16
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+source-git-commit: eabf80121425753fb3f6ab00d188a29669f94908
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 100%
+source-wordcount: '43'
+ht-degree: 11%
 
 ---
 
 # Advertising マーケティングチャネルを使用したレポート
 
-Advertising のビュースルーおよびクリックスルーエントリデータが Adobe Analytics [!UICONTROL マーケティングチャネル] と連携する仕組み。
+Advertising CloudのビュースルーおよびクリックスルーエントリデータがAdobe Analyticsと連携する仕組みについて説明します。 [!UICONTROL マーケティングチャネル].
 
 >[!VIDEO](https://video.tv.adobe.com/v/35115/?quality=12&learn=on)
