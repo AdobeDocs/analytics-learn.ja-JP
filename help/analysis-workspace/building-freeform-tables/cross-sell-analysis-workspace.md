@@ -1,25 +1,25 @@
 ---
-title: Analysis Workspace でのクロス販売分析
-description: Reports & Analytics のクロス販売レポートには、同じ製品文字列における製品間の関係が表示されるので、どの製品が一緒に購入されたかを分析できます。このビデオでは、Analysis Workspace でクロス販売レポートを作成し、複数値のディメンションまたは分類にさらに拡張する方法を説明します。
+title: Analysis Workspaceでのクロス販売分析
+description: このビデオでは、Analysis Workspaceでクロス販売レポートを作成し、複数値のディメンションや分類にさらに拡張する方法を学びます。
 feature: Freeform Tables
 thumbnail: 25864.jpg
 kt: 2367
 role: User
 level: Beginner
 exl-id: b9c01772-8c48-4baf-a85d-faabf5bdb846
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: ht
-source-wordcount: '139'
-ht-degree: 100%
+source-git-commit: a3aef96c996343d0d90de8e1462f6dcbf362c403
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 27%
 
 ---
 
-# Analysis Workspace での [!UICONTROL クロス販売] 分析 {#cross-sell-analysis-in-analysis-workspace}
+# Analysis Workspaceでのクロス販売分析 {#cross-sell-analysis-in-analysis-workspace}
 
-[!DNL Reports & Analytics] の [!UICONTROL クロス販売] レポートには、同じ製品文字列における製品間の関係が表示されるので、どの製品が一緒に購入されたかを分析できます。このビデオでは、Analysis Workspace で [!UICONTROL クロス販売] レポートを作成し、複数値のディメンションまたは分類にさらに拡張する方法を説明します。
+このビデオでは、Analysis Workspaceでクロス販売レポートを作成し、複数値のディメンションや分類にさらに拡張する方法を学びます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12)
 
 >[!INFO]
 >
-> このビデオは[フリーフォームテーブル、分析の基盤](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)コース（Experience League で無料で利用可能）の一部です。
+> このビデオは、Experience League で無償で利用できる、[フリーフォームテーブル、分析の基盤](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=ja)コースの一部です。
