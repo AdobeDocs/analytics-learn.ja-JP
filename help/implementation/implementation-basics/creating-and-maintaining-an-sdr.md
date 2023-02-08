@@ -7,8 +7,8 @@ level: Beginner
 kt: 3581
 thumbnail: 28754.jpg
 exl-id: c942e819-0763-4907-adcc-747ec753c407
-source-git-commit: bd4ac9bba3d240f571991d32dbe3b225a4452c1a
-workflow-type: ht
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 ソリューションデザインリファレンス（SDR）ドキュメントは、デジタルプロパティにおける Analytics のビジネス要件とデータ収集デザインのブループリントです。Analysis ソリューションの情報源としてこのドキュメントを作成し、維持する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12&learn=on)
 
 Excel のサンプルテンプレートを[ダウンロード](assets/aa-implementation-playbook.xlsx)して、デジタルプロパティの要件やデータ収集デザインを文書化できます。
 

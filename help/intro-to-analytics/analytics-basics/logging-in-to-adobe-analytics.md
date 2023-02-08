@@ -2,16 +2,12 @@
 title: Adobe Analytics へのログイン
 description: このビデオでは、Analytics へのログインと Analytics の管理の方法と分析を開始する方法を説明します。
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 3566
 role: User
 level: Beginner
 exl-id: a7c5c6ba-7517-4407-a914-e125ef9db862
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
 
@@ -21,7 +17,7 @@ ht-degree: 100%
 
 このビデオでは、[!DNL Analytics] へのログインについて説明します。ログインすると、管理と分析をおこなうことができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/28771/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28771/?quality=12&learn=on)
 
 >[!INFO]
 >
