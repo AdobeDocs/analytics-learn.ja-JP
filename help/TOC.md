@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
 workflow-type: tm+mt
 source-wordcount: '2344'
-ht-degree: 93%
+ht-degree: 96%
 
 ---
 
@@ -92,18 +92,18 @@ ht-degree: 93%
       + [Analysis Workspace での複数のレポートスイート](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [次／前およびページの概要ワークスペースパネルとレポート](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + フリーフォームテーブルの作成 {#building-freeform-tables}
-      + [データを理解 — フリーフォームテーブル](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
-      + [左側のレールを使用してフリーフォームテーブルを作成](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
-      + [空のプロジェクトに簡単にドラッグ&amp;ドロップ](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
+      + [データについて：フリーフォームテーブル](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
+      + [左側のパネルを使用したフリーフォームテーブルの作成](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
+      + [空のプロジェクトへの簡単なドラッグ＆ドロップ](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [フリーフォームテーブルでのディメンションの操作](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [フリーフォームテーブルでの指標の操作](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [フリーフォームテーブルの行および列設定](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [フリーフォームテーブルの合計](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
       + [フリーフォームテーブルビルダーの使用](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
-      + [右クリックでワークスペースの効率を確認](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
+      + [右クリックでのワークスペースの効率性の確認](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html?lang=ja)
       + [静的行の並べ替え](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
-      + [フリーフォームテーブルでのAttribution IQの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=ja)
-      + [クロス販売分析](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
+      + [フリーフォームテーブルでの Attribution IQ の使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=ja)
+      + [クロスセル分析](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [フリーフォームテーブルフィルター](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [時間分割ディメンション](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + ビジュアライゼーション {#visualizations}
