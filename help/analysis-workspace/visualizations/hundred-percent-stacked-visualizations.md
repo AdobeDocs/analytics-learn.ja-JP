@@ -1,26 +1,26 @@
 ---
-title: Analysis Workspace の 100％ 積み重ねビジュアライゼーション
-description: このビデオでは、生の数値のみではなく、積み重ねビジュアライゼーションをパーセンテージとして設定する方法を説明します。
+title: Analysis Workspaceの 100%の積み重ねビジュアライゼーション
+description: 積み重ねられたビジュアライゼーションを、生の値ではなく割合として設定する方法を説明します。
 feature: Visualizations
 thumbnail: 23131.jpg
 kt: 1670
 role: User
 level: Beginner
 exl-id: 7b775e43-2495-4851-8e16-ab6d93c75dd1
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: ht
-source-wordcount: '137'
-ht-degree: 100%
+source-git-commit: fc1de005c13705a41a229403bfc0444f1538ec51
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 30%
 
 ---
 
-# Analysis Workspace の 100％ 積み重ね [!UICONTROL ビジュアライゼーション] {#stacked-visualizations-in-analysis-workspace}
+# Analysis Workspaceの 100%の積み重ねビジュアライゼーション
 
-このビデオでは、生の数値のみではなく、積み重ねビジュアライゼーションをパーセンテージとして設定する方法を説明します。
+積み重ねられたビジュアライゼーションを、生の値ではなく割合として設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
 
-積み重ねグラフは、トレンドの中の全体の一部を表すのに役立ちます。新しい 100％ 積み重ねビジュアライゼーションの設定は、生の数値ではなく％値の観点から、各部分が全体にどのように貢献しているかを即座に確認するのに役立ちます。この新しい設定は、 [!UICONTROL 積み重ね面グラフ]、[!UICONTROL 積み重ね棒グラフ] および [!UICONTROL 積み重ね横棒グラフ] の右上にある [!UICONTROL ビジュアライゼーション] 設定歯車から利用できます。
+積み重ねグラフは、トレンドの中の全体の一部を表すのに役立ちます。100%の積み重ねビジュアライゼーション設定を使用すると、生の値ではなく%値という点で、各パーツが全体にどのように貢献しているかをすばやく確認できます。 この設定は、積み重ね面、積み重ね棒および積み重ね横棒グラフのビジュアライゼーション設定の歯車アイコンから使用できます。
 
 >[!INFO]
 >
