@@ -1,6 +1,6 @@
 ---
-title: Analysis Workspaceでのクロス販売分析
-description: このビデオでは、Analysis Workspaceでクロス販売レポートを作成し、複数値のディメンションや分類にさらに拡張する方法を学びます。
+title: Analysis Workspace でのクロスセル分析
+description: このビデオでは、Analysis Workspace でクロスセルレポートを作成し、複数値のディメンションまたは分類にさらに拡張する方法について説明します。
 feature: Freeform Tables
 thumbnail: 25864.jpg
 kt: 2367
@@ -8,15 +8,15 @@ role: User
 level: Beginner
 exl-id: b9c01772-8c48-4baf-a85d-faabf5bdb846
 source-git-commit: a3aef96c996343d0d90de8e1462f6dcbf362c403
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 27%
+ht-degree: 100%
 
 ---
 
-# Analysis Workspaceでのクロス販売分析 {#cross-sell-analysis-in-analysis-workspace}
+# Analysis Workspace でのクロスセル分析 {#cross-sell-analysis-in-analysis-workspace}
 
-このビデオでは、Analysis Workspaceでクロス販売レポートを作成し、複数値のディメンションや分類にさらに拡張する方法を学びます。
+このビデオでは、Analysis Workspace でクロスセルレポートを作成し、複数値のディメンションまたは分類にさらに拡張する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12)
 
