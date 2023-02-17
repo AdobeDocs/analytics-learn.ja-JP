@@ -1,5 +1,5 @@
 ---
-title: Analysis Workspaceのフリーフォームテーブルフィルター
+title: Analysis Workspace でのフリーフォームテーブルフィルター
 description: フィルターを使用すると、フリーフォームテーブルで共有されるデータの行をより詳細に制御できます。
 feature: Freeform Tables
 thumbnail: 23232.jpg
@@ -8,13 +8,13 @@ role: User
 level: Beginner
 exl-id: 17423156-1e0c-4698-9af2-b59f0753176f
 source-git-commit: a3aef96c996343d0d90de8e1462f6dcbf362c403
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# Analysis Workspaceのフリーフォームテーブルフィルター
+# Analysis Workspace でのフリーフォームテーブルフィルター
 
 フィルターを使用すると、[!DNL freeform table] で共有されるデータの行をより詳細に制御できます。
 
@@ -28,4 +28,4 @@ Analysis Workspace では、11 のフィルター条件および AND/OR 演算�
 
 >[!INFO]
 >
-> このビデオは[フリーフォームテーブル、分析の基盤](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)コース（Experience League で無料で利用可能）の一部です。
+> このビデオは[フリーフォームテーブル、分析の基盤](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=ja)コース（Experience League で無料で利用可能）の一部です。
