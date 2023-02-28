@@ -4,7 +4,7 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '2344'
 ht-degree: 100%
 
