@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
+source-git-commit: 525d6e2c4828f9fda07cf389b5e8e58331e494de
 workflow-type: tm+mt
-source-wordcount: '2344'
-ht-degree: 100%
+source-wordcount: '2349'
+ht-degree: 99%
 
 ---
 
@@ -342,6 +342,7 @@ ht-degree: 100%
       + [カスタム日付範囲の適用](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Analytics ダッシュボードのアプリ内エクスペリエンス](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
       + [カスタム詳細ビューの作成](additional-tools/analytics-dashboards/create-custom-detail-views.md)
+      + [分析ダッシュボードのデータストーリー](additional-tools/analytics-dashboards/data-stories-for-analytics-dashboards.md)
 + エクスポート {#exporting}
    + UI から {#from-the-ui}
       + [Analysis Workspace を使用した CSV へのエクスポート](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
