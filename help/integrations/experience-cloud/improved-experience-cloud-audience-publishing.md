@@ -1,6 +1,7 @@
 ---
 title: Experience Cloud のオーディエンス公開機能の改善
 landing-page-description: 公開オーディエンス（セグメント）について学習し、かつてないほどに短時間で利用できるようにします。
+short-description: Learn publish audiences (segments) and make them available faster than ever.
 description: Experience Cloud のオーディエンス公開機能が改善されました。オーディエンス（セグメント）を 6 倍の速さで公開して利用できるようになり、現在は待ち時間が 48 時間から約 8 時間に短縮されました。トラフィックや セグメント サイズによってはさらに高速になります。
 feature: Experience Cloud Integration
 topics: null
@@ -12,7 +13,7 @@ topic: Integrations
 role: User
 level: Intermediate
 exl-id: c23ebad6-2967-4739-b381-1f3c6415f8c7
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 3b037de31160f7741cc10429ea4e97864f2863a8
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 100%
