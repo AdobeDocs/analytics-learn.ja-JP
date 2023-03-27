@@ -10,8 +10,8 @@ kt: 1848
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 27a8ce2f-afea-4505-9525-49720432f40f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '138'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 このビデオでは、Adobe [!DNL Experience Platform Launch] を使用していない場合に appMeasurement コードを更新する方法を説明します。これには、コードの取得場所と更新場所が含まれます。
 
->[!VIDEO](https://video.tv.adobe.com/v/25913/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25913/?quality=12&learn=on)
 
 >[!NOTE]
 >
