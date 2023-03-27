@@ -7,7 +7,7 @@ kt: 2011
 role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '149'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 このビデオでは、 [!UICONTROL フリーフォームテーブル] で「[!UICONTROL 期間列を追加]」および「[!UICONTROL 期間を比較]」の 2 つの日付比較機能を活用する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12&learn=on)
 
 日付比較を使用すれば、現在の Analysis Workspace テーブルに簡単に深みを加えることができ、現在のデータを過去のパフォーマンスと容易に比較するのに役立ちます。
 
