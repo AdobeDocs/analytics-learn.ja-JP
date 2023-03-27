@@ -7,7 +7,7 @@ kt: 1909
 role: User
 level: Beginner
 exl-id: a24a9c3d-9bb2-4d72-8b36-d33fda777e4d
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '100'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [!UICONTROL ヒストグラム] では、訪問者、訪問および現在のヒットにわたる [!UICONTROL 指標] の分布を視覚化して、価値の高いセグメントと価値の低い [!UICONTROL セグメント] を見つけることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12&learn=on)
 
 この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=ja) を参照してください。
 
