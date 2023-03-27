@@ -11,7 +11,7 @@ kt: 2280
 role: User
 level: Beginner
 exl-id: 080edb20-1005-4a9e-8067-167a2dd575be
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '111'
 ht-degree: 100%
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 このビデオでは、Analysis Workspace の[!DNL Flow visualization]で使用できる様々な右クリックオプションについて説明します。 オプションには、パスからのセグメントの作成や列の折りたたみなどがあります。
 
->[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12&learn=on)
 
 この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=ja#analysis-workspace) を参照してください。
 
