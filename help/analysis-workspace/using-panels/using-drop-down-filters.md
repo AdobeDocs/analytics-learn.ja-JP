@@ -7,7 +7,7 @@ kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '203'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 このビデオでは、Analysis Workspace のドロップダウンフィルターを使用して、パネルのコンテンツを動的に変更する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23877/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23877/?quality=12&learn=on)
 
 パネルドロップゾーンにドロップダウンフィルター機能が追加されました。ドロップダウンフィルターを使用すると、アナリストおよびエンドユーザーは、制御されたフィルターを通じてデータを操作できます。任意のコンポーネントタイプからドロップダウンフィルターを作成したあと、ドロップダウン内の項目を切り替えて、パネルのコンテンツをフィルタリングできます。また、1 つのパネルに複数のドロップダウンを追加して、制御を追加することもできます。
 
