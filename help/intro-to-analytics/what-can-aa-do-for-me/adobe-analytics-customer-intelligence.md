@@ -10,8 +10,8 @@ kt: 4384
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 9aeb8371-3fac-41db-bea3-35c7ca3deeef
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '82'
 ht-degree: 100%
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 エクスペリエンス企業になるためには、データドリブン型マーケティングが重要です。 分析の成熟度を、データからインサイトさらにはアクションへと、新しいレベルに高めます。
 
->[!VIDEO](https://video.tv.adobe.com/v/31502/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31502/?quality=12&learn=on)
 
 顧客をあらゆる角度から理解するためのアドビのサポートについて説明します：[https://adobe.ly/2CabND4](https://adobe.ly/2CabND4)
