@@ -10,8 +10,8 @@ kt: 2336
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 175c91e5-6ae5-4e52-acb5-6c8fc2731bea
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '82'
 ht-degree: 100%
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Analysis Workspace は、時系列の [!UICONTROL ビジュアライゼーション] やデータテーブルのデータの異常を自動的に検出します。追加の手間をかけずに「知らないと知らないこと (unknown unknowns)」を理解します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12&learn=on)
 
 この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=ja) を参照してください。
