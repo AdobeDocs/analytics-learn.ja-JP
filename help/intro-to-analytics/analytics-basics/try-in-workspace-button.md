@@ -10,8 +10,8 @@ kt: 1965
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: d5aab59f-ff73-4ef5-82d6-fd4ada90a7cd
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '64'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!UICONTROL Reports &amp; Analytics] のほとんどのレポートには「**[!UICONTROL Workspaceで試す]**」ボタンが含まれており、現在の表示を[!UICONTROL Analysis Workspace] で再現して、さらにカスタマイズすることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/23959/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23959/?quality=12&learn=on)
