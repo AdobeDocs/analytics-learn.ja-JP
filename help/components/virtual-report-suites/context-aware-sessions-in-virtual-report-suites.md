@@ -10,8 +10,8 @@ kt: 1775
 role: User
 level: Intermediate
 exl-id: eccd24d8-ed55-49db-894c-ef31de891728
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '79'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 # [!UICONTROL 仮想レポートスイート] のコンテキスト対応セッション {#context-aware-sessions-in-virtual-report-suites}
 
->[!VIDEO](https://video.tv.adobe.com/v/23545/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23545/?quality=12&learn=on)
 
 このビデオのセクション：
 
