@@ -10,8 +10,8 @@ kt: 2492
 role: User
 level: Beginner
 exl-id: 378426ce-fc29-4912-9289-e763b941877a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '77'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!UICONTROL プロジェクト]／[!UICONTROL 情報および設定] の [!UICONTROL 表示密度] 設定を使用すると、左側のパネルおよびテーブル（[!UICONTROL フリーフォーム] および [!UICONTROL コホート]）に適用する垂直方向のパディングを制御できます。「拡張」（デフォルト）、「快適」、「コンパクト」のいずれかを選択できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/25963/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25963/?quality=12&learn=on)
