@@ -8,7 +8,7 @@ kt: 4105
 role: User
 level: Beginner
 exl-id: 0962f332-acc7-4ebe-9841-4d3fdf1d77b3
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '121'
 ht-degree: 100%
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 このビデオでは、日付、[!UICONTROL 日付範囲]、日付比較を使用して、テーブルとビジュアライゼーションを適切な時間枠にカスタマイズする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=ja)を参照してください。
 
