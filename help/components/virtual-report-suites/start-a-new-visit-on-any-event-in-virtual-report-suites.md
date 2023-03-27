@@ -10,8 +10,8 @@ kt: 1663
 role: User
 level: Intermediate
 exl-id: ca1d8ca8-a854-4d02-8017-4e3e3587ab9e
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '129'
 ht-degree: 100%
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 このビデオでは、 [!UICONTROL 仮想レポートスイート] の訪問設定を使用することにより、Adobe Analytics でイベントを使用して新しい訪問の開始をトリガーする方法を説明します。 
 
->[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12&learn=on)
 
 カスタムタイムアウト設定、バックグラウンドヒットの無視、アプリ起動時の新しい訪問のトリガーなどにより、Adobe Analytics で訪問のコンテキストを再定義できます。この機能を拡張することで、アプリの起動経由だけでなく、任意のイベントの組み合わせで新しい訪問をトリガーできるようになります。
