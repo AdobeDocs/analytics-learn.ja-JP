@@ -10,8 +10,8 @@ kt: 2137
 role: User
 level: Beginner
 exl-id: 44e8cded-3ef8-4c55-811d-28f4e9415032
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!UICONTROL フリーフォーム] 分析には、グラフやテーブルの位置、幅および高さを変更して、より表現力豊かなプロジェクトを構築できるようにする機能が含まれています。このビデオでは、レイアウトを変更する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24706/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24706/?quality=12&learn=on)
