@@ -7,7 +7,7 @@ thumbnail: 25405.jpg
 role: User
 level: Beginner
 exl-id: be1610a0-dbec-46d0-8cad-b4726333b8f9
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '178'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 このビデオでは、サイト上またはアプリ上での一連の行動から、Analysis Workspace でセグメントを作成する方法を説明します。つまり、「A」を実行した後に「B」を実行した訪問者のセグメントを作成して、そのイベントのシーケンスが他のすべてのデータにどのように影響したかを確認できます。ぜひご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/25405/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25405/?quality=12&learn=on)
 
 このトピックについて詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=ja)を参照してください。
 
