@@ -12,7 +12,7 @@ topic: Integrations
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 393d23f9-8c25-4210-b11b-cd9e02e63712
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '82'
 ht-degree: 100%
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 Adobe [!DNL Experience Platform Launch] を使用して、Adobe Analytics のヒットをサーバーサイド転送経由で Adobe Audience Manager に自動的に送信する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)
 
 >[!INFO]
 >
