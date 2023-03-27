@@ -11,7 +11,7 @@ topic: SPA
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
-source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '1313'
 ht-degree: 100%
@@ -88,7 +88,7 @@ ht-degree: 100%
 
 これらのイベントの発生の仕方とタイミングについて詳しくは、上記のページとドキュメントを参照してください。実装で同じイベント名を使用する必要はありません。使用されるメソッドの機能的なユースケースは、それぞれの推奨ベストプラクティスとして理解するのに不可欠です。次のビデオでは、カスタムイベントをリッスンする [!DNL Experience Platform Tags]でのサンプル SPA ページとサンプルコードを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12&learn=on)
 
 ## [!DNL Experience Platform Tags] で s.t() または s.tl() を実行する {#running-s-t-or-s-tl-in-the-launch-rule}
 
@@ -102,7 +102,7 @@ SPA の操作をする際に [!DNL Analytics] について理解しておくべ�
 
 次のビデオでは、タグで `s.t()` または `s.tl()` をトリガーする場所と方法を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12&learn=on)
 
 ## 変数のクリア {#clear-variables}
 
@@ -114,7 +114,7 @@ SPA の操作をする際に [!DNL Analytics] について理解しておくべ�
 
 次のビデオでは、[!DNL Tags] で変数をクリアする場所と方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12&learn=on)
 
 ## その他の留意事項 {#additional-considerations}
 
