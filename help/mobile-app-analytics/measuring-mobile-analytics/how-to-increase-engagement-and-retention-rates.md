@@ -10,8 +10,8 @@ kt: 3054
 role: User
 level: Beginner
 exl-id: 4caefb24-c8a9-468e-9ab4-9422e7dcca69
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '82'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 エンゲージしたオーディエンスを[!UICONTROL コホート]を使用して行動から特定し、モバイルアプリへの定着度を高める根本原因を把握します。[!UICONTROL Segment IQ] のデータサイエンスアルゴリズムを使用して、セグメント間の相違点と類似点を把握します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27825/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27825/?quality=12&learn=on)
