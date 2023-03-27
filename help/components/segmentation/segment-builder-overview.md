@@ -7,7 +7,7 @@ kt: 2300
 role: User
 level: Beginner
 exl-id: 763c9504-0692-4d56-ba5e-a3af7e2e607a
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '80'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Adobe Analytics のセグメント化を使用して、データをスライスし、多角的に分析します。このビデオでは、セグメントビルダーに関する手順と、基本的な概要を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25404/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25404/?quality=12&learn=on)
 
 >[!INFO]
 >
