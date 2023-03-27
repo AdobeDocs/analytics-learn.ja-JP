@@ -14,8 +14,8 @@ topic: Administration
 role: Admin, Architect
 level: Beginner
 exl-id: 39adbd25-da7f-4b7a-ae43-6681d675b46d
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '87'
 ht-degree: 100%
 
@@ -25,6 +25,6 @@ ht-degree: 100%
 
 このビデオでは、 [!UICONTROL 郵便番号] を設定し、この地域データに基づいて分析を実行する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12&learn=on)
 
 [!UICONTROL 郵便番号] の設定について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=ja) を参照してください。
