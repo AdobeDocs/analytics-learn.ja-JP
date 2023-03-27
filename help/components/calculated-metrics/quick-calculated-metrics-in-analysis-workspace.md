@@ -7,7 +7,7 @@ kt: 1666
 role: User
 level: Beginner
 exl-id: 461dc5f8-b52e-47ce-b2c4-afe4426dab16
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '145'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Analysis Workspace 内で [!UICONTROL 計算指標] をその場で作成できるようになりました。 [!UICONTROL フリーフォームテーブル]のいくつかの[!UICONTROL 指標]を使用して変化率計算や除算をすばやく行う場合は、ヘッダーから[!UICONTROL 指標]を選択し、右クリックして必要な演算子を選択します。新しい[!UICONTROL 計算指標]が右側に表示されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12&learn=on)
 
 >[!INFO]
 >
