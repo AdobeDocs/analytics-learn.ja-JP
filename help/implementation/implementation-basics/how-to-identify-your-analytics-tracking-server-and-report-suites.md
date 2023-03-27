@@ -10,8 +10,8 @@ kt: 2358
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '303'
 ht-degree: 100%
 
@@ -37,4 +37,4 @@ Adobe Analytics を設定する際や、他の Experience Cloud ソリューシ�
 
 詳しくは、以下のビデオをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/26061/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26061/?quality=12&learn=on)
