@@ -7,7 +7,7 @@ kt: 1707
 role: User
 level: Intermediate
 exl-id: 948fcfc7-7a43-43a0-987c-587b0fd56599
-source-git-commit: e021df988079334ecd81b8c320f9e3d9a43da2e4
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '134'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 このビデオでは、サイト上で Adobe Analytics セグメントと組み合わせて [!DNL Attribution IQ] [!UICONTROL モデル] を使用する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23743/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23743/?quality=12&learn=on)
 
 サイトで分析を行う場合、多くの場合、セグメントを使用して、訪問者、訪問、またはヒットの特定のグループにフォーカスします。その際に、セグメント、指標および全体的なレポートと組み合わせて、最も効果的なアトリビューションモデルを検討する手順を追加する必要があります。
 
