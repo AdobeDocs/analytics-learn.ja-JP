@@ -10,8 +10,8 @@ kt: 2317
 role: User
 level: Beginner
 exl-id: 2bd83c8d-c2a8-4279-8402-aeb052e8d18f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '24'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Reports &amp; Analytics の指標セレクターの概要
 
->[!VIDEO](https://video.tv.adobe.com/v/25410/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25410/?quality=12&learn=on)
