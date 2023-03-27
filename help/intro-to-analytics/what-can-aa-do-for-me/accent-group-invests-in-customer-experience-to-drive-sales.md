@@ -10,8 +10,8 @@ kt: 4386
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 86298461-5ced-4ef3-a820-4be0275fd7fe
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 オーストラリア最大の靴小売業者である [!DNL Accent Group] では、すべての物理的タッチポイントおよびデジタルタッチポイントにわたって優れた顧客体験を提供することで、売上とコンバージョンを増やしています。 [!DNL Accent Group] が、Adobe Experience Cloud をどのように使用してシームレスなデジタルエクスペリエンスを作成しているかをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/31505/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31505/?quality=12&learn=on)
