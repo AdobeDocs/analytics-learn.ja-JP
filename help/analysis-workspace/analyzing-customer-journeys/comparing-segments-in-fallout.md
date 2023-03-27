@@ -11,7 +11,7 @@ kt: 2278
 role: User
 level: Beginner
 exl-id: 64097031-55a3-458b-bf5b-18ed4babb956
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '88'
 ht-degree: 100%
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 このビデオでは、Analysis Workspace の様々なセグメントをまたいで主要ワークフローを比較する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12&learn=on)
 
 この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=ja) を参照してください。
 
