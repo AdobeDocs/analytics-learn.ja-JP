@@ -7,7 +7,7 @@ thumbnail: 25400.jpg
 role: User
 level: Beginner
 exl-id: 2f305779-9a19-4603-8be7-3a5e3bf634ab
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '107'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 このビデオでは、特定のユーザーパスの前または後のデータのみを取得できるように Adobe Analytics で [!UICONTROL セグメント化] する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25400/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25400/?quality=12&learn=on)
 
 このトピックについて詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=ja)を参照してください。
 
