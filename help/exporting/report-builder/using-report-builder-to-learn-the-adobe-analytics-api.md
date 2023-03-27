@@ -10,8 +10,8 @@ kt: 2345
 role: User
 level: Intermediate
 exl-id: 8b8e0dac-2498-4fba-ba4b-585b309ae1fd
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '274'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!UICONTROL Report Builder] は、誰もが知っているお気に入りです。[!UICONTROL Report Builder] に関する知識を使って、Adobe Analytics スキルセットをさらに高めることができるとしたらどうでしょうか？このビデオでは、[!UICONTROL Report Builder] のデバッグリクエストを取得する手順を示し、そのリクエストを使用して、独自の [!DNL Analytics] API クエリを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12&learn=on)
 
 **更新**：[!UICONTROL Report Builder] では、データを要求する方法を少し更新しました。このビデオで紹介しているアプローチを引き続き使用できますが、デバッガーでは情報が少し異なります。
 
