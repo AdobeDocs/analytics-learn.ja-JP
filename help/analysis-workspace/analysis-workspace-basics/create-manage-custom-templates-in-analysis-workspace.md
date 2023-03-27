@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 23231.jpg
 kt: 1695
 exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
-source-git-commit: de2adda096458119c3de42e85de4d49898576113
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '170'
 ht-degree: 100%
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Analysis Workspace で標準提供のテンプレートを使用したり、カスタムテンプレートを作成したりして、定義済みのレポートセットから作業を開始できるようにする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
 
 Analysis Workspace には、分析をすばやく開始するのに役立ついくつかの定義済みのテンプレートが用意されています。とはいえ、独自のテンプレートが必要なこともあります。独自のカスタムテンプレートに任意のプロジェクトを作成する方法を説明します。新しいユーザーが迅速に作業を進めたり、お気に入りのダッシュボードやプロジェクトを見つけたり、チーム間でダッシュボードを共有したりできます。
 
