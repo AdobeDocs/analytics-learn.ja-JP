@@ -7,7 +7,7 @@ kt: 2349
 role: User
 level: Beginner
 exl-id: c1751182-bf6d-441b-9ffa-d9d40de20bb9
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [!UICONTROL Activity Map] は、Adobe Analytics ユーザーが web サイト上で直接ユーザーアクティビティデータを視覚化するのに役立つツールです。ページのリンク上のクリック数（または他の [!UICONTROL 指標]）を直接確認します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
 
 この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/activity-map.html?lang=ja) を参照してください。
 
