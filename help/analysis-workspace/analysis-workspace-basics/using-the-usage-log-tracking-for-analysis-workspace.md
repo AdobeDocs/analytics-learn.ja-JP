@@ -11,8 +11,8 @@ doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1597
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '152'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 このビデオでは、[!DNL Workspace] プロジェクトで[!UICONTROL 使用状況ログトラッキング]を使用する方法を示します。これは、ユーザーの Adobe Analytics の使用状況をより深く理解するのに役立ちます。
 
->[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12&learn=on)
 
 [!DNL Workspace] トラッキングオプションには、次のものがあります。
 
