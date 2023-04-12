@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: 01a70b931120a5ea8cd82ffd1c91369e3fa041cd
+source-git-commit: d9688dbc8d4958e76aa5fd6d976a8fd28bfe63ba
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2361'
+ht-degree: 99%
 
 ---
 
@@ -67,6 +67,7 @@ ht-degree: 0%
       + [Analysis Workspace のパフォーマンス指標の表示](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + ヒントとテクニック {#tips-and-tricks}
       + [Analysis Workspace の 7 つのヒントとテクニック](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
+      + [右クリックに関するヒントとテクニックを参照し、より効率的なワークフローを実現](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [Analysis Workspace で生産性を高めるコツ](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [Adobe Analytics のラーニングジャーニーを継続するためのお客様向けヒント](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + ワークスペースプロジェクトのナビゲーション {#navigating-workspace-projects}
