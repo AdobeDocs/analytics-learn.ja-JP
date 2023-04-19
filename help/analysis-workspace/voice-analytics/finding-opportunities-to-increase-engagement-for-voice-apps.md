@@ -10,7 +10,7 @@ kt: 2906
 role: User
 level: Intermediate
 exl-id: bcd89ea1-fa1b-41d1-816e-cdd9d49ae172
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 使用頻度、[!UICONTROL コホート]、訪問／ユーザー、セッションの長さなどの機能を活用して、音声アプリのエンゲージメントの質を深く理解する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27223/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27223/?quality=12&learn=on)
