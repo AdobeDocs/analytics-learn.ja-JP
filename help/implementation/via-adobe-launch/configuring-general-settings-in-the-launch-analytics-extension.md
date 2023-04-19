@@ -10,7 +10,7 @@ kt: 2837
 role: Developer, Data Engineer
 level: Beginner
 exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
-source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 100%
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Experience Platform Launch および Adobe Analytics [!UICONTROL 拡張機能] を使い始めたばかりの場合、このビデオは、トラッキングサーバーの設定など、設定の [!UICONTROL 一般] 設定部に役立ちます。
 
->[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=12&learn=on)
 
 この使用例の側面に関する追加情報については、次のドキュメントトピックを参照してください。
 
