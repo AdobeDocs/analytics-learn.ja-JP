@@ -10,7 +10,7 @@ kt: 2856
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 72013b6e-672e-4e8a-b6a2-27b35d5be5d5
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Experience Platform Launch および Adobe Analytics 拡張機能を使い始めたばかりのユーザーは、このビデオを視聴すると、[!DNL Analytics] 拡張機能で cookie を設定するかどうか、およびその方法を理解するのに役立ちます。
 
->[!VIDEO](https://video.tv.adobe.com/v/27212/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27212/?quality=12&learn=on)
 
 これらの設定について詳しくは、 [ドキュメント](https://docs.adobelaunch.com/extension-reference/web/adobe-analytics-extension#cookies) を参照してください。
