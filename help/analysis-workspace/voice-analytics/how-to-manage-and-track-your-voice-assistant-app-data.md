@@ -10,7 +10,7 @@ kt: 2902
 role: User
 level: Intermediate
 exl-id: 3fd55eac-e485-41b9-9178-c7add90fa292
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 カスタマイズされたダッシュボードを作成して、音声アシスタントアプリのパフォーマンスを簡単、柔軟、直感的、視覚的に管理およびトラックする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27224/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27224/?quality=12&learn=on)
