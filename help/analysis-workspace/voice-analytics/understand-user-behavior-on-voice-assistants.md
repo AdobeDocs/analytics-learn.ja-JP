@@ -10,7 +10,7 @@ kt: 2904
 role: User
 level: Intermediate
 exl-id: 7a69541c-8cea-4454-847c-4f0b10aa2788
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 上位インテント、パラメーター、ユーザー認証などの主要 [!UICONTROL 指標] を確認することで、ユーザーの行動を理解し、インサイトを得る方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27227/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27227/?quality=12&learn=on)
