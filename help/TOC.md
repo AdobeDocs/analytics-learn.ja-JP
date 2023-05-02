@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: bb9b02a58b9c39e57021433869388b652627e550
+source-git-commit: a62da18115dc8d6c23eb95b9a1345312c8ac92ef
 workflow-type: tm+mt
-source-wordcount: '2369'
-ht-degree: 99%
+source-wordcount: '2391'
+ht-degree: 98%
 
 ---
 
@@ -67,7 +67,7 @@ ht-degree: 99%
       + [Analysis Workspace のパフォーマンス指標の表示](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + ヒントとテクニック {#tips-and-tricks}
       + [Analysis Workspace の 7 つのヒントとテクニック](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
-      + [右クリックに関するヒントとテクニックを参照し、より効率的なワークフローを実現](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
+      + [ワークフローの効率を上げる、右クリックのヒントとコツ](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [Analysis Workspace で生産性を高めるコツ](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [Adobe Analytics のラーニングジャーニーを継続するためのお客様向けヒント](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + ワークスペースプロジェクトのナビゲーション {#navigating-workspace-projects}
@@ -86,6 +86,7 @@ ht-degree: 99%
       + [Analysis Workspace でのテーブル、ビジュアライゼーション、パネルの使用](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Analysis Workspace の Quick Insights パネル](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Attribution IQ パネルの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=ja)
+      + [Adobe Analyticsアトリビューションパネルとルックバックウィンドウについて](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
       + [Analysis Workspace のメディア同時視聴者数パネル](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [メディア再生滞在時間パネル](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=ja)
       + [ドロップダウンフィルターの使用](analysis-workspace/using-panels/using-drop-down-filters.md)
@@ -154,12 +155,14 @@ ht-degree: 99%
       + [Analysis Workspace のディメンションとしてのセグメントの使用](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Analysis Workspace でのセグメントを使用したデータの制限](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace のクイックセグメント](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
+      + [顧客ジャーニーセグメントの作成](analysis-workspace/applying-segments/building-customer-journey-segments.md)
    + 指標 {#metrics}
       + [基本的な訪問者指標について](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Analysis Workspace でのプロジェクトへのディメンションと指標の追加](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=ja)
       + [コンバージョンイベントの概要](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [フリーフォームテーブルでの指標の操作](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=ja)
       + [Analysis Workspace でのパーティシペーション指標の使用](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
+      + [Goodbley Excel、計算指標のこんにちは](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + ディメンション {#dimensions}
       + [Analysis Workspace でのプロジェクトへのディメンションと指標の追加](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [トラフィック変数（prop）の概要](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
@@ -182,6 +185,7 @@ ht-degree: 99%
       + [プロジェクトのスケジュール設定とダウンロード](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Analysis Workspace でのプロジェクト共有](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
       + [Analysis Workspace の表示専用プロジェクト](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
+      + [表示のみの共有機能のロック解除](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [クロスタブ分析を使用した基本的なマーケティングアトリビューションの調査](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [Attribution IQ モデルの並列比較の追加](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
