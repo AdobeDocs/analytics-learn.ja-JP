@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: a62da18115dc8d6c23eb95b9a1345312c8ac92ef
 workflow-type: tm+mt
 source-wordcount: '2391'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
