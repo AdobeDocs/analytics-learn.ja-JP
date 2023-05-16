@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: b11a8a838efbf7321eb73105c114122e3aeb294a
+source-git-commit: 1c4c7876ad5f4cfe6c41ff6a8cbf72fa9e787173
 workflow-type: tm+mt
-source-wordcount: '2397'
+source-wordcount: '2404'
 ht-degree: 98%
 
 ---
@@ -204,6 +204,7 @@ ht-degree: 98%
       + [任意のディメンションを使用したコホート分析](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
       + [コホートテーブルを使用した待ち時間分析](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
       + [コホートテーブルでのローリングリテンションの計算](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
+      + [コホート分析を使用した顧客行動の把握](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
    + 音声解析 {#voice-analytics}
       + [音声アシスタントアプリのデータを管理および追跡する方法](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [音声対応デバイス間の違いについて](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
