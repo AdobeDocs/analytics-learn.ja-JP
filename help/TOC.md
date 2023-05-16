@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: 1c4c7876ad5f4cfe6c41ff6a8cbf72fa9e787173
+source-git-commit: b11a329ca3f5c676aea08c7037e5ee87003edfe6
 workflow-type: tm+mt
-source-wordcount: '2404'
-ht-degree: 98%
+source-wordcount: '2434'
+ht-degree: 97%
 
 ---
 
@@ -128,6 +128,7 @@ ht-degree: 98%
       + [数値概要と変更概要のビジュアライゼーション](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
       + [主要指標の概要ビジュアライゼーション](analysis-workspace/visualizations/key-metric-summary.md)
       + [テキストビジュアライゼーション](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
+      + [単語以上 — テキストのビジュアライゼーションと説明の使用](analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
       + [散布図ビジュアライゼーション](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [ツリーマップビジュアライゼーション](analysis-workspace/visualizations/treemap-visualization.md)
       + [ベン図ビジュアライゼーション](analysis-workspace/visualizations/venn-diagram-visualization.md)
@@ -322,6 +323,7 @@ ht-degree: 98%
       + [セグメント化のディメンションモデル](components/segmentation/dimension-models-in-segmentation.md)
       + [セグメント化の「次のいずれかと等しい」演算子](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Analytics Insider ウェビナー - 顧客セグメンテーション戦略](components/segmentation/customer-segmentation-strategies.md)
+      + [セグメントを待つだけです。セグメント化を使用して、新しいインサイトを見つけます。](components/segmentation/segmentation-to-discover-new-insights.md)
    + 計算指標 {#calculated-metrics}
       + [計算指標での個別概算カウント関数](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [計算指標での Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=ja)
@@ -332,6 +334,7 @@ ht-degree: 98%
       + [計算指標 - 指標セレクター](components/calculated-metrics/calculated-metrics-metric-selector.md)
       + [Analysis Workspace のクイック計算指標](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [計算指標でのディメンションの使用](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
+      + [計算指標を使用して、データ分析を次のレベルに進めます。](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + 分類 {#classifications}
       + [分類の概要](components/classifications/overview-of-classifications.md)
       + [分類ルールビルダーの使用](components/classifications/using-the-classification-rule-builder.md)
