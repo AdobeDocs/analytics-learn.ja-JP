@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-16T00:00:00Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
-source-git-commit: 5988e9d68f0c2200168da56373259bdf9f4f901b
+source-git-commit: 1b82bc495f72b099c44a1118145a63c255dcc62a
 workflow-type: tm+mt
 source-wordcount: '1110'
 ht-degree: 18%
@@ -34,7 +34,7 @@ ht-degree: 18%
 1. 初回訪問回数は、両方の（11.6%と 11.4%の）再来訪回数よりも若干高い率でコンバートされます。
 1. 2021 年と比較して、両方のセグメントでコンバージョン率が低下しています。
 
-![訪問回数テーブル](assets/visits-table.png)
+![訪問回数テーブル](assets/cohort1.png)
 
 ## パート 2:コホート分析 — 食用に適する手配の訪問グローバル製品
 
@@ -70,14 +70,14 @@ ht-degree: 18%
 1) 最もボリュームの多い月は、2 月と 5 月です
 1) 毎月最大 1,000 人の訪問者がサイトに戻ります
 
-![2022 年リテンションテーブル](assets/2022-retention-table.png)
+![2022 年リテンションテーブル](assets/cohort2.png)
 
 **2021 年：**
 
 1) 保持率が最も高い月+1 ヶ月は、4 月、1 月、3 月です
 1) 最もボリュームの多い月は、2 月と 5 月です
 
-![2021 年リテンションテーブル](assets/2021-retention-table.png)
+![2021 年リテンションテーブル](assets/cohort3.png)
 
 **アクション項目：**
 
@@ -128,7 +128,7 @@ ht-degree: 18%
 
 チェックアウト時にユーザーがアカウントを作成できるようにするための、サイトのユーザーエクスペリエンスを調査します。
 
-![コホートテーブル 4](assets/cohort-table-4.png)
+![コホートテーブル 4](assets/cohort4.png)
 
 ## パート 4:カスタムDimensionコホート
 
@@ -156,7 +156,7 @@ ht-degree: 18%
 1) Product 2
 1) Product 3 ：平均保存率に比べ、保存率が高い方がパフォーマンスが優れています。
 
-![コホートテーブル 5](assets/cohort-table-5.png)
+![コホートテーブル 5](assets/cohort5.png)
 
 ## まとめ
 
