@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: a62da18115dc8d6c23eb95b9a1345312c8ac92ef
+source-git-commit: b11a8a838efbf7321eb73105c114122e3aeb294a
 workflow-type: tm+mt
-source-wordcount: '2391'
-ht-degree: 99%
+source-wordcount: '2397'
+ht-degree: 98%
 
 ---
 
@@ -231,6 +231,7 @@ ht-degree: 99%
       + [内部 Adobe Analytics サイトの作成](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [グローバルレポートスイートの使用](administration/admin-tips/use-a-global-report-suite.md)
       + [ニュースとお知らせのプロジェクトを作成](administration/admin-tips/create-a-news-and-announcements-project.md)
+      + [エグゼクティブサマリーダッシュボードによる成功の促進](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + カンパニー設定 {#company-settings}
       + [電子メールドメイン制限の強制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [アカウントで利用可能な機能を表示する](administration/company-settings/view-your-accounts-available-features.md)
