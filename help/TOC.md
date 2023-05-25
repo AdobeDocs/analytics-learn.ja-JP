@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: b11a329ca3f5c676aea08c7037e5ee87003edfe6
+source-git-commit: db4cbbb061f4d0d4d1bc75463e7018ee55a8655e
 workflow-type: tm+mt
-source-wordcount: '2434'
+source-wordcount: '2435'
 ht-degree: 97%
 
 ---
@@ -58,6 +58,7 @@ ht-degree: 97%
       + [Analysis Workspace の簡単な紹介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace の概要](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [新しいランディングページのナビゲート](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [事前作成済みレポートを使用して分析を開始する](analysis-workspace/analysis-workspace-basics/start-your-analysis-with-a-pre-built-report.md)
       + [ワークスペースプロジェクトを一から作成する](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Analysis Workspace でのカスタムテンプレートの作成と管理](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Analysis Workspace プロジェクトへのデータの取り込みについて](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
@@ -233,7 +234,6 @@ ht-degree: 97%
       + [内部 Adobe Analytics サイトの作成](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [グローバルレポートスイートの使用](administration/admin-tips/use-a-global-report-suite.md)
       + [ニュースとお知らせのプロジェクトを作成](administration/admin-tips/create-a-news-and-announcements-project.md)
-      + [エグゼクティブサマリーダッシュボードによる成功の促進](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + カンパニー設定 {#company-settings}
       + [電子メールドメイン制限の強制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [アカウントで利用可能な機能を表示する](administration/company-settings/view-your-accounts-available-features.md)
