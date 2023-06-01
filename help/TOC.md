@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: db4cbbb061f4d0d4d1bc75463e7018ee55a8655e
+source-git-commit: 4d4e29d3dbc3cedf1847b7fa9cb79ea85fc36296
 workflow-type: tm+mt
-source-wordcount: '2435'
-ht-degree: 97%
+source-wordcount: '2444'
+ht-degree: 96%
 
 ---
 
@@ -115,6 +115,7 @@ ht-degree: 97%
       + [ビジュアライゼーションのタイプ](analysis-workspace/visualizations/visualization-types.md)
       + [ビジュアライゼーションのユースケース](analysis-workspace/visualizations/visualization-use-cases.md)
       + [視覚化するデータの選択](analysis-workspace/visualizations/selecting-data-to-visualize.md)
+      + [データビジュアライゼーションプレイブック](analysis-workspace/visualizations/data-visualization-playbook.md)
       + [ビジュアライゼーションにデータを取り込む](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [ワークスペースでのコンポーネントドロップダウンの使用](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [面グラフおよび積み重ね面グラフのビジュアライゼーション](analysis-workspace/visualizations/area-and-area-stacked.md)
@@ -181,6 +182,7 @@ ht-degree: 97%
       + [Analysis Workspace でのプロジェクトの保存、共有、共同作業](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Analysis Workspace でのキュレーションと共有](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [プロジェクトへの直接リンク](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
+      + [Analysis Workspaceの全員と共有](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
       + [50,000 個の項目を CSV としてダウンロード](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [Analysis Workspace から CSV および PDF へのエクスポート](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [埋め込みコンポーネントの共有](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
