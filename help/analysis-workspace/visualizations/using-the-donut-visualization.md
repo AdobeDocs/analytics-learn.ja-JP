@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: 334309.jpg
 kt: 8130
 exl-id: 24f6db24-f8b3-4506-964c-da23e0e0b505
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: ht
-source-wordcount: '84'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '59'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/donut.html?lang=ja) を参照してください。
-
->[!INFO]
->
-> このビデオは、Experience League で無償で利用できる、[ビジュアライゼーションを使用してデータストーリーを伝える](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=ja)コースの一部です。

@@ -7,9 +7,9 @@ kt: 1770
 role: User
 level: Beginner
 exl-id: 35746c54-fb23-44bd-be95-d79c2b1705f9
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 トレンド [!UICONTROL ビジュアライゼーション] 設定に [!UICONTROL 精度] セレクターが追加され、データの [!UICONTROL 精度] を分単位から年単位まで非常に簡単に調整できるようになりました。この設定により、グラフとソーステーブルの両方が調整され、テーブルを非表示にして操作する手順が不要になります。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
-
->[!INFO]
->
-> このビデオは、Experience League で無償で利用できる、[ビジュアライゼーションを使用してデータストーリーを伝える](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=ja)コースの一部です。

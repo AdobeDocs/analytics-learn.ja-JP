@@ -6,9 +6,9 @@ kt: 4104
 role: User
 level: Beginner
 exl-id: 748ba7ff-a75d-4ecb-a5d8-5451d1922725,01466500-25ef-40d5-9ae1-ce1e0e92b0b5
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '100'
 ht-degree: 100%
 
 ---
@@ -19,8 +19,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12&learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=ja)を参照してください。
-
->[!INFO]
->
-> このビデオは、Experience League で無償で利用できる、[Analysis Workspace の基本を学ぶ](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=ja)コースの一部です。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=ja) を参照してください。

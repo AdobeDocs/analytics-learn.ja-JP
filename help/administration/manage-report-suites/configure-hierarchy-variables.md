@@ -9,9 +9,9 @@ doc-type: feature video
 thumbnail: 340680.jpg
 kt: 9793
 exl-id: 607c9ade-c060-4484-a45a-5f50172cee6a
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
-source-wordcount: '128'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/340680/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/hier.html?lang=ja)を参照してください。
-
->[!INFO]
->
-> このビデオは、Experience League で無償で利用できる、[Adobe Analytics でのレポートスイートの設定と管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=ja)コースの一部です。

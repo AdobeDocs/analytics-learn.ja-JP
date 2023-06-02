@@ -7,9 +7,9 @@ kt: 2367
 role: User
 level: Beginner
 exl-id: b9c01772-8c48-4baf-a85d-faabf5bdb846
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '62'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 このビデオでは、Analysis Workspace でクロスセルレポートを作成し、複数値のディメンションまたは分類にさらに拡張する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12&learn=on)
-
->[!INFO]
->
-> このビデオは、Experience League で無償で利用できる、[フリーフォームテーブル、分析の基盤](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=ja)コースの一部です。

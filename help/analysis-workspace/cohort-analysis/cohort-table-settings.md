@@ -10,9 +10,9 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
@@ -31,8 +31,4 @@ ht-degree: 100%
 
 平均行は、個々の [!UICONTROL コホート] 行ではなく、全体的な [!UICONTROL リテンション] または [!UICONTROL チャーン] を表示するのに特に役立ちます。
 
-[!UICONTROL コホート] 分析について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=ja) を参照してください。
-
->[!INFO]
->
-> このビデオは、Experience League で無償で利用できる、[カスタマージャーニーのデジタルタッチポイントに値を関連付ける](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=ja)コースの一部です。
+[!UICONTROL コホート] 分析について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=ja) を参照してください。

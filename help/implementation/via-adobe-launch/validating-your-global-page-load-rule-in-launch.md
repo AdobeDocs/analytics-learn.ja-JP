@@ -6,9 +6,9 @@ kt: 3589
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 57bc5a02-6b78-48e2-9b67-85b97fe52d6a
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
-workflow-type: ht
-source-wordcount: '119'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '99'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,3 @@ ht-degree: 100%
 アドビでは、サイトに Adobe Analytics を実装する場合に、途中の処理を検証することをお勧めします。[!DNL Experience Cloud debugger] では、これを実現できます。 このビデオでは、グローバルページの読み込み [!UICONTROL ルール] を [!DNL debugger] で検証する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28776/?quality=12&learn=on)
-
->[!INFO]
->
-> このビデオは、Experience League で無償で利用できる、[Analytics 実装ガイド](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)コースの一部です。

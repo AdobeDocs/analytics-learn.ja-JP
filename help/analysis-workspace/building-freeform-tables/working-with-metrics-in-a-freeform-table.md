@@ -7,9 +7,9 @@ kt: 6291
 role: User
 level: Beginner
 exl-id: f7d282f4-027d-4093-a0b5-8d2c0a053317,0ec8b5ca-379e-45be-b077-514af318f42a
-source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
-workflow-type: ht
-source-wordcount: '69'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '46'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 Analysis Workspace のフリーフォームテーブルで指標を使用できる様々な方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40817/?quality=12&learn=on)
-
->[!INFO]
->
-> このビデオは、Experience League で無償で利用できる、[フリーフォームテーブル、分析の基盤](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=ja)コースの一部です。

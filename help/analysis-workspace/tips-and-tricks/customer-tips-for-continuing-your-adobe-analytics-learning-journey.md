@@ -7,9 +7,9 @@ kt: 4111
 role: User
 level: Beginner
 exl-id: af24fd66-a4a9-439a-b722-226f4def861a
-source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
-workflow-type: ht
-source-wordcount: '355'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '332'
 ht-degree: 100%
 
 ---
@@ -33,7 +33,3 @@ ht-degree: 100%
 | 顧客：<br>Sam Liss | Equinox、分析エンジニア |
 |------------|------------|
 | ![Sam Liss](assets/samliss.jpg) | **別の分析製品から Adobe Analytics に移行するためのヒント** <br>「別の分析プラットフォームを利用している場合は、よりカスタマイズ可能なガバナンス、より高度なセキュリティ、多数のマーケティングとデータプラットフォームの統合の世界に乗り出そうとしがちですが、[!UICONTROL フリーフォームテーブル]と[!UICONTROL フロー]のビジュアライゼーションが他の分析プラットフォームで経験したものとどのように異なるかを順を追って説明します。」<br><br>[Sam のヒントを読む](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/an-analyst-s-quick-start-guide-switching-to-adobe/td-p/354312?profile.language=ja) |
-
->[!INFO]
->
-> このビデオは、Experience League で無償で利用できる、[Analysis Workspace の基本を学ぶ](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=ja)コースの一部です。

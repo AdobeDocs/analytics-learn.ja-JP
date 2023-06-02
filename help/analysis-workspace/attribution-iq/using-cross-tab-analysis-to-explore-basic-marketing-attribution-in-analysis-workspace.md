@@ -10,9 +10,9 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: ht
-source-wordcount: '314'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '288'
 ht-degree: 100%
 
 ---
@@ -37,8 +37,4 @@ Adobe Analytics でアトリビューション手法を次のレベルまで引�
 * 3:20 - クロスタブディメンションは、ドロップした際に自動的に動的となり、値は時間の経過と共に変化する可能性があります。この分析では、代わりに静的列を引き継ぐことをお勧めします。動的な列について詳しくは、ビデオの[フリーフォームテーブルの行および列設定](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)（6:33）を参照してください。
 * 4:30 - 列の設定を 1 列ずつではなく、一括で更新できるようになりました。詳しくは、ビデオの「[フリーフォームテーブルの行および列設定](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)」（8:45）を参照してください。
 
-このトピックについて詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=ja)を参照してください。
-
->[!INFO]
->
-> このビデオは、Experience League で無償で利用できる、[カスタマージャーニーでデジタルタッチポイントに値を関連付ける](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=ja)コースの一部です。
+このトピックについて詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=ja) を参照してください。

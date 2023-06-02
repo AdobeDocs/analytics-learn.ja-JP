@@ -7,9 +7,9 @@ kt: 1707
 role: User
 level: Intermediate
 exl-id: 948fcfc7-7a43-43a0-987c-587b0fd56599
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '108'
 ht-degree: 100%
 
 ---
@@ -21,8 +21,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/23743/?quality=12&learn=on)
 
 サイトで分析を行う場合、多くの場合、セグメントを使用して、訪問者、訪問、またはヒットの特定のグループにフォーカスします。その際に、セグメント、指標および全体的なレポートと組み合わせて、最も効果的なアトリビューションモデルを検討する手順を追加する必要があります。
-
->[!INFO]
->
-> このビデオは、Experience League で無償で利用できる、[カスタムセグメント化と日付によるデータのフィルタリング](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=ja)コースの一部です。
-

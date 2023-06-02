@@ -7,9 +7,9 @@ kt: 5939
 role: User
 level: Beginner
 exl-id: 4f0ce6d2-4ce4-4aa7-907d-efcaab958674
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: ht
-source-wordcount: '89'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '66'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 お勧めの機能である Analysis Workspace のすべての右クリックとその使い方を説明します。右クリックを使用すれば、 [!UICONTROL フリーフォームテーブル] から [!UICONTROL フォールアウトビジュアライゼーション ]に至るまで、[!DNL Workspace] の効率性と熟練度が向上します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/39377/?quality=12&learn=on)
-
->[!INFO]
->
-> このビデオは[フリーフォームテーブル、分析の基盤](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)コース（Experience League で無料で利用可能）の一部です。
