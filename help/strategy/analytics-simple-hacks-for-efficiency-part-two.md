@@ -3,10 +3,10 @@ title: 効率化とセルフサービスを実現するシンプルな秘訣 - �
 description: 分析チームが今日直面している主な課題と、それらを克服するためにツール内の戦略を使用した推奨事項について説明します。
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
 workflow-type: tm+mt
-source-wordcount: '802'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -15,8 +15,6 @@ ht-degree: 100%
 **パート 2：ツール内戦略**
 
 この記事では、分析チームが現在直面している主な課題と、ツール内の戦略を使用してそれらを克服する推奨事項について説明します。パート 1 へは[ここから](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md)移動してください。
-
-Adobe Analytics Platform 以外での効果的なソリューションの詳細については、[ここ](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)を参照してください。
 
 ## 効率化の鍵：ツール内戦略
 
@@ -93,7 +91,5 @@ Adobe Analytics Platform 以外での効果的なソリューションの詳細�
 ## Adobe 2.0 レポート API
 
 レポート API を活用して、標準レポートを[!UICONTROL Workspace]からスケジュール済みのレポートおよびダッシュボードに移動します。さらに、[!UICONTROL Analysis Workspace] を使用して API リクエストを作成します。
-
-ツール内戦略に関するこの記事が、お役に立つことを願っています。Adobe Analytics Platform 以外で効率を高める効果的なソリューションに関する詳細は、[こちら](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)を参照してください。
 
 戦略と思考のリーダーシップに関する詳細は、[カスタマーサクセス](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=ja)のハブを参照してください。

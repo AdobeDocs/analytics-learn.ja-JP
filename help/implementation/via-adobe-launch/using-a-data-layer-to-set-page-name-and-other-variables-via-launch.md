@@ -7,10 +7,10 @@ level: Beginner
 kt: 1852
 thumbnail: 25899.jpg
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 _データレイヤー_&#x200B;とは、開発者がページに挿入する JavaScript オブジェクトのフレームワークのことを指します。Analytics ソリューションでは最終的に、データレイヤーを使用してレポートに入力します。タグ管理システム（[!DNL Experience Platform Tags]）は、データレイヤーを読み取り、値を変数にマッピングし、そのデータをデジタルエクスペリエンスソリューションに送信する仲介者です。
 
-[Experience Cloud ドキュメント](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=ja)とブログ「[データレイヤー：バズワードからベストプラクティスまで](https://blog.adobe.com/en/2014/03/13/data-layers-buzzword-best-practice)」で、データレイヤーに関する追加情報を確認します。
+内のデータレイヤーに関する追加情報の確認 [Experience Cloud文書](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=ja).
 
 ## データレイヤー、[!DNL Experience Platform Tags]、および Adobe Analytics{#data-layers-launch-and-adobe-analytics}
 
