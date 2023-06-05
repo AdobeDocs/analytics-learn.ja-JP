@@ -11,10 +11,10 @@ topic: Mobile
 role: Developer, Data Engineer
 level: Experienced
 exl-id: 8bcc2f31-fac6-45eb-84d8-0ad65779a369
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 4d467928756950074620388645523021b21fb0d5
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/26258/?quality=12&learn=on)
 
-[!UICONTROL ライフサイクル] [!UICONTROL 指標] の詳細については、 [ドキュメント](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle) を参照してください。
+[!UICONTROL ライフサイクル] [!UICONTROL 指標] の詳細については、 [ドキュメント](https://developer.adobe.com/client-sdks/documentation/mobile-core/lifecycle/) を参照してください。
