@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: 4d4e29d3dbc3cedf1847b7fa9cb79ea85fc36296
+source-git-commit: 2fc695b576b9334aff52fe7a8eb4e88ab38a4b71
 workflow-type: tm+mt
-source-wordcount: '2444'
+source-wordcount: '2443'
 ht-degree: 96%
 
 ---
@@ -87,7 +87,6 @@ ht-degree: 96%
       + [Analysis Workspace でのテーブル、ビジュアライゼーション、パネルの使用](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Analysis Workspace の Quick Insights パネル](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Attribution IQ パネルの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=ja)
-      + [Adobe Analyticsアトリビューションパネルとルックバックウィンドウについて](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
       + [Analysis Workspace のメディア同時視聴者数パネル](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [メディア再生滞在時間パネル](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=ja)
       + [ドロップダウンフィルターの使用](analysis-workspace/using-panels/using-drop-down-filters.md)
@@ -236,6 +235,7 @@ ht-degree: 96%
       + [内部 Adobe Analytics サイトの作成](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [グローバルレポートスイートの使用](administration/admin-tips/use-a-global-report-suite.md)
       + [ニュースとお知らせのプロジェクトを作成](administration/admin-tips/create-a-news-and-announcements-project.md)
+      + [エグゼクティブサマリーダッシュボードで成功を促す](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + カンパニー設定 {#company-settings}
       + [電子メールドメイン制限の強制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [アカウントで利用可能な機能を表示する](administration/company-settings/view-your-accounts-available-features.md)
