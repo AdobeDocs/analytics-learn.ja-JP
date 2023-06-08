@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: 2fc695b576b9334aff52fe7a8eb4e88ab38a4b71
+source-git-commit: 0e99202f5861310370cba2753339e8a9a45d6804
 workflow-type: tm+mt
-source-wordcount: '2443'
+source-wordcount: '2438'
 ht-degree: 96%
 
 ---
@@ -37,7 +37,6 @@ ht-degree: 96%
       + [Analytics サイクルについて](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [Analytics データの収集方法](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Adobe Analytics へのログイン](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
-      + [Analytics UI の紹介](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
       + [レポートスイートの概要と作成](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [基本的な訪問者指標について](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=ja)
       + [トラフィック変数（prop）の概要](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=ja)
