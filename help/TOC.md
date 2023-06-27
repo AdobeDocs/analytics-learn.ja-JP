@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: f5027defc8853b3d66d8383bccba5928c8ea25aa
+source-git-commit: f9ef44adb364df5373c64cda4cead5f0a4da5eb9
 workflow-type: tm+mt
-source-wordcount: '2451'
+source-wordcount: '2446'
 ht-degree: 97%
 
 ---
@@ -84,6 +84,8 @@ ht-degree: 97%
       + [注釈](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [表示密度](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [フィルターの使用](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+   + リアルタイムレポート {#real-time-reports}
+      + [リアルタイムレポート](analysis-workspace/real-time-reports/realtime-reporting.md)
    + パネルの使用 {#using-panels}
       + [Analysis Workspace でのテーブル、ビジュアライゼーション、パネルの使用](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Analysis Workspace の Quick Insights パネル](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
@@ -217,8 +219,6 @@ ht-degree: 97%
       + [音声アプリのエラー率の低減と成功率の向上](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
       + [音声アシスタントでのユーザー行動の把握](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
       + [ユーザーの音声ジャーニーについて](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
-+ Reports and Analytics {#reports-and-analytics}
-   + [Reports and Analytics のリアルタイムレポート](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + 管理 {#administration}
    + 主な管理スキル {#key-admin-skills}
       + [権限を持つコミュニティの作成](administration/key-admin-skills/empowered-community.md)
