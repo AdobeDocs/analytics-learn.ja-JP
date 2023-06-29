@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: f9ef44adb364df5373c64cda4cead5f0a4da5eb9
+source-git-commit: f9e39eb73cb73ef4993a12270137d2405cf4a978
 workflow-type: tm+mt
 source-wordcount: '2446'
-ht-degree: 97%
+ht-degree: 96%
 
 ---
 
@@ -329,14 +329,14 @@ ht-degree: 97%
       + [Analytics Insider ウェビナー - 顧客セグメンテーション戦略](components/segmentation/customer-segmentation-strategies.md)
       + [セグメントを待つだけです。セグメント化を使用して、新しいインサイトを見つけます。](components/segmentation/segmentation-to-discover-new-insights.md)
    + 計算指標 {#calculated-metrics}
-      + [計算指標での個別概算カウント関数](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
-      + [計算指標での Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=ja)
-      + [計算指標 - 指標ビルダー](components/calculated-metrics/calculated-metrics-metric-builder.md)
+      + [計算指標ビルダーの概要](components/calculated-metrics/calculated-metrics-metric-builder.md)
       + [計算指標 - 関数](components/calculated-metrics/calculated-metrics-functions.md)
       + [計算指標 - 実装なしの指標](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [計算指標 - セグメント化指標](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
       + [計算指標 - 指標セレクター](components/calculated-metrics/calculated-metrics-metric-selector.md)
       + [Analysis Workspace のクイック計算指標](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
+      + [計算指標での個別概算カウント関数](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
+      + [計算指標での Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=ja)
       + [計算指標でのディメンションの使用](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
       + [計算指標によるデータ分析レベルの向上](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + 分類 {#classifications}

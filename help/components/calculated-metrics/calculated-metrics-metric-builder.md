@@ -1,24 +1,22 @@
 ---
-title: 計算指標 - 指標ビルダー
-description: Adobe Analytics の指標ビルダーの概要
+title: 計算指標ビルダーの概要
+description: Analysis Workspaceの指標ビルダーの概要
 feature: Calculated Metrics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2318
 role: User
 level: Beginner
 exl-id: fcfffd68-4394-48db-b38e-3a4ea7d0f854
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: f9e39eb73cb73ef4993a12270137d2405cf4a978
 workflow-type: tm+mt
-source-wordcount: '24'
-ht-degree: 100%
+source-wordcount: '39'
+ht-degree: 38%
 
 ---
 
-# [!UICONTROL 計算指標]：指標ビルダー {#calculated-metrics-metric-builder}
+# 計算指標ビルダーの概要 {#calculated-metrics-metric-builder}
 
-Adobe Analytics の指標ビルダーの概要
+Analysis Workspaceの指標ビルダーの概要
 
 >[!VIDEO](https://video.tv.adobe.com/v/25411/?quality=12&learn=on)
+
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=ja) を参照してください。
