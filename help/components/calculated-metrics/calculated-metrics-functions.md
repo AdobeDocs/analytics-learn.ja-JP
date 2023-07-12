@@ -1,24 +1,22 @@
 ---
-title: 計算指標 - 関数
-description: Adobe Analytics の計算指標で関数を使用する方法を説明します。
+title: 計算指標 — 関数
+description: Analysis Workspaceでの計算指標の作成で関数を使用する方法を説明します。
 feature: Calculated Metrics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2321
 role: User
 level: Beginner
 exl-id: aace1da6-2958-47a6-957c-5d63a5104b5f
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 87bd18f19597e910195db6b23ba2d6ab0fe4bdcc
 workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 100%
+source-wordcount: '67'
+ht-degree: 0%
 
 ---
 
-# [!UICONTROL 計算指標]：[!UICONTROL 関数] {#calculated-metrics-functions}
+# 計算指標 — 関数 {#calculated-metrics-functions}
 
-Adobe Analytics の [!UICONTROL 計算指標] で [!UICONTROL 関数] を使用する方法を説明します。
+Analysis Workspaceでの計算指標の作成で関数を使用する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25408/?quality=12&learn=on)
+
+の使用について詳しくは、ドキュメントを参照してください。 [基本](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html) および [詳細](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html) 関数を使用します。

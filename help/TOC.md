@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: 5f49401fd82602a7d6c046a33623698c4eb45397
+source-git-commit: 87bd18f19597e910195db6b23ba2d6ab0fe4bdcc
 workflow-type: tm+mt
 source-wordcount: '2446'
 ht-degree: 96%
@@ -330,12 +330,12 @@ ht-degree: 96%
       + [セグメントを待つだけです。セグメント化を使用して、新しいインサイトを見つけます。](components/segmentation/segmentation-to-discover-new-insights.md)
    + 計算指標 {#calculated-metrics}
       + [計算指標ビルダーの概要](components/calculated-metrics/calculated-metrics-metric-builder.md)
-      + [計算指標 - 関数](components/calculated-metrics/calculated-metrics-functions.md)
       + [計算指標 - 実装なしの指標](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [計算指標 - セグメント化指標](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
+      + [計算指標 - 関数](components/calculated-metrics/calculated-metrics-functions.md)
+      + [計算指標での個別概算カウント関数](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Analysis Workspace のクイック計算指標](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [計算指標の管理](components/calculated-metrics/manage-your-calculated-metrics.md)
-      + [計算指標での個別概算カウント関数](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [計算指標での Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=ja)
       + [計算指標でのディメンションの使用](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
       + [計算指標によるデータ分析レベルの向上](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
