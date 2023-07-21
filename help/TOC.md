@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: 87bd18f19597e910195db6b23ba2d6ab0fe4bdcc
+source-git-commit: fa1b982c09cfeb427fa7ad8fdbdc4b9c995aa400
 workflow-type: tm+mt
-source-wordcount: '2446'
+source-wordcount: '2451'
 ht-degree: 96%
 
 ---
@@ -162,6 +162,7 @@ ht-degree: 96%
       + [Analysis Workspace でのセグメントを使用したデータの制限](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace のクイックセグメント](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
       + [顧客ジャーニーセグメントの作成](analysis-workspace/applying-segments/building-customer-journey-segments.md)
+      + [顧客ジャーニーセグメントの作成 — 第 2 部](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
    + 指標 {#metrics}
       + [基本的な訪問者指標について](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Analysis Workspace でのプロジェクトへのディメンションと指標の追加](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=ja)
@@ -185,7 +186,7 @@ ht-degree: 96%
       + [Analysis Workspace でのプロジェクトの保存、共有、共同作業](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Analysis Workspace でのキュレーションと共有](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [プロジェクトへの直接リンク](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
-      + [Analysis Workspaceの全員と共有](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
+      + [Analysis Workspace でのすべてのユーザーとの共有](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
       + [50,000 個の項目を CSV としてダウンロード](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [Analysis Workspace から CSV および PDF へのエクスポート](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [埋め込みコンポーネントの共有](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
