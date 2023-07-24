@@ -1,12 +1,15 @@
 ---
 title: 効率化とセルフサービスを実現するシンプルな秘訣 - パート 2
 description: 分析チームが今日直面している主な課題と、それらを克服するためにツール内の戦略を使用した推奨事項について説明します。
+feature: Analytics Basics
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
-source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '730'
+ht-degree: 100%
 
 ---
 

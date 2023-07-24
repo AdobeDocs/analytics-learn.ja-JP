@@ -1,9 +1,12 @@
 ---
 title: Virtual Analyst と Segment IQ を使用して顧客インテリジェンスを習得する
 description: 人工知能と機械学習（AI／ML）を使用することの重要性を説明します。Virtual Analyst と Segment IQ を使用して、異常値の検出、異常値の回避、ROI の最大化を実現するメリットを確認し、実際の成功事例をグローバル顧客から学びます。
+feature: AI Tools
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '1104'
 ht-degree: 100%
