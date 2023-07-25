@@ -1,20 +1,21 @@
 ---
 title: コンバージョンイベントの概要
-description: このビデオでは、コンバージョンの「イベント」、つまりサイト上のコンバージョンを追跡するのに役立つ変数（注文、サインアップ、登録、フォーム完了など）の概要を説明します。
+description: Adobe Analyticsでのコンバージョンイベント（成功イベントとも呼ばれる）の基本について説明します。 デジタルプロパティのコンバージョンを測定し、レポートの指標として使用します。
 feature: Metrics
 kt: 3578
 role: User
 level: Beginner
+thumbnail: 28764.jpg
 exl-id: 3f2876fe-d7da-47d3-a23d-0d8f790f7f5b
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 28e6e043ac050c0c3b51be1f47e3088915d63075
 workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 100%
+ht-degree: 0%
 
 ---
 
 # コンバージョンイベントの概要
 
-このビデオでは、コンバージョンの「イベント」、つまりサイト上のコンバージョンを追跡するのに役立つ変数（注文、サインアップ、登録、フォーム完了など）の概要を説明します。
+コンバージョンイベント（成功イベントと呼ばれる）の基本については、 [!DNL Adobe Analytics]. デジタルプロパティのコンバージョンを測定し、レポートの指標として使用します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28764/?quality=12&learn=on)

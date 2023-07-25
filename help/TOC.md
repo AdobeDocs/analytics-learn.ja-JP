@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: fa1b982c09cfeb427fa7ad8fdbdc4b9c995aa400
+source-git-commit: 69e3927128d643c58932c0c21a376e52d76a0880
 workflow-type: tm+mt
-source-wordcount: '2451'
-ht-degree: 96%
+source-wordcount: '2448'
+ht-degree: 95%
 
 ---
 
@@ -165,10 +165,10 @@ ht-degree: 96%
       + [顧客ジャーニーセグメントの作成 — 第 2 部](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
    + 指標 {#metrics}
       + [基本的な訪問者指標について](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [Analysis Workspace でのプロジェクトへのディメンションと指標の追加](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=ja)
+      + [プロジェクトへのディメンションと指標の追加](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=ja)
       + [コンバージョンイベントの概要](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [フリーフォームテーブルでの指標の操作](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=ja)
-      + [Analysis Workspace でのパーティシペーション指標の使用](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
+      + [Analysis Workspaceでのパーティシペーション指標の使用](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Goodbley Excel、計算指標のこんにちは](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + ディメンション {#dimensions}
       + [Analysis Workspace でのプロジェクトへのディメンションと指標の追加](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
