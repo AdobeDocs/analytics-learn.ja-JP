@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 69e3927128d643c58932c0c21a376e52d76a0880
 workflow-type: tm+mt
 source-wordcount: '2448'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 95%
       + [Summit 2019 スーパーセッション - 旅行およびホスピタリティ分野](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Summit 2019 スーパーセッション - 小売分野](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Summit 2019 スーパーセッション - ハイテク分野](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
-   + 戦略とソートリーダーシップ {#strategy}
+   + 戦略とソートリーダーシップ{#strategy}
       + [第 1 部 - 効率を高める簡単な工夫](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
       + [第 2 部 - 効率を高める簡単な工夫](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
       + [Adobe Analytics の Virtual Analyst と Segment IQ を使用して顧客インテリジェンスを習得する](strategy/customer-intelligence-with-virtual-analyst.md)
@@ -57,21 +57,21 @@ ht-degree: 95%
       + [Analysis Workspace の簡単な紹介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace の概要](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [新しいランディングページのナビゲート](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
-      + [事前定義済みレポートを使用した分析の開始](analysis-workspace/analysis-workspace-basics/start-your-analysis-with-a-pre-built-report.md)
+      + [事前定義済みレポートを使用した分析を開始](analysis-workspace/analysis-workspace-basics/start-your-analysis-with-a-pre-built-report.md)
       + [ワークスペースプロジェクトを一から作成する](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Analysis Workspace でのカスタムテンプレートの作成と管理](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Analysis Workspace プロジェクトへのデータの取り込みについて](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
       + [Adobe Analytics の基本指標](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
       + [Analysis Workspace のコンポーネント管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [Analysis Workspace でのレポートスイートの選択](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
-      + [Analysis Workspace のパフォーマンス指標の表示](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
-      + [ボットレポートの作成](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
+      + [Analysis Workspace のパフォーマンス指標を表示](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
+      + [ボットレポートを作成](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
    + ヒントとテクニック {#tips-and-tricks}
       + [Analysis Workspace の 7 つのヒントとテクニック](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [ワークフローの効率を上げる、右クリックのヒントとコツ](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [Analysis Workspace で生産性を高めるコツ](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [Adobe Analytics のラーニングジャーニーを継続するためのお客様向けヒント](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
-      + [動的ドロップダウンフィルターの作成](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+      + [動的ドロップダウンフィルターを作成](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
    + ワークスペースプロジェクトのナビゲーション {#navigating-workspace-projects}
       + [Analysis Workspace でのデータ要素](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
       + [テンプレートを使用したプロジェクトの作成](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
@@ -133,7 +133,7 @@ ht-degree: 95%
       + [数値概要と変更概要のビジュアライゼーション](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
       + [主要指標の概要ビジュアライゼーション](analysis-workspace/visualizations/key-metric-summary.md)
       + [テキストビジュアライゼーション](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
-      + [単語以上 — テキストのビジュアライゼーションと説明の使用](analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
+      + [言葉以上のこと - テキストビジュアライゼーションと説明の使用](analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
       + [散布図ビジュアライゼーション](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [ツリーマップビジュアライゼーション](analysis-workspace/visualizations/treemap-visualization.md)
       + [ベン図ビジュアライゼーション](analysis-workspace/visualizations/venn-diagram-visualization.md)
@@ -161,15 +161,15 @@ ht-degree: 95%
       + [Analysis Workspace のディメンションとしてのセグメントの使用](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Analysis Workspace でのセグメントを使用したデータの制限](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace のクイックセグメント](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
-      + [顧客ジャーニーセグメントの作成](analysis-workspace/applying-segments/building-customer-journey-segments.md)
-      + [顧客ジャーニーセグメントの作成 — 第 2 部](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
+      + [カスタマージャーニーセグメントの作成](analysis-workspace/applying-segments/building-customer-journey-segments.md)
+      + [カスタマージャーニーセグメントの作成 - 第 2 部](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
    + 指標 {#metrics}
       + [基本的な訪問者指標について](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [プロジェクトへのディメンションと指標の追加](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=ja)
       + [コンバージョンイベントの概要](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [フリーフォームテーブルでの指標の操作](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=ja)
       + [Analysis Workspaceでのパーティシペーション指標の使用](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
-      + [Goodbley Excel、計算指標のこんにちは](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
+      + [Excel から計算指標への移行](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + ディメンション {#dimensions}
       + [Analysis Workspace でのプロジェクトへのディメンションと指標の追加](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [トラフィック変数（prop）の概要](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
@@ -186,7 +186,7 @@ ht-degree: 95%
       + [Analysis Workspace でのプロジェクトの保存、共有、共同作業](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Analysis Workspace でのキュレーションと共有](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [プロジェクトへの直接リンク](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
-      + [Analysis Workspace でのすべてのユーザーとの共有](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
+      + [Analysis Workspace で誰とでも共有](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
       + [50,000 個の項目を CSV としてダウンロード](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [Analysis Workspace から CSV および PDF へのエクスポート](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [埋め込みコンポーネントの共有](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
@@ -212,7 +212,7 @@ ht-degree: 95%
       + [任意のディメンションを使用したコホート分析](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
       + [コホートテーブルを使用した待ち時間分析](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
       + [コホートテーブルでのローリングリテンションの計算](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
-      + [コホート分析を使用した顧客行動の把握](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
+      + [コホート分析を使用して顧客行動を把握](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
    + 音声解析 {#voice-analytics}
       + [音声アシスタントアプリのデータを管理および追跡する方法](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [音声対応デバイス間の違いについて](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
@@ -238,7 +238,7 @@ ht-degree: 95%
       + [内部 Adobe Analytics サイトの作成](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [グローバルレポートスイートの使用](administration/admin-tips/use-a-global-report-suite.md)
       + [ニュースとお知らせのプロジェクトを作成](administration/admin-tips/create-a-news-and-announcements-project.md)
-      + [エグゼクティブサマリーダッシュボードで成功を促す](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
+      + [エグゼクティブサマリダッシュボードで成功を推進](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + カンパニー設定 {#company-settings}
       + [電子メールドメイン制限の強制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [アカウントで利用可能な機能を表示する](administration/company-settings/view-your-accounts-available-features.md)
@@ -271,7 +271,7 @@ ht-degree: 95%
    + トラフィック管理 {#traffic-management}
       + [サーバーコールの使用状況](administration/traffic-management/server-call-usage.md)
       + [今後のトラフィックスパイクの管理](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
-   + ログ {#logs}
+   + ログ{#logs}
       + [Analysis Workspace の使用状況ログトラッキング](administration/logs/usage-log-tracking-for-analysis-workspace.md)
       + [Analytics 管理ログの概要](administration/logs/overview-of-analytics-admin-logs.md)
 + 実装 {#implementation}
@@ -328,7 +328,7 @@ ht-degree: 95%
       + [セグメント化のディメンションモデル](components/segmentation/dimension-models-in-segmentation.md)
       + [セグメント化の「次のいずれかと等しい」演算子](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Analytics Insider ウェビナー - 顧客セグメンテーション戦略](components/segmentation/customer-segmentation-strategies.md)
-      + [セグメントを待つだけです。セグメント化を使用して、新しいインサイトを見つけます。](components/segmentation/segmentation-to-discover-new-insights.md)
+      + [セグメントの待機のみ… セグメント化を使用した新しいインサイトの発見](components/segmentation/segmentation-to-discover-new-insights.md)
    + 計算指標 {#calculated-metrics}
       + [計算指標ビルダーの概要](components/calculated-metrics/calculated-metrics-metric-builder.md)
       + [計算指標 - 実装なしの指標](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
@@ -336,7 +336,7 @@ ht-degree: 95%
       + [計算指標 - 関数](components/calculated-metrics/calculated-metrics-functions.md)
       + [計算指標での個別概算カウント関数](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Analysis Workspace のクイック計算指標](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
-      + [計算指標の管理](components/calculated-metrics/manage-your-calculated-metrics.md)
+      + [計算指標を管理](components/calculated-metrics/manage-your-calculated-metrics.md)
       + [計算指標での Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=ja)
       + [計算指標でのディメンションの使用](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
       + [計算指標によるデータ分析レベルの向上](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
