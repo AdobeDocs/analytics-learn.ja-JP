@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 source-git-commit: 69e3927128d643c58932c0c21a376e52d76a0880
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2448'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -168,7 +168,7 @@ ht-degree: 98%
       + [プロジェクトへのディメンションと指標の追加](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=ja)
       + [コンバージョンイベントの概要](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [フリーフォームテーブルでの指標の操作](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=ja)
-      + [Analysis Workspaceでのパーティシペーション指標の使用](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
+      + [Analysis Workspace でのパーティシペーション指標の使用](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Excel から計算指標への移行](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + ディメンション {#dimensions}
       + [Analysis Workspace でのプロジェクトへのディメンションと指標の追加](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
