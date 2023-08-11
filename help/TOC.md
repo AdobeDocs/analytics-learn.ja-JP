@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2448'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -331,15 +331,15 @@ ht-degree: 98%
       + [セグメントの待機のみ… セグメント化を使用した新しいインサイトの発見](components/segmentation/segmentation-to-discover-new-insights.md)
    + 計算指標 {#calculated-metrics}
       + [計算指標ビルダーの概要](components/calculated-metrics/calculated-metrics-metric-builder.md)
-      + [計算指標 — 実装なしの指標](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
-      + [計算指標 — セグメント化指標](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
-      + [計算指標 — 関数](components/calculated-metrics/calculated-metrics-functions.md)
+      + [計算指標 - 実装なしの指標](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
+      + [計算指標 - セグメント化指標](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
+      + [計算指標 - 関数](components/calculated-metrics/calculated-metrics-functions.md)
       + [計算指標での個別概算カウント関数](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
-      + [Analysis Workspaceでのクイック計算指標](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
+      + [Analysis Workspace のクイック計算指標](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [計算指標を管理](components/calculated-metrics/manage-your-calculated-metrics.md)
       + [計算指標での Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=ja)
       + [計算指標でのディメンションの使用](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
-      + [計算指標を使用して、データ分析を次のレベルに進めます。](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
+      + [計算指標によるデータ分析レベルの向上](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + 分類 {#classifications}
       + [分類の概要](components/classifications/overview-of-classifications.md)
       + [分類ルールビルダーの使用](components/classifications/using-the-classification-rule-builder.md)
