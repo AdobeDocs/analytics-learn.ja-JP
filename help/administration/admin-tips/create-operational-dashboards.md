@@ -9,7 +9,7 @@ doc-type: Article
 last-substantial-update: 2023-08-18T00:00:00Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
-source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+source-git-commit: 4ee8c50c4dc8c7e1e0901e97eb768093b3e2b19b
 workflow-type: tm+mt
 source-wordcount: '1150'
 ht-degree: 1%
@@ -43,7 +43,7 @@ _Adobe Analytics Workspace の運用ダッシュボードが、通信と効率�
 1. バグ、機能、メジャーリリースのログ
 
 
-## 1 - FAQ ダッシュボード*
+## 1 - FAQ ダッシュボード
 
 繰り返し回答の無限ループに飽きたか？ Stop! FAQ ダッシュボードを作成して時間を節約します。 ユーザーが質問する前に問い合わせたり、回答ですばやくリンクしたりできます。
 
