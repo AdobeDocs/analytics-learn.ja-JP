@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
-workflow-type: ht
-source-wordcount: '2448'
-ht-degree: 100%
+source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+workflow-type: tm+mt
+source-wordcount: '2458'
+ht-degree: 99%
 
 ---
 
@@ -126,6 +126,7 @@ ht-degree: 100%
       + [ブレットグラフビジュアライゼーション](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [ドーナツグラフのビジュアライゼーション](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [ヒストグラムビジュアライゼーション](analysis-workspace/visualizations/histogram-visualization.md)
+      + [ヒストグラムを使用したインサイトのロック解除](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
       + [折れ線グラフビジュアライゼーション](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [複合グラフ](analysis-workspace/visualizations/combo-charts.md)
       + [折れ線グラフビジュアライゼーションへのトレンドラインの追加](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
@@ -137,11 +138,11 @@ ht-degree: 100%
       + [散布図ビジュアライゼーション](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [ツリーマップビジュアライゼーション](analysis-workspace/visualizations/treemap-visualization.md)
       + [ベン図ビジュアライゼーション](analysis-workspace/visualizations/venn-diagram-visualization.md)
-      + [累積平均関数を使用した指標スムージングの適用](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+      + [累積平均 関数を使用した指標スムージングの適用](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [柔軟なレイアウト](analysis-workspace/visualizations/flexible-layouts.md)
       + [ビジュアライゼーションのスケール／軸の変更](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
       + [ディメンションとグラフのライブリンク](analysis-workspace/visualizations/dimension-graph-live-linking.md)
-      + [精度の切り替え](analysis-workspace/visualizations/granularity-toggle.md)
+      + [ビジュアライゼーションの精度の設定](analysis-workspace/visualizations/granularity-toggle.md)
       + [Analysis Workspace でのイントラリンク](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [ビジュアライゼーションの並べ替えとサイズ変更](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [ビジュアライゼーションの凡例のカスタマイズ](analysis-workspace/visualizations/customize-visualization-legends.md)
@@ -239,6 +240,7 @@ ht-degree: 100%
       + [グローバルレポートスイートの使用](administration/admin-tips/use-a-global-report-suite.md)
       + [ニュースとお知らせのプロジェクトを作成](administration/admin-tips/create-a-news-and-announcements-project.md)
       + [エグゼクティブサマリダッシュボードで成功を推進](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
+      + [オペレーショナルダッシュボードの作成](administration/admin-tips/create-operational-dashboards.md)
    + カンパニー設定 {#company-settings}
       + [電子メールドメイン制限の強制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [アカウントで利用可能な機能を表示する](administration/company-settings/view-your-accounts-available-features.md)

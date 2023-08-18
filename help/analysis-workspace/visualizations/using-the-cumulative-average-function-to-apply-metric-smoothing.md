@@ -1,5 +1,5 @@
 ---
-title: 累積平均関数を使用した指標スムージングの適用
+title: 累積平均 関数を使用した指標スムージングの適用
 description: 指標の傾向を示す期間が長いほど、指標の方向の傾向を示すのが難しくなります。これを解決するために、計算指標の累積平均関数を使用して、Analysis Workspace の指標にスムージングを適用できます。
 feature: Visualizations
 thumbnail: 27068.jpg
@@ -7,15 +7,15 @@ kt: 2854
 role: User
 level: Beginner
 exl-id: c5d6ec8d-3d45-45bc-b690-97185d74bd18
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 100%
 
 ---
 
-# [!UICONTROL 累積平均] [!UICONTROL 関数] を使用した [!UICONTROL 指標] スムージングの適用 {#using-the-cumulative-average-function-to-apply-metric-smoothing}
+# 累積平均 関数を使用した指標スムージングの適用 {#using-the-cumulative-average-function-to-apply-metric-smoothing}
 
-[!UICONTROL 指標]の傾向を示す期間が長いほど、[!UICONTROL 指標]の方向の傾向を示すのが難しくなります。これを解決するために、[!UICONTROL 計算指標] の [!UICONTROL 累積平均] [!UICONTROL 関数] を使用して、Analysis Workspace の [!UICONTROL 指標] にスムージングを適用できます。
+指標の傾向を示す期間が長いほど、指標の方向の傾向を示すのが難しくなります。これを解決するために、計算指標の累積平均関数を使用して、Analysis Workspace の指標にスムージングを適用できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27068/?quality=12&learn=on)
