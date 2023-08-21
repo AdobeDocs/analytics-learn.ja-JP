@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: a59a2e6f6a08e9dab5c519488e84d916d289c869
+source-git-commit: b9f08a980d1adfb8fb08fb6348e83394228582ea
 workflow-type: tm+mt
-source-wordcount: '2465'
+source-wordcount: '2457'
 ht-degree: 99%
 
 ---
@@ -143,9 +143,7 @@ ht-degree: 99%
       + [ビジュアライゼーションのスケール／軸の変更](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
       + [ディメンションとグラフのライブリンク](analysis-workspace/visualizations/dimension-graph-live-linking.md)
       + [ビジュアライゼーションの精度の設定](analysis-workspace/visualizations/granularity-toggle.md)
-      + [Analysis Workspace でのイントラリンク](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [プロジェクトの内部または外部へのリンク](analysis-workspace/visualizations/linking-inside-or-outside-of-your-project.md)
-      + [ビジュアライゼーションの並べ替えとサイズ変更](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [ビジュアライゼーションの凡例のカスタマイズ](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [100％積み重ねグラフビジュアライゼーション](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [テーブルとビジュアライゼーションのデータソース設定](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
