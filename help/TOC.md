@@ -239,7 +239,7 @@ ht-degree: 99%
       + [グローバルレポートスイートの使用](administration/admin-tips/use-a-global-report-suite.md)
       + [ニュースとお知らせのプロジェクトを作成](administration/admin-tips/create-a-news-and-announcements-project.md)
       + [エグゼクティブサマリダッシュボードで成功を推進](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
-      + [オペレーショナルダッシュボードの作成](administration/admin-tips/create-operational-dashboards.md)
+      + [操作ダッシュボードを作成](administration/admin-tips/create-operational-dashboards.md)
    + カンパニー設定 {#company-settings}
       + [電子メールドメイン制限の強制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [アカウントで利用可能な機能を表示する](administration/company-settings/view-your-accounts-available-features.md)
