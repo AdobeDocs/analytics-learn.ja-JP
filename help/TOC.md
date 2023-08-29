@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: b9f08a980d1adfb8fb08fb6348e83394228582ea
+source-git-commit: 215c0c84936c2fc415180b5bdaf6b70633203cca
 workflow-type: tm+mt
-source-wordcount: '2457'
+source-wordcount: '2450'
 ht-degree: 99%
 
 ---
@@ -114,13 +114,11 @@ ht-degree: 99%
       + [フリーフォームテーブルフィルター](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [時間分割ディメンション](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + ビジュアライゼーション {#visualizations}
-      + [Analysis Workspace でのデータビジュアライゼーション](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
-      + [ビジュアライゼーションのタイプ](analysis-workspace/visualizations/visualization-types.md)
+      + [ビジュアライゼーションのタイプと概要](analysis-workspace/visualizations/visualization-types.md)
       + [ビジュアライゼーションのユースケース](analysis-workspace/visualizations/visualization-use-cases.md)
-      + [視覚化するデータの選択](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [データビジュアライゼーションプレイブック](analysis-workspace/visualizations/data-visualization-playbook.md)
       + [ビジュアライゼーションにデータを取り込む](analysis-workspace/visualizations/getting-data-into-visualizations.md)
-      + [ワークスペースでのコンポーネントドロップダウンの使用](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
+      + [Workspace でのコンポーネントドロップダウンの使用](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [面グラフおよび積み重ね面グラフのビジュアライゼーション](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [棒グラフおよび積み重ね棒グラフのビジュアライゼーション](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [ブレットグラフビジュアライゼーション](analysis-workspace/visualizations/bullet-graph-visualization.md)
