@@ -10,7 +10,7 @@ last-substantial-update: 2023-08-18T00:00:00Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
 source-git-commit: 4ee8c50c4dc8c7e1e0901e97eb768093b3e2b19b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1150'
 ht-degree: 100%
 
