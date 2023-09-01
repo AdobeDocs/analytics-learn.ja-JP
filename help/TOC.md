@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 source-git-commit: 215c0c84936c2fc415180b5bdaf6b70633203cca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2450'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -118,7 +118,7 @@ ht-degree: 99%
       + [ビジュアライゼーションのユースケース](analysis-workspace/visualizations/visualization-use-cases.md)
       + [データビジュアライゼーションプレイブック](analysis-workspace/visualizations/data-visualization-playbook.md)
       + [ビジュアライゼーションにデータを取り込む](analysis-workspace/visualizations/getting-data-into-visualizations.md)
-      + [Workspace でのコンポーネントドロップダウンの使用](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
+      + [ワークスペースでのコンポーネントドロップダウンの使用](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [面グラフおよび積み重ね面グラフのビジュアライゼーション](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [棒グラフおよび積み重ね棒グラフのビジュアライゼーション](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [ブレットグラフビジュアライゼーション](analysis-workspace/visualizations/bullet-graph-visualization.md)
