@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: 215c0c84936c2fc415180b5bdaf6b70633203cca
+source-git-commit: 09f89bcfed09ad63803c899f6995e25e5d8980b4
 workflow-type: ht
-source-wordcount: '2450'
+source-wordcount: '2441'
 ht-degree: 100%
 
 ---
@@ -275,13 +275,11 @@ ht-degree: 100%
       + [Analytics 管理ログの概要](administration/logs/overview-of-analytics-admin-logs.md)
 + 実装 {#implementation}
    + 実装の基本 {#implementation-basics}
-      + [初回の実装](implementation/implementation-basics/first-time-implementation.md)
       + [レポートスイートの概要と作成](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=ja)
       + [処理ルールを使用した contextData 変数の prop および eVar へのマッピング](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [Analytics トラッキングサーバーおよびレポートスイートの識別方法](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [ビジネス要件ドキュメントの作成](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [SDR の作成と保守](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-      + [サイトでのデータレイヤーの使用](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
    + Experience Platform Launch を使用 {#via-adobe-launch}
       + [ Experience Platform Launch を使用した Experience Cloud の実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=ja)
       + [Analytics Launch 拡張機能の基本設定](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
