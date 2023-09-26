@@ -3,8 +3,9 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
-source-git-commit: 09f89bcfed09ad63803c899f6995e25e5d8980b4
-workflow-type: tm+mt
+auto-video-transcripts: true
+source-git-commit: bb057df9b6c1b06ebe834a4235bfb010e9060ac7
+workflow-type: ht
 source-wordcount: '2441'
 ht-degree: 100%
 
