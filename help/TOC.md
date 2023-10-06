@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 00d89f74344be15eb4e8583cfd9c91e921b797a5
-workflow-type: ht
+source-git-commit: d6b91c8e32304e0a141da35d37163fbe8dd59327
+workflow-type: tm+mt
 source-wordcount: '2435'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -324,7 +324,7 @@ ht-degree: 100%
       + [順次セグメント化での前後のシーケンス](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [個別ディメンションカウントに基づくセグメント化](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [セグメント化のディメンションモデル](components/segmentation/dimension-models-in-segmentation.md)
-      + [&#39;セグメント化の「次のいずれかと等しい」演算子](components/segmentation/equals-any-of-operator-in-segmentation.md)
+      + [セグメントで「次のいずれかと等しい」を使用](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Analytics Insider ウェビナー - 顧客セグメンテーション戦略](components/segmentation/customer-segmentation-strategies.md)
       + [セグメントの待機のみ… セグメント化を使用した新しいインサイトの発見](components/segmentation/segmentation-to-discover-new-insights.md)
    + 計算指標 {#calculated-metrics}
