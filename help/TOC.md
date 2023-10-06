@@ -5,9 +5,9 @@ breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 00d89f74344be15eb4e8583cfd9c91e921b797a5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2435'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -312,19 +312,19 @@ ht-degree: 97%
    + セグメント化 {#segmentation}
       + [セグメントビルダーの概要](components/segmentation/segment-builder-overview.md)
       + [セグメントの検索と作成](components/segmentation/finding-and-creating-segments.md)
-      + [セグメント内の周期的な日付範囲](components/segmentation/rolling-date-ranges-in-segments.md)
-      + [Analysis Workspaceでのセグメント比較](components/segmentation/segment-comparison-in-analysis-workspace.md)
+      + [セグメントでの周期的な日付範囲：](components/segmentation/rolling-date-ranges-in-segments.md)
+      + [Analysis Workspace におけるセグメント比較](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [セグメントコンテナ](components/segmentation/segment-containers.md)
       + [セグメントの管理と共有](components/segmentation/segment-management-and-sharing.md)
-      + [Analysis Workspaceでのセグメントの適用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html?lang=ja)
-      + [ディメンションとしてのセグメントの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=ja)
+      + [Analysis Workspace でのセグメントの適用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html?lang=ja)
+      + [ディメンションとしてセグメントを使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=ja)
       + [セグメントを使用したデータの制限](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=ja)
       + [セグメントビルダーとクイックセグメントの違い](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
       + [順次セグメント化](components/segmentation/sequential-segmentation.md)
-      + [順次セグメント化の前後のシーケンス](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
-      + [個別ディメンションカウントに対するセグメント化](components/segmentation/segmentation-on-distinct-dimension-counts.md)
-      + [セグメント化のDimensionモデル](components/segmentation/dimension-models-in-segmentation.md)
-      + [セグメント化の「次のいずれかと等しい」演算子](components/segmentation/equals-any-of-operator-in-segmentation.md)
+      + [順次セグメント化での前後のシーケンス](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
+      + [個別ディメンションカウントに基づくセグメント化](components/segmentation/segmentation-on-distinct-dimension-counts.md)
+      + [セグメント化のディメンションモデル](components/segmentation/dimension-models-in-segmentation.md)
+      + [&#39;セグメント化の「次のいずれかと等しい」演算子](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Analytics Insider ウェビナー - 顧客セグメンテーション戦略](components/segmentation/customer-segmentation-strategies.md)
       + [セグメントの待機のみ… セグメント化を使用した新しいインサイトの発見](components/segmentation/segmentation-to-discover-new-insights.md)
    + 計算指標 {#calculated-metrics}
