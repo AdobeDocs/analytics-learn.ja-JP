@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: d6b91c8e32304e0a141da35d37163fbe8dd59327
-workflow-type: ht
-source-wordcount: '2435'
-ht-degree: 100%
+source-git-commit: 42bf16df9585d1f41206b81bf509a72c10f1d7f2
+workflow-type: tm+mt
+source-wordcount: '2436'
+ht-degree: 98%
 
 ---
 
@@ -277,8 +277,8 @@ ht-degree: 100%
 + 実装 {#implementation}
    + 実装の基本 {#implementation-basics}
       + [レポートスイートの概要と作成](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=ja)
-      + [処理ルールを使用した contextData 変数の prop および eVar へのマッピング](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
-      + [Analytics トラッキングサーバーおよびレポートスイートの識別方法](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
+      + [処理ルールを使用して contextData 変数を prop および eVar にマッピングする](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
+      + [Analytics トラッキングサーバーとレポートスイート ID を識別する方法](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [ビジネス要件ドキュメントの作成](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [SDR の作成と保守](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Experience Platform Launch を使用 {#via-adobe-launch}
