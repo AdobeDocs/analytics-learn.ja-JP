@@ -2,33 +2,19 @@
 title: 仮想レポートスイートでのコンポーネントのキュレーション
 description: 仮想レポートスイートをキュレートして、Analysis Workspace でディメンション、指標およびセグメントを含めたり除外したりできます。これは、データの特定のスライスのみを必要とする他のチームや、異なるデータ命名を使用する他のチームと共有する場合に役立ちます。
 feature: VRS
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 1774
 role: User
 level: Intermediate
 exl-id: 87568f06-1369-46d6-80bd-762a67e4bdcc
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 100%
+source-wordcount: '112'
+ht-degree: 43%
 
 ---
 
-# [!UICONTROL 仮想レポートスイート] でのコンポーネントのキュレーション {#component-curation-in-virtual-report-suites}
+# 仮想レポートスイートでのコンポーネントのキュレーション
 
-[!UICONTROL 仮想レポートスイート] をキュレートして、Analysis Workspace で [!UICONTROL ディメンション]、 [!UICONTROL 指標] および [!UICONTROL セグメント] を含めたり除外したりできます。この操作は、データの特定のスライスのみを必要とする他のチームや、異なるデータ命名を使用する他のチームと共有する場合に役立ちます。
+仮想レポートスイートをキュレートして、含めたり除外したりできます [!UICONTROL 寸法], [!UICONTROL 指標]、および [!UICONTROL セグメント] Analysis Workspaceでは、データの特定のスライスのみを必要とする他のチームや、別のデータ命名機能を使用する他のチームと共有する場合に大きく役立ちます。 詳細なドキュメントについては、を参照してください。 [仮想レポートスイートコンポーネントのキュレーション](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-components.html?lang=ja).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
-
-コンポーネントのカスタマイズが有効になっている場合、 [!UICONTROL 仮想レポートスイート] は、Analysis Workspace でのみ排他的にアクセスできます。
-
-このビデオのセクション：
-
-0:00 - 機能の概要とセットアップ
-
-4:05 - Analysis Workspace での VRS の使用
-
-この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-components.html?lang=ja) を参照してください。
