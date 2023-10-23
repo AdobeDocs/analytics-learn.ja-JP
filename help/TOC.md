@@ -5,9 +5,9 @@ breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2429'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -345,7 +345,7 @@ ht-degree: 99%
       + [仮想レポートスイートの概要](components/virtual-report-suites/virtual-report-suites.md)
       + [コンポーネントのキュレーション](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
       + [仮想レポートスイートの訪問のカスタマイズ](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
-      + [任意のイベントで新しい訪問を開始](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
+      + [任意のイベントでの新しい訪問の開始](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map {#activity-map}
       + [Activity Map の概要](components/activity-map/activity-map-overview.md)
       + [Adobe Analytics Activity Map の有効化、デバッグ、カスタマイズ](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
