@@ -5,9 +5,9 @@ breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2428'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -362,9 +362,9 @@ ht-degree: 99%
    + UI から {#from-the-ui}
       + [Analysis Workspace を使用した CSV へのエクスポート](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
-      + [Data Warehouse のエクスポート](exporting/data-warehouse/introduction-to-data-warehouse.md)
+      + [Data Warehouse の書き出し](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [SFTP 経由での Data Warehouse リクエストの送信](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
-      + [Tableau のデータ抽出での Data Warehouse レポートの送信](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
+      + [Tableau データ抽出での Data Warehouse レポートの送信](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + データフィード {#data-feeds}
       + [データフィード管理 UI](exporting/data-feeds/data-feeds-management-ui.md)
       + [データフィード認証キーのダウンロード](exporting/data-feeds/download-the-data-feed-authentication-key.md)
