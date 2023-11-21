@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
-workflow-type: ht
-source-wordcount: '2428'
-ht-degree: 100%
+source-git-commit: 572efe8df10b7ba82ca7717f232dfc0fbf134561
+workflow-type: tm+mt
+source-wordcount: '2425'
+ht-degree: 99%
 
 ---
 
@@ -170,9 +170,9 @@ ht-degree: 100%
       + [Analysis Workspace でのパーティシペーション指標の使用](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Excel から計算指標への移行](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + ディメンション {#dimensions}
-      + [Analysis Workspace でのプロジェクトへのディメンションと指標の追加](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
-      + [トラフィック変数（prop）の概要](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
-      + [コンバージョン変数（eVar）について](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
+      + [プロジェクトへのディメンションと指標の追加](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
+      + [トラフィック変数（props）の概要](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
+      + [コンバージョン変数 (eVar) の概要](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
       + [フリーフォームテーブルでのディメンションの操作](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=ja)
    + カレンダーと日付範囲 {#calendar-and-date-ranges}
       + [Analysis Workspace での日付の使用](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
