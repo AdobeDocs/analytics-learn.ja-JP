@@ -1,32 +1,20 @@
 ---
-title: Analytics のライブラリ管理の設定
-description: Adobe Analytics の Experience Platform Launch 拡張機能を使い始めたばかりのユーザーは、このビデオを視聴すると、データの送信先となるレポートスイートの選択など、設定のライブラリ管理に関する操作を行うことができるようになります。
+title: Analytics 拡張機能のライブラリ管理の設定
+description: 「ライブラリタグ」の Analytics 拡張機能のライブラリ管理設定オプションについてAdobeします。 このビデオでは、データ収集用のレポートスイートの選択についても説明します。
 feature: Launch Implementation
-topics: null
-activity: implement
-doc-type: technical video
-team: Technical Marketing
 kt: 2836
 role: Developer, Data Engineer
 level: Beginner
 exl-id: be28db8a-0de6-4f9f-ae2e-2337e86740a1
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 3b4e7f9d13c40a08656cfa9e8949ecc7be9c28a8
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 100%
+source-wordcount: '62'
+ht-degree: 0%
 
 ---
 
-# [!DNL Analytics] の [!UICONTROL ライブラリ管理] の設定 {#configuring-library-management-in-the-launch-analytics-extension}
+# Analytics 拡張機能のライブラリ管理の設定 {#configuring-library-management-in-the-launch-analytics-extension}
 
-Experience Platform Launch および Adobe Analytics の [!UICONTROL 拡張機能] を使い始めたばかりのユーザーは、このビデオを視聴すると、データの送信先となる [!UICONTROL レポートスイート] の選択など、 [!UICONTROL ライブラリ管理] に役立ちます。
+「ライブラリタグ」の Analytics 拡張機能のライブラリ管理設定オプションについてAdobeします。 このビデオでは、データ収集用のレポートスイートの選択についても説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12&learn=on)
-
-この使用例の側面に関する追加情報については、次のドキュメントトピックを参照してください。
-
-[郵便番号](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=ja)
-
-[分類](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=ja)
-
-[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html?lang=ja)

@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 572efe8df10b7ba82ca7717f232dfc0fbf134561
-workflow-type: ht
-source-wordcount: '2425'
-ht-degree: 100%
+source-git-commit: e493003e4beec22a377115a3619bd1bfc838ccfe
+workflow-type: tm+mt
+source-wordcount: '2427'
+ht-degree: 99%
 
 ---
 
@@ -281,10 +281,10 @@ ht-degree: 100%
       + [Analyticsトラッキングサーバーとレポートスイート ID の識別方法](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [ビジネス要件ドキュメントを作成](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [SDR の作成と保守](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-   + Experience Platform Launch を使用 {#via-adobe-launch}
+   + Experience Platformタグの使用 {#via-adobe-launch}
       + [ Experience Platform Launch を使用した Experience Cloud の実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=ja)
       + [Analytics Launch 拡張機能の基本設定](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
-      + [Analytics のライブラリ管理の設定](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
+      + [Analytics 拡張機能のライブラリ管理の設定](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [Launch Analytics 拡張機能での一般設定の指定](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
       + [Launch Analytics 拡張機能でのグローバル変数の設定](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Launch Analytics 拡張機能での Cookie の設定](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
