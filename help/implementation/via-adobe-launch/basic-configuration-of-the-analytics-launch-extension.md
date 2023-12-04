@@ -1,24 +1,20 @@
 ---
-title: Analytics Launch 拡張機能の基本設定
-description: このビデオでは、基本的なサイトに対して Launch の Analytics 拡張機能を設定する簡単な方法を説明します。
+title: タグでの Analytics 拡張機能の基本Experience Platform
+description: このビデオでは、基本的なサイトのExperience Platformタグで Analytics 拡張機能を簡単に設定する方法を示します。
 feature: Launch Implementation
-topics: null
-activity: implement
-doc-type: feature video
-team: Technical Marketing
 kt: 3586
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 07fe5327-c8b8-48cb-a357-a0426ab8494c
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 63f2bfa9eb45495eb609122164f3a4617575aa8d
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 100%
+source-wordcount: '63'
+ht-degree: 1%
 
 ---
 
-# Analytics 用の [!DNL Experience Platform Launch] 拡張機能の基本設定
+# タグでの Analytics 拡張機能の基本Experience Platform
 
-このビデオでは、基本的なサイトに対して [!DNL Analytics] の拡張機能を [!DNL Experience Platform Launch] で設定する簡単な方法を説明します。
+このビデオでは、基本的なサイトのExperience Platformタグで Analytics 拡張機能を簡単に設定する方法を示します。 詳しいドキュメントについては、 [Adobe Analytics拡張機能の概要](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=ja).
 
 >[!VIDEO](https://video.tv.adobe.com/v/28751/?quality=12&learn=on)

@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: e493003e4beec22a377115a3619bd1bfc838ccfe
+source-git-commit: 63f2bfa9eb45495eb609122164f3a4617575aa8d
 workflow-type: tm+mt
-source-wordcount: '2427'
-ht-degree: 99%
+source-wordcount: '2260'
+ht-degree: 98%
 
 ---
 
@@ -283,9 +283,9 @@ ht-degree: 99%
       + [SDR の作成と保守](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Experience Platformタグの使用 {#via-adobe-launch}
       + [ Experience Platform Launch を使用した Experience Cloud の実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=ja)
-      + [Analytics Launch 拡張機能の基本設定](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
+      + [Analytics 拡張機能の基本設定](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [Analytics 拡張機能のライブラリ管理の設定](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
-      + [Launch Analytics 拡張機能での一般設定の指定](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
+      + [Analytics 拡張機能の一般設定を指定する](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
       + [Launch Analytics 拡張機能でのグローバル変数の設定](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Launch Analytics 拡張機能での Cookie の設定](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [Launch Analytics 拡張機能の設定時のカスタムコードの使用](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)

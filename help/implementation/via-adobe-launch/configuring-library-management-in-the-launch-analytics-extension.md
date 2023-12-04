@@ -6,15 +6,15 @@ kt: 2836
 role: Developer, Data Engineer
 level: Beginner
 exl-id: be28db8a-0de6-4f9f-ae2e-2337e86740a1
-source-git-commit: 3b4e7f9d13c40a08656cfa9e8949ecc7be9c28a8
+source-git-commit: 63f2bfa9eb45495eb609122164f3a4617575aa8d
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 1%
 
 ---
 
 # Analytics 拡張機能のライブラリ管理の設定 {#configuring-library-management-in-the-launch-analytics-extension}
 
-「ライブラリタグ」の Analytics 拡張機能のライブラリ管理設定オプションについてAdobeします。 このビデオでは、データ収集用のレポートスイートの選択についても説明します。
+データ収集用のレポートスイートの選択など、Adobeタグでの Analytics 拡張機能のライブラリ管理設定オプションについて説明します。  詳しいドキュメントについては、 [Adobe Analytics拡張機能の概要](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=ja).
 
 >[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12&learn=on)
