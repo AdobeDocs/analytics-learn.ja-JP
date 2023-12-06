@@ -7,7 +7,7 @@ auto-video-transcripts: true
 source-git-commit: 63f2bfa9eb45495eb609122164f3a4617575aa8d
 workflow-type: tm+mt
 source-wordcount: '2260'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -281,8 +281,8 @@ ht-degree: 98%
       + [Analyticsトラッキングサーバーとレポートスイート ID の識別方法](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [ビジネス要件ドキュメントを作成](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [SDR の作成と保守](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-   + Experience Platformタグの使用 {#via-adobe-launch}
-      + [ Experience Platform Launch を使用した Experience Cloud の実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=ja)
+   + Experience Platform タグの使用 {#via-adobe-launch}
+      + [ Experience Platform Launch を使用して Webサイトで Experience Cloud を実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=ja)
       + [Analytics 拡張機能の基本設定](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [Analytics 拡張機能のライブラリ管理の設定](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [Analytics 拡張機能の一般設定を指定する](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
