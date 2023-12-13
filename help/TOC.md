@@ -5,9 +5,9 @@ breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 3dd6fd5f97f2fac3651891e35113e72e89e2261f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2264'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -231,7 +231,7 @@ ht-degree: 99%
       + [正しい質問をしていますか？](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + 管理に関するヒントとベストプラクティス {#admin-tips}
       + [ 継承された実装プレイブックをダウンロードします。](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
-      + [データディクショナリを監査する](administration/admin-tips/audit-your-data-dictionary.md)
+      + [データ辞書の監査](administration/admin-tips/audit-your-data-dictionary.md)
       + [標準化された命名規則の作成](administration/admin-tips/create-standardized-naming-conventions.md)
       + [標準化されたコードテンプレートの作成](administration/admin-tips/create-standardized-code-templates.md)
       + [基本的なビデオとトレーニングの作成](administration/admin-tips/create-basic-videos-and-training.md)
