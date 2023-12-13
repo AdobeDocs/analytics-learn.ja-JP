@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 3dd6fd5f97f2fac3651891e35113e72e89e2261f
-workflow-type: ht
+source-git-commit: a3eaa0feedb826c176e233e8d243ae617b816cab
+workflow-type: tm+mt
 source-wordcount: '2264'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -287,7 +287,7 @@ ht-degree: 100%
       + [Analytics 拡張機能の基本設定](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [Analytics 拡張機能のライブラリ管理の設定](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [Analytics 拡張機能の一般設定の指定](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
-      + [Launch Analytics 拡張機能でのグローバル変数の設定](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
+      + [Analytics 拡張機能のグローバル変数設定を指定する](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Launch Analytics 拡張機能での Cookie の設定](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [Launch Analytics 拡張機能の設定時のカスタムコードの使用](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
       + [データレイヤーを使用した Launch 経由のページ名およびその他の変数の設定](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
