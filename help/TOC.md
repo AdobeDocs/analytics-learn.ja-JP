@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: a3eaa0feedb826c176e233e8d243ae617b816cab
+source-git-commit: a280621d6b9656a1dc6c33dfec7bf8226bfb5be5
 workflow-type: tm+mt
-source-wordcount: '2264'
-ht-degree: 99%
+source-wordcount: '2249'
+ht-degree: 98%
 
 ---
 
@@ -34,19 +34,17 @@ ht-degree: 99%
    + 他のプラットフォームからの移行 {#transitioning-from-other-platforms}
       + [Google Analytics からの移行](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics の基本事項 {#analytics-basics}
-      + [Reports and Analytics の「ワークスペースで試す」ボタン](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [Analytics サイクルについて](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [Analytics データの収集方法](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Adobe Analytics へのログイン](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
-      + [レポートスイートの概要と作成](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
+      + [レポートスイートの理解と作成](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [基本的な訪問者指標について](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=ja)
-      + [トラフィック変数（prop）の概要](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=ja)
-      + [コンバージョン変数（eVar）について](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=ja)
+      + [トラフィック変数 (prop) の概要](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=ja)
+      + [コンバージョン変数 (eVar) の概要](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=ja)
       + [コンバージョンイベントの概要](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=ja)
    + UI のカスタマイズ {#customizing-the-ui}
       + [Analysis Workspace ユーザー環境設定のカスタマイズ](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [ディメンションと指標の説明の追加](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-      + [Reports and Analytics のメニューのカスタマイズ](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
       + [セキュリティの強化](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [ランディングページとしての Analysis Workspace プロジェクトの設定](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + ヘルプ {#getting-help}
