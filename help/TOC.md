@@ -5,9 +5,9 @@ breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: a280621d6b9656a1dc6c33dfec7bf8226bfb5be5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2249'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -39,8 +39,8 @@ ht-degree: 98%
       + [Adobe Analytics へのログイン](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [レポートスイートの理解と作成](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [基本的な訪問者指標について](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=ja)
-      + [トラフィック変数 (prop) の概要](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=ja)
-      + [コンバージョン変数 (eVar) の概要](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=ja)
+      + [トラフィック変数（prop）の概要](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=ja)
+      + [コンバージョン変数（eVar）の概要](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=ja)
       + [コンバージョンイベントの概要](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=ja)
    + UI のカスタマイズ {#customizing-the-ui}
       + [Analysis Workspace ユーザー環境設定のカスタマイズ](intro-to-analytics/customizing-the-ui/user-preferences.md)
