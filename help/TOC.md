@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: a280621d6b9656a1dc6c33dfec7bf8226bfb5be5
-workflow-type: ht
-source-wordcount: '2249'
-ht-degree: 100%
+source-git-commit: 8f5adbc0627b30256529c9de36ae43f18ddcad84
+workflow-type: tm+mt
+source-wordcount: '2227'
+ht-degree: 98%
 
 ---
 
@@ -180,17 +180,15 @@ ht-degree: 100%
       + [Analysis Workspace での日付比較](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [トレンドへの前月比および前年比の追加](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + プロジェクトのキュレーションと共有 {#curate-and-share-projects}
-      + [Analysis Workspace でのプロジェクトの保存、共有、共同作業](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
-      + [Analysis Workspace でのキュレーションと共有](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
+      + [プロジェクトでの保存、共有、共同作業](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
+      + [プロジェクトのキュレーションおよび共有](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [プロジェクトへの直接リンク](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
-      + [Analysis Workspace で誰とでも共有](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
+      + [任意のユーザーと共有](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
       + [50,000 個の項目を CSV としてダウンロード](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [Analysis Workspace から CSV および PDF へのエクスポート](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
+      + [CSV への書き出しとPDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [埋め込みコンポーネントの共有](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
-      + [プロジェクトのスケジュール設定とダウンロード](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
-      + [Analysis Workspace でのプロジェクト共有](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
-      + [Analysis Workspace の表示専用プロジェクト](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
-      + [表示のみの共有機能のロック解除](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+      + [表示のみのプロジェクトの作成](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
+      + [表示のみの共有機能のロックを解除](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [クロスタブ分析を使用した基本的なマーケティングアトリビューションの調査](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [Attribution IQ モデルの並列比較の追加](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
