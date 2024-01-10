@@ -4,7 +4,7 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 8f5adbc0627b30256529c9de36ae43f18ddcad84
+source-git-commit: b80d4af99da80f76efe3a37b5112d8c49cd0aabd
 workflow-type: tm+mt
 source-wordcount: '2227'
 ht-degree: 98%
@@ -187,7 +187,7 @@ ht-degree: 98%
       + [50,000 個の項目を CSV としてダウンロード](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [CSV への書き出しとPDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [埋め込みコンポーネントの共有](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
-      + [表示のみのプロジェクトの作成](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
+      + [読み取り専用プロジェクトの共有](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
       + [表示のみの共有機能のロックを解除](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [クロスタブ分析を使用した基本的なマーケティングアトリビューションの調査](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
