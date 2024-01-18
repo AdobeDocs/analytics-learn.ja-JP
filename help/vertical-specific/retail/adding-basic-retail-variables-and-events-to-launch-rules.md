@@ -1,20 +1,25 @@
 ---
-title: Platform Launch ルールへの小売分野の基本的な変数とイベントの追加
-description: このビデオでは、ローンチで特別な製品文字列拡張機能を使用して、製品表示、買い物かごへの追加、チェックアウトなど、基本的な小売変数およびイベントを追跡する方法を説明します。
-feature: Launch Implementation
+title: 基本的な小売変数およびイベントをExperience Platformのルールに追加 [!DNL tags]
+description: このビデオでは、での特別な製品文字列拡張機能の使用方法を説明します。 [!DNL tags] を使用して、製品表示、買い物かごへの追加、チェックアウトなど、基本的な小売変数およびイベントを追跡します。
+feature: Tags
+topics: Development
 kt: 3592
 role: Developer, Data Engineer
 level: Beginner
 exl-id: cfddf957-20ca-4393-8a32-597f8a74a15f
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 100%
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
-# [!DNL Launch] [!UICONTROL ルール]への基本的な小売変数とイベントの追加
+# 基本的な小売変数およびイベントをExperience Platformのルールに追加 [!DNL tags]
 
-このビデオでは、[!DNL Experience Platform Launch] で特別な製品文字列[!UICONTROL 拡張機能]を使用して、製品表示、買い物かごへの追加、チェックアウトなど、基本的な小売変数およびイベントを追跡する方法を説明します。
+このビデオでは、での特別な製品文字列拡張機能の使用方法を説明します。 [!DNL tags] を使用して、製品表示、買い物かごへの追加、チェックアウトなど、基本的な小売変数およびイベントを追跡します。
+
+>[!NOTE]
+>
+> Launch は現在 **[!DNL tags]**
 
 >[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12&learn=on)
