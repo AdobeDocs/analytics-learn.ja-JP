@@ -5,9 +5,9 @@ breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2192'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -278,26 +278,26 @@ ht-degree: 94%
       + [Analyticsトラッキングサーバーとレポートスイート ID の識別方法](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [ビジネス要件ドキュメントを作成](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [SDR の作成と保守](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-   + Experience Platformタグ {#experience-platform-tags}
-      + [タグを使用した Web サイトへのExperience Cloudソリューションの実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=ja)
+   + Experience Platform タグ {#experience-platform-tags}
+      + [タグを使用した Web サイトへの Experience Cloud ソリューションの実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=ja)
       + [Analytics 拡張機能の基本設定](implementation/experience-platform-tags/basic-configuration-of-the-analytics-tags-extension.md)
       + [Analytics 拡張機能でのライブラリ管理の設定](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
-      + [Analytics 拡張機能での一般的な設定](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
-      + [Analytics 拡張機能でのグローバル変数設定](implementation/experience-platform-tags/configuring-global-variables-in-the-tags-analytics-extension.md)
-      + [Analytics 拡張機能での cookie 設定](implementation/experience-platform-tags/configuring-cookie-settings-in-the-tags-analytics-extension.md)
+      + [Analytics 拡張機能での一般設定の指定](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
+      + [Analytics 拡張機能でのグローバル変数設定の指定](implementation/experience-platform-tags/configuring-global-variables-in-the-tags-analytics-extension.md)
+      + [Analytics 拡張機能での cookie 設定の指定](implementation/experience-platform-tags/configuring-cookie-settings-in-the-tags-analytics-extension.md)
       + [Analytics 拡張機能でのカスタムコードの使用](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
       + [データレイヤーを使用した変数の設定](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
       + [実装プラグインの追加](implementation/experience-platform-tags/adding-implementation-plug-ins-in-tags.md)
-      + [Adobe Analytics拡張機能で doPlugins を使用する](implementation/experience-platform-tags/use-doplugins-in-the-adobe-analytics-extension.md)
-      + [簡単なダウンロードリンクトラッキングの設定](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
-      + [出口リンクトラッキングの簡単な設定](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
-      + [Analytics 実装に合わせたタグの準備](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
+      + [Adobe Analytics 拡張機能での doPlugins の使用](implementation/experience-platform-tags/use-doplugins-in-the-adobe-analytics-extension.md)
+      + [ダウンロードリンクトラッキングの簡易設定](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
+      + [離脱リンクトラッキングの簡易設定](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
+      + [Analytics 実装用のタグの準備](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
       + [Analytics 実装用のデータ要素の作成](implementation/experience-platform-tags/creating-data-elements-in-tags-for-the-analytics-implementation.md)
-      + [グローバルページ型ルールの作成](implementation/experience-platform-tags/creating-a-global-page-rule-in-tags.md)
-      + [グローバルページ型ルールの検証](implementation/experience-platform-tags/validating-your-global-page-load-rule-in-tags.md)
-      + [特殊ページのルールの作成](implementation/experience-platform-tags/creating-tags-rules-for-special-pages.md)
-      + [成功イベントのルールの作成](implementation/experience-platform-tags/creating-tags-rules-for-success-events.md)
-      + [タグライブラリをステージング環境および実稼動環境に公開する](implementation/experience-platform-tags/publishing-tags-libraries-to-stage-and-production.md)
+      + [グローバルページ読み込みルールの作成](implementation/experience-platform-tags/creating-a-global-page-rule-in-tags.md)
+      + [グローバルページ読み込みルールの検証](implementation/experience-platform-tags/validating-your-global-page-load-rule-in-tags.md)
+      + [特別ページ用のルールの作成](implementation/experience-platform-tags/creating-tags-rules-for-special-pages.md)
+      + [成功イベント用のルールの作成](implementation/experience-platform-tags/creating-tags-rules-for-success-events.md)
+      + [ステージング環境および実稼動環境へのタグライブラリの公開](implementation/experience-platform-tags/publishing-tags-libraries-to-stage-and-production.md)
    + JavaScript の使用 {#using-javascript}
       + [タグマネージャーを使用しないカスタムリンクトラッキング](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [Experience Platform Launch を使用しない場合の AppMeasurement の更新](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
