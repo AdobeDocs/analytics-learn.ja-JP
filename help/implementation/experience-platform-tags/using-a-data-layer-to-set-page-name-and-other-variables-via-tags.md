@@ -8,39 +8,18 @@ level: Beginner
 kt: 1852
 thumbnail: 25899.jpg
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 7c9c1da81fac391f030c6a39a81d039a5b084f63
 workflow-type: tm+mt
-source-wordcount: '321'
-ht-degree: 50%
+source-wordcount: '126'
+ht-degree: 29%
 
 ---
 
 # データレイヤーを使用して Analytics 変数をExperience Platform [!DNL tags]
 
-[!DNL Analytics] やその他の Experience Cloud ソリューションにデータレイヤーを使用することは、ベストプラクティスです。このビデオでは、データレイヤーから値を取り出し、Experience Platformで使用する方法を説明します [!DNL tags] を使用してAdobe Analyticsに変数を設定します。
+データレイヤーから値を取り出し、Experience Platformで使用する方法を説明します。 [!DNL tags] を使用してAdobe Analyticsに変数を設定します。 のデータレイヤーの使用 [!DNL Analytics] その他のExperience Cloudソリューションは、ベストプラクティスです。
 
-## データレイヤー
-
-_データレイヤー_&#x200B;とは、開発者がページに挿入する JavaScript オブジェクトのフレームワークのことを指します。Analytics ソリューションでは最終的に、データレイヤーを使用してレポートに入力します。タグ管理システム (Experience Platformを含む ) [!DNL tags]) は、データレイヤーを読み取り、値を変数にマッピングし、そのデータをデジタルエクスペリエンスソリューションに送信する仲介者です。
-
-内のデータレイヤーに関する追加情報の確認 [Experience Cloud文書](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=ja).
-
-## データレイヤー、Experience Platform [!DNL tags]、およびAdobe Analytics
-
-1. サイトで使用するデータレイヤー標準を定義または特定します。
-
-   1. データレイヤーを、ページの head セクション内で、コールトゥExperience Platformの前にできるだけ高く配置します。 [!DNL tags]. こうすることにより、[!DNL tags] や Adobe ソリューション（Adobe Target のように、ページ上部に設定する必要があるもの）で、すぐに値にアクセスできるようにします。
-
-1. データレイヤーにデータを入力します。
-1. Experience Platform [!DNL tags], create &quot;[!UICONTROL データ要素]」と呼ばれ、データレイヤー内のデータポイントをマッピングします。 これらのデータ要素は、Experience Platform全体で使用されます [!DNL tags] in [!UICONTROL ルール] および [!UICONTROL 拡張機能].
-1. [!DNL Analytics] 拡張機能のグローバル変数セクション、または [!DNL Tags rule] で、[!UICONTROL データ要素]の値を、[!UICONTROL prop]、[!UICONTROL eVar]、[!UICONTROL pageName]、およびその他の [!DNL Analytics] 変数に割り当てます。
-1. データを [!DNL Analytics] に送信するビーコンをトリガーします。
-
-次のビデオでは、プロセスを順を追って説明します。
-
->[!NOTE]
->
-> Launch は現在 **[!DNL tags]**
+内のデータレイヤーに関する追加情報の確認 [Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=ja) および [Experience Platformタグ](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/client-data-layer/overview.html) ドキュメント。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12&learn=on)
 
