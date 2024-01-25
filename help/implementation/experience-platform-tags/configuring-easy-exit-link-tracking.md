@@ -1,6 +1,6 @@
 ---
-title: Experience Platformでの簡単な出口リンクトラッキングの設定 [!DNL tags]
-description: Experience PlatformのAdobe Analytics拡張機能では、数回のクリックで、サイト上の出口リンク（別のサイトに移動するリンク）の追跡を開始できます [!DNL tags]. このビデオでは、設定方法を説明します。
+title: Experience Platformタグでの簡単な出口リンクトラッキングの設定
+description: Adobe Analytics拡張機能のExperience Platformタグで、数回クリックするだけで、サイト上の出口リンク（別のサイトに移動するリンク）の追跡を開始できます。 このビデオでは、設定方法を説明します。
 feature: Tags
 topics: Development
 activity: implement
@@ -10,20 +10,16 @@ kt: 2273
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 80a6a83e-9315-4339-bdfe-2b1f11129403
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 23%
+source-wordcount: '154'
+ht-degree: 24%
 
 ---
 
 # Experience Platformでの簡単な出口リンクトラッキングの設定 [!DNL tags]
 
 Experience PlatformのAdobe Analytics拡張機能では、数回のクリックで、サイト上の出口リンク（別のサイトに移動するリンク）の追跡を開始できます [!DNL tags]. このビデオでは、設定方法を説明します。
-
->[!NOTE]
->
-> Launch は現在 **[!DNL tags]**
 
 >[!VIDEO](https://video.tv.adobe.com/v/25763/?quality=12&learn=on)
 

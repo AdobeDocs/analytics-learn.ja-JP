@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
 workflow-type: tm+mt
 source-wordcount: '2192'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -290,7 +290,7 @@ ht-degree: 100%
       + [実装プラグインの追加](implementation/experience-platform-tags/adding-implementation-plug-ins-in-tags.md)
       + [Adobe Analytics 拡張機能での doPlugins の使用](implementation/experience-platform-tags/use-doplugins-in-the-adobe-analytics-extension.md)
       + [ダウンロードリンクトラッキングの簡易設定](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
-      + [離脱リンクトラッキングの簡易設定](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
+      + [出口リンクトラッキングの簡単な設定](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
       + [Analytics 実装用のタグの準備](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
       + [Analytics 実装用のデータ要素の作成](implementation/experience-platform-tags/creating-data-elements-in-tags-for-the-analytics-implementation.md)
       + [グローバルページ読み込みルールの作成](implementation/experience-platform-tags/creating-a-global-page-rule-in-tags.md)
