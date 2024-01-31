@@ -1,6 +1,6 @@
 ---
-title: Adobe Analytics拡張機能で doPlugins を使用する
-description: Experience Platformの Analytics 拡張機能で Analytics プラグインと doPlugins 関数を使用する方法について説明します。 [!DNL tags]. プラグインは、専用の関数を提供することで、コードの機能を拡張します。
+title: Adobe Analytics 拡張機能での doPlugins の使用
+description: Experience Platform  [!DNL tags] の Analytics 拡張機能で Analytics プラグインと doPlugins 関数を使用する方法について説明します。プラグインは、専用の関数を提供することで、コードの機能を拡張します。
 feature: Tags
 topics: Development
 activity: implement
@@ -11,18 +11,18 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 2c6b5d24-9a7f-47ea-a239-d0f8784029df
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Adobe Analytics拡張機能で doPlugins を使用する
+# Adobe Analytics 拡張機能での doPlugins の使用
 
-Experience Platformの Analytics 拡張機能で Analytics プラグインと doPlugins 関数を使用する方法について説明します。 [!DNL tags]. プラグインは、専用の関数を提供することで、コードの機能を拡張します。
+Experience Platform [!DNL tags] の Analytics 拡張機能で Analytics プラグインと doPlugins 関数を使用する方法について説明します。プラグインは、専用の関数を提供することで、コードの機能を拡張します。
 
 >[!NOTE]
 >
-> Launch は現在 **[!DNL tags]**
+> Launch は **[!DNL tags]** になりました
 
 >[!VIDEO](https://video.tv.adobe.com/v/25171?quality=12&learn=on)
