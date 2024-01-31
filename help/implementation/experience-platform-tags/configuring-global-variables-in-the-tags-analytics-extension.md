@@ -1,6 +1,6 @@
 ---
-title: Analytics でのグローバル変数設定 [!DNL tags] 拡張
-description: Analytics でグローバル変数を設定する方法を説明します [!DNL tags] 拡張子。
+title: Analytics  [!DNL tags]  拡張機能でのグローバル変数設定
+description: Analytics  [!DNL tags]  拡張機能でグローバル変数を設定する方法を説明します。
 feature: Tags
 topics: Development
 kt: 2855
@@ -8,14 +8,14 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 73ea8c36-66e3-4800-b0b0-f27e94cb4aaa
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '49'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# Analytics でのグローバル変数設定 [!DNL tags] 拡張
+# Analytics [!DNL tags] 拡張機能でのグローバル変数設定
 
-Analytics でグローバル変数を設定する方法を説明します [!DNL tags] 拡張子。 詳しいドキュメントについては、 [Adobe Analytics拡張機能の概要](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=ja){target="_blank"}.
+Analytics [!DNL tags] 拡張機能でグローバル変数を設定する方法を説明します。詳しいドキュメントについては、[Adobe Analytics 拡張機能の概要](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=ja){target="_blank"}を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27181/?quality=12&learn=on)
