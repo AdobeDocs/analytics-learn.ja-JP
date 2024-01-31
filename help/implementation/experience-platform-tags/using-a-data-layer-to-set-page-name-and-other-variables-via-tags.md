@@ -1,6 +1,6 @@
 ---
-title: データレイヤーを使用して Analytics 変数をExperience Platform [!DNL tags]
-description: データレイヤーを使用して Analytics データやその他のExperience Cloudソリューションを調達する方法を説明します。
+title: データレイヤーを使用し、Experience Platform  [!DNL tags] で Analytics 変数を設定する
+description: Analytics データやその他の Experience Cloud ソリューションを調達するためのデータレイヤーの使用方法について説明します。
 feature: Tags
 topics: Development
 role: Developer, Data Engineer
@@ -11,11 +11,11 @@ exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
 source-git-commit: 7c9c1da81fac391f030c6a39a81d039a5b084f63
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 29%
+ht-degree: 59%
 
 ---
 
-# データレイヤーを使用して Analytics 変数をExperience Platform [!DNL tags]
+# データレイヤーを使用して Experience Platform [!DNL tags] で Analytics 変数を設定する
 
 データレイヤーから値を取り出し、Experience Platformで使用する方法を説明します。 [!DNL tags] を使用してAdobe Analyticsに変数を設定します。 のデータレイヤーの使用 [!DNL Analytics] その他のExperience Cloudソリューションは、ベストプラクティスです。
 
