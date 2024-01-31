@@ -1,6 +1,6 @@
 ---
-title: での Cookie の設定 [!DNL tags] Analytics 拡張機能
-description: を使い始めたばかりの場合は、 [!DNL tags] Adobe Analytics拡張機能とこのビデオでは、Analytics 拡張機能で cookie を設定するタイミングと方法について説明します。
+title: ' [!DNL tags]  Analytics 拡張機能での cookie 設定'
+description: ' [!DNL tags]  および Adobe Analytics 拡張機能を使い始めたばかりのユーザーは、このビデオを視聴すると、Analytics 拡張機能で cookie を設定するタイミングとその方法を理解するのに役立ちます。'
 feature: Tags
 topics: Development
 activity: implement
@@ -11,18 +11,18 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 72013b6e-672e-4e8a-b6a2-27b35d5be5d5
 source-git-commit: f671c6edfde800ebc6d3dd0aebfeab57299814e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# での Cookie の設定 [!DNL tags] Analytics 拡張機能
+# [!DNL tags] Analytics 拡張機能での cookie 設定
 
-を使い始めたばかりの場合は、 [!DNL tags] Adobe Analytics拡張機能とこのビデオでは、Analytics 拡張機能で cookie を設定するタイミングと方法について説明します。
+[!DNL tags] および Adobe Analytics 拡張機能を使い始めたばかりのユーザーは、このビデオを視聴すると、Analytics 拡張機能で cookie を設定するタイミングとその方法を理解するのに役立ちます。
 
 >[!NOTE]
 >
-> Launch は現在 **[!DNL tags]**
+> Launch は **[!DNL tags]** になりました
 
 >[!VIDEO](https://video.tv.adobe.com/v/27212/?quality=12&learn=on)
