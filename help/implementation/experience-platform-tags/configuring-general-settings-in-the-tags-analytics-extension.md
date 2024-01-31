@@ -1,6 +1,6 @@
 ---
-title: Experience Platformでの Analytics 拡張機能の一般設定 [!DNL tags]
-description: での Analytics 拡張機能の一般的な設定オプションについて説明します。 [!DNL tags] トラッキングサーバーの設定を含む。
+title: Experience Platform  [!DNL tags] での Analytics 拡張機能の一般設定
+description: トラッキングサーバーの設定を含め、 [!DNL tags]  での Analytics 拡張機能の一般設定オプションについて説明します。
 feature: Tags
 topics: Development
 kt: 2837
@@ -8,18 +8,18 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# Experience Platformでの Analytics 拡張機能の一般設定 [!DNL tags]
+# Experience Platform [!DNL tags] での Analytics 拡張機能の一般設定
 
-での Analytics 拡張機能の一般的な設定オプションについて説明します。 [!DNL tags] トラッキングサーバーの設定を含む。 詳しいドキュメントについては、 [Adobe Analytics拡張機能の概要](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=ja){target="_blank"}.
+トラッキングサーバーの設定を含め、[!DNL tags] での Analytics 拡張機能の一般設定オプションについて説明します。詳しいドキュメントについては、[Adobe Analytics 拡張機能の概要](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=ja){target="_blank"}を参照してください。
 
 >[!NOTE]
 >
-> Launch は現在 **[!DNL tags]**
+> Launch は **[!DNL tags]** になりました
 
 >[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=12&learn=on)
