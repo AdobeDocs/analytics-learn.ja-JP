@@ -1,6 +1,6 @@
 ---
-title: のAdobe Analytics拡張機能でカスタムコードを使用する [!DNL tags]
-description: でAdobe Analytics拡張機能を設定する際の、カスタムコードエディターの使用例と技術的な考慮事項について説明します。 [!DNL tags].
+title: ' [!DNL tags] の Analytics 拡張機能でのカスタムコードの使用'
+description: ' [!DNL tags] で Adobe Analytics 拡張機能を設定する際の、カスタムコードエディターのユースケースと技術的な考慮事項について説明します。 '
 feature: Tags
 topics: Development
 doc-type: technical video
@@ -10,16 +10,16 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: f44bc723-0a05-4f88-8f49-04ca00dd1057
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# のAdobe Analytics拡張機能でカスタムコードを使用する [!DNL tags]
+# [!DNL tags] の Analytics 拡張機能でのカスタムコードの使用
 
-でAdobe Analytics拡張機能を設定する際の、カスタムコードエディターの使用例と技術的な考慮事項について説明します。 [!DNL tags].
+[!DNL tags] で Adobe Analytics 拡張機能を設定する際の、カスタムコードエディターのユースケースと技術的な考慮事項について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
 
-以下を確認します。 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=ja) を参照してください。 <i>doPlugins 関数</i> このビデオで参照されています。
+このビデオで参照されている <i>doPlugins 関数</i>について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=ja)を参照してください。
