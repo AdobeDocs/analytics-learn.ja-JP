@@ -1,6 +1,6 @@
 ---
-title: 「作成」Experience Platform [!DNL tags] 成功イベントのルール
-description: このビデオでは、 [!DNL tags] を使用して、サイト上のコンバージョンイベント（成功イベント）を追跡します。
+title: 成功イベント用の Experience Platform  [!DNL tags]  ルールの作成
+description: このビデオでは、 [!DNL tags]  のルールを使用してサイトのコンバージョンイベント（成功イベント）をトラックする方法を説明します。
 feature: Tags
 topics: Development
 kt: 3591
@@ -8,18 +8,18 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: ae600143-87cc-435d-bba2-0bce929070ac
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 「作成」Experience Platform [!DNL tags] 成功イベントのルール
+# 成功イベント用の Experience Platform [!DNL tags] ルールの作成
 
-このビデオでは、 [!DNL tags] を使用して、サイト上のコンバージョンイベント（成功イベント）を追跡します。
+このビデオでは、[!DNL tags] のルールを使用してサイトのコンバージョンイベント（成功イベント）をトラックする方法を説明します。
 
 >[!NOTE]
 >
-> Launch は現在 **[!DNL tags]**
+> Launch は **[!DNL tags]** になりました
 
 >[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12&learn=on)
