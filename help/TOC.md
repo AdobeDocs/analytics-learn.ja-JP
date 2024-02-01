@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
+source-git-commit: 2d758e03110f8a9f4fdccfd2174af1fd256bbdb4
 workflow-type: tm+mt
-source-wordcount: '2192'
+source-wordcount: '2187'
 ht-degree: 99%
 
 ---
@@ -287,8 +287,7 @@ ht-degree: 99%
       + [Analytics 拡張機能での cookie 設定の指定](implementation/experience-platform-tags/configuring-cookie-settings-in-the-tags-analytics-extension.md)
       + [Analytics 拡張機能でのカスタムコードの使用](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
       + [データレイヤーを使用した変数の設定](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
-      + [実装プラグインの追加](implementation/experience-platform-tags/adding-implementation-plug-ins-in-tags.md)
-      + [Adobe Analytics 拡張機能での doPlugins の使用](implementation/experience-platform-tags/use-doplugins-in-the-adobe-analytics-extension.md)
+      + [doPlugins と実装プラグインの使用](implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.md)
       + [ダウンロードリンクトラッキングの簡易設定](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
       + [出口リンクトラッキングの簡単な設定](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
       + [Analytics 実装用のタグの準備](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
