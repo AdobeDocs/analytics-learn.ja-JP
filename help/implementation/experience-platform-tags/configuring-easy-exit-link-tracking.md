@@ -1,6 +1,6 @@
 ---
-title: Experience Platformタグでの簡単な出口リンクトラッキングの設定
-description: Adobe Analytics拡張機能のExperience Platformタグで、数回クリックするだけで、サイト上の出口リンク（別のサイトに移動するリンク）の追跡を開始できます。 このビデオでは、設定方法を説明します。
+title: Experience Platform タグでの離脱リンクトラッキングの簡易設定
+description: Experience Platform タグの Adobe Analytics 拡張機能で数回クリックするだけで、サイト上の離脱リンク（別のサイトに移動するリンク）のトラッキングを開始できます。このビデオでは、設定方法を説明します。
 feature: Tags
 topics: Development
 activity: implement
@@ -11,9 +11,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 80a6a83e-9315-4339-bdfe-2b1f11129403
 source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
