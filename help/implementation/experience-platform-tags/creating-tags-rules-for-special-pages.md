@@ -1,5 +1,5 @@
 ---
-title: 特殊Experience Platformのページタグルールの作成
+title: 特別ページ用の Experience Platform タグルールの作成
 description: 各ページで収集されたデータに加え、特定のページで収集する必要があるデータもあります。このビデオでは、そのデータを共通データと結合し、Adobe Analytics に送信する方法を説明します。
 feature: Tags
 topics: Development
@@ -8,9 +8,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 7cc9ea3e-1c31-4dac-9f7e-89f7a6ef315b
 source-git-commit: f543c17c01e3aa3c799b4870d69aef6e84c409f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
