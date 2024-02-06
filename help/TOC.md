@@ -289,7 +289,7 @@ ht-degree: 99%
       + [データレイヤーを使用した変数の設定](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
       + [doPlugins と実装プラグインの使用](implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.md)
       + [ダウンロードリンクトラッキングの簡易設定](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
-      + [出口リンクトラッキングの簡単な設定](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
+      + [離脱リンクトラッキングの簡易設定](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
       + [Analytics 実装用のタグの準備](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
       + [Analytics 実装用のデータ要素の作成](implementation/experience-platform-tags/creating-data-elements-in-tags-for-the-analytics-implementation.md)
       + [グローバルページ読み込みルールの作成](implementation/experience-platform-tags/creating-a-global-page-rule-in-tags.md)
