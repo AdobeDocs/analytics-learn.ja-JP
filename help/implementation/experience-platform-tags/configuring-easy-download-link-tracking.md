@@ -1,6 +1,6 @@
 ---
-title: Experience Platformタグでの簡単なダウンロードリンクトラッキングの設定
-description: Adobe Analytics拡張機能のExperience Platformタグで数回のクリックで、サイト上のダウンロードリンク（ブラウザー以外のファイルをマシンにダウンロードするリンク）の追跡を開始できます。
+title: Experience Platform タグでのダウンロードリンクトラッキングの簡易設定
+description: Experience Platform タグの Adobe Analytics 拡張機能で数回クリックするだけで、サイト上のダウンロードリンク（ブラウザー以外のファイルをマシンにダウンロードするリンク）のトラッキングを開始できます。
 feature: Tags
 topics: Development
 activity: implement
@@ -11,9 +11,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 28822d90-6bbb-43dc-bf98-892e21e71a1d
 source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
