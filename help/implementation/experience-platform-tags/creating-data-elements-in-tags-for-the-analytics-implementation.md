@@ -10,18 +10,14 @@ kt: 3587
 role: Developer, Data Engineer
 level: Beginner
 exl-id: ee3a808a-f972-46e4-9213-2bc5bba6e0fd
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: ht
-source-wordcount: '75'
+source-git-commit: 876f51fc1e048fdb4d65451e2c555f8fd55cadf4
+workflow-type: tm+mt
+source-wordcount: '72'
 ht-degree: 100%
 
 ---
 
 # Analytics 実装用の Experience Platform [!DNL tags] でのデータ要素の作成
-
->[!NOTE]
->
-> Launch は **[!DNL tags]** になりました
 
 このビデオでは、Solution Design Reference（SDR）ドキュメントで文書化された変数とイベントに基づいて、[!DNL tags] で Analytics 実装用データ要素を作成する方法を説明します。
 
