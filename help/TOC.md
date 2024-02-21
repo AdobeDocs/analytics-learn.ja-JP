@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 2d758e03110f8a9f4fdccfd2174af1fd256bbdb4
-workflow-type: ht
-source-wordcount: '2187'
+source-git-commit: 5539caf525f83074f0862eabe5775a1da2d7b5cd
+workflow-type: tm+mt
+source-wordcount: '2180'
 ht-degree: 100%
 
 ---
@@ -284,7 +284,6 @@ ht-degree: 100%
       + [Analytics 拡張機能でのライブラリ管理の設定](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
       + [Analytics 拡張機能での一般設定の指定](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
       + [Analytics 拡張機能でのグローバル変数設定の指定](implementation/experience-platform-tags/configuring-global-variables-in-the-tags-analytics-extension.md)
-      + [Analytics 拡張機能での cookie 設定の指定](implementation/experience-platform-tags/configuring-cookie-settings-in-the-tags-analytics-extension.md)
       + [Analytics 拡張機能でのカスタムコードの使用](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
       + [データレイヤーを使用した変数の設定](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
       + [doPlugins と実装プラグインの使用](implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.md)
