@@ -5,7 +5,7 @@ breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 5539caf525f83074f0862eabe5775a1da2d7b5cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2180'
 ht-degree: 100%
 
