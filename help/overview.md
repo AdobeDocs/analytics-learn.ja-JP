@@ -8,9 +8,9 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: d05f59507a766881250090547b177ffdd0fdf5e0
+source-git-commit: d4d87789018acdd5c587b5f78e3249e0fd694bfb
 workflow-type: ht
-source-wordcount: '320'
+source-wordcount: '244'
 ht-degree: 100%
 
 ---
@@ -30,17 +30,6 @@ ht-degree: 100%
 
 コースセクションでは、役割別およびスキルレベル別にキュレーションされた学習体験も用意しています。Adobe ID を使用してログインし、上部ナビゲーションで&#x200B;**学ぶ／おすすめのコース**&#x200B;に移動します。
 
-<div id="whats-new-section">
-
-## 最新情報
-
-* **[Adobe Analytics モバイルスコアカードアプリ](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
-   *モバイルスコアカードアプリケーションをダウンロードし、[!DNL Analysis Workspace].* で作成したモバイルスコアカードを表示します。
-
-* **[ワークスペース内の注釈（ビデオ）](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *の注釈を使用すると、組織全体のユーザーに対して、コンテキストデータのニュアンスやインサイトを効果的に伝えることができます。[!DNL Analysis Workspace]日付や日付範囲に、既知のデータ問題、祝日、キャンペーン開始などの注釈を付けます。これにより、折れ線グラフやテーブルなどに不規則が表示される理由をユーザーに知らせます。*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
