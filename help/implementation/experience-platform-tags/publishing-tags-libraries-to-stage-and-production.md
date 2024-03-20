@@ -1,25 +1,21 @@
 ---
 title: ステージング環境および実稼動環境への Experience Platform  [!DNL tags]  ライブラリの公開
-description: ' [!DNL tags]  開発コードをテスト用のステージング環境に構築する方法を説明します。テストが完了したら、実稼動環境に構築します。このビデオでは、このプロセスについて説明します。'
+description: サイトの分析コードをExperience Platformタグで開発からステージおよび実稼動環境に公開する方法、および適切なデータを正しく受け取るためにレポートスイートを設定する方法について説明します。
 feature: Tags
 topics: Development
 kt: 3595
 role: Developer, Data Engineer
 level: Beginner
 exl-id: a2805315-ef40-4f8f-a730-8c29596e6652
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: ht
-source-wordcount: '77'
-ht-degree: 100%
+source-git-commit: 8212b481653a5b2dccbc980a6fd9d29b94f756a3
+workflow-type: tm+mt
+source-wordcount: '79'
+ht-degree: 20%
 
 ---
 
 # ステージング環境および実稼動環境への Experience Platform [!DNL tags] ライブラリの公開
 
-[!DNL tags] 開発コードをテスト用のステージング環境に構築する方法を説明します。テストが完了したら、実稼動環境に構築します。このビデオでは、このプロセスについて説明します。
-
->[!NOTE]
->
-> Launch は **[!DNL tags]** になりました
+サイトの分析コードを開発からステージおよび実稼動環境にExperience Platformして公開する方法を説明します。 [!DNL tags]を設定し、適切なデータを正しく受け取るためのレポートスイートを設定します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12&learn=on)
