@@ -4,7 +4,7 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 5860c0948e61fde32bf6d814f701410df330a9e4
+source-git-commit: d8f5a896b89273eb073d12ddc8c39db186e43794
 workflow-type: tm+mt
 source-wordcount: '2176'
 ht-degree: 99%
@@ -48,8 +48,8 @@ ht-degree: 99%
       + [セキュリティの強化](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [ランディングページとしての Analysis Workspace プロジェクトの設定](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + ヘルプ {#getting-help}
+      + [Adobe Analytics でのヘルプの利用](intro-to-analytics/getting-help/getting-help.md)
       + [製品内サポートチケットの送信](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
-      + [Adobe Analytics でのヘルプの入手](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
    + Analysis Workspace の基本 {#analysis-workspace-basics}
       + [Analysis Workspace の簡単な紹介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
