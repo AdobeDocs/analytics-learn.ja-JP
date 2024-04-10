@@ -7,7 +7,7 @@ auto-video-transcripts: true
 source-git-commit: d8f5a896b89273eb073d12ddc8c39db186e43794
 workflow-type: tm+mt
 source-wordcount: '2176'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 99%
       + [ディメンションと指標の説明の追加](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [セキュリティの強化](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [ランディングページとしての Analysis Workspace プロジェクトの設定](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
-   + ヘルプ {#getting-help}
+   + ヘルプの利用 {#getting-help}
       + [Adobe Analytics でのヘルプの利用](intro-to-analytics/getting-help/getting-help.md)
       + [製品内サポートチケットの送信](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
 + Analysis Workspace {#analysis-workspace}
