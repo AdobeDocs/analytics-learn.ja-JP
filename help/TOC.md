@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: d8f5a896b89273eb073d12ddc8c39db186e43794
-workflow-type: ht
+source-git-commit: 03db9b1a91ff127020a5a0bc0542f04942a64770
+workflow-type: tm+mt
 source-wordcount: '2176'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -72,7 +72,7 @@ ht-degree: 100%
       + [動的ドロップダウンフィルターを作成](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
    + ワークスペースプロジェクトのナビゲーション {#navigating-workspace-projects}
       + [Analysis Workspace でのデータ要素](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
-      + [テンプレートを使用したプロジェクトの作成](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
+      + [最初のプロジェクトの開始](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [トレーニングチュートリアルテンプレート](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Analysis Workspace でフォルダーを使用します。](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
       + [パネルとビジュアライゼーションのコピーと挿入](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
@@ -448,4 +448,3 @@ ht-degree: 100%
 + [Analytics 大学向けカリキュラム](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
 + [ビジネスユーザー向け Analytics 入門は廃止されました](retired-courses/retire-fundamentals-for-business-users-course.md)
-
