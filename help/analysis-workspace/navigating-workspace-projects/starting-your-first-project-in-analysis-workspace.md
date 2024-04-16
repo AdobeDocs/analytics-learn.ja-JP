@@ -1,23 +1,21 @@
 ---
-title: テンプレートを使用したプロジェクトの作成
-description: テンプレートを使用して、Analysis Workspace プロジェクトを作成する方法を説明します
+title: Analysis Workspaceでの最初のプロジェクトの開始
+description: ゼロから、またはテンプレートを活用して、新しいAnalysis Workspace プロジェクトを作成する方法を説明します。
 feature: Projects
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 30368.jpg
-team: Technical Marketing
 kt: 4102
 exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: f45cefa5a42a37a067322dd9be8d5b2ef6d4bd58
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 100%
+source-wordcount: '72'
+ht-degree: 0%
 
 ---
 
-# テンプレートを使用したプロジェクトの作成
+# Analysis Workspaceでの最初のプロジェクトの開始
 
-テンプレートを使用して、Analysis Workspace プロジェクトを作成する方法を説明します。これは、プロジェクトを手動で作成するよりも時間を節約するテクニックで、新規ユーザーがすばやく作業を開始するのを支援できます。
+ゼロから、またはテンプレートを活用して、新しいAnalysis Workspace プロジェクトを作成する方法を説明します。 テンプレートを使用すると、分析をすぐに開始でき、すぐに利用することも、会社が作成したプロジェクトを通じて利用することもできます。 詳細なドキュメントについては、 [Analysis Workspaceでのプロジェクトの作成](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/build-workspace-project/create-projects).
 
 >[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12&learn=on)
