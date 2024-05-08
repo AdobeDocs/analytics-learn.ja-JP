@@ -1,6 +1,6 @@
 ---
 title: コホートテーブル設定
-description: コホートテーブル設定には、リテンションやチャーンの表示をカスタマイズできるものがいくつかあります。 詳しくは、このビデオをご覧ください。
+description: コホートテーブル設定を使用して、リテンションまたはチャーンテーブルの表示をカスタマイズする方法を説明します。
 feature: Visualizations
 activity: use
 doc-type: feature video
@@ -10,16 +10,16 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 198405506f7aab1dc450a6f7b19224fd96ab1baa
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 100%
+source-wordcount: '94'
+ht-degree: 46%
 
 ---
 
 # [!UICONTROL コホートテーブル] 設定
 
-設定には、 [!UICONTROL リテンション] や [!UICONTROL チャーン] の表示をカスタマイズできるものがいくつかあります。詳しくは、このビデオをご覧ください。
+コホートテーブル設定を使用して、リテンションまたはチャーンテーブルの表示をカスタマイズする方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
 
@@ -29,6 +29,6 @@ ht-degree: 100%
 1. パーセンテージを最も近い整数に丸める
 1. テーブルの上部にある平均パーセント行を表示／非表示にする
 
-平均行は、個々の [!UICONTROL コホート] 行ではなく、全体的な [!UICONTROL リテンション] または [!UICONTROL チャーン] を表示するのに特に役立ちます。
+平均行は表示に最適です [!UICONTROL 保持] または [!UICONTROL チャーン] 個人ではなく全体 [!UICONTROL コホート] 行。
 
-[!UICONTROL コホート] 分析について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=ja) を参照してください。
+[!UICONTROL コホート] 分析について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=ja) を参照してください。
