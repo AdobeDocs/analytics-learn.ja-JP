@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 03db9b1a91ff127020a5a0bc0542f04942a64770
-workflow-type: ht
-source-wordcount: '2176'
+source-git-commit: 9d90cc880dc13d55cc44f915b40c43450db48197
+workflow-type: tm+mt
+source-wordcount: '2179'
 ht-degree: 100%
 
 ---
@@ -240,6 +240,7 @@ ht-degree: 100%
       + [アカウントで利用可能な機能を表示する](administration/company-settings/view-your-accounts-available-features.md)
    + ユーザー管理 {#user-management}
       + [Adobe Analytics への管理者の追加](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
+      + [製品プロファイルの作成](administration/user-management/create-product-profiles.md)
       + [Admin Console でのレポートスイートへのアクセス制限](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [ユーザーアセットを別のユーザーに転送する](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [ログインの問題を防ぐために、リンクされた IMS ID を確認する](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
