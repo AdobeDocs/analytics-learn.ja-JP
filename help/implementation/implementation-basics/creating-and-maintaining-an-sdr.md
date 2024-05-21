@@ -1,16 +1,16 @@
 ---
 title: ソリューションデザインリファレンス（SDR）ドキュメントの作成と管理
-description: ソリューションデザインリファレンス（SDR）ドキュメントは、デジタルプロパティにおける Analytics のビジネス要件とデータ収集デザインのブループリントです。Analysis ソリューションの情報源としてこのドキュメントを作成し、維持する方法を説明します。
+description: ソリューションデザインリファレンス（SDR）ドキュメントは、デジタルプロパティにおける Analytics のビジネス要件、変数割り当て、セグメント定義およびデータ収集デザインのブループリントです。
 feature: Implementation Basics
 role: Developer, Data Engineer
 level: Beginner
 kt: 3581
 thumbnail: 28754.jpg
 exl-id: c942e819-0763-4907-adcc-747ec753c407
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
-workflow-type: ht
-source-wordcount: '129'
-ht-degree: 100%
+source-git-commit: 245a31092b4a9c253eadd843c7b919c4f701d449
+workflow-type: tm+mt
+source-wordcount: '118'
+ht-degree: 48%
 
 ---
 
@@ -20,6 +20,6 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12&learn=on)
 
-Excel のサンプルテンプレートを[ダウンロード](assets/aa-implementation-playbook.xlsx)して、デジタルプロパティの要件やデータ収集デザインを文書化できます。
+[Download](assets/aa_en_BRD_SDR_template.xlsx) excel のサンプルテンプレートです。デジタルプロパティの要件、変数の使用と割り当て、セグメントおよびデータ収集デザインを文書化できます。
 
-このビデオで示した Excel ドキュメントを[ダウンロード](assets/geometrixx-clothiers-brd-sdr.xlsx)できます。関連する[ビジネス要件ドキュメントビデオ](creating-a-business-requirements-document.md)を視聴することもできます。
+を作成する方法については、関連ビデオをご覧ください。 [ビジネス要件ドキュメントビデオ](creating-a-business-requirements-document.md).
