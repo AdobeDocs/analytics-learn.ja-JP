@@ -8,9 +8,9 @@ kt: 3580
 thumbnail: 28758.jpg
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
 source-git-commit: 245a31092b4a9c253eadd843c7b919c4f701d449
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -20,6 +20,6 @@ Adobe Analytics で取得し分析する行動データを定義する際の重�
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12&learn=on)
 
-[Download](assets/aa_en_BRD_SDR_template.xlsx) excel のサンプルテンプレートです。デジタルプロパティの要件、変数の使用と割り当て、セグメントおよびデータ収集デザインを文書化できます。
+Excel のサンプルテンプレートを[ダウンロード](assets/aa_en_BRD_SDR_template.xlsx)して、デジタルプロパティの要件、変数の使用と割り当て、セグメント、データ収集デザインを文書化できます。
 
-を作成する方法については、関連ビデオをご覧ください。 [ソリューションデザインのリファレンスドキュメント](creating-and-maintaining-an-sdr.md).
+[ソリューションデザインリファレンスドキュメント](creating-and-maintaining-an-sdr.md)の作成方法については、関連ビデオをご覧ください。
