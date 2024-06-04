@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 9d90cc880dc13d55cc44f915b40c43450db48197
+source-git-commit: fa8562f400c93b70d7b83613b90eca21b49dc115
 workflow-type: ht
-source-wordcount: '2179'
+source-wordcount: '2160'
 ht-degree: 100%
 
 ---
@@ -299,10 +299,6 @@ ht-degree: 100%
    + JavaScript の使用 {#using-javascript}
       + [タグマネージャーを使用しないカスタムリンクトラッキング](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [Experience Platform Launch を使用しない場合の AppMeasurement の更新](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
-   + 検証とトラブルシューティング {#validating-and-troubleshooting}
-      + [Adobe Experience Cloud Debugger を使用した実装の検査](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
-   + SPA ページ {#spa-pages}
-      + [SPA トラッキング時のベストプラクティスの使用](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + コンポーネント {#components}
    + セグメント化 {#segmentation}
       + [セグメントビルダーの概要](components/segmentation/segment-builder-overview.md)
