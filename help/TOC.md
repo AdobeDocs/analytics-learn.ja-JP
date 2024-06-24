@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 2b7d260a10a73f017f65146e1e7e64822983f5b6
+source-git-commit: 7817c73a3a11297212eeaf83478b2b803e6f7d8d
 workflow-type: tm+mt
-source-wordcount: '2157'
+source-wordcount: '2166'
 ht-degree: 99%
 
 ---
@@ -65,6 +65,7 @@ ht-degree: 99%
       + [Analysis Workspace のパフォーマンス指標を表示](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
       + [ボットレポートを作成](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
    + ヒントとテクニック {#tips-and-tricks}
+      + [フリーフォームテーブルでのハイパーリンクの作成](analysis-workspace/tips-and-tricks/create-hyperlinks-in-freeform-tables.md)
       + [Analysis Workspace の 7 つのヒントとテクニック](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [ワークフローの効率を上げる、右クリックのヒントとコツ](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [Analysis Workspace で生産性を高めるコツ](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
@@ -82,6 +83,7 @@ ht-degree: 99%
       + [注釈](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [表示密度](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [フィルターの使用](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+      + [複数選択ドロップダウンフィルターの使用](analysis-workspace/navigating-workspace-projects/use-multi-select-drop-down-filters.md)
    + リアルタイムレポート {#real-time-reports}
       + [リアルタイムレポート](analysis-workspace/real-time-reports/realtime-reporting.md)
    + パネルの使用 {#using-panels}
