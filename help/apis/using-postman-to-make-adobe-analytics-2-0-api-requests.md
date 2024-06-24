@@ -10,10 +10,10 @@ kt: 2387
 role: Developer, Data Engineer
 level: Experienced
 exl-id: 0b0e73f8-921d-40ad-b93d-98a1cbc020c8
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 833a34549d48478afa1883ccfc0cf3ab631ed33c
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 100%
+source-wordcount: '125'
+ht-degree: 99%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25889/?quality=12&learn=on)
 
-詳しくは、[ドキュメント](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/oauth-postman.md) を参照してください。
+詳しくは、[ドキュメント](https://developer.adobe.com/analytics-apis/docs/2.0/guides/use-cases/postman/) を参照してください。

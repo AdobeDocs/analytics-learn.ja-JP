@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: fa8562f400c93b70d7b83613b90eca21b49dc115
+source-git-commit: 2b7d260a10a73f017f65146e1e7e64822983f5b6
 workflow-type: tm+mt
-source-wordcount: '2160'
-ht-degree: 100%
+source-wordcount: '2157'
+ht-degree: 99%
 
 ---
 
@@ -339,7 +339,7 @@ ht-degree: 100%
       + [任意のイベントでの新しい訪問の開始](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map {#activity-map}
       + [Activity Map の概要](components/activity-map/activity-map-overview.md)
-      + [Adobe Analytics Activity Map の有効化、デバッグ、カスタマイズ](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
+      + [Activity Mapの有効化、デバッグ、カスタマイズ](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + 追加ツール {#additional-tools}
    + [Adobe Labs（技術プレビュー）](additional-tools/adobe-labs-technology-previews.md)
    + Analytics ダッシュボード {#analytics-dashboards}
