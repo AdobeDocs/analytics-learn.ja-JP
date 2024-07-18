@@ -7,13 +7,13 @@ level: Beginner
 doc-type: feature video
 thumbnail: Workspace Basics.jpeg
 kt: KT-13087
-source-git-commit: c5acd78406a7a679bdb704617f9d705681203b9d
-workflow-type: ht
-source-wordcount: '911'
+exl-id: 2ef470bd-b218-4286-8501-39729511c217
+source-git-commit: 7697ef94630ad67a5b5e9860f84ebdce8b0212f7
+workflow-type: tm+mt
+source-wordcount: '925'
 ht-degree: 100%
 
 ---
-
 
 # より効率的なワークフローを実現するための 7 つの右クリックのヒントとコツ
 

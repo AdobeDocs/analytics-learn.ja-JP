@@ -1,6 +1,6 @@
 ---
-title: Analysis Workspaceでの柔軟なレイアウト
-description: フリーフォーム分析には、グラフやテーブルの位置、幅、高さを変更して、よりリッチなプロジェクトを構築できるようにする機能が含まれています。 このビデオでは、レイアウトを変更する方法を説明します。
+title: Analysis Workspaceの柔軟なレイアウト
+description: フリーフォーム分析には、グラフやテーブルの位置、幅および高さを変更して、より表現力豊かなプロジェクトを構築できるようにする機能が含まれています。 このビデオでは、レイアウトを変更する方法を説明します。
 feature: Visualizations
 kt: 2137
 role: User
@@ -13,8 +13,8 @@ ht-degree: 24%
 
 ---
 
-# Analysis Workspaceでの柔軟なレイアウト {#flexible-layouts-in-analysis-workspace}
+# Analysis Workspaceの柔軟なレイアウト {#flexible-layouts-in-analysis-workspace}
 
-フリーフォーム分析には、グラフやテーブルの位置、幅、高さを変更して、よりリッチなプロジェクトを構築できるようにする機能が含まれています。 このビデオでは、レイアウトを変更する方法を説明します。
+フリーフォーム分析には、グラフやテーブルの位置、幅および高さを変更して、より表現力豊かなプロジェクトを構築できるようにする機能が含まれています。 このビデオでは、レイアウトを変更する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24706/?quality=12&learn=on)

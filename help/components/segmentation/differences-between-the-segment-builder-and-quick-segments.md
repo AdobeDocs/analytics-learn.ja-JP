@@ -6,13 +6,13 @@ role: User
 level: Beginner
 doc-type: article
 kt: KT-13118
-source-git-commit: 9484b2e981d78be59b6ea16eeae2cf6f212c81ab
-workflow-type: ht
-source-wordcount: '1264'
+exl-id: 144e71fd-8d42-4d20-b55e-3d81ad992a79
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+workflow-type: tm+mt
+source-wordcount: '1266'
 ht-degree: 100%
 
 ---
-
 
 # Analysis Workspace でのセグメントビルダーとクイックセグメントの違い
 

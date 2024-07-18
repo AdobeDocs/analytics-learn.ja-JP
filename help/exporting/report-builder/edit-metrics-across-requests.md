@@ -10,8 +10,8 @@ kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 83%
+source-wordcount: '99'
+ht-degree: 81%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 83%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12&learn=on)
 
-この機能は、複数のリクエストの [!UICONTROL レポート スイート]、[!UICONTROL 日付範囲]、[!UICONTROL 精度]、[!UICONTROL セグメント] を編集する既存機能に追加されるものです。リクエストの一括編集は、右クリックメニューまたは「[!UICONTROL 複数を編集]」をクリックします。
+この機能は、複数のリクエストの [!UICONTROL レポート スイート]、[!UICONTROL 日付範囲]、[!UICONTROL 精度]、[!UICONTROL セグメント] を編集する既存機能に追加されるものです。リクエストの一括編集は、右クリックメニューまたは管理ウィンドウの「[!UICONTROL  複数を編集 ]」から実行できます。
 
 この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/manage-requests/edit-multiple-metrics.html?lang=ja) を参照してください。

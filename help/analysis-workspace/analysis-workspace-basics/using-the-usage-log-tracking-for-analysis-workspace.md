@@ -13,7 +13,7 @@ team: Technical Marketing
 kt: 1597
 source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '141'
 ht-degree: 100%
 
 ---

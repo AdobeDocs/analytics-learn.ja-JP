@@ -1,6 +1,6 @@
 ---
 title: Analysis Workspace から CSV への書き出し
-description: Excel や他の BI ツールで分析用に、プロジェクト全体または個々のテーブルを CSV にエクスポートする方法を説明します。
+description: プロジェクト全体または個々のテーブルを CSV に書き出し、Excel や他の BI ツールで分析する方法を説明します。
 feature: Curate and Share
 role: User
 level: Beginner
@@ -17,6 +17,6 @@ ht-degree: 24%
 
 # Analysis Workspace から CSV への書き出し {#export-to-csv-from-analysis-workspace}
 
-Excel や他の BI ツールで分析用に、プロジェクト全体または個々のテーブルを CSV にエクスポートする方法を説明します。
+プロジェクト全体または個々のテーブルを CSV に書き出し、Excel や他の BI ツールで分析する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24712/?quality=12&learn=on)

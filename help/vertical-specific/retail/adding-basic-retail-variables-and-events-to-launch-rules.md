@@ -1,6 +1,6 @@
 ---
-title: 基本的な小売変数およびイベントをExperience Platformのルールに追加 [!DNL tags]
-description: このビデオでは、での特別な製品文字列拡張機能の使用方法を説明します。 [!DNL tags] を使用して、製品表示、買い物かごへの追加、チェックアウトなど、基本的な小売変数およびイベントを追跡します。
+title: Experience Platformのルールに基本的な小売変数とイベントを追加  [!DNL tags]
+description: このビデオでは、で特別な製品文字列拡張機能を使用して、製品の表示  [!DNL tags]  買い物かごへの追加、チェックアウトなど、基本的な小売変数およびイベントを追跡する方法を説明します。
 feature: Tags
 topics: Development
 kt: 3592
@@ -10,16 +10,16 @@ exl-id: cfddf957-20ca-4393-8a32-597f8a74a15f
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 基本的な小売変数およびイベントをExperience Platformのルールに追加 [!DNL tags]
+# Experience Platform [!DNL tags] のルールに基本的な小売変数とイベントを追加する
 
-このビデオでは、での特別な製品文字列拡張機能の使用方法を説明します。 [!DNL tags] を使用して、製品表示、買い物かごへの追加、チェックアウトなど、基本的な小売変数およびイベントを追跡します。
+このビデオでは、特別な製品文字列拡張機能を使用して、製品の表示、買い物かごへの追加、チェックアウトなど、基本的な小売変数およびイベントを追跡する方法を [!DNL tags] 明します。
 
 >[!NOTE]
 >
-> Launch は現在 **[!DNL tags]**
+> Launch は **[!DNL tags]** になりました
 
 >[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12&learn=on)

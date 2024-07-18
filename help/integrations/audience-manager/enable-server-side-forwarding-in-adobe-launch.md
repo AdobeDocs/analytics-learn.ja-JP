@@ -1,6 +1,6 @@
 ---
-title: サーバー側転送を使用したAdobe AnalyticsとAdobe Audience Managerの統合
-description: サーバー側転送を使用してAdobe AnalyticsデータをAdobe Audience Managerに送信する方法を説明します。
+title: サーバーサイド転送を使用したAdobe AnalyticsとAdobe Audience Managerの統合
+description: サーバーサイド転送を使用してAdobe Analytics データをAdobe Audience Managerに送信する方法について説明します。
 feature: Experience Cloud Integration
 topic: Integrations
 team: Technical Marketing
@@ -17,12 +17,12 @@ ht-degree: 1%
 
 ---
 
-# 統合 [!DNL Adobe Analytics] 次を使用 [!DNL Adobe Audience Manager] サーバー側転送の使用
+# サーバーサイド転送を使用した [!DNL Adobe Analytics] と [!DNL Adobe Audience Manager] の統合
 
-送信方法を学ぶ [!DNL Adobe Analytics] データを [!DNL Adobe Audience Manager] サーバー側転送を使用している場合。
+サーバーサイド転送を使用して [!DNL Adobe Analytics] データを [!DNL Adobe Audience Manager] に送信する方法を説明します。
 
 >[!NOTE]
 >
->&quot;[!UICONTROL Launch]&quot;の名前が&quot;に変更されました[!UICONTROL タグ]」と入力します。 選択 [!UICONTROL データ収集] から [!UICONTROL アプリ切り替え機] タグを開き、このビデオで取り上げる手順を実行します。
+>Experience Cloudインターフェイスの「[!UICONTROL Launch]」の名前は「[!UICONTROL tags]」に変更されました。 [!UICONTROL  アプリケーションスイッチャー ] から [!UICONTROL  データ収集 ] を選択してタグを開き、このビデオで紹介されている手順を実行します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)

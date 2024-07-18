@@ -1,6 +1,6 @@
 ---
 title: コンバージョン変数（eVar）の概要
-description: コンバージョン変数（eVar とも呼ばれます）がAdobe Analyticsでどのように使用されるか、およびコンバージョンイベントとの関係やトラフィック変数との違いについて説明します。
+description: Adobe Analyticsでのコンバージョン変数の使用方法について説明します。例えば、コンバージョンイベントとの関連やトラフィック変数との相違点などについて説明します。
 feature: Dimensions
 kt: 3577
 role: User
@@ -14,9 +14,9 @@ ht-degree: 19%
 
 ---
 
-# コンバージョン変数 ([!DNL eVars])
+# コンバージョン変数（[!DNL eVars]）について
 
-コンバージョン変数 ( [!DNL eVars]は、コンバージョンイベントとの関係やトラフィック変数との違いなど、Adobe Analyticsで使用されます。
+Adobe Analyticsにおけるコンバージョン変数（[!DNL eVars] とも呼ばれます）の使用方法について説明します。例えば、コンバージョンイベントとの関連やトラフィック変数との相違点などについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12&learn=on)
 

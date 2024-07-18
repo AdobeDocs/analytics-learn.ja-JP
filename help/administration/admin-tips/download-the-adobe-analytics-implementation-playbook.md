@@ -11,8 +11,8 @@ kt: 10530
 exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
 workflow-type: tm+mt
-source-wordcount: '1805'
-ht-degree: 100%
+source-wordcount: '1802'
+ht-degree: 99%
 
 ---
 
@@ -101,7 +101,7 @@ Adobe Analytics でタグ付けされていない場合でも、すべてのデ�
 >
 >Adobe Analytics でサイト名やプロパティのディメンションを作成します。サイト名やアプリ名を識別する専用のディメンション（通常は eVar）が Adobe Analytics にあると、セグメント化、トラブルシューティング、仮想レポートスイートの作成などを行うことができます。特に、複数のサイトを 1 つの（グローバルな）レポートスイートでまとめる場合、メリットは無限にあります。重要なのは、開発チームが、すべてのページ読み込み（s.t calls/trackState）とすべてのカスタムイベント（s.tl calls/trackAction）を含め、常にこの値をプロパティディメンションに設定するようにすることです。処理ルールは、これらの値を適切に一貫して設定するのに役立つツールとなります。
 
-実装プレイブックの入力の詳細については、[Doug Moore によるこちらのビデオをご覧ください。](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=ja){target=&quot;_blank&quot;}
+実装プレイブックの入力の詳細については、[Doug Moore によるこちらのビデオをご覧ください ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=ja){target="_blank"}。
 
 ## 作成者
 

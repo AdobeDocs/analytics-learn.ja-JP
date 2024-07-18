@@ -12,7 +12,7 @@ kt: 9780
 exl-id: a5e69595-a9e6-48f4-9e85-6c15640dfaab
 source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
 workflow-type: tm+mt
-source-wordcount: '1556'
+source-wordcount: '1522'
 ht-degree: 100%
 
 ---
@@ -29,25 +29,25 @@ ht-degree: 100%
 
 * ユーザーのオンボーディングプロセスを作成：
 
-   お客様のビジネスにとって Adobe Analytics のアクセスに関連する要件とプロセスは何ですか？ 新規ユーザーのオンボーディングの要件とプロセスがまだ整っていない場合は、そのインフラストラクチャを作成することでスケーラビリティがサポートされます。
+  お客様のビジネスにとって Adobe Analytics のアクセスに関連する要件とプロセスは何ですか？ 新規ユーザーのオンボーディングの要件とプロセスがまだ整っていない場合は、そのインフラストラクチャを作成することでスケーラビリティがサポートされます。
 
 * 適切なユーザー管理およびアクセスを実装します。
 
-   レポートスイート、指標、ディメンション、ツール、レポートおよびコンポーネントへのユーザーアクセスは、Adobe Analytics の基盤であり、[ユーザーグループ管理プロセス](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=ja)の重要な部分です。適切なツールへのアクセスにより、ユーザーは Analysis Workspace および Reports &amp; Analytics 内でセルフサービスを利用できるようになります。
+  レポートスイート、指標、ディメンション、ツール、レポートおよびコンポーネントへのユーザーアクセスは、Adobe Analytics の基盤であり、[ユーザーグループ管理プロセス](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=ja)の重要な部分です。適切なツールへのアクセスにより、ユーザーは Analysis Workspace および Reports &amp; Analytics 内でセルフサービスを利用できるようになります。
 
 * 実装について：
 
-   ベスト プラクティスとして、ユーザーは実装でサポートされるビジネス要件の基本的な知識を持っている必要があります。このような知識は通常、 [ビジネス要件ドキュメント](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=ja) （BRD）および [ソリューションデザインリファレンスドキュメント](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=ja) （SDR）を介して得ることができます。これらの要件には、実装された内容を含め、カテゴリ別にビジネス要件、レポート、eVar、イベントなどを定義する必要があります。
+  ベスト プラクティスとして、ユーザーは実装でサポートされるビジネス要件の基本的な知識を持っている必要があります。このような知識は通常、 [ビジネス要件ドキュメント](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=ja) （BRD）および [ソリューションデザインリファレンスドキュメント](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=ja) （SDR）を介して得ることができます。これらの要件には、実装された内容を含め、カテゴリ別にビジネス要件、レポート、eVar、イベントなどを定義する必要があります。
 
 * レポートテンプレートを使用：
 
-   Adobe Analytics のレポートテンプレートとプロジェクトは、ツールユーザーがビジネスの実装、レポートの使用例およびベストプラクティスを利用できるようにするための重要なリソースです。これらのリソースは、一般的なビジネスの質問と、ツール内で最適の回答をする方法に対処する必要があります。
+  Adobe Analytics のレポートテンプレートとプロジェクトは、ツールユーザーがビジネスの実装、レポートの使用例およびベストプラクティスを利用できるようにするための重要なリソースです。これらのリソースは、一般的なビジネスの質問と、ツール内で最適の回答をする方法に対処する必要があります。
 
 ## 2. 誰が実行し、誰が関与するべきか、プランを作成する
 
 * コミュニティを運営するメンバーを決定：
 
-   権限を持つコミュニティは、ビジネス要件の管理と実装を中心としたインフラストラクチャから始まります。したがって、ビジネスの Adobe Analytics 管理とイネーブルメントを管理するチームは、通常、ユーザーグループや内部コミュニティを管理するための鍵となります。
+  権限を持つコミュニティは、ビジネス要件の管理と実装を中心としたインフラストラクチャから始まります。したがって、ビジネスの Adobe Analytics 管理とイネーブルメントを管理するチームは、通常、ユーザーグループや内部コミュニティを管理するための鍵となります。
 
 * 関係者、役割、責任を定義：
 
@@ -65,7 +65,7 @@ ht-degree: 100%
 
 * [プロジェクト憲章を作成する](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) （テンプレートのダウンロード）：
 
-   プロジェクト憲章は、多くの場合、権限を持つ社内コミュニティの商談に関するビジネスの足並みを揃える優れた方法です。 次の質問に答えることで、憲章のドラフトを作成するために必要な情報が得られます。
+  プロジェクト憲章は、多くの場合、権限を持つ社内コミュニティの商談に関するビジネスの足並みを揃える優れた方法です。 次の質問に答えることで、憲章のドラフトを作成するために必要な情報が得られます。
 
    * 解決しようとしている問題のステートメントは何ですか？コミュニティの目標は何ですか？また、範囲内外で何が予想されますか？
    * 「私にとってのメリットは何ですか？」 潜在的なメリットやコスト、成功の測定方法、リスクは何ですか？

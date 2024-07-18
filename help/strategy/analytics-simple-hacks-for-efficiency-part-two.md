@@ -1,6 +1,6 @@
 ---
 title: 効率化とセルフサービスを実現するシンプルな秘訣 - パート 2
-description: 分析チームが今日直面している主な課題と、それらを克服するためにツール内の戦略を使用した推奨事項について説明します。
+description: 分析チームが今日直面している主な課題と、それらを克服するためにツール内の戦略を使用したレコメンデーションについて説明します。
 feature: Analytics Basics
 role: Admin, Leader
 level: Intermediate
@@ -8,7 +8,7 @@ solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
 source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '718'
 ht-degree: 100%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 100%
 
 **パート 2：ツール内戦略**
 
-この記事では、分析チームが現在直面している主な課題と、ツール内の戦略を使用してそれらを克服する推奨事項について説明します。パート 1 へは[ここから](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md)移動してください。
+この記事では、分析チームが現在直面している主な課題と、ツール内の戦略を使用してそれらを克服するためのレコメンデーションについて説明します。パート 1 へは[ここから](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md)移動してください。
 
 ## 効率化の鍵：ツール内戦略
 
-効果的なセルフサービスは、多くの場合、認識された障壁を取り除き、自信を高めるための演習です。推奨事項を次に示します。
+効果的なセルフサービスは、多くの場合、認識された障壁を取り除き、自信を高めるための演習です。レコメンデーションを次に示します。
 
 ## すべての機能を活用
 

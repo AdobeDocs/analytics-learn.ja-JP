@@ -10,7 +10,7 @@ kt: 8059
 exl-id: a074d503-94f2-449f-8d3e-8bb599752981
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '48'
 ht-degree: 100%
 
 ---

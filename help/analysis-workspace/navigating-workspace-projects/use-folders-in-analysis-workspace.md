@@ -8,13 +8,13 @@ doc-type: Feature Video
 last-substantial-update: 2023-01-12T00:00:00Z
 kt: 11723
 thumbnail: 3413167.jpg
-source-git-commit: e2933c4aa1a56609719f38f131888c95dfe2f741
-workflow-type: ht
-source-wordcount: '52'
+exl-id: c300ba03-cd40-42ba-be46-325380914771
+source-git-commit: 95e2ee32ea969c47597ffb57a89ac9541bac3a2b
+workflow-type: tm+mt
+source-wordcount: '44'
 ht-degree: 100%
 
 ---
-
 
 # Analysis Workspace でフォルダーを使用します。
 

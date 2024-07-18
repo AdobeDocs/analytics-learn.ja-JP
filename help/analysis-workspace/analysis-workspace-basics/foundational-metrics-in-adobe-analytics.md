@@ -10,7 +10,7 @@ kt: KT-8646
 exl-id: c91e8ee4-16b9-4f93-b2a5-5e10b415143d
 source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '111'
 ht-degree: 100%
 
 ---

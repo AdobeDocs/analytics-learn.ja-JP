@@ -1,6 +1,6 @@
 ---
-title: Analysis Workspaceでの読み取り専用プロジェクトの共有
-description: 読み取り専用の Workspace Analysis プロジェクトをユーザーと共有する方法と、この権限レベルで使用できる機能について説明します。
+title: Analysis Workspaceで読み取り専用プロジェクトを共有
+description: 読み取り専用のWorkspace Analysis プロジェクトをユーザーに共有する方法と、この権限レベルで使用できる機能を説明します。
 feature: Curate and Share
 topics: null
 activity: use
@@ -18,9 +18,9 @@ ht-degree: 11%
 
 ---
 
-# Analysis Workspaceでの読み取り専用プロジェクトの共有
+# Analysis Workspaceで読み取り専用プロジェクトを共有
 
-読み取り専用の Workspace Analysis プロジェクトをユーザーと共有する方法と、この権限レベルで使用できる機能について説明します。
+読み取り専用のWorkspace Analysis プロジェクトをユーザーに共有する方法と、この権限レベルで使用できる機能を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36206/?quality=12&learn=on)
 

@@ -11,8 +11,8 @@ kt: 10533
 exl-id: 60307702-9348-48b5-8364-49e90946d793
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
 workflow-type: tm+mt
-source-wordcount: '345'
-ht-degree: 100%
+source-wordcount: '321'
+ht-degree: 85%
 
 ---
 
@@ -31,9 +31,9 @@ ht-degree: 100%
 * Adobe Analytics で役立つヒントのトップ 5（ドロップダウンの作成方法など）
 * Attribution IQ の使用方法
 
-これで、長文のメールを書いたり、別の会議を開いたりすることなく、ユーザーにこれらの情報を簡単に提供できます。ユーザー教育に関するその他のヒントとテクニックについては、[Adobe Champion の Thomas Edward Buckley の記事](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=ja){target=&quot;_blank&quot;}「ユーザートレーニングの簡単化と時間短縮のすべて」を参照してください。
+これで、長文のメールを書いたり、別の会議を開いたりすることなく、ユーザーにこれらの情報を簡単に提供できます。ユーザー教育に関するその他のヒントとテクニックについては、[Adobeチャンピオンの Thomas Edward Buckley の記事 ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=ja){target="_blank"} 「ユーザートレーニングの簡単化と時間短縮のすべて」を参照してください。
 
-また、Adobe Experience League についての[ビデオチュートリアル](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja){target=&quot;_blank&quot;}と[無料コース](https://experienceleague.adobe.com/?lang=ja#dashboard/learning){target=&quot;_blank&quot;}もたくさん（山のように）あります。自社のデータやビジネス KPI に固有のビデオが必要な場合は、ぜひ独自のビデオを録画してください。一般的な教育ビデオで十分な場合は、一から新しく作る必要はありません。
+また、Adobe Experience Leagueについての [ ビデオチュートリアル ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja){target="_blank"} と [ 無料コース ](https://experienceleague.adobe.com/?lang=ja#dashboard/learning){target="_blank"} もたくさん（山のように）あります。 自社のデータやビジネス KPI に固有のビデオが必要な場合は、ぜひ独自のビデオを録画してください。一般的な教育ビデオで十分な場合は、一から新しく作る必要はありません。
 
 ## 作成者
 

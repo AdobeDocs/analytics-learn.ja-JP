@@ -1,6 +1,6 @@
 ---
 title: 基本的な訪問者指標について
-description: Adobe Analyticsのページビュー数、訪問回数、訪問者数について説明します。 Web サイトトラフィックを理解するのに役立つ基本的な訪問者指標についてインサイトを得ます。
+description: Adobe Analyticsでのページビュー数、訪問回数、訪問者数について説明します。 Web サイトのトラフィックを理解するのに役立つ基本的な訪問者指標に関するインサイトを得ます。
 feature: Metrics
 kt: 3575
 role: User
@@ -15,12 +15,12 @@ ht-degree: 11%
 
 # 基本的な訪問者指標について
 
-詳細 [[!UICONTROL ページビュー数]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en), [[!UICONTROL 訪問回数]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=ja)、および [[!UICONTROL 訪問者]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=ja) Adobe Analyticsで
+Adobe Analyticsの [[!UICONTROL  ページビュー数 ]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en)、[[!UICONTROL  訪問回数 ]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=ja) および [[!UICONTROL  訪問者数 ]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=ja) について説明します。
 
-* これらの基本的な訪問指標の定義を取得し、類似点と相違点を確認します。
+* これらの基本的な訪問指標の定義を取得し、その類似点と相違点について学びます。
 
-* 訪問者指標および Web サイトトラフィックに関連する様々な用語（同義語またはキーワード）について説明します。
+* 訪問者指標や web サイトトラフィックに関連する様々な用語（同義語またはキーワード）について説明します。
 
-* サンプルの表示 [!UICONTROL Workspace] プロジェクトに追加されました。
+* インターフェイスでこれらの指標がどのように表示されるかを示すサンプル [!UICONTROL Workspace] プロジェクトを表示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)

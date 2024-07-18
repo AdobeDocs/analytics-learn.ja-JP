@@ -16,10 +16,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Analyticsの有効化、デバッグ、カスタマイズ [!UICONTROL Activity Map]
+# Adobe Analytics [!UICONTROL Activity Mapの有効化、デバッグ、カスタマイズ ]
 
-の動作の有効化、デバッグ、カスタマイズを説明します [!UICONTROL Activity Map] は、Adobe Experience Platform タグの Analytics 拡張機能にデプロイされます。
+Adobe Experience Platform タグの Analytics 拡張機能で [!UICONTROL Activity Map] をデプロイする方法の有効化、デバッグ、カスタマイズを説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
 
-のデプロイ方法の詳細情報 [!UICONTROL Activity Map]、にアクセスします [詳細を見る](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).
+[!UICONTROL Activity Map] のデプロイ方法の詳細については、[ ドキュメント ](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable) を参照してください。

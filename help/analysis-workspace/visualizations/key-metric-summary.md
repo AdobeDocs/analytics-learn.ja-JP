@@ -7,13 +7,13 @@ level: Beginner
 kt: 11270
 thumbnail: 3410003.jpeg
 last-substantial-update: 2022-10-11T00:00:00Z
-source-git-commit: 7e543468111051b51e9dffcf0d4438c2d058b51d
-workflow-type: ht
-source-wordcount: '79'
+exl-id: 46afd613-2b89-445a-8d21-626a8f5e8741
+source-git-commit: 00abc8f2470e2199fdbee4e34f2cb8949a8918b1
+workflow-type: tm+mt
+source-wordcount: '70'
 ht-degree: 100%
 
 ---
-
 
 # 主要指標の概要ビジュアライゼーション
 

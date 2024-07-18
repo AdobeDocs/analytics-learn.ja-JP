@@ -1,6 +1,6 @@
 ---
 title: 計算指標 - セグメント化指標
-description: セグメントに基づく計算指標の作成方法を説明します。これにより、そのセグメントに属する訪問者、訪問およびページビューをより効果的に分析できます。
+description: セグメントに基づいて計算指標を作成し、そのセグメントに属する訪問者数、訪問回数およびページビュー数をより効果的に分析できるようにする方法を説明します。
 feature: Calculated Metrics
 kt: 2319
 role: User
@@ -8,14 +8,14 @@ level: Beginner
 exl-id: c02b968d-aa0e-4a93-acd4-d8797533b182
 source-git-commit: 18d3c3105c2c536a1f4e40b663bfcdf25934acaa
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 25%
+source-wordcount: '68'
+ht-degree: 94%
 
 ---
 
-# [!UICONTROL 計算指標]:セグメント化指標 {#calculated-metrics-segmented-metrics}
+# [!UICONTROL  計算指標 ]：セグメント化指標 {#calculated-metrics-segmented-metrics}
 
-セグメントに基づく計算指標の作成方法を説明します。これにより、そのセグメントに属する訪問者、訪問およびページビューをより効果的に分析できます。
+セグメントに基づいて計算指標を作成し、そのセグメントに属する訪問者数、訪問回数およびページビュー数をより効果的に分析できるようにする方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25409/?quality=12&learn=on)
 

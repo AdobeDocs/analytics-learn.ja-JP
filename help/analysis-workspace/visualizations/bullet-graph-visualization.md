@@ -9,7 +9,7 @@ exl-id: 369904c2-5de9-495c-abd2-0c3900f6c49f
 thumbnail: 23989.jpg
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '80'
 ht-degree: 100%
 
 ---

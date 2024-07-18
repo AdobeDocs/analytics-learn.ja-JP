@@ -9,13 +9,13 @@ doc-type: Feature Video
 last-substantial-update: 2023-04-11T00:00:00Z
 jira: KT-13074
 thumbnail: 3418028.jpeg
-source-git-commit: 01a70b931120a5ea8cd82ffd1c91369e3fa041cd
-workflow-type: ht
-source-wordcount: '106'
+exl-id: 8ef91be9-1dab-49ce-b78e-433dfe3c0717
+source-git-commit: 9f3e0fbe5c0fe49ac290e7000e0353413390038f
+workflow-type: tm+mt
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
-
 
 # Analysis Workspace でのデータ要素
 

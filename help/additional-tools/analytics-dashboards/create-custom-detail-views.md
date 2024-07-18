@@ -8,13 +8,13 @@ level: Beginner
 kt: 11271
 thumbnail: 3410002.jpg
 last-substantial-update: 2022-10-11T00:00:00Z
-source-git-commit: d142d2dc12a29cd6dfcb59675ce160bac30d5004
-workflow-type: ht
+exl-id: 40aca55c-1f0d-4c62-b1b4-b376f9d3d20a
+source-git-commit: 00abc8f2470e2199fdbee4e34f2cb8949a8918b1
+workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
 
 ---
-
 
 # ダッシュボードのカスタム詳細ビューの作成
 

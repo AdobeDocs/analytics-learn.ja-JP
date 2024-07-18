@@ -1,6 +1,6 @@
 ---
 title: 効率化とセルフサービスを実現するシンプルな秘訣 - パート 1
-description: 分析チームが今日直面している主な課題と、それらを克服するために Adobe Analytics UI 以外の戦略を使用した推奨事項について説明します。
+description: 分析チームが今日直面している主な課題と、それらを克服するために Adobe Analytics UI 以外の戦略を使用したレコメンデーションについて説明します。
 feature: Analytics Basics
 role: Admin, Leader
 level: Intermediate
@@ -8,7 +8,7 @@ solution: Analytics
 exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
 source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '711'
 ht-degree: 100%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 **パート 1：UI の外で**
 
-この記事では、分析チームが今日直面している主な課題と、Adobe Analytics インターフェイス以外の戦略を使用してそれらを克服するための推奨事項について説明します。
+この記事では、分析チームが今日直面している主な課題と、Adobe Analytics インターフェイス以外の戦略を使用してそれらを克服するためのレコメンデーションについて説明します。
 
 ## 分析チームにとっての主な課題
 

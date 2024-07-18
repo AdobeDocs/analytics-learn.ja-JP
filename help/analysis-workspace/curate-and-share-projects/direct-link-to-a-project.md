@@ -11,7 +11,7 @@ kt: 2296
 exl-id: 105c7767-4ca1-45d0-a1ca-7b99b4cfae6e
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '73'
 ht-degree: 100%
 
 ---

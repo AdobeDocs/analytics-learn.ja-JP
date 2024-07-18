@@ -12,13 +12,13 @@ exl-id: 692b6726-12f8-45fb-b7c7-8ae42e1a14b7
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
 workflow-type: tm+mt
 source-wordcount: '300'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
 # 内部 Adobe Analytics サイトの作成（Confluence またはその他）
 
-**対象：**[このヒント](create-basic-videos-and-training.md){target=&quot;_blank&quot;} のレコメンデーションに従ってトレーニングドキュメントを作成する場合、ハードドライブ上に保持できません。 これらのドキュメントを共有し、すべてのユーザーが参照できる一元的な場所を作成します。内部の Adobe Analytics サイト（Confluence など）では、これらのドキュメントをすべて投稿し、様々なバージョンを維持できます。
+**対象：** [ このヒント ](create-basic-videos-and-training.md){target="_blank"} のレコメンデーションに従ってトレーニングドキュメントを作成する場合、ハードドライブ上に保持できません。 これらのドキュメントを共有し、すべてのユーザーが参照できる一元的な場所を作成します。内部の Adobe Analytics サイト（Confluence など）では、これらのドキュメントをすべて投稿し、様々なバージョンを維持できます。
 
 **理由：**&#x200B;単一の共有リポジトリを設定すると、すべての新規ユーザーを 1 箇所で管理し、すべてのドキュメントの最新バージョンに関して、単一の情報源を提供できます。最適なバージョン管理と共同作業が可能です。
 

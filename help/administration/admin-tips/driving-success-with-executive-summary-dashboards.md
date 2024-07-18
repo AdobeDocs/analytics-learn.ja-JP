@@ -8,13 +8,13 @@ doc-type: Article
 last-substantial-update: 2023-05-15T00:00:00Z
 jira: KT-13216
 thumbnail: KT-13216.jpeg
-source-git-commit: 2fc695b576b9334aff52fe7a8eb4e88ab38a4b71
-workflow-type: ht
-source-wordcount: '873'
+exl-id: 393a0cf0-d793-4185-87ed-81955ad10b0e
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+workflow-type: tm+mt
+source-wordcount: '876'
 ht-degree: 100%
 
 ---
-
 
 # エグゼクティブサマリダッシュボードで成功を推進
 
