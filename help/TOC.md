@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 234be3d7c4357baec59233039cb6f87170f85880
+source-git-commit: 1687ffc8267fac3ab4a842d9004667486ff52fb7
 workflow-type: tm+mt
-source-wordcount: '2161'
-ht-degree: 99%
+source-wordcount: '2160'
+ht-degree: 96%
 
 ---
 
@@ -379,18 +379,18 @@ ht-degree: 99%
    + Target {#target}
       + [Analysis Workspace の Analytics for Target（A4T）パネル](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
       + [A4T パネルを使用した自動ターゲットアクティビティの分析](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
-   + Ad Cloud {#ad-cloud}
+   + Adobe Advertising DSP{#adobe-advertising-dsp}
       + [Advertising Analytics の設定](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [検索エンジンへのトラッキングテンプレートの実装](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
-      + [Analytics for Advertising Cloud DSP 統合の概要](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
-      + [運用開始前のキャンペーン分析の作成](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
-      + [Advertising Cloud マーケティングチャネルを使用したレポート](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
+      + [Adobe Advertising DSP統合の概要](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
+      + [ローンチ前のキャンペーン分析の作成](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
+      + [Advertising DSP マーケティングチャネルに関するレポート](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
       + [Analytics サイトのジャーニープロファイルの作成](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
       + [アクティベーションおよびレポート用の Analytics セグメントの作成](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
-      + [Adobe Analytics での Advertising Cloud アラートの作成](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
-      + [Advertising Cloud データを使用した Analytics カスタム指標の作成](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
-      + [Advertising Cloud サイト入口レポートの作成](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
-      + [Advertising Cloud ダッシュボードの作成](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
+      + [Adobe Analyticsを使用したAdvertising DSP アラートの作成](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
+      + [Advertising DSP データを使用した Analytics カスタム指標の作成](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
+      + [Advertising DSP サイト入口レポートの作成](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
+      + [Advertising DSP ダッシュボードの作成](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
    + Ad Hoc Analytics {#ad-hoc-analytics}
       + [プロジェクトコンバーターを使用した Ad Hoc Analysis から Analytics Workspace へのプロジェクトの移行](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
    + Power BI {#power-bi}

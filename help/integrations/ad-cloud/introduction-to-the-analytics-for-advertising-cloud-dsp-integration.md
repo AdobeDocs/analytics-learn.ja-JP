@@ -1,5 +1,5 @@
 ---
-title: Analytics for Adobe Advertising DSP統合の概要
+title: Adobe Advertising DSP統合の概要
 description: Adobe Advertising DSPの統合は、Adobe AnalyticsとAdobe Advertising DSPの間のネイティブな双方向統合です。
 feature: Advertising Integration
 topic: Integrations
@@ -8,14 +8,14 @@ level: Intermediate
 thumbnail: 27237.jpg
 kt: 2913
 exl-id: 66fb50e7-6500-4b16-beab-7ceac17f9245
-source-git-commit: 74592751cd79cf58694cf30c994dd214399f20aa
+source-git-commit: 1687ffc8267fac3ab4a842d9004667486ff52fb7
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-# Analytics for Adobe Advertising DSP統合の概要
+# Adobe Advertising DSP統合の概要
 
 [!DNL Adobe Advertising] DSP統合は、Adobe AnalyticsとAdobe Advertising DSPの間のネイティブな双方向統合です。 この統合は、Advertisingの広告インプレッションから [!DNL Analytics] に `Viewthroughs` ータをキャプチャします。 [!DNL Analytics] は、`Clickthroughs` などのすべてのダウンストリームサイトアクティビティに `Viewthroughs` を接続します。 [!DNL Analytics] は [!DNL metrics] を [!DNL Advertising DSP] に戻して、高度なアルゴリズム入札モデルをフィードします。 このビデオでは、`Viewthrough` 指標、統合のメリットについて説明し、[!UICONTROL Analysis Workspace] での [!UICONTROL  ディメンション ] と [!UICONTROL  指標 ] の基本的な使用例を示します。
 
