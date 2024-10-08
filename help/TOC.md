@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 1687ffc8267fac3ab4a842d9004667486ff52fb7
+source-git-commit: c6e015f257fd27f27e60a4ce2a30c5369611d123
 workflow-type: tm+mt
-source-wordcount: '2160'
+source-wordcount: '2164'
 ht-degree: 96%
 
 ---
@@ -363,6 +363,7 @@ ht-degree: 96%
       + [データフィード ID の検索](exporting/data-feeds/find-your-data-feed-id.md)
       + [データフィードジョブの再実行](exporting/data-feeds/rerun-a-data-feed-job.md)
    + Report Builder {#report-builder}
+      + [ワークブックのアップグレードと再スケジュール](exporting/report-builder/upgrade-and-reschedule-workbooks.md)
       + [Report Builder での複数リクエストに対するセグメントの一括追加](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
       + [Report Builder での異常値検出](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [すべてのリクエストにわたる指標の編集](exporting/report-builder/edit-metrics-across-requests.md)
