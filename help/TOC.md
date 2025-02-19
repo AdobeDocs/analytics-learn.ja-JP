@@ -4,7 +4,7 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: c6e015f257fd27f27e60a4ce2a30c5369611d123
+source-git-commit: abfda19fcda0b4469c27886ef4b80e2fe9bf25a6
 workflow-type: tm+mt
 source-wordcount: '2164'
 ht-degree: 96%
@@ -174,7 +174,7 @@ ht-degree: 96%
       + [コンバージョン変数（eVar）の概要](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
       + [フリーフォームテーブルでのディメンションの操作](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=ja)
    + カレンダーと日付範囲 {#calendar-and-date-ranges}
-      + [Analysis Workspace での日付の使用](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
+      + [Analysis Workspaceでの日付の使用](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [プロジェクトへの再利用可能な日付範囲の適用](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
       + [Analysis Workspace での日付範囲と日付比較の使用](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
       + [カスタム日付範囲の作成](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
@@ -380,7 +380,7 @@ ht-degree: 96%
    + Target {#target}
       + [Analysis Workspace の Analytics for Target（A4T）パネル](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
       + [A4T パネルを使用した自動ターゲットアクティビティの分析](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
-   + Adobe Advertising DSP{#adobe-advertising-dsp}
+   + Adobe Advertising DSP {#adobe-advertising-dsp}
       + [Advertising Analytics の設定](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [検索エンジンへのトラッキングテンプレートの実装](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
       + [Adobe Advertising DSP統合の概要](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
