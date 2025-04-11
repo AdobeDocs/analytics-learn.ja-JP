@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: abfda19fcda0b4469c27886ef4b80e2fe9bf25a6
+source-git-commit: 14bbe0be3c5bc45e58ff54c82c4a9024374de848
 workflow-type: tm+mt
-source-wordcount: '2164'
-ht-degree: 96%
+source-wordcount: '2160'
+ht-degree: 92%
 
 ---
 
@@ -236,27 +236,27 @@ ht-degree: 96%
       + [グローバルレポートスイートの使用](administration/admin-tips/use-a-global-report-suite.md)
       + [ニュースとお知らせのプロジェクトを作成](administration/admin-tips/create-a-news-and-announcements-project.md)
       + [エグゼクティブサマリダッシュボードで成功を推進](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
-      + [操作ダッシュボードを作成](administration/admin-tips/create-operational-dashboards.md)
+      + [運用ダッシュボードの作成](administration/admin-tips/create-operational-dashboards.md)
    + カンパニー設定 {#company-settings}
-      + [電子メールドメイン制限の強制](administration/company-settings/enforce-email-domain-restrictions.md)
+      + [メールドメイン制限の適用](administration/company-settings/enforce-email-domain-restrictions.md)
       + [アカウントで利用可能な機能を表示する](administration/company-settings/view-your-accounts-available-features.md)
    + ユーザー管理 {#user-management}
-      + [Adobe Analytics への管理者の追加](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
+      + [Adobe Analyticsへの管理者の追加](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [製品プロファイルの作成](administration/user-management/create-product-profiles.md)
-      + [Admin Console でのレポートスイートへのアクセス制限](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
+      + [Admin Consoleでのレポートスイートへのアクセスの制限](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [ユーザーアセットを別のユーザーに転送する](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [ログインの問題を防ぐために、リンクされた IMS ID を確認する](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + レポートスイートの管理 {#manage-report-suites}
-      + [一般的なアカウント設定方法](administration/manage-report-suites/configuring-general-account-settings.md)
+      + [一般的なアカウント設定の指定](administration/manage-report-suites/configuring-general-account-settings.md)
       + [カレンダー設定のカスタマイズ](administration/manage-report-suites/customize-calendar-settings.md)
-      + [有料検索検出の設定](administration/manage-report-suites/configure-paid-search-detection.md)
+      + [有料検索検知の設定](administration/manage-report-suites/configure-paid-search-detection.md)
       + [マーケティングチャネルを設定](administration/manage-report-suites/set-up-marketing-channels.md)
       + [マーケティングチャネルの処理ルールを作成](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
-      + [処理ルールを使用した受信データの操作](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
+      + [処理ルールを使用して受信データを操作する](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [トラフィック変数（prop）の設定](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [トラフィック分類を設定](administration/manage-report-suites/configure-traffic-classifications.md)
       + [階層変数を設定](administration/manage-report-suites/configure-hierarchy-variables.md)
-      + [Admin Console での変数の設定](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [イベントと変数の設定](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [コンバージョン分類を設定](administration/manage-report-suites/configure-conversion-classifications.md)
       + [リスト変数の設定](administration/manage-report-suites/configuring-list-variables.md)
       + [検索方法の設定](administration/manage-report-suites/configure-finding-methods.md)
@@ -270,7 +270,7 @@ ht-degree: 96%
       + [サーバーコールの使用状況](administration/traffic-management/server-call-usage.md)
       + [今後のトラフィックスパイクの管理](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
    + ログ{#logs}
-      + [Analysis Workspace の使用状況ログトラッキング](administration/logs/usage-log-tracking-for-analysis-workspace.md)
+      + [Analysis Workspaceの使用状況ログトラッキング](administration/logs/usage-log-tracking-for-analysis-workspace.md)
       + [Analytics 管理ログの概要](administration/logs/overview-of-analytics-admin-logs.md)
 + 実装 {#implementation}
    + 実装の基本 {#implementation-basics}
