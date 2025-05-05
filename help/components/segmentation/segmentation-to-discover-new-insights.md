@@ -78,7 +78,7 @@ Analysis Workspaceでは、「[ セグメント比較 ](https://experienceleague
 
 ![12 節 ](assets/s12.png)
 
-セグメントを使用して新しいインサイトを見つける可能性は無限にあります。 これは出発点にすぎません。 Experience League版の [Adobe Analytics コミュニティ ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ja) または [#Measure Slack版の {0](https://www.measure.chat/) コミュニティをお試しください。
+セグメントを使用して新しいインサイトを見つける可能性は無限にあります。 これは出発点にすぎません。 Experience League版の [Adobe Analytics コミュニティ ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ja) または [#Measure Slack版の &lbrace;0](https://www.measure.chat/) コミュニティをお試しください。
 
 セグメント化が完了しました。
 

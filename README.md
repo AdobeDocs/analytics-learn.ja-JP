@@ -9,4 +9,4 @@ ht-degree: 11%
 
 Analytics 向けの共同チュートリアルとイネーブルメント資料
 
-[foo](bar)
+[foo] (bar)
