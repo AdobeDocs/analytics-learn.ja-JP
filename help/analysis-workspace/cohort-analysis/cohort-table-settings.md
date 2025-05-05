@@ -21,7 +21,7 @@ ht-degree: 46%
 
 コホートテーブル設定を使用して、リテンションまたはチャーンテーブルの表示をカスタマイズする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430104/?quality=12&learn=on&captions=jpn)
 
 [!UICONTROL コホートテーブル] のカスタマイズには、次の機能が含まれます。
 

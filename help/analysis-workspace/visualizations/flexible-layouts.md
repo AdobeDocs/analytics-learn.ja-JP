@@ -17,4 +17,4 @@ ht-degree: 24%
 
 フリーフォーム分析には、グラフやテーブルの位置、幅および高さを変更して、より表現力豊かなプロジェクトを構築できるようにする機能が含まれています。 このビデオでは、レイアウトを変更する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24706/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41489/?quality=12&learn=on&captions=jpn)

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 [!DNL tags] に Analytics を実装する前に、いくつかのサポートドキュメントが必要です。また、Analytics と [!DNL tags] の両方でいくつかの設定を行う必要があります。このビデオでは、これらの内容について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28752/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429973/?quality=12&learn=on&captions=jpn)

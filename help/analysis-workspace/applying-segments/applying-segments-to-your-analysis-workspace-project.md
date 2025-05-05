@@ -18,6 +18,6 @@ ht-degree: 100%
 
 このビデオでは、データにセグメントを適用して、テーブルおよびビジュアライゼーションのデータを制限する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/30994/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34731/?quality=12&learn=on&captions=jpn)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html?lang=ja) を参照してください。

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 カスタマイズされたダッシュボードを作成して、音声アシスタントアプリのパフォーマンスを簡単、柔軟、直感的、視覚的に管理およびトラックする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27224/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35069/?quality=12&learn=on&captions=jpn)

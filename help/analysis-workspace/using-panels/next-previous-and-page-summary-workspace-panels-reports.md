@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Analysis Workspace に 2 つの新しいパネルタイプ（次／前およびページの概要）を追加し、標準レポートの一部として一覧表示しました。 これにより、ワークスペースは、より人気の高い、いくつかの Reports &amp; Analytics レポートと同等になります。
 
->[!VIDEO](https://video.tv.adobe.com/v/342477/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346420/?quality=12&learn=on&captions=jpn)

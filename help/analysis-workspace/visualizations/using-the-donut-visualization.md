@@ -18,6 +18,6 @@ ht-degree: 100%
 
 このビデオでは、Analysis Workspace プロジェクトにドーナツビジュアライゼーションを追加し設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416776/?quality=12&learn=on&captions=jpn)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/donut.html?lang=ja) を参照してください。

@@ -18,6 +18,6 @@ ht-degree: 100%
 
 ベン図ビジュアライゼーションを使用して、Analysis Workspace でセグメントの重複と積集合を視覚的に表示できます。多数のインサイトを得ることができるベン図を数秒で簡単に作成できます。このビデオでは、その方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/335798/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417461/?quality=12&learn=on&captions=jpn)
 
 この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=ja) を参照してください。

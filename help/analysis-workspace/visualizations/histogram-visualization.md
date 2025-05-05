@@ -18,6 +18,6 @@ ht-degree: 15%
 
 [!UICONTROL &#x200B; ヒストグラム &#x200B;] では、訪問者、訪問およびヒットにわたる指標の分布を視覚化して、価値の高いセグメントと価値の低いセグメントを見つけることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41500/?quality=12&learn=on&captions=jpn)
 
 この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=ja) を参照してください。

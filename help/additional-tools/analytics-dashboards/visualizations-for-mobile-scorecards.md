@@ -20,4 +20,4 @@ ht-degree: 100%
 
 モバイルデバイスで分析を表示する場合、適切なビジュアライゼーションを使用することが、これまで以上に重要です。このビデオでは、ビジュアライゼーションをモバイルスコアカードプロジェクトに追加する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/337570/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445767/?quality=12&learn=on&captions=jpn)

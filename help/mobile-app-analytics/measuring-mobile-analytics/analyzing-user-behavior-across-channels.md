@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!DNL Flow]を使用してモバイルアプリでのユーザーのコンバージョンパスを見つけ、Web などの他のエクスペリエンスと比較する方法を説明します。 多段階のプロセスでコンバージョンを定義および測定して、モバイルアプリの成功を促進します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27824/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34086/?quality=12&learn=on&captions=jpn)

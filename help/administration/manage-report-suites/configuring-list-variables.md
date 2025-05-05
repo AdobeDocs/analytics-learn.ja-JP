@@ -19,6 +19,6 @@ ht-degree: 100%
 
 一度に複数の値を eVar（コンバージョン変数）に入力する必要がある場合、どうすればよいでしょうか。そのようなときは、リスト変数が役に立ちます。このビデオでは、Adobe Analytics でリスト変数を設定および使用する方法と理由を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/339450/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342200/?quality=12&learn=on&captions=jpn)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/list-var-admin.html?lang=ja) を参照してください。

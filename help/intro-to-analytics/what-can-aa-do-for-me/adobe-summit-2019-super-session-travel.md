@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!DNL Summit] 2019 の旅行およびホスピタリティ分野の「スーパーセッション」から厳選されたクリップをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/31442/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330393/?quality=12&learn=on&captions=jpn)

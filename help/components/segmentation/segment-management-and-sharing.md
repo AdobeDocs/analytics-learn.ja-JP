@@ -18,6 +18,6 @@ ht-degree: 100%
 
 優れたセグメントを作成したら、他のメンバーと共有しましょう。このビデオでは、自身や他のメンバーがそのセグメントのメリットを享受できるよう、セグメントを共有および管理するためのヒントをいくつか説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25402/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37606/?quality=12&learn=on&captions=jpn)
 
 この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-manage.html?lang=ja) を参照してください。

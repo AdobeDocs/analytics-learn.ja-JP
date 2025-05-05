@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Analysis Workspace のパネルおよびビジュアライゼーションをコピーしたり挿入したりする方法を説明します。これらは、現在のプロジェクトを調整したり、新しいプロジェクトをいち早く開始したりするための時間節約テクニックです。
 
->[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38420/?quality=12&learn=on&captions=jpn)

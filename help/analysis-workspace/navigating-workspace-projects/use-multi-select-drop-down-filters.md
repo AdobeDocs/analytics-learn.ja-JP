@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Analysis Workspaceのドロップダウンフィルターでフィールドを複数選択するオプションについて説明します。これにより、選択したフィールドのデータを表示できます。 詳細なドキュメントについては、[ パネルの概要 ](https://experienceleague.adobe.com/ja/docs/analytics/analyze/analysis-workspace/panels/panels#static-drop-down-segments) を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430412/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439927/?learn=on&captions=jpn)

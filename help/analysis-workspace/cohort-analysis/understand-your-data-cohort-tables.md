@@ -19,6 +19,6 @@ ht-degree: 100%
 
 コホートテーブルを分析して、時間の経過にともなうユーザーの定着をより深く把握する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334094/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416046/?quality=12&learn=on&captions=jpn)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=ja) を参照してください。

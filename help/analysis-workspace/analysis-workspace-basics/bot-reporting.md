@@ -20,6 +20,6 @@ ht-degree: 52%
 
 Analysis Workspaceのボットデータに関するレポート方法を説明します。 ボットデータは概要データとして使用でき、ボット対応のレポートスイートで分析できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420314/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447638/?learn=on&captions=jpn)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html?lang=ja)を参照してください。

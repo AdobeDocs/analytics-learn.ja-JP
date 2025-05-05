@@ -18,7 +18,7 @@ ht-degree: 100%
 
 「[!UICONTROL ビジュアライゼーション設定]」で、回帰または移動平均トレンドラインを線系列に追加し、データの明確なパターンを示すことができます。「線形」、「対数」、「指数」、「累乗」、「二次」、「移動平均」などのオプションがあります。
 
->[!VIDEO](https://video.tv.adobe.com/v/330176/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342845/?quality=12&learn=on&captions=jpn)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=ja#analysis-workspace) を参照してください。
 

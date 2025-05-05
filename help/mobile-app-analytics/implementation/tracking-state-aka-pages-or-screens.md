@@ -22,6 +22,6 @@ ht-degree: 99%
 
 ステートは、アプリ内の画面またはビューを表します。 アプリケーションに新しいステートが表示されるたびに（例えば、ユーザーがホームページからニュースフィードに移動するとき）、`trackState` を呼び出して、ステート名（[!DNL Analytics] のページ名）に加え、追加のデータを送信できます。 このビデオでは、その方法について順を追って説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/26260/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328315/?quality=12&learn=on&captions=jpn)
 
 trackState の詳細情報については、 [ドキュメント](https://developer.adobe.com/client-sdks/documentation/getting-started/track-events/#track-app-states-and-screens-for-adobe-analytics) を参照してください。

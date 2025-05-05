@@ -19,6 +19,6 @@ ht-degree: 100%
 
 このビデオでは、Report Builder ワークブックを Power BI に送信するための高度なスケジュールを設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342377/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346447/?quality=12&learn=on&captions=jpn)
 
 この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/publish-powerbi/power-bi.html?lang=ja)を参照してください。

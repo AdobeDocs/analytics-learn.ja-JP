@@ -20,7 +20,7 @@ ht-degree: 100%
 
 このビデオでは、[!DNL Calculated Metrics]での [!DNL Attribution IQ] の使用方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23140/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41479/?quality=12&learn=on&captions=jpn)
 
 計算指標で、10 個のルールベースアトリビューションモデルのいずれかがサポートされるようになりました。計算指標を使用すると、アトリビューションモデルを比較して（例えば、[!UICONTROL ラストタッチ]から[!UICONTROL ファーストタッチ]を引いて）、違いを確認できます。また、ハイブリッドモデル（例えば、50% [!UICONTROL タイムディケイ]に 50% [!UICONTROL ファーストタッチ]）を作成したり、注文あたりの売上高や訪問あたりの注文件数などの重要なコンバージョン指標にアトリビューションを適用したりできます。
 

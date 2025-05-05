@@ -21,6 +21,6 @@ ht-degree: 99%
 
 このビデオでは、Analysis Workspace を活用して API 2.0 リクエストを自動的に作成する方法を説明します。 UI をデバッグすることで、[!DNL Analytics] データを返す任意の API クライアントに JSON リクエストを直接コピー＆ペーストすることができます。 Workspace ヘルプ／デバッガーを有効にするを選択して、デバッガーをより簡単に有効にできるようになりました。
 
->[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328323/?quality=12&learn=on&captions=jpn)
 
 詳しくは、[ドキュメント](https://developer.adobe.com/analytics-apis/docs/2.0/#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.html) を参照してください。

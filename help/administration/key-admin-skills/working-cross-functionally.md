@@ -17,7 +17,7 @@ ht-degree: 100%
 
 # 部門横断的な働き方
 
->[!VIDEO](https://video.tv.adobe.com/v/342071/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345454/?quality=12&learn=on&captions=jpn)
 
 Adobe Analytics への道のりは、適切な実装から始まります。「ゴミを入れたら、ゴミが出てくる」という格言は、誰もが知っています。「ゴミが出てくる」実装を除外するために、管理者は、システムに投入されるデータを細部まで監視する必要があります。とはいえ、データ収集戦略は、管理者が毎日一緒に仕事をする必要がある組織の多くの関係者の影響を受けます。
 

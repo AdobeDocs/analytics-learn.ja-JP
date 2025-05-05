@@ -20,7 +20,7 @@ ht-degree: 30%
 
 このビデオでは、リファラーに関する設定を説明します。リファラーを内部リファラー（パスレポートを可能にする）または外部リファラー（リファラー/参照ドメインレポートを可能にする）として設定します。 詳細なドキュメントについては、[ 内部 URL フィルター ](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/internal-url-filter-admin.html?lang=ja){target="_blank"} を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/333043/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412919/?quality=12&learn=on&captions=jpn)
 
 >[!NOTE]
 >

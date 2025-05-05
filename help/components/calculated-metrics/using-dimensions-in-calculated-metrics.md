@@ -17,7 +17,7 @@ ht-degree: 22%
 
 Dimensionは、計算指標ビルダーで使用でき、任意の計算指標式に追加して、新しい指標をディメンションまたはディメンション値に制限できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37465/?quality=12&learn=on&captions=jpn)
 
 この機能により、計算指標内でセグメントを作成および使用するためのワークフローが合理化されます。
 

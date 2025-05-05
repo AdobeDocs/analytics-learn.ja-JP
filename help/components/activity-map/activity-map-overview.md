@@ -19,6 +19,6 @@ ht-degree: 44%
 
 Web サイト上で直接ユーザーアクティビティデータを視覚化するツール、Activity Mapについて説明します。 ページのリンク上でクリック数やその他の指標を直接確認します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39680/?quality=12&learn=on&captions=jpn)
 
 この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics/analyze/activity-map/activity-map) を参照してください。

@@ -17,6 +17,6 @@ ht-degree: 94%
 
 セグメントに基づいて計算指標を作成し、そのセグメントに属する訪問者数、訪問回数およびページビュー数をより効果的に分析できるようにする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25409/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37945/?quality=12&learn=on&captions=jpn)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/metrics-with-segments.html?lang=ja)を参照してください。

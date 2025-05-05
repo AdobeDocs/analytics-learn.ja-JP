@@ -18,4 +18,4 @@ ht-degree: 100%
 
 指標の傾向を示す期間が長いほど、指標の方向の傾向を示すのが難しくなります。これを解決するために、計算指標の累積平均関数を使用して、Analysis Workspace の指標にスムージングを適用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/27068/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35215/?quality=12&learn=on&captions=jpn)

@@ -17,4 +17,4 @@ ht-degree: 60%
 
 サポートチケットを製品の直接 [!DNL Customer Care] からAdobeに送信し、解決に向けたプロセスを合理化する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430058/?quality=12&learn=on&captions=jpn)

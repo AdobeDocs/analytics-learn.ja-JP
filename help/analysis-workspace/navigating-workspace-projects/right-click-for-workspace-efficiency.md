@@ -18,4 +18,4 @@ ht-degree: 100%
 
 お勧めの機能である Analysis Workspace のすべての右クリックとその使い方を説明します。右クリックを使用すれば、 [!UICONTROL フリーフォームテーブル] から [!UICONTROL フォールアウトビジュアライゼーション ]に至るまで、[!DNL Workspace] の効率性と熟練度が向上します。
 
->[!VIDEO](https://video.tv.adobe.com/v/39377/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327566/?quality=12&learn=on&captions=jpn)

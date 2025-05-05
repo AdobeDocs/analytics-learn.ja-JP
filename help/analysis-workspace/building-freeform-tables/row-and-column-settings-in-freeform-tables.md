@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Analysis Workspace のフリーフォームテーブルの設定と、そのフリーフォームテーブルに入力されるデータへの影響を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/40382/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328502/?quality=12&learn=on&captions=jpn)

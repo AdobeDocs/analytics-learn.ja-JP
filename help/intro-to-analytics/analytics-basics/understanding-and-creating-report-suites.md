@@ -18,4 +18,4 @@ ht-degree: 100%
 
 このビデオでは、[!UICONTROL レポートスイート]の概要と、インターフェイスでのレポートスイートの作成方法を説明して、サイトへのトラフィックを追跡および最適化できるようにします。
 
->[!VIDEO](https://video.tv.adobe.com/v/28773/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31414/?quality=12&learn=on&captions=jpn)

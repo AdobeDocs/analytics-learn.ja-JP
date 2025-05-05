@@ -18,6 +18,6 @@ ht-degree: 100%
 
 このビデオでは、Analysis Workspace で数値概要および変更概要のビジュアライゼーションを追加して設定する方法を、順を追って説明します。これらのビジュアライゼーションにより、大きな数値が提供されるので、最も重要な指標をすべてのユーザーが目にする場所に正しく表示できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417462/?quality=12&learn=on&captions=jpn)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/summary-number-change.html?lang=ja) を参照してください。

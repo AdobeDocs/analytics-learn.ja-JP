@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Analysis Workspace で [!UICONTROL コホート] 分析テーブルを作成する方法。 
 
->[!VIDEO](https://video.tv.adobe.com/v/23990/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430080/?quality=12&learn=on&captions=jpn)
 
 この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=ja) を参照してください。

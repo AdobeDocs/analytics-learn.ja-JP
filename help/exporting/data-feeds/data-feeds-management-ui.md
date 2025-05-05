@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Adobe Analytics [!UICONTROL データフィード]を使用すると、生のクリックストリームデータを書き出して、EDW またはデータレイクの他のデータソースに読み込み、それらと結合できます。Adobe Analytics 内で独自の [!UICONTROL データフィード] を作成および管理できます。このビデオでは、その方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428564/?quality=12&learn=on&captions=jpn)
 
 この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=ja#) を参照してください。

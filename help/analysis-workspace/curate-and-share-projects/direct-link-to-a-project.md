@@ -20,6 +20,6 @@ ht-degree: 100%
 
 このビデオでは、同僚を Analysis Workspace プロジェクトに誘導する短縮リンクを作成して、分析をより適切に民主化する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/341027/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439083/?quality=12&learn=on&captions=jpn)
 
 この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/shareable-links.html?lang=ja)を参照してください。
