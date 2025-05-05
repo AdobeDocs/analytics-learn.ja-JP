@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Adobe Analyticsの新規ユーザーでも経験豊富なプロでも、Analysis Workspace プロジェクトでセグメントを非常に活用できます。 [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=ja) では、「セグメントを使用すると、特性や web サイトでのインタラクションに基づいて訪問者のサブセットを識別できます」と説明しています。 この機能の基本的な結果は、サイトへのユーザー、訪問、ヒットのグループを分離することを意味しますが、自分のような頭の良いアナリストは、このツールでクリエイティブになり、サイトアクティビティに関するインサイトを得る新しい方法を見つけることができます。 選択できるオプションのリストは膨大なので、遠慮なく独自のテンプレートを作成し、組織の他のユーザーや、Experience Leagueの [Adobe Analytics コミュニティ ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ja) または [#Measure Slack](https://www.measure.chat/) コミュニティなどのオンライン コミュニティで共有してください。
 
-セグメントの作成方法に関する簡単な復習が必要な場合は、Analysis Workspaceでの [ セグメントビルダー ](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=en) の使用に関するExperience Leagueドキュメントを参照してください。
+セグメントの作成方法に関する簡単な復習が必要な場合は、Analysis Workspaceでの [ セグメントビルダー ](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=ja) の使用に関するExperience Leagueドキュメントを参照してください。
 
 ## セグメントの比較と対比
 

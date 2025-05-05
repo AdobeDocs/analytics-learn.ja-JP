@@ -3,9 +3,9 @@ cloud: Experience Cloud
 product: analytics
 feature-set: Analytics
 solution-title: Analytics
-solution-hub-url: https://helpx.adobe.com/support/analytics.html
+solution-hub-url: https://helpx.adobe.com/jp/support/analytics.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/analytics/get-started.html
+getting-started-url: https://helpx.adobe.com/jp/analytics/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://guided.adobe.com/#recommended/solutions/analytics
 mini-toc-levels: 2

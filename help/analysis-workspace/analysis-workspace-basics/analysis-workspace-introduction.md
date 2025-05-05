@@ -20,4 +20,4 @@ Analysis Workspace がデータの初心者およびエキスパートをどの�
 
 >[!VIDEO](https://video.tv.adobe.com/v/28165/?quality=12&learn=on)
 
-このビデオの次には、Analysis Workspace の概要ビデオを見るか、Experience League のこちらの[無償の入門コース](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=ja)を受講してください。
+このビデオの次には、Analysis Workspace の概要ビデオを見るか、Experience League のこちらの[無償の入門コース](https://experienceleague.adobe.com/?lang=ja&recommended=Analytics-U-1-2020.1.workspace&amp;lang=ja)を受講してください。

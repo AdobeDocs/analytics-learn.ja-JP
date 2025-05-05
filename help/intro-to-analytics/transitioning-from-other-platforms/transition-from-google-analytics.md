@@ -137,7 +137,7 @@ Workspaces のもう 1 つの強力な機能は、ドロップダウン形式で
 
 >[!IMPORTANT]
 >
->ドロップダウンとフリーフォームの分類の使用について詳しくは、<https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680> を参照してください。
+>ドロップダウンとフリーフォームの分類の使用について詳しくは、<https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=ja> を参照してください。
 
 ##### 2.1.2.2. Google Analytics：ダッシュボード、カスタムレポート、保存済みレポート
 
@@ -267,7 +267,7 @@ API は、プルリクエストで指定されているように、分類とセ�
 
 このガイド以外にも、戦略の改善に役立つリソースが多くあります。
 
-* [Adobe Experience League](https://experienceleague.adobe.com/?lang=ja#home) - チュートリアル、ビデオ、ドキュメントおよびコミュニティフォーラムが含まれています
+* [Adobe Experience League](https://experienceleague.adobe.com/ja?lang=ja#home) - チュートリアル、ビデオ、ドキュメントおよびコミュニティフォーラムが含まれています
 * [アドビユーザーグループ](https://analytics-augs.adobe.com/) - ユーザーが相互につながり、実装を改善するのに役立つ、コミュニティ実行イベントのハブ。
 * [Adobe Analytics ユーザーグループ YouTube チャンネル](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Adobe Analytics ユーザーグループのセッションに参加できなかった場合は、世界中の過去のユーザーグループセッションを再視聴して、同業者がどのようにツールを使用しているかを知ることができます。
 * [Measure Chat Slack チャンネル](https://www.measure.chat/) - 世界中の Adobe Analytics ユーザーとつながって、業界の学びを共有したり、同業者に質問したり、測定に焦点を当てたインタレストグループに参加したりできます。

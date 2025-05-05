@@ -23,4 +23,4 @@ Experience Cloud Admin Console で Analytics 製品プロファイルを作成�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428986/?learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/permissions/product-profile) を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics/admin/admin-console/permissions/product-profile) を参照してください。

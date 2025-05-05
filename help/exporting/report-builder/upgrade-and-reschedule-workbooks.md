@@ -19,4 +19,4 @@ ht-degree: 16%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434957/?quality=12&learn=on)
 
-この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics/analyze/report-builder/home) を参照してください。
+この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics/analyze/report-builder/home) を参照してください。

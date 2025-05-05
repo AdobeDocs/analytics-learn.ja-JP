@@ -15,7 +15,7 @@ ht-degree: 11%
 
 # 基本的な訪問者指標について
 
-Adobe Analyticsの [[!UICONTROL &#x200B; ページビュー数 &#x200B;]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en)、[[!UICONTROL &#x200B; 訪問回数 &#x200B;]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=ja) および [[!UICONTROL &#x200B; 訪問者数 &#x200B;]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=ja) について説明します。
+Adobe Analyticsの [[!UICONTROL &#x200B; ページビュー数 &#x200B;]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=ja)、[[!UICONTROL &#x200B; 訪問回数 &#x200B;]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=ja) および [[!UICONTROL &#x200B; 訪問者数 &#x200B;]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=ja) について説明します。
 
 * これらの基本的な訪問指標の定義を取得し、その類似点と相違点について学びます。
 

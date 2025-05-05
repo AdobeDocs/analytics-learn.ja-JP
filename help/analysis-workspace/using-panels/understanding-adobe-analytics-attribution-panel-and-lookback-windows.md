@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Adobe Analytics アトリビューションパネルとルックバックウィンドウについて
 
-[ アトリビューションパネル ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) と **ルックバックウィンドウ** について考えたとき、すぐに「*タイムトラベル」* という概念を思い出しました。そしてもちろん、このような多くの新しいツールに対する典型的な反応は、非常に複雑に見えるので、単に使用しようとするのをやめることです。
+[ アトリビューションパネル ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=ja) と **ルックバックウィンドウ** について考えたとき、すぐに「*タイムトラベル」* という概念を思い出しました。そしてもちろん、このような多くの新しいツールに対する典型的な反応は、非常に複雑に見えるので、単に使用しようとするのをやめることです。
 
 正直なところ、これらのオプション、スイッチ、パネル、読み取り、ノブをすべて見てください。  そして真剣に、それらの複雑な点滅ライト、ホース、ゲージについて話しましょう… 待て！!  これはタイムマシンについて話して気を取られる時間ではありません、私たちは時間がありません…それとも私たちですか？
 
@@ -43,7 +43,7 @@ ht-degree: 1%
 
 **アトリビューション** では、個人、複数の個人、または様々なイベントの 1 つが時間の経過と共にどのようにイベント/アクションを引き起こすかを考慮するだけです。
 
-[Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en) によると、*アトリビューション* を使用すると、アナリストは *成功イベント* に対する *Dimension* 項目のクレジットの受け取り方法をカスタマイズできます。
+[Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=ja) によると、*アトリビューション* を使用すると、アナリストは *成功イベント* に対する *Dimension* 項目のクレジットの受け取り方法をカスタマイズできます。
 
 
 >[!WARNING]
@@ -85,7 +85,7 @@ ht-degree: 1%
 
 - **カスタム**：クレジットを受け取るユーザーを選択します。  それはあなたのキャンペーンです！
 
-これらのアトリビューションモデルおよびその他のアトリビューションモデルについて詳しくは、[ ここをクリック ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en) てください。
+これらのアトリビューションモデルおよびその他のアトリビューションモデルについて詳しくは、[ ここをクリック ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=ja) てください。
 
 これをさらに面白くするために、時計を戻すことについて話しましょう！
 
