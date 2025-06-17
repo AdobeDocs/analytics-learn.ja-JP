@@ -16,7 +16,7 @@ ht-degree: 20%
 
 # Analysis Workspace での日付比較 {#date-comparisons-in-analysis-workspace}
 
-このビデオでは、[!UICONTROL  フリーフォームテーブル ] で「[!UICONTROL  期間列を追加 ]」および「[!UICONTROL  期間を比較 ]」の 2 つの日付比較機能を活用する方法を説明します。
+このビデオでは、[!UICONTROL &#x200B; フリーフォームテーブル &#x200B;] で「[!UICONTROL &#x200B; 期間列を追加 &#x200B;]」および「[!UICONTROL &#x200B; 期間を比較 &#x200B;]」の 2 つの日付比較機能を活用する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12&learn=on)
 
