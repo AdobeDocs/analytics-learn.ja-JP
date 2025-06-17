@@ -19,4 +19,4 @@ ht-degree: 100%
 
 曜日、時間帯、ブラウザーおよび地理的な影響を監視する Advertising Cloud サイト入口レポートを作成します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35120/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40455/?quality=12&learn=on&captions=jpn)

@@ -20,6 +20,6 @@ ht-degree: 100%
 
 サイトの階層変数の設定時期と設定方法、サイトにページの階層ビューを表示するために使用できる機能、各ノードに到達するトラフィックの量について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340680/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344368/?quality=12&learn=on&captions=jpn)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/hier.html?lang=ja)を参照してください。

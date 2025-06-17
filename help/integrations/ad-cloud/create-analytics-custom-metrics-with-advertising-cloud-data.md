@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Adobe Analytics 内で Advertising Cloud データを使用する際に作成すると便利なカスタム指標について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35119/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40449/?quality=12&learn=on&captions=jpn)
