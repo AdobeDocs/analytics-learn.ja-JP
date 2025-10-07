@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 14bbe0be3c5bc45e58ff54c82c4a9024374de848
+source-git-commit: ff729de74f29a07316140459a52f589dac7db198
 workflow-type: tm+mt
-source-wordcount: '2160'
-ht-degree: 92%
+source-wordcount: '2167'
+ht-degree: 88%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 92%
 + [Analytics チュートリアル](overview.md)
 + Analytics の概要 {#intro-to-analytics}
    + [分析とは](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
-   + Adobe Analytics は何に役立つか {#what-can-aa-do-for-me}
+   + Adobe Analyticsは何に役立つか {#what-can-aa-do-for-me}
       + [Adobe Analysis Workspace でビジネスがどう変わるか](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
       + [単なるデータにとどまらず、顧客インテリジャンスを提供](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
       + [Adobe Sensei と Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
@@ -47,11 +47,11 @@ ht-degree: 92%
       + [ディメンションと指標の説明の追加](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [セキュリティの強化](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [ランディングページとしての Analysis Workspace プロジェクトの設定](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
-   + ヘルプの利用 {#getting-help}
+   + ヘルプ {#getting-help}
       + [Adobe Analytics でのヘルプの利用](intro-to-analytics/getting-help/getting-help.md)
       + [製品内サポートチケットの送信](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
 + Analysis Workspace {#analysis-workspace}
-   + Analysis Workspace の基本 {#analysis-workspace-basics}
+   + Analysis Workspaceの基本 {#analysis-workspace-basics}
       + [Analysis Workspace の簡単な紹介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace の概要](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [新しいランディングページのナビゲート](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
@@ -71,8 +71,8 @@ ht-degree: 92%
       + [Analysis Workspace で生産性を高めるコツ](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [Adobe Analytics のラーニングジャーニーを継続するためのお客様向けヒント](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
       + [動的ドロップダウンフィルターを作成](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
-   + ワークスペースプロジェクトのナビゲーション {#navigating-workspace-projects}
-      + [Analysis Workspace でのデータ要素](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
+   + Workspace プロジェクトのナビゲーション {#navigating-workspace-projects}
+      + [Analysis Workspace でのデータ辞書](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
       + [最初のプロジェクトの開始](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [トレーニングチュートリアルテンプレート](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Analysis Workspace でフォルダーを使用します。](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
@@ -146,7 +146,7 @@ ht-degree: 92%
       + [100％積み重ねグラフビジュアライゼーション](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [テーブルとビジュアライゼーションのデータソース設定](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [時間分割ヒートマップの作成](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
-   + カスタマージャーニーの分析 {#analyzing-customer-journeys}
+   + お客様のジャーニーの分析 {#analyzing-customer-journeys}
       + [フォールアウトビジュアライゼーションの作成](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [フロービジュアライゼーションの作成](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
       + [フォールアウトとフローの併用](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
@@ -209,7 +209,7 @@ ht-degree: 92%
       + [コホートテーブルを使用した待ち時間分析](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
       + [コホートテーブルでのローリングリテンションの計算](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
       + [コホート分析を使用して顧客行動を把握](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
-   + 音声解析 {#voice-analytics}
+   + 音声分析 {#voice-analytics}
       + [音声アシスタントアプリのデータを管理および追跡する方法](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [音声対応デバイス間の違いについて](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
       + [音声アプリへのエンゲージメントを増やす機会の発見](analysis-workspace/voice-analytics/finding-opportunities-to-increase-engagement-for-voice-apps.md)
@@ -297,7 +297,7 @@ ht-degree: 92%
       + [特別ページ用のルールの作成](implementation/experience-platform-tags/creating-tags-rules-for-special-pages.md)
       + [成功イベント用のルールの作成](implementation/experience-platform-tags/creating-tags-rules-for-success-events.md)
       + [ステージング環境および実稼動環境へのタグライブラリの公開](implementation/experience-platform-tags/publishing-tags-libraries-to-stage-and-production.md)
-   + JavaScript の使用 {#using-javascript}
+   + JavaScriptの使用 {#using-javascript}
       + [タグマネージャーを使用しないカスタムリンクトラッキング](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [Experience Platform Launch を使用しない場合の AppMeasurement の更新](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
 + コンポーネント {#components}
@@ -333,6 +333,8 @@ ht-degree: 92%
    + 分類 {#classifications}
       + [分類の概要](components/classifications/overview-of-classifications.md)
       + [分類ルールビルダーの使用](components/classifications/using-the-classification-rule-builder.md)
+      + [分類セットの概要](components/classifications/introduction-to-classification-sets.md)
+      + [分類セットの使用](components/classifications/use-classification-sets.md)
    + 仮想レポートスイート {#virtual-report-suites}
       + [仮想レポートスイートの概要](components/virtual-report-suites/virtual-report-suites.md)
       + [コンポーネントのキュレーション](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
@@ -352,7 +354,7 @@ ht-degree: 92%
       + [Analytics ダッシュボード用データストーリー](additional-tools/analytics-dashboards/data-stories-for-analytics-dashboards.md)
 + エクスポート {#exporting}
    + UI から {#from-the-ui}
-      + [Analysis Workspace を使用した CSV へのエクスポート](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
+      + [Analysis Workspace から CSV への書き出し](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
       + [Data Warehouse の書き出し](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [SFTP 経由での Data Warehouse リクエストの送信](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
@@ -377,7 +379,7 @@ ht-degree: 92%
    + Audience Manager {#audience-manager}
       + [Experience Platform Launchでのサーバー側転送の有効化](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
       + [Audience Analytics - AAM セグメントの Analytics への統合](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
-   + Target {#target}
+   + ターゲット {#target}
       + [Analysis Workspace の Analytics for Target（A4T）パネル](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
       + [A4T パネルを使用した自動ターゲットアクティビティの分析](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Adobe Advertising DSP {#adobe-advertising-dsp}
@@ -404,7 +406,7 @@ ht-degree: 92%
    + [Analysis Workspace での貢献度分析](data-science/contribution-analysis-workspace.md)
    + [インテリジェントアラート](data-science/intelligent-alerts.md)
    + [Adobe Analytics と Adobe Sensei - すべてのユーザーが利用できるデータサイエンス](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
-+ 業種別 {#vertical-specific}
++ 垂直固有 {#vertical-specific}
    + ハイテク {#high-tech}
       + [Summit 2019 スーパーセッション - ハイテク分野](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html?lang=ja)
    + 旅行およびホスピタリティ {#travel-and-hospitality}
@@ -427,7 +429,7 @@ ht-degree: 92%
       + [iOS Swift アプリでの実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=ja)
       + [iOS Objective-C アプリでの実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=ja)
       + [Android アプリでの実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=ja)
-   + モバイル分析の測定 {#measuring-mobile-analytics}
+   + Mobile Analytics の測定 {#measuring-mobile-analytics}
       + [Adobe Mobile Analytics 使用の手引き](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [モバイルジャーニー全体でのタッチポイントの影響](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [各種チャネルでのユーザー行動の分析](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
