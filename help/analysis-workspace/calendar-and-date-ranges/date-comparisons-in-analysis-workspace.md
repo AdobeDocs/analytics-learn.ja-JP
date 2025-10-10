@@ -22,4 +22,4 @@ ht-degree: 20%
 
 日付比較を使用すると、現在のAnalysis Workspace テーブルに簡単に深みを加えることができ、現在のデータを過去のパフォーマンスと容易に比較するのに役立ちます。
 
-この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison) を参照してください。
+この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison) を参照してください。

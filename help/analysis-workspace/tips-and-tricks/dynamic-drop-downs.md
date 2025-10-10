@@ -22,4 +22,4 @@ ht-degree: 84%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html#dynamic-drop-down-filters)を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=ja#dynamic-drop-down-filters)を参照してください。

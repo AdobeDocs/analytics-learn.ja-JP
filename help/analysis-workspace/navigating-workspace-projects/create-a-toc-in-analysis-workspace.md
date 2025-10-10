@@ -18,6 +18,6 @@ ht-degree: 21%
 
 # Analysis Workspace での目次の作成 {#create-a-table-of-contents-in-analysis-workspace}
 
-プロジェクト内のパネルやビジュアライゼーションにすばやくジャンプできるリンクを提供する、Analysis Workspaceの目次について説明します。 詳細なドキュメントについては、[&#x200B; プロジェクトの目次 &#x200B;](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents) を参照してください。
+プロジェクト内のパネルやビジュアライゼーションにすばやくジャンプできるリンクを提供する、Analysis Workspaceの目次について説明します。 詳細なドキュメントについては、[&#x200B; プロジェクトの目次 &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents) を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12&learn=on)
