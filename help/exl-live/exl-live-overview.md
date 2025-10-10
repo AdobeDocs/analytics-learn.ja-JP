@@ -93,4 +93,4 @@ Experience League LIVE のエピソードを見逃しましたか？ご安心く
 
 >[!TIP]
 >
->その他の学習方法については、無料の [コース](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning) と、個別の [チュートリアル](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
+>その他の学習方法については、無料の [コース](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) と、個別の [チュートリアル](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。

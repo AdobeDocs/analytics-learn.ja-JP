@@ -20,6 +20,6 @@ ht-degree: 100%
 
 [!DNL Analytics for Target]（A4T）パネルを使用すると、Adobe Target のアクティビティとエクスペリエンスを分析できます。このビデオでは、[!DNL Analytics for Target] パネルを使用して自動ターゲットテストの結果を視覚化する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412970/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/333270/?quality=12&learn=on)
 
 Analytics for Target について詳しくは、 [Spark ページ](https://spark.adobe.com/page/Lo3Spm4oBOvwF/) を参照してください。

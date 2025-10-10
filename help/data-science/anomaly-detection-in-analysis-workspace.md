@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Analysis Workspace は、時系列の [!UICONTROL ビジュアライゼーション] やデータテーブルのデータの異常を自動的に検出します。追加の手間をかけずに「知らないと知らないこと (unknown unknowns)」を理解します。
 
->[!VIDEO](https://video.tv.adobe.com/v/40728/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12&learn=on)
 
 この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=ja) を参照してください。

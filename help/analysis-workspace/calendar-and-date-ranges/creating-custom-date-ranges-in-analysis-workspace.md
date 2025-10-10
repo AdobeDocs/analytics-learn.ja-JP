@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Analysis Workspace でプロジェクトを設定およびカスタマイズする場合、製品に事前定義済みの日付範囲を超える日付範囲を使用する必要が生じる場合があります。このビデオでは、3 つのカスタム日付範囲の例を作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/327423/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23975/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=ja) を参照してください。

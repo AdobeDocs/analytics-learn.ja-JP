@@ -1,6 +1,6 @@
 ---
-title: Analysis Workspace でのデータ要素
-description: ユーザーと管理者の両方が Analytics 環境のコンポーネントを追跡し、よりよく理解するのに役立つ、Analysis Workspace のデータ要素について説明します。ユーザーは、コンポーネントの説明、その他の関連コンポーネント、承認されたコンポーネントを表示できます。
+title: Analysis Workspace でのデータ辞書
+description: ユーザーと管理者の両方が Analytics 環境のコンポーネントを追跡し、よりよく理解するのに役立つ、Analysis Workspace のデータ辞書について説明します。ユーザーは、コンポーネントの説明、その他の関連コンポーネント、承認されたコンポーネントを表示できます。
 feature: Data Governance
 topic: Administration
 role: Admin, User
@@ -17,9 +17,9 @@ ht-degree: 100%
 
 ---
 
-# Analysis Workspace でのデータ要素
+# Analysis Workspace でのデータ辞書
 
-ユーザーと管理者の両方が Analytics 環境のコンポーネントを追跡し、よりよく理解するのに役立つ、Analysis Workspace のデータ要素について説明します。ユーザーは、コンポーネントの説明、その他の関連コンポーネント、承認されたコンポーネントを表示できます。
+ユーザーと管理者の両方が Analytics 環境のコンポーネントを追跡し、よりよく理解するのに役立つ、Analysis Workspace のデータ辞書について説明します。ユーザーは、コンポーネントの説明、その他の関連コンポーネント、承認されたコンポーネントを表示できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418028/?quality=12&learn=on)
 

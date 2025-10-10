@@ -21,6 +21,6 @@ ht-degree: 100%
 
 このビデオでは、Analysis Workspace プロジェクトの構成要素（パネル、テーブル、ビジュアライゼーション）の使用方法を説明します。これらの要素は、データがペイントされるキャンバスです。
 
->[!VIDEO](https://video.tv.adobe.com/v/34736/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/30369/?quality=12&learn=on)
 
 詳しくは、[パネル](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=ja) と [ビジュアライゼーション](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=ja) のドキュメントを参照してください。

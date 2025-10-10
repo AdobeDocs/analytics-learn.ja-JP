@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Analysis Workspace でキーボードショートカットを使用する方法を説明します。これらは、プロジェクトの様々なタスクを実行するのを支援する、時間節約テクニックです。
 
->[!VIDEO](https://video.tv.adobe.com/v/41382/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23984/?quality=12&learn=on)

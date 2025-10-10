@@ -1,6 +1,6 @@
 ---
 title: Analysis Workspace で誰とでも共有
-description: Workspaceの任意のユーザーと共有機能について説明します。 この機能を使用すると、Adobe Analyticsまたは CJA へのアクセス権を持たないユーザー（組織外の受信者を含む）に、Workspace プロジェクトへの読み取り専用アクセス権を付与できます。
+description: Workspaceの任意のユーザーと共有機能について説明します。 この機能を使用すると、組織外の受信者など、Adobe AnalyticsやCJAへのアクセス権を持たないユーザーにWorkspace プロジェクトへの読み取り専用アクセス権を付与できます。
 feature: Curate and Share
 role: User
 level: Beginner
@@ -20,6 +20,6 @@ ht-degree: 20%
 
 Workspaceの「すべてのユーザーと共有」機能について説明します。 この機能を使用すると、組織外の受信者など、Adobe AnalyticsやCustomer Journey Analyticsへのアクセス権を持たないユーザーにWorkspace プロジェクトへの読み取り専用アクセス権を付与できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3452450/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3420093/?learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=ja#share-public-link)を参照してください。

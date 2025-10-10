@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Adobe Analytics のセグメント化を使用して、データをスライスし、多角的に分析します。このビデオでは、セグメントビルダーに関する手順と、基本的な概要を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/37415/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25404/?quality=12&learn=on)

@@ -19,6 +19,6 @@ ht-degree: 100%
 
 フリーフォームテーブル（ピボットテーブル）を使用して、データを把握および解釈し、有益なインサイトを見つけます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416045/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/334093/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-table/freeform-table.html?lang=ja) を参照してください。

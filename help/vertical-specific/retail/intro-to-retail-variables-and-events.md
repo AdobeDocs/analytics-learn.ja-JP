@@ -17,4 +17,4 @@ ht-degree: 100%
 
 小売店サイトをお持ちの方向けに作成された変数やイベントがあります。このビデオでは、これらの小売固有の変数とイベントを理解するための簡単な紹介を提供します。
 
->[!VIDEO](https://video.tv.adobe.com/v/31409/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/28750/?quality=12&learn=on)

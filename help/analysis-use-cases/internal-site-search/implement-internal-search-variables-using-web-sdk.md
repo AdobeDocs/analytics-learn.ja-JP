@@ -1,6 +1,6 @@
 ---
 title: Web SDK を使用した内部検索変数の実装
-description: Web SDK を使用して、内部検索用語トラッキングのユースケースに分析変数を実装する方法を説明します。ページから Experience Edge、そして Adobe Analytics へとデータが流れるのを確認します。
+description: Web SDK を使用して、内部検索語トラッキングのユースケースに分析変数を実装する方法を説明します。ページから Experience Edge、そして Adobe Analytics へとデータが流れるのを確認します。
 feature: Use Cases
 role: User
 level: Intermediate
@@ -17,6 +17,6 @@ ht-degree: 100%
 
 # Web SDK を使用した内部検索変数の実装
 
-Web SDK を使用して、内部検索用語トラッキングのユースケースに分析変数を実装する方法を説明します。ページから Experience Edge、そして Adobe Analytics へとデータが流れるのを確認します。
+Web SDK を使用して、内部検索語トラッキングのユースケースに分析変数を実装する方法を説明します。ページから Experience Edge、そして Adobe Analytics へとデータが流れるのを確認します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3413459/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/333605/?quality=12&learn=on)

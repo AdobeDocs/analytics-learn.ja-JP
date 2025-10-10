@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Advertising Cloud ディメンションを使用して、レポートおよび分析用のセグメントを作成します。
 
->[!VIDEO](https://video.tv.adobe.com/v/40437/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/35117/?quality=12&learn=on)

@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Adobe Analytics を実装し、サイト上のアクティビティを分析する際に、チームに適切な人物を割り当てることが非常に重要です。このビデオでは、割り当てる様々な役割の概要を簡単に説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/31419/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/28756/?quality=12&learn=on)

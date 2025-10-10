@@ -1,5 +1,5 @@
 ---
-title: Experience CloudAdmin Consoleでの製品プロファイルの作成
+title: Experience Cloud Admin Consoleでの製品プロファイルの作成
 description: Experience Cloud Admin Console で Analytics 製品プロファイルを作成し、レポートスイート、指標、ディメンション、ツールへのアクセスを管理します。
 feature: User Management
 doc-type: feature video
@@ -17,10 +17,10 @@ ht-degree: 71%
 
 ---
 
-# Experience CloudAdmin Consoleでの製品プロファイルの作成
+# Experience Cloud Admin Consoleでの製品プロファイルの作成
 
 Experience Cloud Admin Console で Analytics 製品プロファイルを作成し、レポートスイート、指標、ディメンション、ツールへのアクセスを管理します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428986/?learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics/admin/admin-console/permissions/product-profile) を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/permissions/product-profile) を参照してください。

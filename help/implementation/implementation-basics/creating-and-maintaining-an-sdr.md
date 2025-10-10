@@ -18,7 +18,7 @@ ht-degree: 100%
 
 ソリューションデザインリファレンス（SDR）ドキュメントは、デジタルプロパティにおける Analytics のビジネス要件とデータ収集デザインのブループリントです。Analysis ソリューションの情報源としてこのドキュメントを作成し、維持する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/31407/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12&learn=on)
 
 Excel のサンプルテンプレートを[ダウンロード](assets/aa_en_BRD_SDR_template.xlsx)して、デジタルプロパティの要件、変数の使用と割り当て、セグメント、データ収集デザインを文書化できます。
 

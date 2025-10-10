@@ -18,4 +18,4 @@ ht-degree: 100%
 
 このビデオでは、ツールを使用する際に、Analysis Workspace のプロジェクトのユーザーを特定のセグメント（複数の場合あり）に制限する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/328761/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/24038/?quality=12&learn=on)

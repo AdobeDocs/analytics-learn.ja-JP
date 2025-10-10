@@ -20,6 +20,6 @@ ht-degree: 100%
 
 柔軟性を高めるために、Analysis Workspace プロジェクトを CSV および PDF にエクスポートする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445723/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/341276/?quality=12&learn=on)
 
 この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=ja)を参照してください。

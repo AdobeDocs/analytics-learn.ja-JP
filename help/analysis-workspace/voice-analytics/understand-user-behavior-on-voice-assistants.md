@@ -21,4 +21,4 @@ ht-degree: 100%
 
 上位インテント、パラメーター、ユーザー認証などの主要 [!UICONTROL 指標] を確認することで、ユーザーの行動を理解し、インサイトを得る方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35073/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/27227/?quality=12&learn=on)

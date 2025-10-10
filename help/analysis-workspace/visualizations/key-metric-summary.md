@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Analysis Workspaceでの主要指標の概要ビジュアライゼーションについて説明します。このビジュアライゼーションを使用すると、1 つの期間内での重要な指標のトレンドを確認できます。 また、2 つの期間にわたる指標のパフォーマンスを比較することもできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3413795/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3410003/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/key-metric.html?lang=ja) を参照してください。

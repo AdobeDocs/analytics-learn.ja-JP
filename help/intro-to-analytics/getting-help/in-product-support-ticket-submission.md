@@ -15,6 +15,6 @@ ht-degree: 60%
 
 # 製品内サポートチケットの送信 {#in-product-support-ticket-submission}
 
-サポートチケットを製品の直接 [!DNL Customer Care] からAdobeに送信し、解決に向けたプロセスを合理化する方法を説明します。
+製品からAdobeにサポートチケットを送信 [!DNL Customer Care]、解決に向けたプロセスを合理化する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430058/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12&learn=on)

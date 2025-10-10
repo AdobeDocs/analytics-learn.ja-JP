@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Analysis Workspace でパネルにセグメントを適用するためのヒントと戦略を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416221/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3412023/?quality=12&learn=on)

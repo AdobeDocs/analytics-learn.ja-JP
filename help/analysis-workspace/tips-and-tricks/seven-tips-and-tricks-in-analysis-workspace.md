@@ -28,7 +28,7 @@ Analysis Workspace はより効果的な分析プロジェクトを作成する�
 
 [!UICONTROL セグメント] またはその他のコンポーネントをパネル上部の [!UICONTROL セグメント] ドロップゾーンにドラッグ＆ドロップするだけで、そのパネルを特定のデータポイントにすばやくセグメント化できます。例えば、[!UICONTROL 指標]「注文」を[!UICONTROL セグメント]ドロップゾーンにドロップすると、パネルをセグメント化して、注文が存在するヒットのみを表示できます。コンポーネント内に存在しないデータ（注文のないヒットを確認する場合など）でセグメント化することもできます。そのためには、ディメンション項目「未指定」または「なし」をゾーンにドロップします。
 
->[!VIDEO](https://video.tv.adobe.com/v/37630/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -38,7 +38,7 @@ Analysis Workspace はより効果的な分析プロジェクトを作成する�
 
 クイック [!UICONTROL 計算指標] を使用すると、 [!UICONTROL 計算指標] ビルダーに移動しなくても、Analysis Workspace で新しい [!UICONTROL 指標] を作成できます。計算する [!UICONTROL 指標] 列を選択し、右クリックメニューから「[!UICONTROL 選択から指標を作成]」を選択します。これで、プロジェクトを離れたり、思考の流れを中断することなく、加算、減算、除算、乗算などを行うことができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/41468/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -50,7 +50,7 @@ Analysis Workspace はより効果的な分析プロジェクトを作成する�
 
 ビジュアライゼーションとパネルを 1 つの場所から簡単にコピーし、別の場所に（たとえ別のプロジェクトであっても）追加できます。つまり、プロジェクトの拡大に合わせて簡単にデータを移動し、新しいユーザーと結果を共有できるので、分析を最初から始める必要がなくなります。コピーするパネルまたはビジュアライゼーションを右クリックし、「[!UICONTROL ビジュアライゼーションをコピー]」をクリックしてから、空のパネルを右クリックして挿入します。
 
->[!VIDEO](https://video.tv.adobe.com/v/38420/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -60,7 +60,7 @@ Analysis Workspace はより効果的な分析プロジェクトを作成する�
 
 トレンドビジュアライゼーションの操作時に、時間表示を簡単に変更できます。以前の Analysis Workspace の反復では、時間を変更すると、ソーステーブルを再表示し、新しい [!UICONTROL ディメンション] をドラッグしてから、テーブルを再び非表示にする必要がありました。今では、「[!UICONTROL ビジュアライゼーション設定]」（右上の歯車）ドロップダウンメニューから、表示する時間の精度を選択するのと同じくらい簡単になりました。
 
->[!VIDEO](https://video.tv.adobe.com/v/41453/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
 
 ## 共有：他のユーザーが結果を簡単に使用および理解できるようにする
 
@@ -68,7 +68,7 @@ Analysis Workspace はより効果的な分析プロジェクトを作成する�
 
 Adobe Analytics は膨大な量のデータを収集します。[!DNL Virtual Report Suites] のコンポーネントキュレーションにより、管理者は組織内のすべての事業部門向けにデータセットを作成できます。つまり、Analysis Workspace で作業しているアナリストは、データを精査して最も重要な情報を探す必要がありません。[!UICONTROL 仮想レポートスイート] ビルダーの「[!UICONTROL コンポーネント]」の下にある「[!UICONTROL 仮想レポートスイートコンポーネントのカスタマイズを有効にする]」チェックボックスをオンにして、特定のチームが測定するものと一致する [!UICONTROL コンポーネント] を選択するだけです。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425530/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -78,7 +78,7 @@ Adobe Analytics は膨大な量のデータを収集します。[!DNL Virtual Re
 
 Analysis Workspace 内の任意の場所にオーディエンスを誘導するリンクを作成します。リンク先のパネルを右クリックし、「[!UICONTROL パネルリンクを取得]」を選択してコピーします。次に、リンク元のテキストをハイライト表示し、テキストボックスまたは説明のテキストエディターでリンクアイコンを選択して貼り付けます。プロジェクト全体にリンクするには、「[!UICONTROL 共有]」タブをクリックし、「[!UICONTROL プロジェクトリンクを取得]」を選択して、上記と同じ手順に従います。
 
->[!VIDEO](https://video.tv.adobe.com/v/327482/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -88,13 +88,13 @@ Analysis Workspace 内の任意の場所にオーディエンスを誘導する�
 
 任意のプロジェクトをカスタムテンプレートに簡単に変換できるようになりました。 「[!UICONTROL プロジェクト]」のドロップダウンメニューで「[!UICONTROL テンプレートとして保存]」を選択し、テンプレートを見つけやすくするタグを追加して 「[!UICONTROL プロジェクトをテンプレートとして保存]」をクリックするだけです。これで、すべての Analysis Workspace ユーザーが「[!UICONTROL カスタムテンプレート]」タブでテンプレートを使用できるようになります。これにより、アナリストはプロジェクトをゼロから開始するのではなく、意味のあるデータポイントから開始できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428575/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
 
 >[!TIP]
 >
 >**リクエストの多かった機能：** 複数のお客様から、プロジェクトをカスタムテンプレートとして保存できるようにしてほしいという要望がありました。今では、人気の機能の 1 つになっています。
 
-[Experience League に関するその他のヒントやコツを確認するには、ここをクリックしてください](https://experienceleague.adobe.com/ja?search=tips&amp;lang=ja#recommended/solutions/analytics)
+[Experience League に関するその他のヒントやコツを確認するには、ここをクリックしてください](https://experienceleague.adobe.com/?search=tips&lang=ja#recommended/solutions/analytics)
 
 | 作成者について |            |
 |------------|------------|

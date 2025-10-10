@@ -14,7 +14,7 @@ ht-degree: 3%
 
 ---
 
-# Experience Platform [!DNL tags] のルールに基本的な小売変数とイベントを追加する
+# Experience Platform [!DNL tags] のルールへの基本的な小売変数とイベントの追加
 
 このビデオでは、特別な製品文字列拡張機能を使用して、製品の表示、買い物かごへの追加、チェックアウトなど、基本的な小売変数およびイベントを追跡する方法を [!DNL tags] 明します。
 
@@ -22,4 +22,4 @@ ht-degree: 3%
 >
 > Launch は **[!DNL tags]** になりました
 
->[!VIDEO](https://video.tv.adobe.com/v/31397/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12&learn=on)

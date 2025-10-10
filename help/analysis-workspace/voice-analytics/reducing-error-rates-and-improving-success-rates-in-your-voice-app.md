@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!UICONTROL チャーン]、成功率、エラー率、フォールバックの目的などの機能を使用して、音声アプリの改善点を見つける方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/327672/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/27222/?quality=12&learn=on)

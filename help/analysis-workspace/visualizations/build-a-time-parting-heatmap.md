@@ -18,4 +18,4 @@ ht-degree: 100%
 
 行動のヒートマップ [!UICONTROL ビジュアライゼーション] を作成して、時間分割分析を次のレベルに進める方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35203/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/26991/?quality=12&learn=on)

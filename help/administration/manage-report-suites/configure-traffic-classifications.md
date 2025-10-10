@@ -20,6 +20,6 @@ ht-degree: 100%
 
 このビデオでは、トラフィック変数（多くの場合、「prop」やページ名など）の分類の設定について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342934/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/340024/?quality=12&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-classifications.html?lang=ja) を参照してください。

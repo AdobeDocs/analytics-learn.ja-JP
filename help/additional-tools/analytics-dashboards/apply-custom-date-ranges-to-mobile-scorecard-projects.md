@@ -20,6 +20,6 @@ ht-degree: 100%
 
 このビデオでは、モバイルデバイス向けの分析プロジェクトを設定する際に、表示する標準提供の範囲の選択や、独自のカスタム日付範囲の作成など、日付範囲の様々なオプションを管理する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3411534/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/332454/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html?lang=ja) を参照してください。

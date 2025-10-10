@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Analysis Workspace の任意の指標に対して、月ごとおよび年ごとのトレンド比較を作成するためのカスタム日付範囲の適用方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/37185/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/33772/?quality=12&learn=on)

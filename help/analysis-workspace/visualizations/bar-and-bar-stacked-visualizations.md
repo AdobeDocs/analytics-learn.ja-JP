@@ -18,6 +18,6 @@ ht-degree: 100%
 
 このビデオでは、Analysis Workspace のプロジェクトに棒グラフ、積み重ね棒グラフ、横棒グラフ、積み重ね横棒グラフの各ビジュアライゼーションを追加および設定する方法について説明します。これらのビジュアライゼーションは基本的なものですが、データのストーリーを伝え、アナリストにインサイトを提供するのに役立ちます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416775/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/334308/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bar.html?lang=ja) を参照してください。

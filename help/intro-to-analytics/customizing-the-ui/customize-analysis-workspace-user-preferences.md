@@ -19,4 +19,4 @@ ht-degree: 100%
 
 [!DNL Analysis Workspace] のユーザー環境設定を変更およびカスタマイズする方法を説明します。これには、デフォルトの一般設定、ディスプレイおよびデータ環境設定、ユーザーインターフェイスのテーマの切り替えが含まれます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429996/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/332600/?quality=12&learn=on)

@@ -18,6 +18,6 @@ ht-degree: 100%
 
 [!DNL Time-parting] は収集したヒットのタイムスタンプを取得し、「時間帯」や「曜日」など、よりわかりやすいディメンションに分類します。これらのディメンションは、Analysis Workspace ですぐに使用できる状態になっています。
 
->[!VIDEO](https://video.tv.adobe.com/v/41458/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23727/?quality=12&learn=on)
 
 この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/dimensions/time-parting-dimensions.html?lang=ja)を参照してください。

@@ -19,4 +19,4 @@ ht-degree: 24%
 
 プロジェクト全体または個々のテーブルを CSV に書き出し、Excel や他の BI ツールで分析する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429880/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/24712/?quality=12&learn=on)

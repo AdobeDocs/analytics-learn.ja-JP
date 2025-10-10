@@ -86,7 +86,7 @@ Adobe Analytics は、エクスペリエンスビジネスのインテリジェ�
 
 [異常値検出](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=ja):
 
-* 組み込みの予測アルゴリズムを使用すると、それまで把握できていなかったデータ急な増加や減少を特定できます。
+* ビルトインの予測アルゴリズムを使用すると、それまで把握できていなかったデータ急な増加や減少を特定できます。
 * 28 の独自のアルゴリズムを使用して、季節性、成長性、循環性などモデルや、休日との整合性などを含む、異常値の特定を行います。
 * データサイエンティストへの依存を減らし、一般人のデータサイエンティストの能力を活用します。
 

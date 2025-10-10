@@ -18,6 +18,6 @@ ht-degree: 100%
 
 このビデオでは、Analysis Workspace でのマップビジュアライゼーションの使用方法について説明します。マップビジュアライゼーションを使用すると、動的なマップに対して[!UICONTROL モバイル（緯度／経度）]または web（IP アドレス）のデータを表示でき、場所のコンテキストで顧客の使用状況を把握できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/41505/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12&learn=on)
 
 このビジュアライゼーションについて詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=ja)を参照してください。

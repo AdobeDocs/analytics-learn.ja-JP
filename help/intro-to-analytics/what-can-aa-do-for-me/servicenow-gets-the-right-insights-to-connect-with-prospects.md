@@ -21,6 +21,6 @@ ht-degree: 100%
 
 [!DNL ServiceNow] が Adobe Advertising Cloud と Adobe Analytics を使用して、どのようにしてマーケティングチャネルから実用的なデータを取得し、有料検索広告の ROI を向上させているかを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/36296/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/31504/?quality=12&learn=on)
 
 Adobe Experience Cloud は、クロスチャネルマーケティング、デジタル広告、オーディエンスとデータの最適化などに抜きん出るために必要な統合ツールを提供します。

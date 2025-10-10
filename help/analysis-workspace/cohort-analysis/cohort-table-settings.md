@@ -21,7 +21,7 @@ ht-degree: 46%
 
 コホートテーブル設定を使用して、リテンションまたはチャーンテーブルの表示をカスタマイズする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430104/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
 
 [!UICONTROL コホートテーブル] のカスタマイズには、次の機能が含まれます。
 
@@ -29,6 +29,6 @@ ht-degree: 46%
 1. パーセンテージを最も近い整数に丸める
 1. テーブルの上部にある平均パーセント行を表示／非表示にする
 
-平均行は、個々の [!UICONTROL &#x200B; コホート &#x200B;] 行ではなく、全体の [!UICONTROL &#x200B; リテンション &#x200B;] または [!UICONTROL &#x200B; チャーン &#x200B;] を表示するのに最適です。
+平均行は、個々の [!UICONTROL  コホート ] 行ではなく、全体の [!UICONTROL  リテンション ] または [!UICONTROL  チャーン ] を表示するのに最適です。
 
 [!UICONTROL コホート] 分析について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=ja) を参照してください。

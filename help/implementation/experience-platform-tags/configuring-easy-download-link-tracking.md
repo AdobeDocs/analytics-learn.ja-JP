@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Experience Platform [!DNL tags] の Adobe Analytics 拡張機能で数回クリックするだけで、サイト上のダウンロードリンク（ブラウザー以外のファイルをマシンにダウンロードするリンク）のトラッキングを開始できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429924/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12&learn=on)
 
 ホワイトペーパー、マニュアル、オーディオまたはビデオファイル、あるいはその他の何であれ、ブラウザーで開かないファイルをダウンロードするためのリンクをサイト上に配置することがあります。これらのファイルには、ページ上にトラッキング用の [!DNL Analytics] コードを含めることはできません。このビデオで説明している設定を使用して、ダウンロードファイルへのリンクをトラッキングできます。

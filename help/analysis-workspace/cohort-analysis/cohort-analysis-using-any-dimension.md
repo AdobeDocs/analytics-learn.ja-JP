@@ -1,6 +1,6 @@
 ---
 title: 任意のディメンションを使用したコホート分析
-description: 「カスタムコホートディメンション」オプションを使用すると、時間以外のディメンションを使用してコホートを分析できます。マーケティングチャネル、キャンペーン地域、製品ページなどでコホートを比較すると、ディメンション項目別のリテンション（チャーン）の変化をより深く理解できます。
+description: ' 「カスタムコホートディメンション」オプションを使用すると、時間以外のディメンションを使用してコホートを分析できます。マーケティングチャネル、キャンペーン地域、製品ページなどでコホートを比較すると、ディメンション項目別のリテンション（チャーン）の変化をより深く理解できます。'
 feature: Visualizations
 activity: use
 doc-type: feature video
@@ -21,6 +21,6 @@ ht-degree: 100%
 
  「カスタム [!UICONTROL コホート] [!UICONTROL ディメンション]」オプションを使用すると、時間以外の [!UICONTROL ディメンション] を使用して [!UICONTROL コホート] を分析できます。マーケティングチャネル、キャンペーン地域、製品ページなどで [!UICONTROL コホート] を比較すると、 [!UICONTROL ディメンション] 項目別の [!UICONTROL リテンション] （[!UICONTROL チャーン]）の変化をより深く理解できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430177/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=ja) を参照してください。

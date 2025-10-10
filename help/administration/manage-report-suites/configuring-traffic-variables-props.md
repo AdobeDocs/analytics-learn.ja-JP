@@ -19,6 +19,6 @@ ht-degree: 100%
 
 このビデオでは、Analytics Admin Console のトラフィック変数（多くの場合、「props」と呼ばれる）の設定を順を追って説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342184/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/339441/?quality=12&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-var.html?lang=ja) を参照してください。

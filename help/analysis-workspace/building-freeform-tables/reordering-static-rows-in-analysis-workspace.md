@@ -18,4 +18,4 @@ ht-degree: 100%
 
 フリーフォームテーブルビルダー内で、静的行を手動で並べ替えることができます。これにより、訪問回数、購入回数、コンバージョン率など、テーブルの静的行を必要な順序に並べることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/34707/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/31319/?quality=12&learn=on)

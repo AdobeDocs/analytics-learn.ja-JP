@@ -21,6 +21,6 @@ ht-degree: 100%
 
 [!DNL Intelligent Alerts] では、[!UICONTROL 異常値検出]の機能がインボックスまたは電話に直接組み込まれます。主要指標とセグメントの大幅な変更を即座に認識できると、好機を逃すことはありません。
 
->[!VIDEO](https://video.tv.adobe.com/v/40924/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25446/?quality=12&learn=on)
 
 この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=ja) を参照してください。

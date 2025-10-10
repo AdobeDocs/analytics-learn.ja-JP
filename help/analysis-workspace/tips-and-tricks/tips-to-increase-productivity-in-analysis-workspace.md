@@ -17,4 +17,4 @@ ht-degree: 100%
 
 このビデオでは、Analysis Workspace で生産性を向上させ時間を節約するための 4 つのヒントを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/34728/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/31157/?quality=12&learn=on)

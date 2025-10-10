@@ -20,6 +20,6 @@ ht-degree: 100%
 
 このビデオでは、「eVar」と呼ばれるコンバージョン変数の分類の設定について説明します。これは、製品およびリスト変数にも適用されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/342941/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/340078/?quality=12&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/conversion-classifications.html?lang=ja) を参照してください。

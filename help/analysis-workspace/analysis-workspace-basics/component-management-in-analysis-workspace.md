@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Analysis Workspace のコンポーネント（例：ディメンション、指標、セグメントなど）を共有および管理する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/37629/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/24095/?quality=12&learn=on)

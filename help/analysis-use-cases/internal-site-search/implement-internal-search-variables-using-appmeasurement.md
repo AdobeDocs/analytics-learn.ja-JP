@@ -19,4 +19,4 @@ ht-degree: 100%
 
 このビデオでは、検索語句、結果数など、Experience Platform Launch を使用して Adobe Analytics の内部サイト検索変数を実装する手順を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3413583/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/333604/?quality=12&learn=on)

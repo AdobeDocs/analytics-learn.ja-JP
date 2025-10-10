@@ -18,4 +18,4 @@ ht-degree: 100%
 
 フリーフォームテーブルの合計に影響を与えるものと、それらを有効または無効にする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/34103/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12&learn=on)

@@ -18,6 +18,6 @@ ht-degree: 100%
 
 コホート、フォールアウト、フローなど、Analysis Workspace の様々なツールを使って、分析全体でセグメントを作成および検索する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416042/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/334092/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-workflow.html?lang=ja) を参照してください。

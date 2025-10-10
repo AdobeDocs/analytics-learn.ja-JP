@@ -22,6 +22,6 @@ ht-degree: 11%
 
 読み取り専用のWorkspace Analysis プロジェクトをユーザーに共有する方法と、この権限レベルで使用できる機能を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/40056/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/36206/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html?lang=ja) を参照してください。

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!DNL Summit] 2019 の小売分野の「スーパーセッション」から厳選されたクリップをご覧ください
 
->[!VIDEO](https://video.tv.adobe.com/v/330385/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/30549/?quality=12&learn=on)

@@ -17,6 +17,6 @@ ht-degree: 0%
 
 Analysis Workspaceでの計算指標の作成で関数を使用する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/37644/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25408/?quality=12&learn=on)
 
-計算指標を作成する際の [ 基本 ](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html?lang=ja) 関数と [ 詳細 ](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html?lang=ja) 関数の使用について詳しくは、ドキュメントを参照してください。
+計算指標を作成する際の [ 基本 ](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html) 関数と [ 詳細 ](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html) 関数の使用について詳しくは、ドキュメントを参照してください。

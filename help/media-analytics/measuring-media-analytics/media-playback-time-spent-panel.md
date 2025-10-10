@@ -19,6 +19,6 @@ ht-degree: 100%
 
 メディア再生滞在時間パネルを使用すると、メディアユーザーは、指定した精度で 1 日の閲覧時間別に閲覧者数を把握できます。また、1 日のある期間を「ズームイン」したり、連続した時間セグメントを作成して 1 日を通してリードの出入りを明確に表示したりすることもできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446701/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/338699/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-playback-time-spent.html?lang=ja)を参照してください。

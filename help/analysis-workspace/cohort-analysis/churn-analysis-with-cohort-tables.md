@@ -21,6 +21,6 @@ ht-degree: 100%
 
 [!UICONTROL コホートテーブル] には、 [!UICONTROL リテンション] と [!UICONTROL チャーン] の 2 つの分析タイプがあります。[!UICONTROL リテンション] が維持されたユーザー数を経時的に示すのに対し、「[!UICONTROL チャーン]」オプションは失ったユーザーの数を示します（1 - リテンション）。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430158/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=ja) を参照してください。

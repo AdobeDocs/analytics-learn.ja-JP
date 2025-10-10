@@ -16,7 +16,7 @@ ht-degree: 79%
 
 # Adobe Analytics 教育用カリキュラム
 
->[!VIDEO](https://video.tv.adobe.com/v/3443846/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
 
 ## Analytics コースのコンテンツ
 

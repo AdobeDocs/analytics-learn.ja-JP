@@ -17,4 +17,4 @@ ht-degree: 100%
 
 このシンプルながらも重要なビデオでは、サイトのデータの分析に必要な手順を説明します。 少し時間を割いてこのプロセスを理解すれば、[!DNL Analytics] プログラムを成功させるうえで大きなプラスとなります。
 
->[!VIDEO](https://video.tv.adobe.com/v/33740/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/28950/?quality=12&learn=on)

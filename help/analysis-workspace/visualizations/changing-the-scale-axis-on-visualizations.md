@@ -21,4 +21,4 @@ ht-degree: 100%
 
 このビデオでは、Analysis Workspace の [!UICONTROL 折れ線] グラフの Y 軸のスケール（または軸の制限）を簡単に変更して、自分や他の人がデータを誤解しにくくする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/41448/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/24708/?quality=12&learn=on)

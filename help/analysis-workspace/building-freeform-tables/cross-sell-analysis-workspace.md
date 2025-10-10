@@ -18,4 +18,4 @@ ht-degree: 100%
 
 このビデオでは、Analysis Workspace でクロスセルレポートを作成し、複数値のディメンションまたは分類にさらに拡張する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/40765/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12&learn=on)

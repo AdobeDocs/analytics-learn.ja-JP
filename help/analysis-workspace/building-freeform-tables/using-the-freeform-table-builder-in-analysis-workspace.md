@@ -18,4 +18,4 @@ ht-degree: 100%
 
 [!DNL Freeform table builder] を使用すれば、多くのディメンション、分類、指標およびセグメントをドラッグ＆ドロップして、より複雑なビジネスの質問に回答するテーブルを作成できます。データはその場では更新されません。代わりに、「ビルド」をクリックすると更新され、テーブルの更新が 1 回で済むので、時間を節約できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/34710/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12&learn=on)

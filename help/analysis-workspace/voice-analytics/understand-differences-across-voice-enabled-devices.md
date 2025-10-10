@@ -21,4 +21,4 @@ ht-degree: 100%
 
 製品ロードマップの優先順位付けに役立つ、様々な音声アシストデバイスの異なるパフォーマンスと機能を理解する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35072/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/27225/?quality=12&learn=on)

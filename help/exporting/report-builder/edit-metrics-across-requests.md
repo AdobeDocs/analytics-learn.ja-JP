@@ -19,8 +19,8 @@ ht-degree: 81%
 
 追加、置換、削除のオプションを使用して、複数の [!UICONTROL Report Builder] データリクエストの [!UICONTROL 指標] を一度に編集できるようになりました。
 
->[!VIDEO](https://video.tv.adobe.com/v/37994/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12&learn=on)
 
-この機能は、複数のリクエストの [!UICONTROL レポート スイート]、[!UICONTROL 日付範囲]、[!UICONTROL 精度]、[!UICONTROL セグメント] を編集する既存機能に追加されるものです。リクエストの一括編集は、右クリックメニューまたは管理ウィンドウの「[!UICONTROL &#x200B; 複数を編集 &#x200B;]」から実行できます。
+この機能は、複数のリクエストの [!UICONTROL レポート スイート]、[!UICONTROL 日付範囲]、[!UICONTROL 精度]、[!UICONTROL セグメント] を編集する既存機能に追加されるものです。リクエストの一括編集は、右クリックメニューまたは管理ウィンドウの「[!UICONTROL  複数を編集 ]」から実行できます。
 
 この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/manage-requests/edit-multiple-metrics.html?lang=ja) を参照してください。

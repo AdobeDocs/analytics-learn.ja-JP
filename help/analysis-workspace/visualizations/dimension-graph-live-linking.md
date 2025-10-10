@@ -18,4 +18,4 @@ ht-degree: 100%
 
 あまり目立ちませんが非常に便利な機能です。ディメンション値から折れ線グラフを作成する際に、別のディメンション値を選択して、グラフを動的に変更できるようになりました。詳しくは、ビデオをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/327448/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23991/?quality=12&learn=on)

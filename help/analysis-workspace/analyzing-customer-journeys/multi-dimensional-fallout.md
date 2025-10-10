@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Analysis Workspace の [!DNL Fallout] を使用すると、ファネルとワークフローのタッチポイントとしてディメンションと指標を組み合わせて一致させることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/327467/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12&learn=on)
 
 この強力な機能により、調査するユーザーステップをより柔軟に定義できます。
 

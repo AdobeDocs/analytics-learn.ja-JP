@@ -23,6 +23,6 @@ ht-degree: 100%
 
 このビデオでは、[!DNL flow visualization] でラベルの切り捨てをオンまたはオフにする方法を説明します。また、多次元 [!DNL flow] 分析のために、ディメンションを [!DNL flow] にドラッグ＆ドロップする方法についても説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/327472/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12&learn=on)
 
 この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=ja) を参照してください。

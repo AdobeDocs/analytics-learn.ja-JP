@@ -18,4 +18,4 @@ ht-degree: 100%
 
 このビデオでは、[!DNL tags] のルールを使用してサイトのコンバージョンイベント（成功イベント）をトラックする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429961/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12&learn=on)

@@ -21,6 +21,6 @@ ht-degree: 100%
 
 [!UICONTROL 分類] は、製品、キャンペーン、ページ、顧客などに説明的な属性のメタデータを追加する強力な方法です。これらの属性は、類似した要素をグループ化し、データを分類して、何が効果的で何が効果的でないかを深く掘り下げることで、マーケティングとエクスペリエンスの取り組みをよりよく理解するのに役立ちます。
 
->[!VIDEO](https://video.tv.adobe.com/v/40934/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/16853/?quality=12&learn=on)
 
 この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=ja) を参照してください。

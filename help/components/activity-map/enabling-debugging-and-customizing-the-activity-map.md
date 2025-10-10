@@ -1,5 +1,5 @@
 ---
-title: Adobe AnalyticsActivity Mapの有効化、デバッグ、カスタマイズ
+title: Adobe Analytics Activity Mapの有効化、デバッグ、カスタマイズ
 description: Adobe Experience Platform タグの Analytics 拡張機能でActivity Mapをデプロイする方法の有効化、デバッグ、カスタマイズを説明します。
 feature: Activity Map
 team: Technical Marketing
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Analytics [!UICONTROL Activity Mapの有効化、デバッグ、カスタマイズ &#x200B;]
+# Adobe Analytics [!UICONTROL Activity Map] の有効化、デバッグ、カスタマイズ
 
 Adobe Experience Platform タグの Analytics 拡張機能で [!UICONTROL Activity Map] をデプロイする方法の有効化、デバッグ、カスタマイズを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/327630?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
 
-[!UICONTROL Activity Map] のデプロイ方法の詳細については、[ ドキュメント ](https://experienceleague.adobe.com/ja/docs/analytics/analyze/activity-map/getting-started/activitymap-enable) を参照してください。
+[!UICONTROL Activity Map] のデプロイ方法について詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable) を参照してください。

@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Adobe Analytics では、データはページからレポートにどのように取り込まれるのでしょうか。このビデオでは、その方法を紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/31418/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/28768/?quality=12&learn=on)

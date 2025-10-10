@@ -19,6 +19,6 @@ ht-degree: 29%
 
 このビデオでは、Analysis Workspaceで「スコアカード」を作成および共有し、Adobe Analytics ダッシュボード（モバイルアプリ）で表示する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/38124/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/34544/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=ja) を参照してください。

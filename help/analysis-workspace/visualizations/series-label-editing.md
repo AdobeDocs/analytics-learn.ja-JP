@@ -21,4 +21,4 @@ ht-degree: 100%
 
 アナリストやマーケターが、[!UICONTROL ビジュアライゼーション]のニーズに合わせてチャートのラベルを調整できるようにするいくつかの新機能のウォークスルー。
 
->[!VIDEO](https://video.tv.adobe.com/v/327477/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23728/?quality=12&learn=on)

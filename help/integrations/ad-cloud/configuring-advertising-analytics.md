@@ -17,9 +17,9 @@ ht-degree: 37%
 
 # Adobe Analytics での [!DNL Advertising Analytics] の設定 {#configuring-advertising-analytics-in-adobe-analytics}
 
-[!DNL Advertising Analytics] を利用するための [!UICONTROL &#x200B; レポートスイート &#x200B;] の設定方法、有料検索アカウントの設定方法および [!DNL Advertising Analytics] のレポートの詳細について、概要を説明します。
+[!UICONTROL  を利用するための ] レポートスイート [!DNL Advertising Analytics] の設定方法、有料検索アカウントの設定方法および [!DNL Advertising Analytics] のレポートの詳細について、概要を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/38422/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12&learn=on)
 
 ## その他のリソース {#additional-resources}
 

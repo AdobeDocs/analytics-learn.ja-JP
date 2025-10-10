@@ -19,7 +19,7 @@ ht-degree: 100%
 
 データリクエストに [!UICONTROL 異常値検出] [!UICONTROL 指標] を追加する方法と、データをクリエイティブにグラフ化する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/38432/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23543/?quality=12&learn=on)
 
 [!UICONTROL 異常値検出] では、統計的モデリングを使用して、データ内の予期しないトレンドを自動的に見つけます。
 

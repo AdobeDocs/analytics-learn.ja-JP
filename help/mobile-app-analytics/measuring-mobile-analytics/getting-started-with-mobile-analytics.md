@@ -21,4 +21,4 @@ ht-degree: 100%
 
 テンプレートを使用してモバイルアプリへの Adobe Analytics の使用に着手する方法について説明します。 事前定義済みの[!UICONTROL 標準テンプレート]を使用すると、Analysis Workspace のユーザーエンゲージメント指標とアプリパフォーマンス[!UICONTROL 指標]を把握するうえで役に立ちます。また、使いやすいドラッグ＆ドロップインターフェイスでプロジェクトをカスタマイズする方法も説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/34109/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/27826/?quality=12&learn=on)

@@ -19,4 +19,4 @@ ht-degree: 100%
 
 [!DNL Adobe Analytics] でディメンションと指標にコンテキストを追加する方法を説明します。レポートおよび指標に割り当てられた名前が組織のユーザーにとって十分に明確でない場合は、説明フィールドを使用します。
 
->[!VIDEO](https://video.tv.adobe.com/v/39720/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25453/?quality=12&learn=on)

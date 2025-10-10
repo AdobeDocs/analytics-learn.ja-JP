@@ -19,5 +19,5 @@ ht-degree: 0%
 
 レポートスイートマネージャーで変数とイベントを設定し、レポート、ディメンションおよび指標の名前と動作を正しくする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/31406/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/28755/?quality=12&learn=on)
 

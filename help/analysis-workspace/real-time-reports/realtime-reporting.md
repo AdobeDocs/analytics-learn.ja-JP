@@ -19,4 +19,4 @@ ht-degree: 19%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25454/?quality=12&learn=on)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/real-time-reporting/realtime.html?lang=ja)を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/real-time-reporting/realtime.html)を参照してください。

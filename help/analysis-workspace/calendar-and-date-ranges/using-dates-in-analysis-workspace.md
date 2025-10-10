@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Analysis Workspaceでのビジュアライゼーションのカレンダーと日付の使用の概要を説明します
 
->[!VIDEO](https://video.tv.adobe.com/v/327348/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/24136/?quality=12&learn=on)

@@ -22,4 +22,4 @@ ht-degree: 100%
 
 このビデオでは、2 つのモデルの数値のパーセント差を示す自動作成された列を含め、[!DNL Attribution IQ models] を即座に比較する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/327795/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23651/?quality=12&learn=on)

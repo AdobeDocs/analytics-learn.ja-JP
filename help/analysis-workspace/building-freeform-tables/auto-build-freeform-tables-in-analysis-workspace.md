@@ -18,4 +18,4 @@ ht-degree: 100%
 
 空のプロジェクト、パネルまたはフリーフォームテーブルにコンポーネントを直接ドロップできます。テーブルは推奨される形式で自動的に作成されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418551/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3413478/?quality=12&learn=on)

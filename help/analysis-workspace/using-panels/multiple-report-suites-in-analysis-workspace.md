@@ -21,7 +21,7 @@ ht-degree: 100%
 
 パネルレベルで [!UICONTROL レポートスイート] を選択すれば、1 つの [!DNL Workspace] プロジェクトで複数の [!UICONTROL レポートスイート] を分析できます。これにより、異なるデータセットをまたいで、横に並べてパネルを分析できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/37010/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/32843/?quality=12&learn=on)
 
 >[!TIP]
 >

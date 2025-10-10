@@ -18,6 +18,6 @@ ht-degree: 100%
 
 このビデオでは、自分用にプロジェクトを保存して書き出す方法、他の受信者にプロジェクトを送信する方法、プロジェクトでの共同作業に他のメンバーを招待する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/34730/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html?lang=ja) を参照してください。

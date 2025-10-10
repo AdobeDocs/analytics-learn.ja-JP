@@ -1,5 +1,5 @@
 ---
-title: Experience Platformに購入イベントのルールを追加しま  [!DNL tags]。
+title: Experience Platformで購入イベントのルールを追加し  [!DNL tags] す。
 description: このビデオでは、の製品文字列拡張機能を使用して  [!DNL tags]  サイトでの購入を追跡し、分析の売上高、注文件数、数量の指標を取得する方法を説明します。
 feature: Tags
 topics: Development
@@ -22,4 +22,4 @@ ht-degree: 39%
 >
 > Launch は **[!DNL tags]** になりました
 
->[!VIDEO](https://video.tv.adobe.com/v/31396/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/28766/?quality=12&learn=on)

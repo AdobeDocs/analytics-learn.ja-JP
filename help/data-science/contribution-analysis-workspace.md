@@ -21,7 +21,7 @@ ht-degree: 100%
 
 このビデオでは、[!UICONTROL 貢献度分析]とその機能、特に、機械学習を使用してデータのトレンドの貢献要因をすばやく簡単に説明する機能について順を追って説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/40760/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25443/?quality=12&learn=on)
 
 [!UICONTROL 貢献度分析] は、Adobe Analytics Premium のお客様が Analysis Workspace で利用できます。
 

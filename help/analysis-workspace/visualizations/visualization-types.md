@@ -10,7 +10,7 @@ exl-id: 5e176b61-6fb2-46f6-8b77-b26338e8422c
 source-git-commit: da8f29dbee916403604000e969e294a2ecad52cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 23%
+ht-degree: 27%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 23%
 
 データストーリーを伝えるのに役立つ、Analysis Workspace プロジェクトに配置できるビジュアライゼーションの様々な種類やタイプについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/37623/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23994/?quality=12&learn=on)
 
 ビデオを振り返ると、データに対して行う分析の種類に基づいて、プロジェクトに追加するビジュアライゼーションのカテゴリと提案されたビジュアライゼーションを紹介します。 ビデオで述べたように、これは難しくて迅速なルールではなく、様々なビジュアライゼーションに慣れるにつれて提案されるだけです。
 
@@ -74,7 +74,7 @@ ht-degree: 23%
   </td>
 </tr>
 <tr>
-  <td style="vertical-align: top;">傾向
+  <td style="vertical-align: top;">トレンド
   </td>
 
 <td style="vertical-align: top;">

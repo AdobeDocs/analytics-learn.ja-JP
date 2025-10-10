@@ -19,6 +19,6 @@ ht-degree: 100%
 
 「クイックセグメント」は、Workspace キャンバスで直接体験できる、シンプル化されたセグメントです。クイックセグメントを使用すると、ユーザーは、分析ワークフローを離れることなく、その場で最大 3 つのルールでセグメントを作成できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/345339/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/341466/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=ja)を参照してください。

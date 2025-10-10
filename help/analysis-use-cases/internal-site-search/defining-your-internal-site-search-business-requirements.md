@@ -19,4 +19,4 @@ ht-degree: 100%
 
 サイト上で内部検索を追跡することを決定する際には、まず、検索のどの側面を追跡したいのか、そして結果を分析することでどのようなアクションが取れるのかを決定することが重要です。このビデオでは、ビジネス要件の文書化について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3413452/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/333511/?quality=12&learn=on)

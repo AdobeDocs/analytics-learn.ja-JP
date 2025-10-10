@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Adobe Analytics の Adobe Sensei 機械学習と AI テクノロジーが、ビジネスユーザーがデータを常に把握し、本当に重要なタイミングと場所でそのデータを実際に活用するのに役立つ方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/39734/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25838/?quality=12&learn=on)

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!UICONTROL プロジェクト]／[!UICONTROL 情報および設定] の [!UICONTROL 表示密度] 設定を使用すると、左側のパネルおよびテーブル（[!UICONTROL フリーフォーム] および [!UICONTROL コホート]）に適用する垂直方向のパディングを制御できます。「拡張」（デフォルト）、「快適」、「コンパクト」のいずれかを選択できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/40312/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25963/?quality=12&learn=on)

@@ -18,6 +18,6 @@ ht-degree: 100%
 
 このビデオでは、データガバナンスの概要と、データのラベル付けが GDPR 対応にどのように適合するかを順を追って説明します。データガバナンスを使用したデータのラベル付けの実践的な例についても説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/40786/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=ja) を参照してください。

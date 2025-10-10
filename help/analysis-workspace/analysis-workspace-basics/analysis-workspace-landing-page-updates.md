@@ -18,4 +18,4 @@ ht-degree: 100%
 
 新しいランディングページの大幅な改善点と追加点のいくつかを説明します。お客様からのフィードバックを受けて、列のサイズ変更、新しい列のタイプ、リアルタイムおよびボットレポートへのリンクなど、最も目立った機能を組み込むように努めました。
 
->[!VIDEO](https://video.tv.adobe.com/v/346471/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/342476/?quality=12&learn=on)

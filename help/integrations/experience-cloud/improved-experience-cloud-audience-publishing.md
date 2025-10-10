@@ -24,7 +24,7 @@ ht-degree: 100%
 
 Experience Cloud のオーディエンス公開機能を向上しました。オーディエンス（[!UICONTROL セグメント]）を 6 倍の速さで公開して利用できるようになり、現在は待ち時間が 48 時間から約 8 時間に短縮されました。また、トラフィックや [!UICONTROL セグメント] サイズによってはさらに高速になります。
 
->[!VIDEO](https://video.tv.adobe.com/v/37008/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/32842/?quality=12&learn=on)
 
 さらに、一度に公開できる [!UICONTROL セグメント] の数が、 [!UICONTROL レポートスイート] ごとに 20 から 75 に増えました。
 詳しくは、Analytics ヘルプの [Experience Cloud へのセグメントの公開](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html?lang=ja) を参照してください。

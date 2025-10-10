@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Adobe Analytics Admin Console の「有料検索検出」セクションの設定手順を、いくつかのレコメンデーションも含めて、順を追って説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/343278/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/339302/?quality=12&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/paid-search-detection.html?lang=ja#section_0C2CFA0AF77B47098BE37CB024665D0D) を参照してください。

@@ -22,6 +22,6 @@ ht-degree: 100%
 
 カスタムの「ルックバック」ウィンドウを使用すると、アトリビューションウィンドウをレポート範囲（最大 90 日）を超えて拡張して、レポート範囲内の各コンバージョンに適用できます。このオプションでは通常、前月（または過去数か月）に発生したインタラクションを考慮することで、レポートの初期に発生するイベントのアトリビューション精度を高めます。
 
->[!VIDEO](https://video.tv.adobe.com/v/40040/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/36204/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=ja#lookback-windows) を参照してください。

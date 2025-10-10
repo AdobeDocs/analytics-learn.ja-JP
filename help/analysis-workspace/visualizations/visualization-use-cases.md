@@ -18,6 +18,6 @@ ht-degree: 100%
 
 どの製品が一番売れているか知りたいですか？フォールアウト、フロー、コホートなど、ビジュアライゼーションの主なユースケースをご紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416043/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/334096/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=ja) を参照してください。

@@ -22,7 +22,7 @@ ht-degree: 100%
 
 このビデオでは、Analysis Workspace の[!DNL Flow visualization]で使用できる様々な右クリックオプションについて説明します。 オプションには、パスからのセグメントの作成や列の折りたたみなどがあります。
 
->[!VIDEO](https://video.tv.adobe.com/v/328265/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12&learn=on)
 
 この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=ja#analysis-workspace) を参照してください。
 

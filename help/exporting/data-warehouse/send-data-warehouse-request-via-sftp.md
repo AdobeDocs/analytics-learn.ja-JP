@@ -1,6 +1,6 @@
 ---
-title: SFTP 経由でのData Warehouseレポートの送信
-description: Adobe AnalyticsでData Warehouseリクエストを作成し、SFTP 配信用に設定する方法を説明します。
+title: SFTP 経由でのData Warehouse レポートの送信
+description: Adobe AnalyticsでData Warehouse リクエストを作成し、SFTP 配信用に設定する方法を説明します。
 feature: Data Warehouse
 topic: Administration
 role: User, Architect
@@ -19,6 +19,6 @@ ht-degree: 11%
 
 # SFTP 経由での [!DNL Data Warehouse] レポートの送信
 
-Adobe Analyticsで [!DNL Data Warehouse] リクエストを作成し、SFTP 配信用に設定する方法を説明します。 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-dw)を参照してください。
+Adobe Analyticsで [!DNL Data Warehouse] リクエストを作成し、SFTP 配信用に設定する方法を説明します。 詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-dw)を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335751/?quality=12&learn=on)

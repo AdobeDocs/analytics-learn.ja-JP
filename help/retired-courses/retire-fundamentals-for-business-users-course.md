@@ -28,11 +28,11 @@ ht-degree: 100%
 
 ビジネスユーザー、ビジネスプラクショナー、またはその他の同様の役割を担っている場合は、次のコースを受講して、Analysis Workspace をうまく活用するための基礎を習得することをお勧めします。
 
-1. [Analysis Workspace を使い始める](https://experienceleague.adobe.com/?lang=ja&recommended=Analytics-U-1-2020.1.workspace&amp;lang=ja)
-1. [フリーフォームテーブル、分析の基盤](https://experienceleague.adobe.com/?lang=ja&recommended=Analytics-U-1-2020.3)
-1. [ビジュアライゼーションを使用したデータストーリーの把握](https://experienceleague.adobe.com/?lang=ja&recommended=Analytics-U-1-2021.1.visualizations&amp;lang=ja)
-1. [カスタマージャーニーにおけるデジタルタッチポイントへの価値の関連付け](https://experienceleague.adobe.com/?lang=ja&recommended=Analytics-U-1-2020.2&amp;lang=ja)
+1. [Analysis Workspace を使い始める](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&lang=ja)
+1. [フリーフォームテーブル、分析の基盤](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
+1. [ビジュアライゼーションを使用したデータストーリーの把握](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&lang=ja)
+1. [カスタマージャーニーにおけるデジタルタッチポイントへの価値の関連付け](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&lang=ja)
 
-Experience League では、[Adobe Analytics](https://experienceleague.adobe.com/?lang=ja&recommended=Analytics-U-1-2020.1.workspace&amp;lang=ja) に関連する追加のコースを利用できます。
+Experience League では、[Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&lang=ja) に関連する追加のコースを利用できます。
 
 ありがとうございます。

@@ -21,6 +21,6 @@ ht-degree: 100%
 
 [!UICONTROL コホートテーブル] の [!UICONTROL 待ち時間テーブル] 設定を使用すると、（標準 [!UICONTROL コホート] が示すように）インクルージョンイベントの前後の [!UICONTROL コホート] の動作を分析できます。この設定は、例えば、新しい製品やキャンペーンの立ち上げの影響を分析する場合に役立ちます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430187/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25964/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=ja) を参照してください。

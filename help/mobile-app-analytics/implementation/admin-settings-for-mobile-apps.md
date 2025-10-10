@@ -22,6 +22,6 @@ ht-degree: 100%
 
 [!UICONTROL ライフサイクル]コンポーネント、[!UICONTROL 場所のトラッキング]、[!UICONTROL バックグラウンドヒット]レポートなど、Adobe Analytics でモバイルアプリレポートを設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/39727/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25961/?quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/gs.html?lang=ja) を参照してください。

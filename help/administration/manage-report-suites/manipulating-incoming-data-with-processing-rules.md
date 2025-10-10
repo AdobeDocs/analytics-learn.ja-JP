@@ -19,6 +19,6 @@ ht-degree: 100%
 
 レポートスイートに取り込まれるデータを操作したり、既に表示されている内容に基づいてデータを追加または変更したりできると、非常に役に立つ場合があります。このビデオでは、Adobe Analytics の処理ルールの概要と、その用途を説明します。ヒント、例、警告も含まれています。
 
->[!VIDEO](https://video.tv.adobe.com/v/342192/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/339440/?quality=12&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=ja) を参照してください。
