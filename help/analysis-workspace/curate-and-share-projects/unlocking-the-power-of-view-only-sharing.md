@@ -45,7 +45,7 @@ Adobe Analytics Workspace プロジェクトを他のユーザーと共有する
 
 このドキュメントの作成者：
 
-![ レオ・ラウ ](assets/leo_headshot.png)
+![&#x200B; レオ・ラウ &#x200B;](assets/leo_headshot.png)
 
 **Leo Lau**、MarTech リードアジア担当ディレクター
 

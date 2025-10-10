@@ -17,6 +17,6 @@ ht-degree: 43%
 
 # セグメント化での「次のいずれかと等しい」演算子の使用
 
-「次のいずれかと等しい」および「次のいずれとも等しくない」のセグメント演算子は、複数の OR ステートメントまたは「次のいずれかと等しい」を使用する代わりに、特定の項目のリストにフィルタリングするために使用できます。 これらの演算子を「次のいずれかを含む」の代わりに使用すると、クエリの速度も向上します。 詳しいドキュメントについては、[ セグメントの比較演算子 ](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=ja){target="_blank"} を参照してください。
+「次のいずれかと等しい」および「次のいずれとも等しくない」のセグメント演算子は、複数の OR ステートメントまたは「次のいずれかと等しい」を使用する代わりに、特定の項目のリストにフィルタリングするために使用できます。 これらの演算子を「次のいずれかを含む」の代わりに使用すると、クエリの速度も向上します。 詳しいドキュメントについては、[&#x200B; セグメントの比較演算子 &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=ja){target="_blank"} を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12&learn=on)

@@ -18,19 +18,19 @@ ht-degree: 1%
 
 # 次は、セグメントを使用してAnalysis Workspaceで新しいインサイトを見つけてください
 
-Adobe Analyticsの新規ユーザーでも経験豊富なプロでも、Analysis Workspace プロジェクトでセグメントを非常に活用できます。 [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=ja) が説明するように、「セグメントを使用すると、特性や web サイトでのインタラクションに基づいて訪問者のサブセットを識別できます」。 この機能の基本的な結果は、サイトへのユーザー、訪問、ヒットのグループを分離することを意味しますが、自分のような頭の良いアナリストは、このツールでクリエイティブになり、サイトアクティビティに関するインサイトを得る新しい方法を見つけることができます。 選択できるオプションのリストは膨大なので、遠慮なく独自のコンテンツを作成し、組織の他のユーザーや、Experience Leagueの [Adobe Analytics コミュニティ ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ja) または [#MeasureSlack](https://www.measure.chat/) コミュニティなどのコミュニティで公開してください。
+Adobe Analyticsの新規ユーザーでも経験豊富なプロでも、Analysis Workspace プロジェクトでセグメントを非常に活用できます。 [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=ja) が説明するように、「セグメントを使用すると、特性や web サイトでのインタラクションに基づいて訪問者のサブセットを識別できます」。 この機能の基本的な結果は、サイトへのユーザー、訪問、ヒットのグループを分離することを意味しますが、自分のような頭の良いアナリストは、このツールでクリエイティブになり、サイトアクティビティに関するインサイトを得る新しい方法を見つけることができます。 選択できるオプションのリストは膨大なので、遠慮なく独自のコンテンツを作成し、組織の他のユーザーや、Experience Leagueの [Adobe Analytics コミュニティ &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ja) または [#MeasureSlack](https://www.measure.chat/) コミュニティなどのコミュニティで公開してください。
 
-セグメントの作成方法に関する簡単な復習が必要な場合は、Analysis Workspaceでの [ セグメントビルダー ](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=en) の使用に関するExperience League ドキュメントを参照してください。
+セグメントの作成方法に関する簡単な復習が必要な場合は、Analysis Workspaceでの [&#x200B; セグメントビルダー &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=en) の使用に関するExperience League ドキュメントを参照してください。
 
 ## セグメントの比較と対比
 
-Analysis Workspaceでは、「[ セグメント比較 ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=ja)」を使用して 2 つのセグメントを比較できます。 セグメント比較は、左側のナビゲーションバーの「パネル」セクションで確認できます。
+Analysis Workspaceでは、「[&#x200B; セグメント比較 &#x200B;](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=ja)」を使用して 2 つのセグメントを比較できます。 セグメント比較は、左側のナビゲーションバーの「パネル」セクションで確認できます。
 
 ![Seg 01](assets/seg01.png)
 
 ただし、エンドユーザーに主要なインサイトを提供するために、比較の完全なパネルを必要としない場合もあります。 ありがたいことに、一部の機能は標準パネルでも比較できます。
 
-[ ベン図ビジュアライゼーション ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=ja) は、簡単な比較を作成するのに役立ち、カーソルを合わせて、重複するセッション、注文、ユーザーなどを確認できます。 2 ～ 3 個のカスタムセグメント。 また、重複するセクションを右クリックして、セグメントをすばやく作成することもできます。
+[&#x200B; ベン図ビジュアライゼーション &#x200B;](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=ja) は、簡単な比較を作成するのに役立ち、カーソルを合わせて、重複するセッション、注文、ユーザーなどを確認できます。 2 ～ 3 個のカスタムセグメント。 また、重複するセクションを右クリックして、セグメントをすばやく作成することもできます。
 
 ![Seg 02](assets/s02.png)
 
@@ -68,17 +68,17 @@ Analysis Workspaceでは、「[ セグメント比較 ](https://experienceleague
 
 ただし、これらは組織のニーズに常に適合するとは限りません。おそらく、サイトのほとんどの訪問時間が 10 分未満で実行されます。 詳細な測定を使用して、異なるサイズのバケットを作成できます。 次に、1 分、1 秒から 1 分、30 秒の間に持続する訪問を見るために作成されたものを示します。
 
-![10 節 ](assets/s10.png)
+![10 節 &#x200B;](assets/s10.png)
 
 作成したら、カスタマイズした様々なバケット化されたタイムグループ別に、訪問、注文、その他のイベントを確認できるようになりました。
 
-![11 節 ](assets/s11.png)
+![11 節 &#x200B;](assets/s11.png)
 
 主要業績評価指標（KPI）の変化を、ユーザーの滞在時間、訪問でのページ数、過去の訪問回数、その他の数値の要因として調べることも可能です。基本的に、別の指標の要因として指標を調べることができます。
 
-![12 節 ](assets/s12.png)
+![12 節 &#x200B;](assets/s12.png)
 
-セグメントを使用して新しいインサイトを見つける可能性は無限にあります。 これは出発点にすぎません。 Experience Leagueまたは [#Measure Slack](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ja) コミュニティで [Adobe Analytics コミュニティ ](https://www.measure.chat/) をお試しください。
+セグメントを使用して新しいインサイトを見つける可能性は無限にあります。 これは出発点にすぎません。 Experience Leagueまたは [#Measure Slack](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ja) コミュニティで [Adobe Analytics コミュニティ &#x200B;](https://www.measure.chat/) をお試しください。
 
 セグメント化が完了しました。
 
@@ -86,7 +86,7 @@ Analysis Workspaceでは、「[ セグメント比較 ](https://experienceleague
 
 このドキュメントの作成者：
 
-![ ダン・カミングス ](assets/seg13.png)
+![&#x200B; ダン・カミングス &#x200B;](assets/seg13.png)
 
 **Dan Cummings**、シニアプロダクトエンジニアリングマネージャー、McDonals&#39;s Corporation
 

@@ -34,7 +34,7 @@ Adobe Analytics でアトリビューション手法を次のレベルまで引�
 
 **次に**、このビデオの手順に従っている場合は、[フリーフォームテーブルビルダーを使用](../building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)してテーブルを設定できることに注意してください。
 
-* 3:20 - クロスタブディメンションは、ドロップ時に自動的に動的となり、値は時間の経過と共に変化する可能性があります。 この分析では、代わりに静的列を引き継ぐことをお勧めします。動的な列について詳しくは、ビデオの :336：フリーフォームテーブルの行および列設定 [ を参照してください ](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
-* 4:30 – 列の設定を 1 列ずつではなく、一括で更新できるようになりました。 詳しくは、ビデオの 8:45 「[ フリーフォームテーブルの行および列設定 ](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)」を参照してください。
+* 3:20 - クロスタブディメンションは、ドロップ時に自動的に動的となり、値は時間の経過と共に変化する可能性があります。 この分析では、代わりに静的列を引き継ぐことをお勧めします。動的な列について詳しくは、ビデオの :336：フリーフォームテーブルの行および列設定 [&#x200B; を参照してください &#x200B;](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+* 4:30 – 列の設定を 1 列ずつではなく、一括で更新できるようになりました。 詳しくは、ビデオの 8:45 「[&#x200B; フリーフォームテーブルの行および列設定 &#x200B;](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)」を参照してください。
 
 このトピックについて詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=ja)を参照してください。

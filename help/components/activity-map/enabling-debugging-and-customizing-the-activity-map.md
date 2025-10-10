@@ -22,4 +22,4 @@ Adobe Experience Platform タグの Analytics 拡張機能で [!UICONTROL Activi
 
 >[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
 
-[!UICONTROL Activity Map] のデプロイ方法について詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable) を参照してください。
+[!UICONTROL Activity Map] のデプロイ方法について詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable) を参照してください。

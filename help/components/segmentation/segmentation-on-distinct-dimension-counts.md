@@ -16,6 +16,6 @@ ht-degree: 10%
 
 # 個別ディメンションカウントに基づくセグメント化 {#segmentation-on-distinct-dimension-counts}
 
-セグメントビルダーの個別カウント演算子を使用すると、任意のディメンション内の一意の項目の数に基づいてセグメント化できます。 5 ページを超えるページを表示した訪問や、1 回の注文で複数の製品を購入したヒットなどをフィルタリングします。 詳しいドキュメントについては、[ セグメントの比較演算子 ](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=ja) を参照してください。
+セグメントビルダーの個別カウント演算子を使用すると、任意のディメンション内の一意の項目の数に基づいてセグメント化できます。 5 ページを超えるページを表示した訪問や、1 回の注文で複数の製品を購入したヒットなどをフィルタリングします。 詳しいドキュメントについては、[&#x200B; セグメントの比較演算子 &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=ja) を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=12&learn=on)

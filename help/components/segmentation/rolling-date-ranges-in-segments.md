@@ -15,6 +15,6 @@ ht-degree: 10%
 
 # セグメントでの周期的な日付範囲： {#rolling-date-ranges-in-segments}
 
-このビデオでは、セグメントでの周期的な日付範囲の使用方法を説明します。これにより、「先週で購入したユーザー」や「過去 60 日以内にサイトを訪問したユーザー」などのセグメントを作成できます。 セグメントで使用できる周期的な日付範囲の作成方法を示す詳細なドキュメントについては、[ カスタム日付範囲の作成 ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=ja) を参照してください。
+このビデオでは、セグメントでの周期的な日付範囲の使用方法を説明します。これにより、「先週で購入したユーザー」や「過去 60 日以内にサイトを訪問したユーザー」などのセグメントを作成できます。 セグメントで使用できる周期的な日付範囲の作成方法を示す詳細なドキュメントについては、[&#x200B; カスタム日付範囲の作成 &#x200B;](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=ja) を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12&learn=on)

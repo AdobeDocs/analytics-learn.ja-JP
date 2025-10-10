@@ -13,7 +13,7 @@ ht-degree: 94%
 
 ---
 
-# [!UICONTROL  計算指標 ]：セグメント化指標 {#calculated-metrics-segmented-metrics}
+# [!UICONTROL &#x200B; 計算指標 &#x200B;]：セグメント化指標 {#calculated-metrics-segmented-metrics}
 
 セグメントに基づいて計算指標を作成し、そのセグメントに属する訪問者数、訪問回数およびページビュー数をより効果的に分析できるようにする方法を説明します。
 

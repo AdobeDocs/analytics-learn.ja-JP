@@ -76,7 +76,7 @@ ht-degree: 2%
 
 このドキュメントの作成者：
 
-![ ギッタイ ヘッドショット ](assets/gittai.png)
+![&#x200B; ギッタイ ヘッドショット &#x200B;](assets/gittai.png)
 
 **Gitai Ben-Ammi**、Concentrix Catalyst のプリンシパルコンサルタント
 

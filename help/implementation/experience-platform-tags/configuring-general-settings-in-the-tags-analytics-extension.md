@@ -16,7 +16,7 @@ ht-degree: 87%
 
 # Experience Platform [!DNL tags] での Analytics 拡張機能の一般設定
 
-トラッキングサーバーの設定を含め、[!DNL tags] での Analytics 拡張機能の一般設定オプションについて説明します。詳しくは、[Adobe Analytics拡張機能の概要 ](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=ja){target="_blank"} を参照してください。
+トラッキングサーバーの設定を含め、[!DNL tags] での Analytics 拡張機能の一般設定オプションについて説明します。詳しくは、[Adobe Analytics拡張機能の概要 &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=ja){target="_blank"} を参照してください。
 
 >[!NOTE]
 >
