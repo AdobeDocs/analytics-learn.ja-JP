@@ -20,4 +20,4 @@ ht-degree: 100%
 
 初心者ユーザーがワークスペース分析プロジェクトデータに簡単に精通する効果的な方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40288/?quality=12&learn=on&captions=jpn)

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Adobe Analytics へのアクセスを制御するための会社設定のセキュリティマネージャー設定について説明します。これには、強力なパスワード、パスワードの有効期限およびリカバリー機能、電子メールドメイン制限などが含まれます。
 
->[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40793/?quality=12&learn=on&captions=jpn)

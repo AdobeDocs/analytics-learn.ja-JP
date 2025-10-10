@@ -20,7 +20,7 @@ ht-degree: 100%
 
 このビデオでは、Analytics レポートスイートでマーケティングチャネルレポートを設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340789/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344361/?quality=12&learn=on&captions=jpn)
 
 >[!NOTE]
 >

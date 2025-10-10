@@ -20,6 +20,6 @@ ht-degree: 100%
 
 [!DNL tags] で Adobe Analytics 拡張機能を設定する際の、カスタムコードエディターのユースケースと技術的な考慮事項について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327658/?quality=12&learn=on&captions=jpn)
 
 このビデオで参照されている <i>doPlugins 関数</i>について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=ja)を参照してください。

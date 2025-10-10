@@ -18,7 +18,7 @@ ht-degree: 100%
 
 フィルターを使用すると、[!DNL freeform table] で共有されるデータの行をより詳細に制御できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/23232/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327358/?quality=12&learn=on&captions=jpn)
 
 Analysis Workspace では、11 のフィルター条件および AND/OR 演算子を使用した、より多くのフィルター制御を提供するようになりました。
 

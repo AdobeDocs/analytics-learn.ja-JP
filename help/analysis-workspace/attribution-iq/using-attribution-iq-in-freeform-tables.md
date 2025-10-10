@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [!DNL Attribution IQ] を使用すると、[!UICONTROL フリーフォーム]列でアトリビューション[!UICONTROL モデル]を 10 個のルールベースモデルのいずれかにその場で変更できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/23136/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38408/?quality=12&learn=on&captions=jpn)
 
 各アトリビューション [!UICONTROL モデル] は、セグメント化と分類を完全にサポートしており、任意のディメンション（[!DNL props] も含む）で無制限に比較できます。
 

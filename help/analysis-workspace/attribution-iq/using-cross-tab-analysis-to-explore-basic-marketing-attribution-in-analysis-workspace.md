@@ -21,7 +21,7 @@ ht-degree: 79%
 
 Adobe Analytics でアトリビューション手法を次のレベルまで引き上げる方法は数多くあります。このビデオでは、Workspace のクロスタブ分析を使用して、マーケティングチャネルレポートからより深いインサイトを引き出す方法を重点的に説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/39237/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327751/?quality=12&learn=on&captions=jpn)
 
 **更新**：このビデオが公開されてから、[!DNL Workspace] にいくつかの改善が加えられました。このビデオには知っておくべき素晴らしいヒントを紹介しているため、ライブのままにしておきます。
 

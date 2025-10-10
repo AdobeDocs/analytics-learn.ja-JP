@@ -22,6 +22,6 @@ ht-degree: 100%
 
 このビデオでは、顧客から多くの要望が寄せられた、直接の手順と最終的な手順、タッチポイントの名称変更、無制限セグメントの比較、タッチポイントコンバージョン率の経時的なトレンドなど、[!DNL Fallout Visualization] の最新情報をお伝えします。
 
->[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328263/?quality=12&learn=on&captions=jpn)
 
 この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=ja) を参照してください。

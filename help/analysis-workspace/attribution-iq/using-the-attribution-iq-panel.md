@@ -22,6 +22,6 @@ ht-degree: 100%
 
 このビデオでは、[!DNL Attribution IQ] [!UICONTROL パネル]を確認します。これは、アトリビューション Analysis Workspace プロジェクトを作成する際、開始するのに最適な場所です。
 
->[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38412/?quality=12&learn=on&captions=jpn)
 
 Analysis Workspace の [!DNL Attribution IQ] [!UICONTROL パネル]は、10 個のルールベースの [!DNL attribution models] のいずれかを視覚的にすばやく比較する方法です。[!DNL Bar Charts]、[!DNL Venn diagrams]、[!DNL Histograms]、[!DNL Scatter Plots]、さらには [!DNL Flow Diagram] を使用して、各モデルがあらゆるディメンションにどのように影響しているかを確認します。[!DNL Attribution] [!UICONTROL パネル]は、より高度なアトリビューション分析の優れた出発点となります。

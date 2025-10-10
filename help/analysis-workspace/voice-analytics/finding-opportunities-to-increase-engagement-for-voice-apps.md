@@ -21,4 +21,4 @@ ht-degree: 100%
 
 使用頻度、[!UICONTROL コホート]、訪問／ユーザー、セッションの長さなどの機能を活用して、音声アプリのエンゲージメントの質を深く理解する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27223/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35068/?quality=12&learn=on&captions=jpn)

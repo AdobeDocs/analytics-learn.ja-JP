@@ -19,7 +19,7 @@ ht-degree: 100%
 
 # 権限を持つコミュニティの作成
 
->[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341115/?quality=12&learn=on&captions=jpn)
 
 権限を持つコミュニティとは、いくつかの注目すべき特徴を持つコミュニティです。まず、このコミュニティは Adobe Analytics 管理者によってサポートされます。実装内でのビジネス要件の表現方法に関する知識が豊富です。 最後に、データに基づいた意思決定のために、自信を持って分析を使用する手段を備えています。多くの企業は、内部の Adobe Analytics ユーザーグループや、より正式なコミュニティが提供する構造から恩恵を受けています。
 

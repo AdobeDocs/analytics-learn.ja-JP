@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=ja) および [Experience Platform タグ](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/client-data-layer/overview.html?lang=ja)のドキュメントで、データレイヤーに関する追加情報を確認してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327644/?quality=12&learn=on&captions=jpn)
 
 >[!NOTE]
 >

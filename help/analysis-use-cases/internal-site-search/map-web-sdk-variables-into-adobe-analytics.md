@@ -19,7 +19,7 @@ ht-degree: 100%
 
 処理ルールを使用して、分析変数を Web SDK から Adobe Analytics にマッピングする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/333606/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413466/?quality=12&learn=on&captions=jpn)
 
 ## 追加情報
 

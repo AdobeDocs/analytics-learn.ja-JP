@@ -17,7 +17,7 @@ ht-degree: 100%
 
 # 一般的な用語による Adobe Analytics 専門用語の翻訳
 
->[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345330/?quality=12&learn=on&captions=jpn)
 
 ## 異なる言語を話す
 

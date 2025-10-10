@@ -20,4 +20,4 @@ ht-degree: 100%
 
 モバイルスコアカードプロジェクトを通じて関係者に伝えたいストーリーを絞り込むために、Adobe Analytics ダッシュボードのテキストを含む詳細ビューをカスタマイズする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410002/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413789/?quality=12&learn=on&captions=jpn)

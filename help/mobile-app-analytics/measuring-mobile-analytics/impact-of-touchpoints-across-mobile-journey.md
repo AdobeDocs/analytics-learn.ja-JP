@@ -22,4 +22,4 @@ ht-degree: 100%
 
 モバイルアプリのユーザーがどのようにタッチポイントの影響を受けるか、および [!DNL Attribution IQ] を使用してモバイルアプリに目立った変化をもたらしつつあるチャネルについて説明します。どのチャネルが連携してモバイルアプリの成功イベントを促進しているかを把握します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27827/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34094/?quality=12&learn=on&captions=jpn)

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Analytics ダッシュボードアプリを使用してモバイルスコアカードプロジェクトでデータストーリーを作成する方法を説明します。 データストーリーを使用すると、最も重要な主要指標を常に中心にしながら、補助的なデータポイント、ビジネスコンテキストおよび関連する指標を取り入れることで、すべての状況をありのままに伝えることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416392/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420562/?quality=12&learn=on&captions=jpn)

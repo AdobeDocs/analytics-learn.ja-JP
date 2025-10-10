@@ -20,6 +20,6 @@ ht-degree: 100%
 
 このビデオでは、検索エンジン、検索キーワード、その他の検索方法のレポートやコンポーネントでコンバージョンイベントのアトリビューションがどのように扱われるかを制御する、設定の指定方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/333042/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412931/?quality=12&learn=on&captions=jpn)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html?lang=ja) を参照してください。

@@ -18,6 +18,6 @@ ht-degree: 16%
 
 従来の [!DNL Report Builder] ワークブックをアップグレードし、Adobe Analytics Report Builderの最新バージョンに再スケジュールする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434957/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446183/?quality=12&learn=on&captions=jpn)
 
 この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics/analyze/report-builder/home) を参照してください。

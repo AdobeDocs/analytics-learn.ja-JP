@@ -22,6 +22,6 @@ ht-degree: 100%
 
 [!UICONTROL コホートテーブル] 内の [!UICONTROL ローリング計算] 設定を使用すると、期間ごとに [!UICONTROL コホート] を分析し、同じユーザーが時間の経過と共にどのように定着（または [!UICONTROL チャーン]）されるかを理解できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430084/?quality=12&learn=on&captions=jpn)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=ja) を参照してください。

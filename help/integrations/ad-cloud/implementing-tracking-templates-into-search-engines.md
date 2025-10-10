@@ -19,4 +19,4 @@ ht-degree: 100%
 
 [!DNL Advertising Analytics] から対応する検索エンジンにトラッキングテンプレートを実装する手順を説明します。これは、データを収集したり Adobe Analytics に渡したりするのに必要な、重要な手順です。
 
->[!VIDEO](https://video.tv.adobe.com/v/23120/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38404/?quality=12&learn=on&captions=jpn)

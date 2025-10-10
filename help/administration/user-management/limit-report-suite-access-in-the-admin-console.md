@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Adobe Analytics のユーザーは、適切なデータにアクセスする必要があります。 [!UICONTROL Admin Console] を使用して、ユーザーがそれぞれの役割に必要なレポートスイートにのみアクセスできるようにする方法を説明します。[Adobe Admin Console](https://adminconsole.adobe.com/jp) で次の手順に従って、組織内でレポートスイート固有の製品プロファイルを作成します。
 
->[!VIDEO](https://video.tv.adobe.com/v/37714/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327055/?quality=12&learn=on&captions=jpn)

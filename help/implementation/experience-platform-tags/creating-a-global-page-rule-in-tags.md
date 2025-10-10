@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Experience Platform [!DNL tags] を使用して、すべてのページで Adobe Analytics に送信するデータポイントのグローバルページルールを設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28769/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31401/?quality=12&learn=on&captions=jpn)

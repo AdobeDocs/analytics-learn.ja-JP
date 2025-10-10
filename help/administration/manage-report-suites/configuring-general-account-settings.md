@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Adobe Analytics をセットアップする際、設定を行うことにより、データの収集および保存方法に影響を与える場合があります。 このビデオでは、一般的な設定の一部について説明します。 データの精度を上げるのに遅すぎることはないので、実装後にこれらを変更することもできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/332330/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411508/?quality=12&learn=on&captions=jpn)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/general-acct-settings-admin.html?lang=ja#admin-tools) を参照してください。

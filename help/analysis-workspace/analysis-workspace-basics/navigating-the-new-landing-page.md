@@ -18,4 +18,4 @@ ht-degree: 100%
 
 新しい Analytics のランディングページとその機能を最大限に活用する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334278/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346465/?quality=12&learn=on&captions=jpn)

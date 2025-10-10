@@ -22,4 +22,4 @@ ht-degree: 3%
 >
 > Launch は **[!DNL tags]** になりました
 
->[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31397/?quality=12&learn=on&captions=jpn)

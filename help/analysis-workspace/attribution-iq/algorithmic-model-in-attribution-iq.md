@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Analysis Workspace のアルゴリズムアトリビューションモデルでは、統計的手法を使用して、選択した指標に対するクレジットの最適な配分を動的に決定します。
 
->[!VIDEO](https://video.tv.adobe.com/v/36205/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40048/?quality=12&learn=on&captions=jpn)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/algorithmic.html?lang=ja) を参照してください。

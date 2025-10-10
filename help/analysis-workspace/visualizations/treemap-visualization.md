@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Analysis Workspace プロジェクトにツリーマップビジュアライゼーションを追加し、設定する方法を説明します。このビジュアライゼーションは、多数のデータポイントをまとめて視覚的に分析するのに役立ちます。
 
->[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417454/?quality=12&learn=on&captions=jpn)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/treemap.html?lang=ja) を参照してください。

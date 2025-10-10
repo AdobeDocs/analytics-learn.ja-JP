@@ -17,6 +17,6 @@ ht-degree: 100%
 
 このビデオでは、[!UICONTROL ディメンション]と[!UICONTROL 指標]、それらの違い、および Analysis Workspace のテーブルとビジュアライゼーションにそれらを追加する方法について説明します。また、標準の[!UICONTROL 計算指標]を追加する方法についても説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34734/?quality=12&learn=on&captions=jpn)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=ja) を参照してください。

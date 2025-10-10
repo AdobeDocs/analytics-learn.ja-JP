@@ -18,4 +18,4 @@ ht-degree: 100%
 
 このビデオでは、Analysis Workspace でディメンションとして使用して、セグメントを比較および視覚化する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23974/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37631/?quality=12&learn=on&captions=jpn)

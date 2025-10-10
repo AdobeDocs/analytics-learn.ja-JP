@@ -18,4 +18,4 @@ ht-degree: 40%
 
 仮想レポートスイートをキュレートして、Analysis Workspaceで [!UICONTROL &#x200B; ディメンション &#x200B;]、[!UICONTROL &#x200B; 指標 &#x200B;] および [!UICONTROL &#x200B; セグメント &#x200B;] を含めたり除外したりできます。この操作は、データの特定のスライスのみを必要とする他のチームや、異なるデータ命名を使用する他のチームと共有する場合に役立ちます。 詳しくは、[&#x200B; 仮想レポートスイートコンポーネントのキュレーション &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-components.html?lang=ja){target="_blank"} を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425530/?quality=12&learn=on&captions=jpn)

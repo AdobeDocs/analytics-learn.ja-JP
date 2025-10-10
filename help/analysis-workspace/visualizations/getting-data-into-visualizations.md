@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Analysis Workspace でビジュアライゼーションを追加する場合、ビジュアライゼーションのタイプに応じて、データを追加する方法がいくつかあります。このビデオでは、これらの方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/332507/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411540/?quality=12&learn=on&captions=jpn)

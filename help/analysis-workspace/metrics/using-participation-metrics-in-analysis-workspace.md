@@ -18,6 +18,6 @@ ht-degree: 23%
 
 パーティシペーション指標を作成し、[!DNL Analysis Workspace] で使用する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429892/?quality=12&learn=on&captions=jpn)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html?lang=ja) を参照してください。

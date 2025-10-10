@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!UICONTROL フロー] パスと [!UICONTROL フォールアウト] を調べて、最も一般的なアクション、それらのアクションのシーケンス、およびユーザーがジャーニーからフォールアウトするタイミングと場所を特定することにより、音声アプリでのカスタマージャーニーを把握する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27226/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35074/?quality=12&learn=on&captions=jpn)

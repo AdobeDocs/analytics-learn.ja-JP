@@ -23,6 +23,6 @@ ht-degree: 100%
 
 [!DNL Analytics for Target]（A4T）パネルを使用すると、[!UICONTROL Analysis Workspace] でリフトと信頼度を使用して Adobe Target のアクティビティとエクスペリエンスを分析できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326710/?quality=12&learn=on&captions=jpn)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html?lang=ja) を参照してください。

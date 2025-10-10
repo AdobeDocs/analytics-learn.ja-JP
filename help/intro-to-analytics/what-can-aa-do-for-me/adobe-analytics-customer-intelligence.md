@@ -21,6 +21,6 @@ ht-degree: 100%
 
 エクスペリエンス企業になるためには、データドリブン型マーケティングが重要です。 分析の成熟度を、データからインサイトさらにはアクションへと、新しいレベルに高めます。
 
->[!VIDEO](https://video.tv.adobe.com/v/31502/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36300/?quality=12&learn=on&captions=jpn)
 
 顧客をあらゆる角度から理解するためのアドビのサポートについて説明します：[https://adobe.ly/2CabND4](https://adobe.ly/2CabND4)

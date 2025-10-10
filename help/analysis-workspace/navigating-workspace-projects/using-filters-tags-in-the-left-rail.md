@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Analysis Workspace でフィルター（タグと呼ばれます）を使用する方法を説明します。これらは、プロジェクトを効率的に作成するのを支援する、時間節約テクニックです。
 
->[!VIDEO](https://video.tv.adobe.com/v/32959/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37015/?quality=12&learn=on&captions=jpn)
