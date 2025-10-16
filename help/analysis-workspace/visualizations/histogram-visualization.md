@@ -14,7 +14,7 @@ ht-degree: 15%
 
 ---
 
-# Analysis Workspaceでの [!UICONTROL &#x200B; ヒストグラム &#x200B;][!UICONTROL &#x200B; ビジュアライゼーション &#x200B;] {#histogram-visualization-in-analysis-workspace}
+# Analysis Workspaceでの [!UICONTROL &#x200B; ヒストグラム &#x200B;]&#x200B;[!UICONTROL &#x200B; ビジュアライゼーション &#x200B;] {#histogram-visualization-in-analysis-workspace}
 
 [!UICONTROL &#x200B; ヒストグラム &#x200B;] では、訪問者、訪問およびヒットにわたる指標の分布を視覚化して、価値の高いセグメントと価値の低いセグメントを見つけることができます。
 
