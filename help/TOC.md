@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics のビデオチュートリアルを視�
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 4beeaf5dc1fceb3397662516764a0160d539d6fd
+source-git-commit: e0e36746dcdad99bf20db0b5722d7ee8626f1288
 workflow-type: tm+mt
-source-wordcount: '2172'
-ht-degree: 88%
+source-wordcount: '2176'
+ht-degree: 87%
 
 ---
 
@@ -227,7 +227,7 @@ ht-degree: 88%
       + [部門横断的な働き方](administration/key-admin-skills/working-cross-functionally.md)
       + [正しい質問をしていますか？](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + 管理に関するヒントとベストプラクティス {#admin-tips}
-      + [&#x200B; 継承された実装プレイブックをダウンロードします。](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [ 継承された実装プレイブックをダウンロードします。](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
       + [データ辞書の監査](administration/admin-tips/audit-your-data-dictionary.md)
       + [標準化された命名規則の作成](administration/admin-tips/create-standardized-naming-conventions.md)
       + [標準化されたコードテンプレートの作成](administration/admin-tips/create-standardized-code-templates.md)
@@ -336,6 +336,7 @@ ht-degree: 88%
       + [分類セットの概要](components/classifications/introduction-to-classification-sets.md)
       + [分類セットの使用](components/classifications/use-classification-sets.md)
       + [分類セットデータの読み込み方法](components/classifications/classification-sets-data-import-methods.md)
+      + [分類セットジョブ履歴](components/classifications/classification-sets-job-history.md)
    + 仮想レポートスイート {#virtual-report-suites}
       + [仮想レポートスイートの概要](components/virtual-report-suites/virtual-report-suites.md)
       + [コンポーネントのキュレーション](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
