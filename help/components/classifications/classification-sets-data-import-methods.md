@@ -20,6 +20,6 @@ ht-degree: 11%
 
 分類セットを使用して分類データを読み込む様々な方法と、関連するユースケースについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475826/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475829/?captions=jpn&learn=on&enablevpops)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics/components/classifications/sets/overview){target="_blank"}を参照してください。

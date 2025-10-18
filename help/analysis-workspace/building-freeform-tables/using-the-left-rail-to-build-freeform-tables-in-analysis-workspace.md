@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Analysis Workspace の左側のパネルを使用した、フリーフォームテーブルでの項目の検索、作成および追加方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/40089/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475909/?captions=jpn&quality=12&learn=on)
