@@ -20,4 +20,4 @@ ht-degree: 0%
 
 分類セットデータのアップロードおよびダウンロードに関するジョブ履歴を確認します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476025/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476028/?captions=jpn&learn=on&enablevpops)
