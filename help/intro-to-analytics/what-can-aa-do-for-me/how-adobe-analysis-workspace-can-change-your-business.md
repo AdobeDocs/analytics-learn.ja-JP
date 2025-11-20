@@ -20,4 +20,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/31501/?quality=12&learn=on)
 
-[Adobe Analysis Workspace の詳細を学ぶ](https://business.adobe.com/products/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&mv=search)
+[Adobe Analysis Workspace の詳細を学ぶ](https://business.adobe.com/jp/products/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&mv=search)
