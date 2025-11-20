@@ -227,7 +227,7 @@ ht-degree: 87%
       + [部門横断的な働き方](administration/key-admin-skills/working-cross-functionally.md)
       + [正しい質問をしていますか？](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + 管理に関するヒントとベストプラクティス {#admin-tips}
-      + [&#x200B; 継承された実装プレイブックをダウンロードします。](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [ 継承された実装プレイブックをダウンロードします。](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
       + [データ辞書の監査](administration/admin-tips/audit-your-data-dictionary.md)
       + [標準化された命名規則の作成](administration/admin-tips/create-standardized-naming-conventions.md)
       + [標準化されたコードテンプレートの作成](administration/admin-tips/create-standardized-code-templates.md)
