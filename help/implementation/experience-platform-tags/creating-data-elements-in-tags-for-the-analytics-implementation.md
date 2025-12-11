@@ -7,10 +7,10 @@ activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3587
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: ee3a808a-f972-46e4-9213-2bc5bba6e0fd
-source-git-commit: 876f51fc1e048fdb4d65451e2c555f8fd55cadf4
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 このビデオでは、Solution Design Reference（SDR）ドキュメントで文書化された変数とイベントに基づいて、[!DNL tags] で Analytics 実装用データ要素を作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/31402/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12&learn=on)

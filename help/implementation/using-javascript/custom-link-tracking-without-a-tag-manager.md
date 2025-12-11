@@ -7,10 +7,10 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
-role: Developer, Data Engineer
+role: Developer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 100%
@@ -32,7 +32,7 @@ Adobe Analytics にデータを送信する関数は 2 つあります。
 >
 >このビデオでは、Adobe [!DNL Experience Platform Launch] などのタグマネージャーを使用していない場合に、カスタムリンクヒットをコード化する方法を説明します。実装に関するベストプラクティスのレコメンデーションである [!DNL Experience Platform Launch] を使用することをお勧めします。ただし、`s.tl()` でコード化する必要がある場合は、次の方法でコード化できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/34605/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12&learn=on)
 
 ## サンプルコード {#sample-code}
 

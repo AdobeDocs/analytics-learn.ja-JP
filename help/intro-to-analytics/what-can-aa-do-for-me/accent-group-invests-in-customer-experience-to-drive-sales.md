@@ -7,10 +7,10 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4386
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 86298461-5ced-4ef3-a820-4be0275fd7fe
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%

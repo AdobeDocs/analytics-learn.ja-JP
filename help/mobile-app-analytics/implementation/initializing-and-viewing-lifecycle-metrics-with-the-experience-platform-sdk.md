@@ -8,10 +8,10 @@ doc-type: technical video
 team: Technical Marketing
 kt: 2561
 topic: Mobile
-role: Developer, Data Engineer
+role: Developer
 level: Experienced
 exl-id: 8bcc2f31-fac6-45eb-84d8-0ad65779a369
-source-git-commit: 4d467928756950074620388645523021b21fb0d5
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 99%
@@ -22,6 +22,6 @@ ht-degree: 99%
 
 [!UICONTROL ライフサイクル] [!UICONTROL 指標]は、アプリユーザーに関する、そのまま使用できる有益な情報です。これらの[!UICONTROL 指標]には、デバイス情報、インストールまたはアップグレード情報、セッションの開始および一時停止時刻など、アプリユーザーのライフサイクルに関する情報が含まれています。 このビデオでは、アプリに[!UICONTROL ライフサイクル] [!UICONTROL 指標]を設定する方法と、デバッガーで結果を確認する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/328299/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/26258/?quality=12&learn=on)
 
 [!UICONTROL ライフサイクル] [!UICONTROL 指標] の詳細については、 [ドキュメント](https://developer.adobe.com/client-sdks/documentation/mobile-core/lifecycle/) を参照してください。

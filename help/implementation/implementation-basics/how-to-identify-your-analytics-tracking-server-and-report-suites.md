@@ -7,10 +7,10 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2358
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
-source-git-commit: 42bf16df9585d1f41206b81bf509a72c10f1d7f2
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 100%
@@ -41,4 +41,4 @@ Adobe Analytics を設定する際や、他の Experience Cloud ソリューシ�
 
 詳しくは、以下のビデオをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/40896/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/26061/?quality=12&learn=on)

@@ -2,13 +2,13 @@
 title: 分析とは
 description: Adobe Analytics について学ぶ前に、Analytics の基本を理解します。
 feature: Implementation Basics
-role: Developer, Architect, Data Architect, Data Engineer, Developer, Leader, User
+role: Developer, Developer, Leader, User
 level: Beginner
 kt: 10454
 thumbnail: null
 last-substantial-update: 2022-10-14T00:00:00Z
 exl-id: ba2959f0-b667-40f9-bc59-9364a9d83f19
-source-git-commit: 00abc8f2470e2199fdbee4e34f2cb8949a8918b1
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '758'
 ht-degree: 100%

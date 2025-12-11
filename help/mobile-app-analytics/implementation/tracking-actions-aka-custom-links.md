@@ -8,10 +8,10 @@ doc-type: technical video
 team: Technical Marketing
 kt: 2563
 topic: Mobile
-role: Developer, Data Engineer
+role: Developer
 level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
-source-git-commit: 4d467928756950074620388645523021b21fb0d5
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 99%
@@ -22,7 +22,7 @@ ht-degree: 99%
 
 アクションは、モバイルアプリで発生するイベントです。 このビデオでは、trackAction API を使用してアクションを追跡し測定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/328307/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/26268/?quality=12&learn=on)
 
 これは、サイト上の画面読み込み以外のすべてのアクションを追跡するために使用する必要がある APIです。 画面が表示される場合は、trackState を使用します。これは、ページビューヒットをトリガーします。それ以外の場合は、trackAction を使用して、実行中のアクションに関連付けられた変数を送信します。
 

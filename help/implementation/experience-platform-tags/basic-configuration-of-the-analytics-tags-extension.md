@@ -4,10 +4,10 @@ description: このビデオでは、基本的なサイトに対して Experienc
 feature: Tags
 topics: Development
 kt: 3586
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: 07fe5327-c8b8-48cb-a357-a0426ab8494c
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 86%
@@ -16,6 +16,6 @@ ht-degree: 86%
 
 # Experience Platform [!DNL tags] での Analytics 拡張機能の基本設定
 
-このビデオでは、基本的なサイトに対して Experience Platform [!DNL tags] の Analytics 拡張機能を設定する簡単な方法を説明します。詳しくは、[Adobe Analytics拡張機能の概要 &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=ja){target="_blank"} を参照してください。
+このビデオでは、基本的なサイトに対して Experience Platform [!DNL tags] の Analytics 拡張機能を設定する簡単な方法を説明します。詳しくは、[Adobe Analytics拡張機能の概要 ](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=ja){target="_blank"} を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428547/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/28751/?quality=12&learn=on)

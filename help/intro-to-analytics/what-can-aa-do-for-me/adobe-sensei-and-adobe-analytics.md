@@ -7,10 +7,10 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4383
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 4dda7501-43ae-4cc7-8b7e-c1f2bcd2950a
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 [!DNL Adobe Sensei] の活用で、Adobe Analytics がさらにインテリジェントになり、マーケターが顧客に関する有意義なインサイトを見つけやすくなります。このビデオでは、[!DNL Adobe Sensei] を活用した Adobe Analytics の主な機能（[!UICONTROL 異常値検出]、[!UICONTROL 貢献度分析]、[!UICONTROL インテリジェントアラート]、クラスタリング、[!UICONTROL Segment IQ]、傾向モデルなど）について詳しく説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/36304/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/31500/?quality=12&learn=on)
 
 [!DNL Adobe Sensei]の詳細については、[こちら](https://www.adobe.com/jp/sensei.html)を参照してください。

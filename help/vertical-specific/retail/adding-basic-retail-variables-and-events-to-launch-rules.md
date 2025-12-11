@@ -4,10 +4,10 @@ description: このビデオでは、で特別な製品文字列拡張機能を�
 feature: Tags
 topics: Development
 kt: 3592
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: cfddf957-20ca-4393-8a32-597f8a74a15f
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 3%
@@ -22,4 +22,4 @@ ht-degree: 3%
 >
 > Launch は **[!DNL tags]** になりました
 
->[!VIDEO](https://video.tv.adobe.com/v/31397/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12&learn=on)

@@ -9,11 +9,11 @@ team: Technical Marketing
 thumbnail: 25450.jpg
 kt: 2354
 topic: Integrations
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 badgeIntegration: label="統合" type="positive"
 exl-id: 5db98e46-c91e-4e24-9745-82e54d19152a
-source-git-commit: dd8bd00ee533126d77596e33915c666ccb591cd2
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 65%
@@ -24,7 +24,7 @@ ht-degree: 65%
 
 [!UICONTROL Audience Analytics] は、Audience Managerから [!DNL Analytics] までのセグメントをリアルタイムで共有し、オーディエンスの検出、セグメント化および最適化を知らせる統合です。
 
->[!VIDEO](https://video.tv.adobe.com/v/40733/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25450/?quality=12&learn=on)
 
 例えば、共有可能な [!UICONTROL セグメント] データには、サードパーティのデータプロバイダーからのデモグラフィックデータ、広告サーバーからのキャンペーンデータ（オフサイトインプレッションなど）、およびオンボードされた CRM データが含まれます。これは、DMPと分析エンジンの製品化された統合としては初めてのことです。
 

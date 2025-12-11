@@ -2,12 +2,12 @@
 title: Experience League LIVE イベント
 description: 以前の Experience League LIVE イベントへのリンクのコレクション
 type: Event
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 3c8c6737-3c42-4c87-8850-996798ccfda6
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 100%
@@ -93,4 +93,4 @@ Experience League LIVE のエピソードを見逃しましたか？ご安心く
 
 >[!TIP]
 >
->その他の学習方法については、無料の [コース](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning) と、個別の [チュートリアル](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
+>その他の学習方法については、無料の [コース](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) と、個別の [チュートリアル](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。

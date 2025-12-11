@@ -11,10 +11,10 @@ author: Doug Moore
 team: Technical Marketing
 kt: 2679
 topic: Administration
-role: Admin, Architect
+role: Admin, Developer
 level: Beginner
 exl-id: 39adbd25-da7f-4b7a-ae43-6681d675b46d
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
@@ -25,6 +25,6 @@ ht-degree: 100%
 
 このビデオでは、 [!UICONTROL 郵便番号] を設定し、この地域データに基づいて分析を実行する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35206/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12&learn=on)
 
 [!UICONTROL 郵便番号] の設定について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=ja) を参照してください。
