@@ -94,7 +94,7 @@ Analysis Workspace 内の任意の場所にオーディエンスを誘導する�
 >
 >**リクエストの多かった機能：** 複数のお客様から、プロジェクトをカスタムテンプレートとして保存できるようにしてほしいという要望がありました。今では、人気の機能の 1 つになっています。
 
-[Experience League に関するその他のヒントやコツを確認するには、ここをクリックしてください](https://experienceleague.adobe.com/?search=tips&lang=ja#recommended/solutions/analytics)
+[Experience League に関するその他のヒントやコツを確認するには、ここをクリックしてください](https://experienceleague.adobe.com/ja?search=tips&lang=ja#recommended/solutions/analytics)
 
 | 作成者について |            |
 |------------|------------|
