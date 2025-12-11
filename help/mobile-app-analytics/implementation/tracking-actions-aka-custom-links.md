@@ -22,7 +22,7 @@ ht-degree: 99%
 
 アクションは、モバイルアプリで発生するイベントです。 このビデオでは、trackAction API を使用してアクションを追跡し測定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/26268/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328307/?captions=jpn&quality=12&learn=on)
 
 これは、サイト上の画面読み込み以外のすべてのアクションを追跡するために使用する必要がある APIです。 画面が表示される場合は、trackState を使用します。これは、ページビューヒットをトリガーします。それ以外の場合は、trackAction を使用して、実行中のアクションに関連付けられた変数を送信します。
 

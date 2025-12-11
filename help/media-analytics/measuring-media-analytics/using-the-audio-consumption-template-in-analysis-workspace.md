@@ -21,6 +21,6 @@ ht-degree: 100%
 
 このビデオでは、[!DNL Audio Analytics] に標準搭載され、すぐに利用できる Analysis Workspace の [!UICONTROL オーディオ消費] テンプレートの概要を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23901/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37557/?captions=jpn&quality=12&learn=on)
 
 [!DNL Audio Analytics]は、リスナーのストリーミングオーディオエンゲージメントをデジタル行動全体と結びつけ、誰がどこで、いつ、どのくらいの頻度で聴いているかを把握し、一般的に断片化しているオーディオ市場におけるユーザーの行動を評価します。これにより、企業はリスナーのリーチ、コンテンツの人気、行動と類似モデリングに基づいてリスナーの関心を維持する方法を測定できます。

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 このビデオでは、Solution Design Reference（SDR）ドキュメントで文書化された変数とイベントに基づいて、[!DNL tags] で Analytics 実装用データ要素を作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31402/?captions=jpn&quality=12&learn=on)

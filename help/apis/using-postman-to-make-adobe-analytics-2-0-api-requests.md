@@ -21,6 +21,6 @@ ht-degree: 99%
 
 このビデオでは、API クライアントである [!DNL Postman] を設定して Adobe Analytics 2.0 API リクエストを送信する方法を紹介します。 これには、Adobe I/O 統合の設定（注：この設定をおこなうには Experience Cloud のシステム管理者の権限が必要です）やグローバル会社 ID の場所の設定などが含まれます。
 
->[!VIDEO](https://video.tv.adobe.com/v/25889/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40305/?captions=jpn&quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://developer.adobe.com/analytics-apis/docs/2.0/guides/use-cases/postman/) を参照してください。

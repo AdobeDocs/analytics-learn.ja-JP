@@ -19,4 +19,4 @@ ht-degree: 100%
 
 doPlugins 関数を使用するメリットと、Analytics 実装プラグインを追加してデータ収集を強化するメリットについて説明します。このビデオでは、コードを検索する場所と Experience Platform [!DNL tags] にコードを追加する場所について説明します。詳しくは、[doPlugins](https://experienceleague.adobe.com/docs/analytics/implementation/vars/functions/doplugins.html?lang=ja) および [Analytics 実装プラグイン](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=ja)のドキュメントを参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/28772/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428860/?captions=jpn&quality=12&learn=on)

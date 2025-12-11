@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Adobe Analytics で取得し分析する行動データを定義する際の重要な手順について説明します。自社のデジタルプロパティを訪問者がどのように使用しているかについて、ビジネスが把握すべき情報は何でしょうか？ 最初にこれらの要件を記述してから、Analytics のイベント、ディメンションおよび指標を使用して要件を取得する方法を決定します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31408/?captions=jpn&quality=12&learn=on)
 
 Excel のサンプルテンプレートを[ダウンロード](assets/aa_en_BRD_SDR_template.xlsx)して、デジタルプロパティの要件、変数の使用と割り当て、セグメント、データ収集デザインを文書化できます。
 

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 1000 億ドルの企業が展開する 70 億ドルの e コマースサイト [!DNL HomeDepot.com] は、適切な顧客体験を確実に提供することで、ライバル企業に先んじています。[!DNL Home Depot] がアドビのソリューションを使用して、パーソナライズされたカスタムのショッピングエクスペリエンスにより、ブランドのロイヤルティと顧客満足度を生み出した方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/31506/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36292/?captions=jpn&quality=12&learn=on)

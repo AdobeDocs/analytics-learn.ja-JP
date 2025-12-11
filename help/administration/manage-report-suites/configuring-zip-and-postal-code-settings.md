@@ -25,6 +25,6 @@ ht-degree: 100%
 
 このビデオでは、 [!UICONTROL 郵便番号] を設定し、この地域データに基づいて分析を実行する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35206/?captions=jpn&quality=12&learn=on)
 
 [!UICONTROL 郵便番号] の設定について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=ja) を参照してください。

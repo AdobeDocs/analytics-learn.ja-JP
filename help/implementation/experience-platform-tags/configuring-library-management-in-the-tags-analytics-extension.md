@@ -18,4 +18,4 @@ ht-degree: 88%
 
 Experience Platform [!DNL tags] での Analytics 拡張機能のライブラリ管理設定オプションについて説明します。このビデオでは、データ収集用のレポートスイートの選択についても説明します。詳しくは、[Adobe Analytics拡張機能の概要 &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=ja){target="_blank"} を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429832/?captions=jpn&quality=12&learn=on)

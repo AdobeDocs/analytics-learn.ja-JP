@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Experience Platform [!DNL tags] で開発からステージおよび実稼動環境にサイトの分析コードを公開する方法と、適切なデータを正しく受信するためのレポートスイートを設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429980/?captions=jpn&quality=12&learn=on)

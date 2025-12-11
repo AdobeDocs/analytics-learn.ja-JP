@@ -21,7 +21,7 @@ ht-degree: 100%
 
 このビデオでは、リクエストの作成と読み込み、データ形式の変更、 [!UICONTROL ビジュアライゼーション] の作成、オンラインサービスへの公開を通して、Adobe Analytics コネクタについて順を追って説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23130/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38406/?captions=jpn&quality=12&learn=on)
 
 ## その他のリソース {#additional-resources}
 

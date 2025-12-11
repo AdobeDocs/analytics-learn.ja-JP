@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!DNL Summit] 2019 のハイテク分野の「スーパーセッション」から厳選されたクリップをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/30548/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330377/?captions=jpn&quality=12&learn=on)

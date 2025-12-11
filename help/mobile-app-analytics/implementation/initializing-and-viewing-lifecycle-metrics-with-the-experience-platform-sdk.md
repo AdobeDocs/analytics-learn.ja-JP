@@ -22,6 +22,6 @@ ht-degree: 99%
 
 [!UICONTROL ライフサイクル] [!UICONTROL 指標]は、アプリユーザーに関する、そのまま使用できる有益な情報です。これらの[!UICONTROL 指標]には、デバイス情報、インストールまたはアップグレード情報、セッションの開始および一時停止時刻など、アプリユーザーのライフサイクルに関する情報が含まれています。 このビデオでは、アプリに[!UICONTROL ライフサイクル] [!UICONTROL 指標]を設定する方法と、デバッガーで結果を確認する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/26258/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328299/?captions=jpn&quality=12&learn=on)
 
 [!UICONTROL ライフサイクル] [!UICONTROL 指標] の詳細については、 [ドキュメント](https://developer.adobe.com/client-sdks/documentation/mobile-core/lifecycle/) を参照してください。

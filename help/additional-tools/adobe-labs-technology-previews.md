@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [!DNL Adobe Labs]（テクノロジープレビュー）を利用すると、新しいテクノロジーに触れ、有益なインサイトを発見し、将来の [!DNL Analytics] 機能の開発と優先順位に影響を与えることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/32841/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37006/?captions=jpn&quality=12&learn=on)
 
 [!DNL Labs] プロトタイプを使用すると、独自のビジネス用途やデータのコンテキスト内で機能を評価できます。
 

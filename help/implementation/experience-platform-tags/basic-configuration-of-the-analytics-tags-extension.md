@@ -18,4 +18,4 @@ ht-degree: 86%
 
 このビデオでは、基本的なサイトに対して Experience Platform [!DNL tags] の Analytics 拡張機能を設定する簡単な方法を説明します。詳しくは、[Adobe Analytics拡張機能の概要 &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=ja){target="_blank"} を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/28751/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428547/?captions=jpn&quality=12&learn=on)

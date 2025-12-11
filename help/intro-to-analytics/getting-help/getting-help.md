@@ -17,4 +17,4 @@ ht-degree: 100%
 
 遅かれ早かれ、Adobe Analytics でヘルプが必要な状況に遭遇します。このビデオでは、問題が発生してサポートが必要となったときにすぐに使える、優れたリソースをいくつか紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28753/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31415/?captions=jpn&quality=12&learn=on)
