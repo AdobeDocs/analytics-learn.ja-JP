@@ -5,9 +5,9 @@ breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: e0e36746dcdad99bf20db0b5722d7ee8626f1288
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2176'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 87%
 + [Analytics チュートリアル](overview.md)
 + Analytics の概要 {#intro-to-analytics}
    + [分析とは](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
-   + Adobe Analyticsは何に役立つか {#what-can-aa-do-for-me}
+   + Adobe Analytics は何に役立つか {#what-can-aa-do-for-me}
       + [Adobe Analysis Workspace でビジネスがどう変わるか](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
       + [単なるデータにとどまらず、顧客インテリジャンスを提供](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
       + [Adobe Sensei と Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
@@ -47,11 +47,11 @@ ht-degree: 87%
       + [ディメンションと指標の説明の追加](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [セキュリティの強化](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [ランディングページとしての Analysis Workspace プロジェクトの設定](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
-   + ヘルプ {#getting-help}
+   + ヘルプの利用 {#getting-help}
       + [Adobe Analytics でのヘルプの利用](intro-to-analytics/getting-help/getting-help.md)
       + [製品内サポートチケットの送信](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
 + Analysis Workspace {#analysis-workspace}
-   + Analysis Workspaceの基本 {#analysis-workspace-basics}
+   + Analysis Workspace の基本 {#analysis-workspace-basics}
       + [Analysis Workspace の簡単な紹介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace の概要](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [新しいランディングページのナビゲート](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
@@ -146,7 +146,7 @@ ht-degree: 87%
       + [100％積み重ねグラフビジュアライゼーション](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [テーブルとビジュアライゼーションのデータソース設定](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [時間分割ヒートマップの作成](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
-   + お客様のジャーニーの分析 {#analyzing-customer-journeys}
+   + カスタマージャーニーの分析 {#analyzing-customer-journeys}
       + [フォールアウトビジュアライゼーションの作成](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [フロービジュアライゼーションの作成](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
       + [フォールアウトとフローの併用](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
@@ -174,7 +174,7 @@ ht-degree: 87%
       + [コンバージョン変数（eVar）の概要](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
       + [フリーフォームテーブルでのディメンションの操作](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=ja)
    + カレンダーと日付範囲 {#calendar-and-date-ranges}
-      + [Analysis Workspaceでの日付の使用](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
+      + [Analysis Workspace での日付の使用](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [プロジェクトへの再利用可能な日付範囲の適用](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
       + [Analysis Workspace での日付範囲と日付比較の使用](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
       + [カスタム日付範囲の作成](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
@@ -227,7 +227,7 @@ ht-degree: 87%
       + [部門横断的な働き方](administration/key-admin-skills/working-cross-functionally.md)
       + [正しい質問をしていますか？](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + 管理に関するヒントとベストプラクティス {#admin-tips}
-      + [&#x200B; 継承された実装プレイブックをダウンロードします。](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [実装プレイブックをダウンロードします。](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
       + [データ辞書の監査](administration/admin-tips/audit-your-data-dictionary.md)
       + [標準化された命名規則の作成](administration/admin-tips/create-standardized-naming-conventions.md)
       + [標準化されたコードテンプレートの作成](administration/admin-tips/create-standardized-code-templates.md)
@@ -236,23 +236,23 @@ ht-degree: 87%
       + [グローバルレポートスイートの使用](administration/admin-tips/use-a-global-report-suite.md)
       + [ニュースとお知らせのプロジェクトを作成](administration/admin-tips/create-a-news-and-announcements-project.md)
       + [エグゼクティブサマリダッシュボードで成功を推進](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
-      + [運用ダッシュボードの作成](administration/admin-tips/create-operational-dashboards.md)
-   + カンパニー設定 {#company-settings}
+      + [操作ダッシュボードの作成](administration/admin-tips/create-operational-dashboards.md)
+   + 会社設定 {#company-settings}
       + [メールドメイン制限の適用](administration/company-settings/enforce-email-domain-restrictions.md)
       + [アカウントで利用可能な機能を表示する](administration/company-settings/view-your-accounts-available-features.md)
    + ユーザー管理 {#user-management}
-      + [Adobe Analyticsへの管理者の追加](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
+      + [Adobe Analytics への管理者の追加](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [製品プロファイルの作成](administration/user-management/create-product-profiles.md)
-      + [Admin Consoleでのレポートスイートへのアクセスの制限](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
+      + [Admin Console でのレポートスイートへのアクセス制限](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [ユーザーアセットを別のユーザーに転送する](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [ログインの問題を防ぐために、リンクされた IMS ID を確認する](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + レポートスイートの管理 {#manage-report-suites}
-      + [一般的なアカウント設定の指定](administration/manage-report-suites/configuring-general-account-settings.md)
+      + [一般的なアカウントの設定](administration/manage-report-suites/configuring-general-account-settings.md)
       + [カレンダー設定のカスタマイズ](administration/manage-report-suites/customize-calendar-settings.md)
       + [有料検索検知の設定](administration/manage-report-suites/configure-paid-search-detection.md)
       + [マーケティングチャネルを設定](administration/manage-report-suites/set-up-marketing-channels.md)
       + [マーケティングチャネルの処理ルールを作成](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
-      + [処理ルールを使用して受信データを操作する](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
+      + [処理ルールを使用した受信データの操作](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [トラフィック変数（prop）の設定](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [トラフィック分類を設定](administration/manage-report-suites/configure-traffic-classifications.md)
       + [階層変数を設定](administration/manage-report-suites/configure-hierarchy-variables.md)
@@ -270,7 +270,7 @@ ht-degree: 87%
       + [サーバーコールの使用状況](administration/traffic-management/server-call-usage.md)
       + [今後のトラフィックスパイクの管理](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
    + ログ{#logs}
-      + [Analysis Workspaceの使用状況ログトラッキング](administration/logs/usage-log-tracking-for-analysis-workspace.md)
+      + [Analysis Workspace の使用状況ログトラッキング](administration/logs/usage-log-tracking-for-analysis-workspace.md)
       + [Analytics 管理ログの概要](administration/logs/overview-of-analytics-admin-logs.md)
 + 実装 {#implementation}
    + 実装の基本 {#implementation-basics}
@@ -297,7 +297,7 @@ ht-degree: 87%
       + [特別ページ用のルールの作成](implementation/experience-platform-tags/creating-tags-rules-for-special-pages.md)
       + [成功イベント用のルールの作成](implementation/experience-platform-tags/creating-tags-rules-for-success-events.md)
       + [ステージング環境および実稼動環境へのタグライブラリの公開](implementation/experience-platform-tags/publishing-tags-libraries-to-stage-and-production.md)
-   + JavaScriptの使用 {#using-javascript}
+   + JavaScript の使用 {#using-javascript}
       + [タグマネージャーを使用しないカスタムリンクトラッキング](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [Experience Platform Launch を使用しない場合の AppMeasurement の更新](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
 + コンポーネント {#components}
@@ -344,8 +344,8 @@ ht-degree: 87%
       + [任意のイベントでの新しい訪問の開始](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map {#activity-map}
       + [Activity Map の概要](components/activity-map/activity-map-overview.md)
-      + [Activity Mapの有効化、デバッグ、カスタマイズ](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
-+ 追加ツール {#additional-tools}
+      + [Activity Map の有効化、デバッグ、カスタマイズ](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
++ その他のツール {#additional-tools}
    + [Adobe Labs（技術プレビュー）](additional-tools/adobe-labs-technology-previews.md)
    + Analytics ダッシュボード {#analytics-dashboards}
       + [Adobe Analytics ダッシュボードのスコアカードビルダー](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
@@ -354,7 +354,7 @@ ht-degree: 87%
       + [Analytics ダッシュボードのアプリ内エクスペリエンス](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
       + [カスタム詳細ビューの作成](additional-tools/analytics-dashboards/create-custom-detail-views.md)
       + [Analytics ダッシュボード用データストーリー](additional-tools/analytics-dashboards/data-stories-for-analytics-dashboards.md)
-+ エクスポート {#exporting}
++ 書き出し中 {#exporting}
    + UI から {#from-the-ui}
       + [Analysis Workspace から CSV への書き出し](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
@@ -387,16 +387,16 @@ ht-degree: 87%
    + Adobe Advertising DSP {#adobe-advertising-dsp}
       + [Advertising Analytics の設定](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [検索エンジンへのトラッキングテンプレートの実装](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
-      + [Adobe Advertising DSP統合の概要](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
-      + [ローンチ前のキャンペーン分析の作成](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
+      + [Adobe Advertising DSP 統合の概要](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
+      + [キャンペーン開始前分析の作成](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
       + [Advertising DSP マーケティングチャネルに関するレポート](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
       + [Analytics サイトのジャーニープロファイルの作成](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
       + [アクティベーションおよびレポート用の Analytics セグメントの作成](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
-      + [Adobe Analyticsを使用したAdvertising DSP アラートの作成](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
+      + [Adobe Analytics での Advertising DSP アラートの作成](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
       + [Advertising DSP データを使用した Analytics カスタム指標の作成](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
-      + [Advertising DSP サイト入口レポートの作成](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
+      + [Advertising DSP サイトエントリレポートの作成](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
       + [Advertising DSP ダッシュボードの作成](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
-   + Ad Hoc Analytics {#ad-hoc-analytics}
+   + アドホック分析 {#ad-hoc-analytics}
       + [プロジェクトコンバーターを使用した Ad Hoc Analysis から Analytics Workspace へのプロジェクトの移行](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
    + Power BI {#power-bi}
       + [Power BI での Adobe Analytics コネクタ](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
@@ -408,7 +408,7 @@ ht-degree: 87%
    + [Analysis Workspace での貢献度分析](data-science/contribution-analysis-workspace.md)
    + [インテリジェントアラート](data-science/intelligent-alerts.md)
    + [Adobe Analytics と Adobe Sensei - すべてのユーザーが利用できるデータサイエンス](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
-+ 垂直固有 {#vertical-specific}
++ 業種別 {#vertical-specific}
    + ハイテク {#high-tech}
       + [Summit 2019 スーパーセッション - ハイテク分野](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html?lang=ja)
    + 旅行およびホスピタリティ {#travel-and-hospitality}
@@ -431,7 +431,7 @@ ht-degree: 87%
       + [iOS Swift アプリでの実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=ja)
       + [iOS Objective-C アプリでの実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=ja)
       + [Android アプリでの実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=ja)
-   + Mobile Analytics の測定 {#measuring-mobile-analytics}
+   + モバイル分析の測定 {#measuring-mobile-analytics}
       + [Adobe Mobile Analytics 使用の手引き](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [モバイルジャーニー全体でのタッチポイントの影響](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [各種チャネルでのユーザー行動の分析](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
@@ -440,7 +440,7 @@ ht-degree: 87%
    + [Analysis Workspace を使用した API 2.0 リクエストの作成](apis/using-analysis-workspace-to-build-api-2-requests.md)
    + [Report Builder を使用した Adobe Analytics API の学習](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=ja)
    + [Postman を使用した Adobe Analytics 2.0 API リクエストの実行](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
-+ Analysis の使用例 {#analysis-use-cases}
++ Analytics のユースケース {#analysis-use-cases}
    + 内部サイト検索 {#internal-site-search}
       + [内部サイト検索のビジネス要件の定義](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
       + [AppMeasurement を使用した内部検索変数の実装](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
