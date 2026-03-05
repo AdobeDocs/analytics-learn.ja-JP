@@ -16,9 +16,9 @@ ht-degree: 57%
 
 ---
 
-# [!UICONTROL  データフィード ] を作成および管理する {#data-feeds-management-ui}
+# [!UICONTROL &#x200B; データフィード &#x200B;] を作成および管理する {#data-feeds-management-ui}
 
-Adobe Analytics[!UICONTROL  データフィード ] を使用すると、生のクリックストリームデータを書き出して、Adobe Analytics外の他のデータソースに読み込み、それらと結合できます。 Adobe Analytics内で独自の [!UICONTROL  データフィード ] を作成および管理できます。 このビデオでは、その方法を説明します。
+Adobe Analytics[!UICONTROL &#x200B; データフィード &#x200B;] を使用すると、生のクリックストリームデータを書き出して、Adobe Analytics外の他のデータソースに読み込み、それらと結合できます。 Adobe Analytics内で独自の [!UICONTROL &#x200B; データフィード &#x200B;] を作成および管理できます。 このビデオでは、その方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12&learn=on)
 
