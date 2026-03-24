@@ -2,20 +2,22 @@
 cloud: Experience Cloud
 product: analytics
 feature-set: Analytics
+landing-page-name: analytics
+landing-page-breadcrumb-title: Analytics
 solution-title: Analytics
-solution-hub-url: https://helpx.adobe.com/jp/support/analytics.html
+solution-hub-url: https://helpx.adobe.com/support/analytics.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/jp/analytics/get-started.html
+getting-started-url: https://helpx.adobe.com/analytics/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://guided.adobe.com/#recommended/solutions/analytics
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/analytics-learn.ja-JP
 index: true
 type: Tutorial
-source-git-commit: e2816cdec9a045b6f181340b4d6b098d44b7dc14
+source-git-commit: c48e314a4f139c131314958952cfd30ae7a4f115
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 96%
+source-wordcount: '128'
+ht-degree: 99%
 
 ---
 
