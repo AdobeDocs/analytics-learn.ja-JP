@@ -7,6 +7,6 @@ ht-degree: 11%
 ---
 # analytics-learn.en
 
-Analytics 向けの共同チュートリアルとイネーブルメント資料
+Adobe Analyticsのコラボレーションチュートリアルとイネーブルメント資料
 
 [foo] (bar)
