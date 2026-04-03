@@ -1,12 +1,10 @@
 ---
-source-git-commit: fd9f28514f1afa5fce3c11b7a089a0b792fe1279
+source-git-commit: f14c54baeb4378f4a613a650d6b9474d613159ab
 workflow-type: tm+mt
-source-wordcount: '9'
-ht-degree: 11%
+source-wordcount: '7'
+ht-degree: 0%
 
 ---
-# analytics-learn.en
+# アーカイブ
 
-Analytics 向けの共同チュートリアルとイネーブルメント資料
-
-[foo] (bar)
+このリポジトリは<https://github.com/Adobe-Enterprise-Docs/analytics-learn.en>に移行されました。
