@@ -9,4 +9,4 @@ ht-degree: 11%
 
 Adobe Analyticsのコラボレーションチュートリアルとイネーブルメント資料
 
-[foo](bar)
+[foo] (bar)
