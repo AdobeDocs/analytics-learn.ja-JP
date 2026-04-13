@@ -5,9 +5,8 @@ feature: Analytics Basics
 role: Leader
 level: Intermediate
 hide: true
-hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
+source-git-commit: 4b4600cb7bae5c546a9e8cd4d7241e334b681387
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 79%
@@ -16,7 +15,7 @@ ht-degree: 79%
 
 # Adobe Analytics 教育用カリキュラム
 
->[!VIDEO](https://video.tv.adobe.com/v/3443846/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3443846/?captions=jpn&quality=12&learn=on)
 
 ## Analytics コースのコンテンツ
 
@@ -24,18 +23,18 @@ ht-degree: 79%
 
 ### 準備に役立つ新しいコース
 
-分析カリキュラムの学習と指導に備え、Adobe Education Exchangeで新しいコースを開始しました。このコースで指導方法を学べる基本的な概念については、以下に概要を説明します。 このコースから始めることをお勧めします。このコースを受講することで、4 つ以上のコアモジュールについて生徒を教育する準備が整います。
+そこで、Adobe Adobe Education Exchangeの新しいコースを開設し、アナリティクスのカリキュラムを習得および指導するために、以下のコアコンセプトをすべて学ぶことができます。 このコースを開始して、4つのコアモジュールとそれ以降のモジュールについて学生を教育する準備ができていることを確認することをお勧めします。
 
 コースへの登録はこちらから：[https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning](https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning)
 
-### 学習内容：
+### 主な内容：
 
 *DATAで開始：*
 
 * データ収集モジュール（1）：データの実装、収集、レポート、および検証のフレームワーク
 * データ戦略とアーキテクチャモジュール（2）：データ変数、戦略、およびアーキテクチャの基本
 
-*次に、この DATA と INSIGHTS を組み合わせます。*
+*次に、そのデータとインサイトを組み合わせます：*
 
 * 標準アドビ指標および機能モジュール（3）：重要な分析 KPI 指標およびレポートにアクセスし、表示する方法
 * Analysis Workspace 基本モジュール（4）：分析レポートの視覚化による高度化
