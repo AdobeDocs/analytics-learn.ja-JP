@@ -7,9 +7,8 @@ level: Beginner
 doc-type: article
 kt: 9167
 hide: true
-hidefromtoc: true
 exl-id: 0d7f8185-817c-4474-9655-a867beb7d454
-source-git-commit: a4cfd7ce71ff32976451b52fc51fe9c56a3dad9c
+source-git-commit: 4b4600cb7bae5c546a9e8cd4d7241e334b681387
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 100%
@@ -29,7 +28,7 @@ ht-degree: 100%
 ビジネスユーザー、ビジネスプラクショナー、またはその他の同様の役割を担っている場合は、次のコースを受講して、Analysis Workspace をうまく活用するための基礎を習得することをお勧めします。
 
 1. [Analysis Workspace を使い始める](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&lang=ja)
-1. [フリーフォームテーブル、分析の基盤](https://experienceleague.adobe.com/?lang=ja&recommended=Analytics-U-1-2020.3)
+1. [フリーフォームテーブル、分析の基盤](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
 1. [ビジュアライゼーションを使用したデータストーリーの把握](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&lang=ja)
 1. [カスタマージャーニーにおけるデジタルタッチポイントへの価値の関連付け](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&lang=ja)
 

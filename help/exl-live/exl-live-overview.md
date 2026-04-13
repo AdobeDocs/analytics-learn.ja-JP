@@ -5,9 +5,8 @@ type: Event
 role: User, Developer, Admin, Leader
 level: Beginner
 hide: true
-hidefromtoc: true
 exl-id: 3c8c6737-3c42-4c87-8850-996798ccfda6
-source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
+source-git-commit: 4b4600cb7bae5c546a9e8cd4d7241e334b681387
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 100%
@@ -93,4 +92,4 @@ Experience League LIVE のエピソードを見逃しましたか？ご安心く
 
 >[!TIP]
 >
->その他の学習方法については、無料の [コース](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning) と、個別の [チュートリアル](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
+>その他の学習方法については、無料の [コース](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) と、個別の [チュートリアル](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
