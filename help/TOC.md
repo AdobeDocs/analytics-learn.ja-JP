@@ -3,11 +3,12 @@ user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
 solution: Analytics
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
 auto-video-transcripts: true
-source-git-commit: 7f3b8f3da6d6d98d49735d00258665f0a47412b0
+source-git-commit: 4904f7059495d0f4d8780360f7abe9396087d968
 workflow-type: tm+mt
-source-wordcount: '2177'
-ht-degree: 99%
+source-wordcount: 2607
+ht-degree: 96%
 
 ---
 
@@ -19,7 +20,7 @@ ht-degree: 99%
    + [分析とは](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
    + Adobe Analytics は何に役立つか {#what-can-aa-do-for-me}
       + [Adobe Analysis Workspace でビジネスがどう変わるか](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
-      + [単なるデータにとどまらず、顧客インテリジャンスを提供](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
+      + [単なるデータにとどまらず、 顧客インテリジャンスを提供](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
       + [Adobe Sensei と Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
       + [顧客の使用事例 - ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
       + [顧客の使用事例 - Accent Group](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
@@ -38,7 +39,7 @@ ht-degree: 99%
       + [Analytics データの収集方法](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Adobe Analytics へのログイン](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [レポートスイートの理解と作成](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [基本的な訪問者指標について](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=ja)
+      + [基本訪問者指標について](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=ja)
       + [トラフィック変数（prop）の概要](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=ja)
       + [コンバージョン変数（eVar）の概要](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=ja)
       + [コンバージョンイベントの概要](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=ja)
@@ -107,9 +108,9 @@ ht-degree: 99%
       + [フリーフォームテーブルの行および列設定](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [フリーフォームテーブルの合計](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
       + [フリーフォームテーブルビルダーの使用](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
-      + [右クリックでのワークスペースの効率性の確認](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html?lang=ja)
+      + [右クリックでワークスペースの効率を向上](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html?lang=ja)
       + [静的行の並べ替え](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
-      + [フリーフォームテーブルでの Attribution IQ の使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=ja)
+      + [フリーフォームテーブルでのAttribution IQの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=ja)
       + [クロスセル分析](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [フリーフォームテーブルフィルター](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [時間分割ディメンション](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
@@ -154,7 +155,7 @@ ht-degree: 99%
    + セグメントの適用 {#applying-segments}
       + [Analysis Workspace プロジェクトへのセグメントの適用](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [アドホックセグメントの適用](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
-      + [セグメントでの様々な Attribution IQ モデルの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=ja)
+      + [セグメントと様々なAttribution IQモデルを使用する](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=ja)
       + [パネル用のセグメントの選択](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html?lang=ja)
       + [Analysis Workspace のディメンションとしてのセグメントの使用](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Analysis Workspace でのセグメントを使用したデータの制限](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
@@ -280,7 +281,7 @@ ht-degree: 99%
       + [ビジネス要件ドキュメントを作成](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [SDR の作成と保守](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Experience Platform タグ {#experience-platform-tags}
-      + [タグを使用した Web サイトへの Experience Cloud ソリューションの実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=ja)
+      + [タグを使用したweb サイトへのExperience Cloud ソリューションの実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=ja)
       + [Analytics 拡張機能の基本設定](implementation/experience-platform-tags/basic-configuration-of-the-analytics-tags-extension.md)
       + [Analytics 拡張機能でのライブラリ管理の設定](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
       + [Analytics 拡張機能での一般設定の指定](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
@@ -308,9 +309,9 @@ ht-degree: 99%
       + [Analysis Workspace におけるセグメント比較](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [セグメントコンテナ](components/segmentation/segment-containers.md)
       + [セグメントの管理と共有](components/segmentation/segment-management-and-sharing.md)
-      + [Analysis Workspace でのセグメントの適用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html?lang=ja)
-      + [ディメンションとしてセグメントを使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=ja)
-      + [セグメントを使用したデータの制限](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=ja)
+      + [Analysis Workspaceでのセグメントの適用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html?lang=ja)
+      + [セグメントをディメンションとして使用する](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=ja)
+      + [セグメントを使用したデータ制限](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=ja)
       + [セグメントビルダーとクイックセグメントの違い](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
       + [順次セグメント化](components/segmentation/sequential-segmentation.md)
       + [順次セグメント化での前後のシーケンス](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
@@ -428,8 +429,8 @@ ht-degree: 99%
       + [Experience Platform SDK を使用したライフサイクル指標の初期化と表示](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
       + [アクション（カスタムリンク）のトラッキング](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [ステート（ページまたは画面）のトラッキング](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
-      + [iOS Swift アプリでの実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=ja)
-      + [iOS Objective-C アプリでの実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=ja)
+      + [IOS Swift Appsでの実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=ja)
+      + [IOS Objective-C Appsでの実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=ja)
       + [Android アプリでの実装](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=ja)
    + モバイル分析の測定 {#measuring-mobile-analytics}
       + [Adobe Mobile Analytics 使用の手引き](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
@@ -448,6 +449,6 @@ ht-degree: 99%
       + [Web SDK 変数の Adobe Analytics へのマッピング](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
       + [内部サイト検索レポートの設定](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [市場内郵便番号分析の設定](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
-+ {hide-from-toc}[Analytics 大学向けカリキュラム](analytics-university/curriculum.md)
++ {hide-from-toc}[Analytics大学のカリキュラム ](analytics-university/curriculum.md)
 + {hide-from-toc}[Experience League LIVE](exl-live/exl-live-overview.md)
 + {hide-from-toc}[ビジネスユーザー向け Analytics 入門は廃止されました](retired-courses/retire-fundamentals-for-business-users-course.md)
