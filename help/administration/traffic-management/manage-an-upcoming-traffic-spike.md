@@ -1,6 +1,6 @@
 ---
 title: 今後のトラフィックスパイクの管理
-description: Adobe は、高トラフィックのイベントが成功するよう、クライアントとの提携を試みます。トラフィックスパイクのスケジュールを設定することは、パートナープロセスの出発点となります。「スパイクのスケジュール」セクションでは、一時的なトラフィックスパイクをアドビに警告し、その処理に適切なリソースに割り当てることができるようにします。
+description: Adobe は、高トラフィックのイベントが成功するよう、クライアントとの提携を試みます。 トラフィックスパイクのスケジュールを設定することは、パートナープロセスの出発点となります。 「スパイクのスケジュール」セクションでは、一時的なトラフィックスパイクをアドビに警告し、その処理に適切なリソースに割り当てることができるようにします。
 feature: Data Configuration and Collection, Report Suite Settings
 topic: Collaboration
 role: User
@@ -9,15 +9,30 @@ doc-type: feature video
 thumbnail: 335744.jpg
 kt: KT-8462
 exl-id: fd28c2dc-4f4e-430a-a88b-42e44e3e6dda
-source-git-commit: 718884d5e452d4bd1de7f3bad441451ced7d71a6
+TQID: https://experienceleague.adobe.com/dR9aG-Xxn9szHjRMbO0HFDM-RUIuLi3R6xJazU-tW9c
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: b8734a57-d5fb-44a8-8ee1-65225cecaeae
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2:
+  - id: f52db89b-2666-4cad-9c50-9da4d3ffcfd0
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: 106
 ht-degree: 100%
 
 ---
 
 # 今後のトラフィックスパイクの管理
 
-Adobe は、高トラフィックのイベントが成功するよう、クライアントとの提携を試みます。トラフィックスパイクのスケジュールを設定することは、パートナープロセスの出発点となります。「スパイクのスケジュール」セクションでは、一時的なトラフィックスパイクをアドビに警告し、その処理に適切なリソースに割り当てることができるようにします。
+Adobe は、高トラフィックのイベントが成功するよう、クライアントとの提携を試みます。 トラフィックスパイクのスケジュールを設定することは、パートナープロセスの出発点となります。 「スパイクのスケジュール」セクションでは、一時的なトラフィックスパイクをアドビに警告し、その処理に適切なリソースに割り当てることができるようにします。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335744/?quality=12&learn=on)

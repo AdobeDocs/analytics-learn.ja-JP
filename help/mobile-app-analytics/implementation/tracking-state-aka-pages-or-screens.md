@@ -11,10 +11,18 @@ topic: Mobile
 role: Developer
 level: Experienced
 exl-id: e58f7e86-dc61-44eb-a44e-fe5e984d8248
-source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
+TQID: https://experienceleague.adobe.com/DjaqAKtHZ0s8C-cq4n3a6ObumLdqNxyy3Muu1MxaafE
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 99%
+source-wordcount: 174
+ht-degree: 90%
 
 ---
 

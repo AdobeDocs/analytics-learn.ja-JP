@@ -1,6 +1,6 @@
 ---
 title: Analytics ビデオおよびチュートリアル
-description: Adobe Analytics を最大限に活用しましょう。これらのチュートリアルを使用して Analytics の機能を習得し、ビジネスにとってのメリットを享受しましょう。このコンテンツは、管理者、データアナリスト、マーケター、開発者およびアーキテクトに適しています。
+description: Adobe Analytics を最大限に活用しましょう。 これらのチュートリアルを使用して Analytics の機能を習得し、ビジネスにとってのメリットを享受しましょう。 このコンテンツは、管理者、データアナリスト、マーケター、開発者およびアーキテクトに適しています。
 feature: Analytics Basics
 role: User, Developer, Admin, Leader
 level: Beginner
@@ -8,18 +8,31 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
-workflow-type: ht
-source-wordcount: '244'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/PVoMtD-YUX-UEfx-O3xvK5XYHpcX6TNkOMto4Kah3LE
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2:
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+workflow-type: tm+mt
+source-wordcount: 249
+ht-degree: 94%
 
 ---
 
-
-
 # Analytics チュートリアル
 
-[!DNL Adobe Analytics] を最大限に活用しましょう。これらのチュートリアルを使用して Analytics の機能を習得し、ビジネスにとってのメリットを享受しましょう。このコンテンツは、管理者、データアナリスト、マーケター、開発者およびアーキテクトに適しています。
+[!DNL Adobe Analytics] を最大限に活用しましょう。 これらのチュートリアルを使用して Analytics の機能を習得し、ビジネスにとってのメリットを享受しましょう。 このコンテンツは、管理者、データアナリスト、マーケター、開発者およびアーキテクトに適しています。
 
 開始するには、Dynamic Tag Management アカウントで
 
@@ -28,7 +41,7 @@ ht-degree: 100%
 * **左側のナビゲーション**&#x200B;でトピックとサブトピック別のコンテンツをご覧ください。
 * 検索対象がわかっている場合は、ページ上部の「**検索**」フィールドを使用します。
 
-コースセクションでは、役割別およびスキルレベル別にキュレーションされた学習体験も用意しています。Adobe ID を使用してログインし、上部ナビゲーションで&#x200B;**学ぶ／おすすめのコース**&#x200B;に移動します。
+コースセクションでは、役割別およびスキルレベル別にキュレーションされた学習体験も用意しています。 Adobe ID を使用してログインし、上部ナビゲーションで&#x200B;**学ぶ／おすすめのコース**&#x200B;に移動します。
 
 
 <div id="recs-overview-body-1"></div>
@@ -50,7 +63,7 @@ ht-degree: 100%
     </a>
     <div>
       <a href="analysis-workspace/attribution-iq/algorithmic-model-in-attribution-iq.md">
-    <strong>Attribution IQ のアルゴリズムモデル</strong>
+    <strong>Attribution IQのアルゴリズムモデル </strong>
     </a>
     </div>
     <p>
@@ -63,7 +76,7 @@ ht-degree: 100%
     </a>
     <div>
       <a href="analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md">
-    <strong>Analysis Workspace のトレーニングチュートリアルテンプレート</strong>
+    <strong>Analysis Workspaceのチュートリアル テンプレート </strong>
     </a>
     </div>
     <p>
@@ -76,7 +89,7 @@ ht-degree: 100%
     </a>
     <div>
       <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
-    <strong>Analysis Workspace の概要</strong>
+    <strong>Analysis Workspaceの概要</strong>
     </a>
     </div>
     <p>
