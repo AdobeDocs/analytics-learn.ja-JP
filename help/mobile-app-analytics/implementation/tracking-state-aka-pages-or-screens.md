@@ -11,10 +11,14 @@ topic: Mobile
 role: Developer
 level: Experienced
 exl-id: e58f7e86-dc61-44eb-a44e-fe5e984d8248
-source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
+TQID: https://experienceleague.adobe.com/DjaqAKtHZ0s8C-cq4n3a6ObumLdqNxyy3Muu1MxaafE
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 99%
+source-wordcount: 174
+ht-degree: 90%
 
 ---
 
@@ -22,6 +26,6 @@ ht-degree: 99%
 
 ステートは、アプリ内の画面またはビューを表します。 アプリケーションに新しいステートが表示されるたびに（例えば、ユーザーがホームページからニュースフィードに移動するとき）、`trackState` を呼び出して、ステート名（[!DNL Analytics] のページ名）に加え、追加のデータを送信できます。 このビデオでは、その方法について順を追って説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/328315/?captions=jpn&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/26260/?quality=12&learn=on)
 
 trackState の詳細情報については、 [ドキュメント](https://developer.adobe.com/client-sdks/documentation/getting-started/track-events/#track-app-states-and-screens-for-adobe-analytics) を参照してください。

@@ -1,26 +1,32 @@
 ---
 title: 基本的な訪問者指標について
-description: Adobe Analyticsでのページビュー数、訪問回数、訪問者数について説明します。 Web サイトのトラフィックを理解するのに役立つ基本的な訪問者指標のinsightを把握します。
+description: Adobe Analyticsのページビュー、訪問者数、訪問者数について説明します。 Insightで、web サイトのトラフィックを把握するための基本的な訪問者指標を確認できます。
 feature: Metrics
 kt: 3575
 role: User
 level: Beginner
 exl-id: efc12fc6-c031-4c50-832a-786c84e76151
-source-git-commit: 5ca8c7350ccda400ebdc52d161b5a6afe69fb333
+TQID: https://experienceleague.adobe.com/lwqkQsD286v-gyTX-JXJEXXT9yjNOkT462ImiVmrSEo
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b3f03848-ae12-48b2-8aab-cad18567eb32
+subfeature_v2: id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 11%
+source-wordcount: 114
+ht-degree: 23%
 
 ---
 
 # 基本的な訪問者指標について
 
-Adobe Analyticsの [[!UICONTROL &#x200B; ページビュー数 &#x200B;]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=ja)、[[!UICONTROL &#x200B; 訪問回数 &#x200B;]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=ja) および [[!UICONTROL &#x200B; 訪問者数 &#x200B;]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=ja) について説明します。
+Adobe Analyticsの[[!UICONTROL  ページビュー]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en)、[[!UICONTROL 訪問]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=ja)、および[[!UICONTROL 訪問者]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=ja)について説明します。
 
-* これらの基本的な訪問指標の定義を取得し、その類似点と相違点について学びます。
+* これらの基本的な訪問の指標の定義を取得し、それらの類似点と相違点について説明します。
 
-* 訪問者指標や web サイトトラフィックに関連する様々な用語（同義語またはキーワード）について説明します。
+* 訪問者の指標やWeb サイトのトラフィックに関連する様々な用語（類義語またはキーワード）について説明します。
 
-* インターフェイスでこれらの指標がどのように表示されるかを示すサンプル [!UICONTROL Workspace] プロジェクトを表示します。
+* これらの指標がインターフェイスでどのように表示されるかを示すサンプル [!UICONTROL Workspace] プロジェクトを表示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/31413/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)

@@ -10,9 +10,13 @@ kt: 2905
 role: User
 level: Intermediate
 exl-id: 73cb28d8-1078-4d70-a4ce-76427c550fc3
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
+TQID: https://experienceleague.adobe.com/lwHtIqV2yrrbSLgxaS-UzxP41zHpAfITut5FzXwHltw
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: 50
 ht-degree: 100%
 
 ---
@@ -21,4 +25,4 @@ ht-degree: 100%
 
 製品ロードマップの優先順位付けに役立つ、様々な音声アシストデバイスの異なるパフォーマンスと機能を理解する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35072/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/27225/?quality=12&learn=on)

@@ -9,10 +9,17 @@ doc-type: article
 thumbnail: 10533.jpg
 kt: 10533
 exl-id: 60307702-9348-48b5-8364-49e90946d793
-source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
+TQID: https://experienceleague.adobe.com/FHP2g7O-C2xHI3iKNm0eZOybd7zxfjGNuwTZwE4GozE
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b3f03848-ae12-48b2-8aab-cad18567eb32
+subfeature_v2: id: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '321'
-ht-degree: 85%
+source-wordcount: 351
+ht-degree: 84%
 
 ---
 
@@ -22,7 +29,7 @@ ht-degree: 85%
 
 **理由：**&#x200B;これにより、AA 管理者の時間が節約され、一人が他のメンバーのトレーニングを担当するという依存関係をなくし、新規ユーザーが自分のペースで自己啓発を行うことができます。
 
-**方法：**&#x200B;組織やビジネスユーザーに最も関連のあるトピックを選択し、短いトレーニングビデオを時間をかけて録画します。基本トピックから高度なトピックまで、いくつかの提案を以下に示します。
+**方法：**&#x200B;組織やビジネスユーザーに最も関連のあるトピックを選択し、短いトレーニングビデオを時間をかけて録画します。 基本トピックから高度なトピックまで、いくつかの提案を以下に示します。
 
 * キャンペーンの追跡方法
 * ページのパフォーマンスの把握方法
@@ -31,9 +38,9 @@ ht-degree: 85%
 * Adobe Analytics で役立つヒントのトップ 5（ドロップダウンの作成方法など）
 * Attribution IQ の使用方法
 
-これで、長文のメールを書いたり、別の会議を開いたりすることなく、ユーザーにこれらの情報を簡単に提供できます。ユーザー教育に関するその他のヒントとテクニックについては、[Adobe チャンピオンの Thomas Edward Buckley の記事 &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=ja){target="_blank"} 「ユーザートレーニングの簡単化と時間短縮のすべて」を参照してください。
+これで、長文のメールを書いたり、別の会議を開いたりすることなく、ユーザーにこれらの情報を簡単に提供できます。 ユーザーのトレーニングに関するその他のヒントやテクニックについては、[Adobe ChampionのThomas Edward Buckley氏による記事](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=ja){target="_blank"}で、ユーザーのトレーニングの簡素化と時間の短縮についてご確認ください。
 
-また、Adobe Experience League についての [&#x200B; ビデオチュートリアル &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja){target="_blank"} および [&#x200B; 無料コース &#x200B;](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning){target="_blank"} もたくさん（山のように）あります。 自社のデータやビジネス KPI に固有のビデオが必要な場合は、ぜひ独自のビデオを録画してください。一般的な教育ビデオで十分な場合は、一から新しく作る必要はありません。
+さらに、Adobe Experience Leagueには[ ビデオチュートリアル ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja){target="_blank"}の豊富なコース（はい、豊富なコース）と[無料コース ](https://experienceleague.adobe.com/?lang=ja#dashboard/learning){target="_blank"}があります。 自社のデータやビジネス KPI に固有のビデオが必要な場合は、ぜひ独自のビデオを録画してください。 一般的な教育ビデオで十分な場合は、一から新しく作る必要はありません。
 
 ## 作成者
 
@@ -41,8 +48,8 @@ ht-degree: 85%
 
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
-Christel Guidon（デジタル分析プラットフォームマネージャー、NortonLifeLock）
-Adobe Analytics Champion
+Christel Guidon氏（NortonLifeLock、デジタル分析プラットフォームマネージャー）
+Adobe Analytics チャンピオン
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 

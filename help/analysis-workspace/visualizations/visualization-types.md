@@ -1,34 +1,41 @@
 ---
 title: ビジュアライゼーションのタイプと概要
-description: データストーリーを伝えるのに役立つ、Analysis Workspace プロジェクトに配置できるビジュアライゼーションの様々な種類やタイプについて説明します。
+description: Analysis Workspace プロジェクトに適用できる様々な種類のビジュアライゼーションについて説明し、データストーリーを伝えるのに役立ちます。
 feature: Visualizations
-last-substantial-update: 2023-08-25T00:00:00Z
+last-substantial-update: 2023-08-25T00:00:00.000Z
 kt: 2132
 role: User
 level: Beginner
 exl-id: 5e176b61-6fb2-46f6-8b77-b26338e8422c
-source-git-commit: da8f29dbee916403604000e969e294a2ecad52cf
+TQID: https://experienceleague.adobe.com/jDTUt4pn9r-NlrUqvptqH73RF-EEXe-b-p4AGcY8iMU
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b0ca67c6-0a35-482c-ad91-baac1bcb26d6id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2: id: dcae653e-62c6-4cc8-84e6-ee110b848296id: e318d41c-1d01-4c1e-9b18-1f61d435ceeeid: e9cb007b-c8b7-4975-bc81-11a788c535fa
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: d00e9f03-e50b-4162-b143-0c0817c937c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 27%
+source-wordcount: 222
+ht-degree: 30%
 
 ---
 
 # ビジュアライゼーションのタイプと概要 {#visualization-types-in-analysis-workspace}
 
-データストーリーを伝えるのに役立つ、Analysis Workspace プロジェクトに配置できるビジュアライゼーションの様々な種類やタイプについて説明します。
+Analysis Workspace プロジェクトに適用できる様々な種類のビジュアライゼーションについて説明し、データストーリーを伝えるのに役立ちます。
 
->[!VIDEO](https://video.tv.adobe.com/v/37623/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23994/?quality=12&learn=on)
 
-ビデオを振り返ると、データに対して行う分析の種類に基づいて、プロジェクトに追加するビジュアライゼーションのカテゴリと提案されたビジュアライゼーションを紹介します。 ビデオで述べたように、これは難しくて迅速なルールではなく、様々なビジュアライゼーションに慣れるにつれて提案されるだけです。
+ビデオの概要として、データに対してどのような分析を行うかに基づいて、プロジェクトに追加するビジュアライゼーションのカテゴリと提案ビジュアライゼーションを以下に示します。 ビデオに記載されているように、これは難しく高速なルールではありませんが、異なるビジュアライゼーションに慣れるときに役立つ提案をいくつか紹介します。
 
 <table style="max-width: 1214px;">
 <tr>
     <th>
-        ビジュアライゼーション カテゴリ
+        視覚化カテゴリ
     </th>
     <th>
-        おすすめのビジュアライゼーション
+        推奨ビジュアライゼーション
     </th>
 </tr>
 <tr>
@@ -66,10 +73,10 @@ ht-degree: 27%
 * 積み重ね棒グラフ
 * 積み重ね横棒グラフ
 * フリーフォームテーブル
-* 条件付き書式が設定されたフリーフォームテーブル
+* 条件付き書式設定を含むフリーフォームテーブル
 * 複合グラフ
-* 箇条書き（実際の数値と目標を比較する）
-* ツリーマップ （多次元）
+* 箇条書き（実際の数値と目標の比較）
+* ツリーマップ（多次元）
 
   </td>
 </tr>
@@ -87,12 +94,12 @@ ht-degree: 27%
   </td>
 </tr>
 <tr>
-  <td style="vertical-align: top;">部分対全体
+  <td style="vertical-align: top;">部分から全体
   </td>
 
 <td style="vertical-align: top;">
 
-* ドーナツ
+* ドーナツグラフ
 * 積み重ね面グラフ
 * ツリーマップ
 
@@ -110,7 +117,7 @@ ht-degree: 27%
   </td>
 </tr>
 <tr>
-  <td style="vertical-align: top;">配分
+  <td style="vertical-align: top;">配布
   </td>
 
 <td style="vertical-align: top;">
@@ -125,7 +132,7 @@ ht-degree: 27%
 
 <td style="vertical-align: top;">
 
-* コホートテーブル （リテンション/チャーン）
+* コホートテーブル（リテンション/解約）
 * セグメントが適用されたフリーフォームテーブル
 
   </td>
