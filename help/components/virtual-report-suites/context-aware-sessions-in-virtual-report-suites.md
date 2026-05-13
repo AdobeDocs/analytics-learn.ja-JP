@@ -30,6 +30,6 @@ ht-degree: 12%
 
 # 仮想レポートスイートの訪問のカスタマイズ
 
-バーチャルレポートスイートを使用して、非破壊的な方法でAdobe Analyticsの訪問の定義を変更できます。 このビデオでは、利用可能な様々なオプションが示されています。 詳細なドキュメントについては、[&#x200B; コンテキストに応じたセッション &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html){target="_blank"}を参照してください。
+バーチャルレポートスイートを使用して、非破壊的な方法でAdobe Analyticsの訪問の定義を変更できます。 このビデオでは、利用可能な様々なオプションが示されています。 詳細なドキュメントについては、[&#x200B; コンテキストに応じたセッション &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html?lang=ja){target="_blank"}を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23545/?quality=12&learn=on)

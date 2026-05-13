@@ -29,4 +29,4 @@ ht-degree: 84%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475826/?learn=on&enablevpops)
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics/components/classifications/sets/overview){target="_blank"}を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics/components/classifications/sets/overview){target="_blank"}を参照してください。

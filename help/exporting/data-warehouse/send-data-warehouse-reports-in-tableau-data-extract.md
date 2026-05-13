@@ -32,4 +32,4 @@ ht-degree: 52%
 
 >[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
 
-この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics/export/data-warehouse/t-tableau) を参照してください。
+この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics/export/data-warehouse/t-tableau) を参照してください。

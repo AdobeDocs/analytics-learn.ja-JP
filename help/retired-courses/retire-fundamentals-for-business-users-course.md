@@ -39,7 +39,7 @@ ht-degree: 86%
 ビジネスユーザー、ビジネスプラクショナー、またはその他の同様の役割を担っている場合は、次のコースを受講して、Analysis Workspace をうまく活用するための基礎を習得することをお勧めします。
 
 1. [Analysis Workspaceの導入方法](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&lang=ja)
-1. [フリーフォームテーブルは分析の基盤](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
+1. [フリーフォームテーブルは分析の基盤](https://experienceleague.adobe.com/?lang=ja&recommended=Analytics-U-1-2020.3)
 1. [ビジュアライゼーションを使用したデータストーリーの説明](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&lang=ja)
 1. [カスタマージャーニーにおけるデジタル接点に価値を帰している](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&lang=ja)
 

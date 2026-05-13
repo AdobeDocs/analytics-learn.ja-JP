@@ -32,6 +32,6 @@ ht-degree: 9%
 
 # SFTP経由で[!DNL Data Warehouse]件のレポートを送信
 
-Adobe Analyticsで[!DNL Data Warehouse] リクエストを作成し、SFTP配信用に設定する方法について説明します。 詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-dw)を参照してください。
+Adobe Analyticsで[!DNL Data Warehouse] リクエストを作成し、SFTP配信用に設定する方法について説明します。 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-dw)を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335751/?quality=12&learn=on)

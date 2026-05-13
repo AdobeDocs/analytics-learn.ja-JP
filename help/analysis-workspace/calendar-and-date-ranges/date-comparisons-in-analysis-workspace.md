@@ -34,4 +34,4 @@ ht-degree: 18%
 
 日付比較は、現在のAnalysis Workspace テーブルに深みを加える簡単な方法であり、現在のデータを過去のパフォーマンスに簡単に置くのに役立ちます。
 
-この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison) を参照してください。
+この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison) を参照してください。

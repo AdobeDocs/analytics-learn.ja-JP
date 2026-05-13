@@ -35,4 +35,4 @@ Activity Mapは、web サイト上で利用者の行動データを直接視覚�
 
 >[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
 
-この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/activity-map) を参照してください。
+この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics/analyze/activity-map/activity-map) を参照してください。

@@ -40,4 +40,4 @@ Analysis Workspaceのボットデータに関するレポート方法を説明�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420314/?learn=on)
 
-詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html) を参照してください。
+詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html?lang=ja) を参照してください。

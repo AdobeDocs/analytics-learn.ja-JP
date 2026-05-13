@@ -48,7 +48,7 @@ ht-degree: 84%
 
 これで、長文のメールを書いたり、別の会議を開いたりすることなく、ユーザーにこれらの情報を簡単に提供できます。 ユーザーのトレーニングに関するその他のヒントやテクニックについては、[Adobe ChampionのThomas Edward Buckley氏による記事](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=ja){target="_blank"}で、ユーザーのトレーニングの簡素化と時間の短縮についてご確認ください。
 
-さらに、Adobe Experience Leagueには[&#x200B; ビデオチュートリアル &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja){target="_blank"}の豊富なコース（はい、豊富なコース）と[無料コース &#x200B;](https://experienceleague.adobe.com/?lang=ja#dashboard/learning){target="_blank"}があります。 自社のデータやビジネス KPI に固有のビデオが必要な場合は、ぜひ独自のビデオを録画してください。 一般的な教育ビデオで十分な場合は、一から新しく作る必要はありません。
+さらに、Adobe Experience Leagueには[&#x200B; ビデオチュートリアル &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja){target="_blank"}の豊富なコース（はい、豊富なコース）と[無料コース &#x200B;](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning){target="_blank"}があります。 自社のデータやビジネス KPI に固有のビデオが必要な場合は、ぜひ独自のビデオを録画してください。 一般的な教育ビデオで十分な場合は、一から新しく作る必要はありません。
 
 ## 作成者
 

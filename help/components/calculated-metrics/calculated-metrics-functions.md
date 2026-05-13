@@ -32,4 +32,4 @@ Analysis Workspaceでの計算指標の作成で関数を使用する方法を�
 
 >[!VIDEO](https://video.tv.adobe.com/v/25408/?quality=12&learn=on)
 
-計算指標の作成時に[basic](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html)関数と[advanced](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html)関数を使用する方法について詳しくは、ドキュメントを参照してください。
+計算指標の作成時に[basic](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html?lang=ja)関数と[advanced](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html?lang=ja)関数を使用する方法について詳しくは、ドキュメントを参照してください。

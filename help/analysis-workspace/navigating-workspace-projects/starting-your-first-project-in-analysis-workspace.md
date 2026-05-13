@@ -35,6 +35,6 @@ ht-degree: 34%
 
 # Analysis Workspaceでの最初のプロジェクトの開始
 
-新しい Analysis Workspace プロジェクトをゼロから作成する方法や、テンプレートを活用して作成する方法について説明します。 テンプレートを利用すれば、すぐに分析を開始できます。テンプレートは、すぐに利用でき、企業が作成したプロジェクトから利用できます。 詳細なドキュメントについては、[Analysis Workspaceでのプロジェクトの作成](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/build-workspace-project/create-projects)を参照してください。
+新しい Analysis Workspace プロジェクトをゼロから作成する方法や、テンプレートを活用して作成する方法について説明します。 テンプレートを利用すれば、すぐに分析を開始できます。テンプレートは、すぐに利用でき、企業が作成したプロジェクトから利用できます。 詳細なドキュメントについては、[Analysis Workspaceでのプロジェクトの作成](https://experienceleague.adobe.com/ja/docs/analytics/analyze/analysis-workspace/build-workspace-project/create-projects)を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12&learn=on)
