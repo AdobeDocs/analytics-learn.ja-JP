@@ -30,6 +30,6 @@ ht-degree: 100%
 
 このビデオでは、[!DNL Report Builder] ワークブックの基本的なスケジュール設定の方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/342376/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346453/?captions=jpn&quality=12&learn=on)
 
 この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/t-schedule-a-data-request.html?lang=ja) を参照してください。

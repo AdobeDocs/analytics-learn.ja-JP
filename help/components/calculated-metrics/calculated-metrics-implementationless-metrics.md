@@ -34,4 +34,4 @@ ht-degree: 100%
 
 実装を変更せずに Adobe Analytics で新しい [!UICONTROL 指標] を作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25407/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37946/?captions=jpn&quality=12&learn=on)

@@ -37,6 +37,6 @@ ht-degree: 30%
 
 Workspaceの「誰とでも共有」機能について説明します。 この機能を使用すると、Adobe AnalyticsまたはCustomer Journey Analyticsにアクセスできないユーザー（組織外の受信者を含む）に対して、Workspace プロジェクトへの読み取り専用アクセス権を付与できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420093/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452450/?captions=jpn&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=ja#share-public-link) を参照してください。

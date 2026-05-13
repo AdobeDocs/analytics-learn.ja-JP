@@ -47,7 +47,7 @@ ht-degree: 68%
 
 [!UICONTROL Audience Analytics]は、Audience Managerから[!DNL Analytics]へのセグメントをリアルタイムで共有し、オーディエンスの発見、セグメンテーション、最適化に役立てることができる統合機能です。
 
->[!VIDEO](https://video.tv.adobe.com/v/25450/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40733/?captions=jpn&quality=12&learn=on)
 
 例えば、共有可能な [!UICONTROL セグメント] データには、サードパーティのデータプロバイダーからのデモグラフィックデータ、広告サーバーからのキャンペーンデータ（オフサイトインプレッションなど）、およびオンボードされた CRM データが含まれます。 これは、DMPと分析エンジンの間の製品レベルでの統合として市場で初めてのものです。
 

@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Web SDK を使用して、内部検索語トラッキングのユースケースに分析変数を実装する方法を説明します。 ページから Experience Edge、そして Adobe Analytics へとデータが流れるのを確認します。
 
->[!VIDEO](https://video.tv.adobe.com/v/333605/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413459/?captions=jpn&quality=12&learn=on)

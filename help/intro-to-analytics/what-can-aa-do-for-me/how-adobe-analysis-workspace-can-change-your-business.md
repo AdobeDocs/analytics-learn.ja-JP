@@ -35,6 +35,6 @@ ht-degree: 92%
 
 [!DNL Analysis Workspace] で使用できる分析のタイプ（例：[!DNL Ad Hoc],[!DNL Cohort]、および [!DNL Fallout]）について説明します。 ドラッグ＆ドロップ機能を使用して、データを簡単かつ迅速に分析します。
 
->[!VIDEO](https://video.tv.adobe.com/v/31501/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36308/?captions=jpn&quality=12&learn=on)
 
 [Adobe Analysis Workspaceについて詳しく見る](https://business.adobe.com/jp/products/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&mv=search)

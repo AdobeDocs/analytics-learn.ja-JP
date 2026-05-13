@@ -37,7 +37,7 @@ ht-degree: 100%
 
 このビデオでは、マーケティングチャネルの処理ルールを設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340792/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344354/?captions=jpn&quality=12&learn=on)
 
 >[!NOTE]
 >

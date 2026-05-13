@@ -27,6 +27,6 @@ ht-degree: 100%
 
 Analysis Workspace がデータの初心者およびエキスパートをどのようにサポートするかを簡単に紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28165/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34415/?captions=jpn&quality=12&learn=on)
 
 このビデオの次には、Analysis Workspace の概要ビデオを見るか、Experience League のこちらの[無償の入門コース](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&lang=ja)を受講してください。

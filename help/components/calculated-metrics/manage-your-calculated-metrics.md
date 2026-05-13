@@ -35,4 +35,4 @@ ht-degree: 19%
 
 計算指標の検索、リストの表示、名前の変更、削除、共有など、計算指標の管理方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421406/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423589/?captions=jpn&learn=on)

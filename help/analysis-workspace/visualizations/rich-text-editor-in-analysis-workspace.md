@@ -31,4 +31,4 @@ ht-degree: 100%
 
 アナリストやマーケターが Analysis Workspace のテキストビジュアライゼーション（または記述）に編集を適用できる機能（太字、斜体、見出し、リンクなど）について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328270/?captions=jpn&quality=12&learn=on)

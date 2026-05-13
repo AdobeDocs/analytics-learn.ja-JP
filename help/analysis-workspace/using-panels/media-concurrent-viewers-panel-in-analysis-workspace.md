@@ -39,6 +39,6 @@ ht-degree: 100%
 
 Media Analytics のお客様は、メディア同時閲覧者数パネルを使用してピーク同時実行が発生した場所や離脱が発生した場所を把握し、コンテンツと閲覧者エンゲージメントの質に関する貴重なインサイトを得て、容量や規模のトラブルシューティングや計画に役立てることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/330177/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342838/?captions=jpn&quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html?lang=ja#analysis-workspace) を参照してください。

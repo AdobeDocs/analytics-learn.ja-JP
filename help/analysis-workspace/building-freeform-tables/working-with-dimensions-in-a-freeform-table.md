@@ -34,7 +34,7 @@ ht-degree: 63%
 
 ディメンションの追加、並べ替え、フィルタリング、他のディメンションによる分類など、フリーフォームテーブルでのディメンションのすべての操作について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/40179/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328531/?captions=jpn&quality=12&learn=on)
 
 このビデオで扱うトピック（時間など）：
 

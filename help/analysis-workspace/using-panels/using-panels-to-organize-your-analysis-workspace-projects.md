@@ -35,4 +35,4 @@ ht-degree: 100%
 
 パネルは、Analysis Workspace のビジュアライゼーションのコレクションです。 パネルを使用して、プロジェクトのデータを整理および比較する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23388/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41484/?captions=jpn&quality=12&learn=on)

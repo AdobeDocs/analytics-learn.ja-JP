@@ -27,4 +27,4 @@ ht-degree: 61%
 
 製品内から直接Adobeで[!DNL Customer Care]にサポートチケットを送信し、解決に向けたプロセスを効率化する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430058/?captions=jpn&quality=12&learn=on)

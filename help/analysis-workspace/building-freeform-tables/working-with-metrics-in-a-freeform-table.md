@@ -32,4 +32,4 @@ ht-degree: 100%
 
 Analysis Workspace のフリーフォームテーブルで指標を使用できる様々な方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/40817/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328566/?captions=jpn&quality=12&learn=on)

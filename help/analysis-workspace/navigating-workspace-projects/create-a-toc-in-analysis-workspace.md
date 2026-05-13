@@ -37,4 +37,4 @@ ht-degree: 17%
 
 プロジェクト内のパネルやビジュアライゼーションにすばやくジャンプできるリンクを提供するAnalysis Workspaceの目次について説明します。 詳細なドキュメントについては、[&#x200B; プロジェクトの目次](https://experienceleague.adobe.com/ja/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents)を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35210/?captions=jpn&quality=12&learn=on)

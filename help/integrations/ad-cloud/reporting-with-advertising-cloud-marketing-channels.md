@@ -40,4 +40,4 @@ ht-degree: 100%
 
 Advertising Cloud のビュースルーおよびクリックスルーエントリデータが Adobe Analytics [!UICONTROL マーケティングチャネル]と連携する仕組みを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35115/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40425/?captions=jpn&quality=12&learn=on)

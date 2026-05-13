@@ -35,4 +35,4 @@ ht-degree: 35%
 
 Analysis Workspace プロジェクトで内部リンクまたは外部リンクを作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423014/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449601/?captions=jpn&learn=on)

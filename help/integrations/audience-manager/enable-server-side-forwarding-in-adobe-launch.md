@@ -41,4 +41,4 @@ ht-degree: 1%
 >
 >Experience Cloud インターフェイスで「[!UICONTROL Launch]」の名前が「[!UICONTROL tags]」に変更されました。 [!UICONTROL &#x200B; アプリケーションスイッチャー]から[!UICONTROL &#x200B; データ収集]を選択してタグを開き、このビデオで紹介されている手順を実行します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34598?captions=jpn&quality=12&learn=on)

@@ -41,7 +41,7 @@ ht-degree: 97%
 
 このユースケースでは、郵便番号を取り込み、市場内または市場外として分類した後、Analysis Workspace でこのデータを使用して、地域ターゲット化されたマーケティングキャンペーンの効果を確認します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35780/?captions=jpn&quality=12&learn=on)
 
 この使用例の側面に関する追加情報については、次のドキュメントトピックを参照してください。
 

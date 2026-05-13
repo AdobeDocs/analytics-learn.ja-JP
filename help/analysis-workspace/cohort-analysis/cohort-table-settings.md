@@ -35,7 +35,7 @@ ht-degree: 53%
 
 コホートテーブル設定を使用して、保持テーブルまたは解約テーブルのビューをカスタマイズする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430104/?captions=jpn&quality=12&learn=on)
 
 [!UICONTROL コホートテーブル] のカスタマイズには、次の機能が含まれます。
 

@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Adobe Analytics アラートの機能を活用して Advertising Cloud 有料メディアキャンペーンを監視する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35118/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40443/?captions=jpn&quality=12&learn=on)

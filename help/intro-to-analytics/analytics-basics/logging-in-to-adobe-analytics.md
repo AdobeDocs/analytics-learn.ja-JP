@@ -27,4 +27,4 @@ ht-degree: 100%
 
 このビデオでは、[!DNL Analytics] へのログインについて説明します。ログインすると、管理と分析をおこなうことができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/28771/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31417/?captions=jpn&quality=12&learn=on)

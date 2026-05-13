@@ -33,6 +33,6 @@ ht-degree: 100%
 
 このビデオでは、日付、[!UICONTROL 日付範囲]、日付比較を使用して、テーブルとビジュアライゼーションを適切な時間枠にカスタマイズする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34732/?captions=jpn&quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=ja)を参照してください。

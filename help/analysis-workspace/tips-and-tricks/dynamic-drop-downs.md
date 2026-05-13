@@ -32,6 +32,6 @@ ht-degree: 74%
 
 ディメンション全体に基づいてドロップダウンフィルターを作成する方法を説明します。 ディメンション項目は、レポートパネルで使用される日付範囲と、同じパネルの他のドロップダウンフィルターで選択された値に基づいて、動的に更新されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446817/?captions=jpn&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=ja#dynamic-drop-down-filters) を参照してください。

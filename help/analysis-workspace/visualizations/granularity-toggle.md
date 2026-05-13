@@ -25,6 +25,6 @@ ht-degree: 13%
 
 トレンドのビジュアライゼーション設定では、精度の高いセレクターを使用できます。これにより、データの表示方法を簡単に調整できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41453/?captions=jpn&quality=12&learn=on)
 
 精度の設定は、グラフとソーステーブルの両方を調整し、テーブルの非表示と操作の手順を保存します。

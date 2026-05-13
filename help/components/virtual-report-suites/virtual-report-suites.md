@@ -32,5 +32,5 @@ ht-degree: 9%
 
 Adobe Analyticsでは、ユーザー向けの「バーチャルレポートスイート」を作成できます。このレポートスイートでは、データをセグメント化し、ユーザー/グループを許可されたデータセグメントのみに制限します。 このビデオでは、仮想レポートスイートを作成および操作する方法を説明します。 詳細なドキュメントについては、[仮想レポートスイートの概要](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=ja){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/25412/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476972/?captions=jpn&quality=12&learn=on)
 

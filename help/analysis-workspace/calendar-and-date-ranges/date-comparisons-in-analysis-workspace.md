@@ -30,7 +30,7 @@ ht-degree: 18%
 
 このビデオでは、[!UICONTROL &#x200B; フリーフォームテーブル &#x200B;] - &#39;[!UICONTROL 期間カラムの追加]&#39;と&#39;[!UICONTROL 期間の比較]&#39;の2つの日付比較機能を活用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327677/?captions=jpn&quality=12&learn=on)
 
 日付比較は、現在のAnalysis Workspace テーブルに深みを加える簡単な方法であり、現在のデータを過去のパフォーマンスに簡単に置くのに役立ちます。
 

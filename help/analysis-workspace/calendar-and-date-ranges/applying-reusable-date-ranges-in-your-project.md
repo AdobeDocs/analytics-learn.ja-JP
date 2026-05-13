@@ -31,6 +31,6 @@ ht-degree: 33%
 
 製品内でカスタムの日付と日付範囲を使用することで、データストーリーを伝える情報だけに絞り込むことができます。 このビデオでは、Analysis Workspace プロジェクトで日付範囲を使用できるいくつかの場所について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/338293/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447597/?captions=jpn&quality=12&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar) を参照してください。

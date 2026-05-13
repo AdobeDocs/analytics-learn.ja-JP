@@ -35,4 +35,4 @@ Adobe Analyticsの[[!UICONTROL &#x200B; ページビュー]](https://experiencel
 
 * これらの指標がインターフェイスでどのように表示されるかを示すサンプル [!UICONTROL Workspace] プロジェクトを表示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31413/?captions=jpn&quality=12&learn=on)

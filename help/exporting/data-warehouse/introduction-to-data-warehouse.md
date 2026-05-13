@@ -31,4 +31,4 @@ ht-degree: 9%
 
 Data Warehouse レポート UIと書き出しアカウントと場所を最大限に活用する方法について説明します。 このビデオでは、電子メールとAmazon S3の両方へのレポート配信の基本的なワークフローについて説明します。 詳細なドキュメントについては、[Data Warehouseの概要](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html?lang=ja)および関連ドキュメントを参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428485/?captions=jpn&quality=12&learn=on)

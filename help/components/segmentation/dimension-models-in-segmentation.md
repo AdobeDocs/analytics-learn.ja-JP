@@ -26,4 +26,4 @@ ht-degree: 94%
 
 ディメンションモデルは、セグメント化の任意のディメンションの歯車アイコンを通じて使用できます。 これらのモデルは主に順次セグメント化に役立ち、ディメンション（デフォルト）、インスタンスまたはディメンションの非繰り返しインスタンスの永続的な値についてセグメント化できるようになります。 詳細なドキュメントについては、[&#x200B; セグメントビルダー](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=ja){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/32958/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430070/?captions=jpn&quality=12&learn=on)

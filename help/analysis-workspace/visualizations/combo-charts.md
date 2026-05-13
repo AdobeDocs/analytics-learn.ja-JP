@@ -33,6 +33,6 @@ ht-degree: 63%
 
 Analysis Workspace での複合グラフビジュアライゼーションについて説明します。 コンボチャートのビジュアライゼーションにより、最初にテーブルを作成することなく、比較ビジュアライゼーションをすばやく簡単に作成できます。 折れ線グラフと棒グラフの組み合わせでデータの傾向を簡単に表示できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409159/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413018/?captions=jpn&quality=12&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/combo-charts.html?lang=ja) を参照してください。

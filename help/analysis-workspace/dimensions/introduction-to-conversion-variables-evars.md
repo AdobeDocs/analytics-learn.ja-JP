@@ -38,6 +38,6 @@ ht-degree: 25%
 
 コンバージョン変数（[!DNL eVars]とも呼ばれます）がAdobe Analyticsでどのように使用されるかについて説明します。これには、コンバージョンイベントとの関連性やトラフィック変数との違いなどが含まれます。
 
->[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429022/?captions=jpn&quality=12&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=ja) を参照してください。

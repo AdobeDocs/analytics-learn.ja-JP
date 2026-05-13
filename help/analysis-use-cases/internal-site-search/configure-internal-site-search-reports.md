@@ -36,4 +36,4 @@ ht-degree: 100%
 
 サイトの内部検索機能を分析するために、Analysis Workspace でフリーフォームテーブルを作成および設定します。
 
->[!VIDEO](https://video.tv.adobe.com/v/333607/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413473/?captions=jpn&quality=12&learn=on)

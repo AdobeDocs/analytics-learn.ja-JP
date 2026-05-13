@@ -43,5 +43,5 @@ Adobe Analytics の実装で [!DNL contextData] 変数を使用する場合、�
 >この記事とビデオは、Adobe Experience Platform タグ（タグマネージャー）を使用しない場合に、Adobe Analytics の「AppMeasurement」実装に適用されます。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327637/?captions=jpn&quality=12&learn=on)
 

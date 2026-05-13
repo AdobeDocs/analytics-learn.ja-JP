@@ -53,4 +53,4 @@ Adobe Analytics を設定する際や、他の Experience Cloud ソリューシ�
 
 詳しくは、以下のビデオをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/26061/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40896/?captions=jpn&quality=12&learn=on)

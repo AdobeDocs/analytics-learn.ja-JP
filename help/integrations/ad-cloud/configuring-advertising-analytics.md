@@ -37,7 +37,7 @@ ht-degree: 44%
 
 [!DNL Advertising Analytics]を利用するように[!UICONTROL &#x200B; レポートスイート &#x200B;]を設定する方法、有料検索アカウントを設定する方法、[!DNL Advertising Analytics]のレポートの詳細について、概要を確認します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38422/?captions=jpn&quality=12&learn=on)
 
 ## その他のリソース {#additional-resources}
 

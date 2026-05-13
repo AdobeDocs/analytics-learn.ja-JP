@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Analysis Workspace のレポートスイートを選択するためのいくつかのヒントを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23967/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428541/?captions=jpn&quality=12&learn=on)

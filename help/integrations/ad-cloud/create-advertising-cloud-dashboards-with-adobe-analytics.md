@@ -35,4 +35,4 @@ ht-degree: 100%
 
 ライブキャンペーン監視用の Advertising Cloud ダッシュボードを作成する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35121/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40461/?captions=jpn&quality=12&learn=on)

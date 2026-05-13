@@ -34,6 +34,6 @@ ht-degree: 62%
 
 Analysis Workspaceの指標ビルダーの概要
 
->[!VIDEO](https://video.tv.adobe.com/v/25411/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37944/?captions=jpn&quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=ja) を参照してください。

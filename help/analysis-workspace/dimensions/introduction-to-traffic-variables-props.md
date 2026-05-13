@@ -36,6 +36,6 @@ ht-degree: 20%
 
 トラフィック変数の種類と、トラフィック、コンテンツ、フロー分析など、Adobe Analyticsでのトラフィック変数の使用方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429901/?captions=jpn&quality=12&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html?lang=ja) を参照してください。

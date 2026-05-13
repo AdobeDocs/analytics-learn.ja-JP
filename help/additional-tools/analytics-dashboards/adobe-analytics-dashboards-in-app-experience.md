@@ -31,6 +31,6 @@ ht-degree: 37%
 
 このビデオでは、Adobe Analytics ダッシュボード（モバイルアプリ）を使用して、自分が作成または共有した「スコアカード」にアクセスして表示する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/34545/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38123/?captions=jpn&quality=12&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=ja)を参照してください。

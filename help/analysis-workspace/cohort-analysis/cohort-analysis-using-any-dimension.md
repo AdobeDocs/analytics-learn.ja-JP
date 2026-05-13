@@ -28,6 +28,6 @@ ht-degree: 59%
 
 「カスタム [!UICONTROL コホート] [!UICONTROL ディメンション]」オプションを使用すると、時間以外の [!UICONTROL ディメンション] を使用して [!UICONTROL コホート] を分析できます。 マーケティングチャネル、キャンペーン地域、製品ページなどで[!UICONTROL &#x200B; コホート &#x200B;]を比較し、[!UICONTROL &#x200B; ディメンション &#x200B;]項目による[!UICONTROL 維持] （または[!UICONTROL 解約]）の変化をより深く理解できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430177/?captions=jpn&quality=12&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=ja)を参照してください。

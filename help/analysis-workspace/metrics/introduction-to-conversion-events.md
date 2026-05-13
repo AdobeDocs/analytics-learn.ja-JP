@@ -32,4 +32,4 @@ ht-degree: 12%
 
 [!DNL Adobe Analytics]では、成功イベントと呼ばれることが多いコンバージョンイベントの基本について説明します。 デジタルプロパティのコンバージョンを測定し、レポートの指標として使用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/28764/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31410/?captions=jpn&quality=12&learn=on)

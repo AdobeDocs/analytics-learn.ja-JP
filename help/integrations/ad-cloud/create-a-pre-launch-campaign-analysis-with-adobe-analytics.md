@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Adobe Analytics を使用して、Advertising Cloud 有料メディアキャンペーンの開始の基盤を設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35114/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40419/?captions=jpn&quality=12&learn=on)

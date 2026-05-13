@@ -30,4 +30,4 @@ ht-degree: 62%
 
 [!UICONTROL 分類ルールビルダー] を使用して、Adobe Analytics でルールベースの [!UICONTROL 分類] を自動的に適用する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25884?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434374?captions=jpn&quality=12&learn=on)

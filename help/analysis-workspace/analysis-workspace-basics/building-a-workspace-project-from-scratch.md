@@ -32,6 +32,6 @@ ht-degree: 100%
 
 独自のプロジェクトの作成を開始する準備はできていますか？ テーブルの作成、ビジュアライゼーションの添付など、Analytics Workspace プロジェクトを一から構築する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334076/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416041/?captions=jpn&quality=12&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=ja) を参照してください。

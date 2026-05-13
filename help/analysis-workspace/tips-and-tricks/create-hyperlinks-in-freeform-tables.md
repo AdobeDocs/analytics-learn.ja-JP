@@ -34,4 +34,4 @@ ht-degree: 36%
 
 1 つ以上のディメンション項目のハイパーリンクを作成し、Analysis Workspace のフリーフォームテーブル内でクリックできるようにする方法を説明します。 URL値を持つディメンション項目、URL以外の値を持つディメンション項目のカスタム URL、または変数を使用して、複数のディメンション項目の動的カスタム URLのハイパーリンクを作成できます。 詳細なドキュメントについては、[&#x200B; フリーフォームテーブル内のディメンションのハイパーリンクの作成](https://experienceleague.adobe.com/ja/docs/analytics/analyze/analysis-workspace/visualizations/freeform-table/freeform-table-hyperlinks)を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430411/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445780/?captions=jpn&learn=on)

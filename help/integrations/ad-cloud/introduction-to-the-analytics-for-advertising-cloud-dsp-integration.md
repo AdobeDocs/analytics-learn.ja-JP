@@ -39,4 +39,4 @@ ht-degree: 14%
 
 [!DNL Adobe Advertising] DSP統合は、Adobe AnalyticsとAdobe Advertising DSP間のネイティブ双方向統合です。 この統合は、Advertising広告インプレッションから`Viewthroughs`を[!DNL Analytics]にキャプチャします。 [!DNL Analytics]は`Viewthroughs`を`Clickthroughs`などのすべてのダウンストリームサイトアクティビティに接続します。 [!DNL Analytics]は[!DNL metrics]を[!DNL Advertising DSP]に渡して、高度なアルゴリズム入札モデルを入力します。 このビデオでは、統合のメリットである`Viewthrough`指標について説明し、[!UICONTROL Analysis Workspace]で[!UICONTROL &#x200B; ディメンション &#x200B;]と[!UICONTROL 指標]を使用する基本的な例を紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27237/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327665/?captions=jpn&quality=12&learn=on)

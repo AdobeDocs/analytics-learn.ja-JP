@@ -29,6 +29,6 @@ ht-degree: 0%
 
 Adobe Experience Platform タグのAnalytics拡張機能に[!UICONTROL Activity Map]をデプロイする方法を有効にし、デバッグおよびカスタマイズする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327630?captions=jpn&quality=12&learn=on)
 
 [!UICONTROL Activity Map]のデプロイ方法について詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics/analyze/activity-map/getting-started/activitymap-enable)を参照してください。

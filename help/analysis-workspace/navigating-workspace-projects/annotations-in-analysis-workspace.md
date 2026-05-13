@@ -38,6 +38,6 @@ ht-degree: 48%
 
 Workspace の注釈を使用すると、組織全体のユーザーに対して、コンテキストデータのニュアンスやインサイトを効果的に伝えることができます。 既知のデータの問題、祝日、キャンペーンの開始などを含む日付または日付範囲に注釈を付けることで、折れ線グラフや表などに表示される情報をユーザーに表示しやすくなります。
 
->[!VIDEO](https://video.tv.adobe.com/v/341266/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344391/?captions=jpn&quality=12&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/annotations/overview.html?lang=ja) を参照してください。

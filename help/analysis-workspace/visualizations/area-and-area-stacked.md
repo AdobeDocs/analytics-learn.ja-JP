@@ -30,6 +30,6 @@ ht-degree: 100%
 
 このビデオでは、Analysis Workspace のプロジェクトに面グラフおよび積み重ね面グラフのビジュアライゼーションを追加する方法と、ニーズに合わせてビジュアライゼーションをカスタマイズするのに役立つヒントを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416774/?captions=jpn&quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/area.html?lang=ja#) を参照してください。

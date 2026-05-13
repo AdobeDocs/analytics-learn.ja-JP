@@ -35,6 +35,6 @@ ht-degree: 100%
 
 [!UICONTROL クイックインサイト] は、Analysis Workspace のアナリスト以外のユーザーや新規ユーザーに対して、ビジネス上の質問に手軽に回答する方法を学ぶためのガイダンスを提供します。
 
->[!VIDEO](https://video.tv.adobe.com/v/37248/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326699/?captions=jpn&quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=ja) を参照してください。

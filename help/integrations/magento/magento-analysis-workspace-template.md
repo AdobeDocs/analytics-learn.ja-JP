@@ -43,4 +43,4 @@ ht-degree: 100%
 
 [!UICONTROL Analysis Workspace] の [!DNL Magento Marketing and Commerce] テンプレートを紹介します。 これは [!DNL Magento] のユーザーを対象にしていますが、どのオンライン小売業者でも利用できます。 コマースアクティビティの小売業者向けの事前定義済みインサイトが含まれており、売上向上に役立ちます。
 
->[!VIDEO](https://video.tv.adobe.com/v/28164/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34414/?captions=jpn&quality=12&learn=on)

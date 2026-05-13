@@ -40,4 +40,4 @@ ht-degree: 100%
 
 プロジェクトの作成とテンプレート、パネル、ビジュアライゼーション、ディメンション、指標、セグメント、高価値機能など、Analysis Workspace の概要を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/26266/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35774/?captions=jpn&quality=12&learn=on)

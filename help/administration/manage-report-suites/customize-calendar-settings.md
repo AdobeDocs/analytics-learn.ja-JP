@@ -31,4 +31,4 @@ ht-degree: 100%
 
 このビデオでは、ヒントとテクニックのほか、Adobe Analytics におけるカレンダーのカスタマイズの仕組みを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/333003/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412858/?captions=jpn&quality=12&learn=on)
