@@ -9,10 +9,18 @@ thumbnail: 342361.jpg
 kt: 10272
 exl-id: dadfd482-8fc6-40a7-85e3-d22a185096d4
 TQID: https://experienceleague.adobe.com/ZXiYDVRqaJbxICzAiFkS9XuUKlyiAKs7-ucZ3qKR-xI
-product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
-feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d3cdead0-685a-4489-9250-4bb709942f66id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
 source-wordcount: 1091
@@ -55,7 +63,7 @@ _すべて_。 これは、次の質問に対する最も一般的な回答で�
 
 質問は、技術的または分析的なプロセス、会社の構造、またはデータ収集トピックの複雑さによって異なります。 組織全体に関する質問を使用して大まかなレベルから始め、組織の目標を支援する関係者の役割など、より詳細なレベルについて話し合うと役に立つ場合が多いです。 その後、詳細なデータポイントが、組織の全体的な目標を効果的に支援できるようにできます。 また、データを創造的に考え、目標を支える新しいアイデアを提案する力も得られます。
 
-[関係者のインタビュー用のいくつかのサンプル質問を含むこのテンプレート ](assets/stakeholder-questionnaire.pdf){target="_blank"}を検索します。 これらのテンプレートを再利用または編集して、話し合いに使用する、関連の質問を準備します。
+[関係者のインタビュー用のいくつかのサンプル質問を含むこのテンプレート &#x200B;](assets/stakeholder-questionnaire.pdf){target="_blank"}を検索します。 これらのテンプレートを再利用または編集して、話し合いに使用する、関連の質問を準備します。
 
 ### &#x200B;2. サンプルレポートの要求
 

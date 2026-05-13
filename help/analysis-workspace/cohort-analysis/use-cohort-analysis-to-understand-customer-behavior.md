@@ -10,11 +10,16 @@ jira: KT-13213
 thumbnail: KT-13213.jpeg
 exl-id: 23dd43c5-47e4-46c7-88ee-66c7f62ca9cf
 TQID: https://experienceleague.adobe.com/SxoG6hcTKufrPWNj0-pKeZ5l3KGeJnc-LqOazCRr8EA
-product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
-feature_v2: id: b3f03848-ae12-48b2-8aab-cad18567eb32
-subfeature_v2: id: f836f655-eebe-4b76-82bc-697955ec1ce3
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+subfeature_v2:
+  - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
 source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
 source-wordcount: 1155
@@ -40,7 +45,7 @@ ht-degree: 8%
 1. 初回訪問者のコンバージョン率は、初回訪問者の方が、再訪問の場合よりも若干高く、11.6%対11.4%です。
 1. 2021年と比較すると、コンバージョン率は両方のセグメントで低下しました。
 
-![ テーブルへの訪問](assets/cohort1.png)
+![&#x200B; テーブルへの訪問](assets/cohort1.png)
 
 ## パート 2：コホート分析 – 可食配列を訪問グローバル製品
 
@@ -77,14 +82,14 @@ ht-degree: 8%
 1) 最も多い月には、2月と5月が含まれます
 1) 毎月約1,000人の訪問者がサイトを再訪問しています
 
-![2022保持テーブル ](assets/cohort2.png)
+![2022保持テーブル &#x200B;](assets/cohort2.png)
 
 **2021年：**
 
 1) 定着率+1か月が最も高い月は、4月、1月、3月です
 1) 最も多い月には、2月と5月が含まれます
 
-![2021保持テーブル ](assets/cohort3.png)
+![2021保持テーブル &#x200B;](assets/cohort3.png)
 
 **アクション項目：**
 
@@ -136,7 +141,7 @@ ht-degree: 8%
 
 チェックアウト時にユーザーにアカウントを作成してもらうためのサイトユーザーエクスペリエンスを調査します
 
-![ コホートテーブル 4](assets/cohort4.png)
+![&#x200B; コホートテーブル 4](assets/cohort4.png)
 
 ## パート 4：カスタムDimensionコホート
 
@@ -164,7 +169,7 @@ ht-degree: 8%
 1) Product 2
 1) 商品3 – 平均的な顧客維持率と比較して、顧客維持率が高く、優れたパフォーマンスを発揮する。
 
-![ コホートテーブル 5](assets/cohort5.png)
+![&#x200B; コホートテーブル 5](assets/cohort5.png)
 
 ## まとめ
 

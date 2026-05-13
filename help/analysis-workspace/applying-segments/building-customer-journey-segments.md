@@ -10,11 +10,22 @@ jira: KT-13180
 thumbnail: KT-13180.jpeg
 exl-id: c06afc7b-e997-404d-82a4-e7ec5d5ba44d
 TQID: https://experienceleague.adobe.com/bZEZXJ7JZnJsan2n949dc7x9kV0bwYrz990VTlDh9cI
-product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
-feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
-subfeature_v2: id: e93b8c4c-c5f7-45f8-9abe-9b710f53f502
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b4dd41a7-ccf8-4e9d-918e-acaab534a307id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+  - id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
+subfeature_v2:
+  - id: e93b8c4c-c5f7-45f8-9abe-9b710f53f502
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b4dd41a7-ccf8-4e9d-918e-acaab534a307
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
 source-wordcount: 1258
@@ -52,7 +63,7 @@ Adobe Experience Cloudを利用して、行動ベースのカスタマージャ�
 
 私の訪問インテントのセグメントを使いやすくするために、セグメント名に「Intent:」というプレフィックスを付け、並べ替えを有効にする番号を付け、「intent」というタグを付けました。 私のセグメントは下の写真のようでした。
 
-![ インテントセグメント ](assets/intent-segments.png)
+![&#x200B; インテントセグメント &#x200B;](assets/intent-segments.png)
 
 **ページビュー>= 1のプレースホルダー定義を持つ訪問コンテナを使用して、訪問インテントセグメントを作成します。**
 
@@ -60,7 +71,7 @@ Adobe Experience Cloudを利用して、行動ベースのカスタマージャ�
 
 ## The Visit Intent Segment Data Quality Workspace
 
-![ インテントワークスペースを訪問](assets/visit-intent-workspace.png)
+![&#x200B; インテントワークスペースを訪問](assets/visit-intent-workspace.png)
 
 シンプルなワークスペースを使用して、訪問の意図セグメントを適切に定義できました。 各訪問は1つに属する必要があり、訪問の意図セグメントは1つのみである必要があることを忘れないでください。 設定したワークスペースでは、すべての訪問が考慮され、セグメント間に重複がないことを確認します。
 
@@ -76,7 +87,7 @@ Adobe Experience Cloudを利用して、行動ベースのカスタマージャ�
 
 ここでプレースホルダーセグメントを作成しました。 最初は、作業空間が奇抜に見えます。 同じ定義を持つため、すべての訪問インテントセグメントは100%重複します。 これは正しく、プロセスのこの時点で見たいものが正確に表示されます。 セグメント定義を作成するにつれて、これらのセグメントが形を整え始めます。
 
-![ インテントセグメント定義を訪問](assets/visit-intent-segment-defs.png)
+![&#x200B; インテントセグメント定義を訪問](assets/visit-intent-segment-defs.png)
 
 ## 初めての訪問インテントのセグメントを作成する
 
@@ -96,7 +107,7 @@ Adobe Experience Cloudを利用して、行動ベースのカスタマージャ�
 
 私の最初のセグメントである「One Hit Wonders」は定義しやすかったです。 単一のページビューを利用すれば、 そのユーザーがweb サイトにアクセスした理由は分かりません。 入口ページから意図を推測することはできても、ページビューがひとつしかないため、意図を十分に理解した上で推測できるような情報を得ることはできません。
 
-![ セグメント定義](assets/segment-def.png)
+![&#x200B; セグメント定義](assets/segment-def.png)
 
 このセグメントを定義すると、訪問インテントWorkspaceが形を取り始めます。
 

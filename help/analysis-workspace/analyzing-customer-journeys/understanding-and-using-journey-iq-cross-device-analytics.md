@@ -11,12 +11,26 @@ role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
 TQID: https://experienceleague.adobe.com/CaoHMLfB--J0pgpUBmuX-pmCa2VwgWDDp8DH5k4yFAQ
-product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
-feature_v2: id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7
-subfeature_v2: id: a544b409-2610-410d-a842-474ac1d0d54eid: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4id: dcae653e-62c6-4cc8-84e6-ee110b848296id: e38cbddc-1633-4cd5-bed5-9f289f2a6029id: ef60b66e-5984-4336-ba72-6d978b1b6f87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: d3cdead0-685a-4489-9250-4bb709942f66id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2:
+  - id: a544b409-2610-410d-a842-474ac1d0d54e
+  - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+  - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
 source-wordcount: 1607
@@ -42,14 +56,14 @@ ht-degree: 94%
 従来の分析を使用すると、Isabelle のジャーニーは 3 つの部分に分割されます。 彼女は異なるデバイスを使用して孤立したタスクを実行する、3 人のユニーク訪問者として表されます。 必要なのは、Isabelle のやり取りの、統一されたクロスデバイス表示です。 [!DNL Journey IQ: Cross-Device Analytics] は、この表示を提供します。
 
 *イザベルは1人です*
-![ クロスデバイス分析ジャーニー](assets/cda-isabelle-journey-cross-device-analytics.png)
+![&#x200B; クロスデバイス分析ジャーニー](assets/cda-isabelle-journey-cross-device-analytics.png)
 
 ### クロスデバイス表示により、分析が向上
 
 Isabelle の行動をユーザーを中心としたクロスデバイス表示にすることで、分析に大きな違いをもたらすことができます。 例えば、従来の訪問者ベースのアプローチでは、マーケティングチャネルの有効性の全体像を把握することはできません。 Isabelle の製品表示と購入に対し、どのチャネルにクレジットを割り当てられたかに注目して、彼女のジャーニーをもう一度見てみましょう。 わかりやすくするために [!UICONTROL ラストタッチ] アトリビューションを使用しますが、Isabelle の行動を個別の訪問者に分割した場合は、アトリビューションモデルを使用しても同じ問題が発生します。 従来の訪問者ベースの世界観を使用すると、非常に異なる、さらには誤解を招く結果が導かれます。
 
 *従来型Analyticsとクロスデバイス分析の比較*
-![ チャネルアトリビューション ](assets/channel-attribution.png)
+![&#x200B; チャネルアトリビューション &#x200B;](assets/channel-attribution.png)
 
 クロスデバイス表示では、メールチャネルは、製品表示と購入の両方のクレジットを受け取ります。これは、Isabelle の実際のエクスペリエンスをより正確に表しています。
 
@@ -70,18 +84,18 @@ CDA は、特別な種類のクロスデバイス [[!UICONTROL 仮想レポー�
 
 VRS ビルダーの手順 1 で、アドビによって CDA 対応として設定された [!UICONTROL レポートスイート] を選択します。
 
-*CDA対応ベース （ソース）を選択[!UICONTROL  レポートスイート]*
-![[!UICONTROL 仮想レポートスイート ] ステップ 1](assets/cda-vrs-step-one.png)
+*CDA対応ベース （ソース）を選択[!UICONTROL &#x200B; レポートスイート]*
+![[!UICONTROL 仮想レポートスイート &#x200B;] ステップ 1](assets/cda-vrs-step-one.png)
 
 次に、「[!UICONTROL レポート時間処理]」をオンにして、 [!UICONTROL クロスデバイススティッチング] を有効にします。
 
-*[!UICONTROL  レポート時処理]と[!UICONTROL  クロスデバイス結合を有効にする]*
-![[!UICONTROL 仮想レポートスイート ] ステップ 2](assets/cda-vrs-step-two.png)
+*[!UICONTROL &#x200B; レポート時処理]と[!UICONTROL &#x200B; クロスデバイス結合を有効にする]*
+![[!UICONTROL 仮想レポートスイート &#x200B;] ステップ 2](assets/cda-vrs-step-two.png)
 
 VRS の設定を完了し、保存します。 CDA VRS は、次に示すように、Analysis Workspace に表示され、その横に特別なアイコンが表示されます。
 
 *Analysis WorkspaceでCDA VRSを選択します*
-![[!UICONTROL 仮想レポートスイート ] ステップ 3](assets/cda-vrs-step-three.png)
+![[!UICONTROL 仮想レポートスイート &#x200B;] ステップ 3](assets/cda-vrs-step-three.png)
 
 >[!TIP]
 >
@@ -127,7 +141,7 @@ CDA [!UICONTROL 仮想レポートスイート] 内には、いくつかの変�
 * 人物が複数のデバイスを使用してタスクを遂行する訪問
 
 *人レベルのセグメント*
-![[!DNL Segment Builder] [!UICONTROL 人物] コンテナ ](assets/cda-segment-builder-person-container.png)
+![[!DNL Segment Builder] [!UICONTROL 人物] コンテナ &#x200B;](assets/cda-segment-builder-person-container.png)
 
 ### ディメンションの永続性
 
@@ -145,7 +159,7 @@ CDA VRS 内で、[!DNL eVars] などのディメンションがデバイス間�
 自社ブランドとやり取りをしているユーザーの数を知りたいと思ったことはありませんか。 それらのユーザーが使用しているデバイスの数と種類を把握したいと思ったことははありませんか。 ユーザーの使用状況はどのように重なっていますか。 CDA VRS を使用すると、デバイス間の [ベン図](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=ja) とユーザーあたりのデバイスの [ヒストグラム](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=ja) を作成できます。
 
 *人物ベースのオーディエンス分析*
-![ ベンとヒストグラム ](assets/cda-venn-and-histogram.png)
+![&#x200B; ベンとヒストグラム &#x200B;](assets/cda-venn-and-histogram.png)
 
 ### クロスデバイス [!DNL Flow]
 

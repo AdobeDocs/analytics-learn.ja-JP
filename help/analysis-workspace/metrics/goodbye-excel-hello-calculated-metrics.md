@@ -10,11 +10,18 @@ jira: KT-13178
 thumbnail: KT-13178.jpeg
 exl-id: d4f69244-6614-41f3-ac48-70adabb8a8e7
 TQID: https://experienceleague.adobe.com/TqBSmUzTHOHqVfKdn3711CKiVMyQgjsRSP5ddUnEpdQ
-product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
-feature_v2: id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7
-subfeature_v2: id: f1f1a2d4-0976-4881-b091-c2bb8de7ffacid: f836f655-eebe-4b76-82bc-697955ec1ce3
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2:
+  - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+  - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
 source-wordcount: 1289
@@ -82,7 +89,7 @@ ht-degree: 2%
 
 このドキュメントの作成者：
 
-![ ギッタイの顔写真](assets/gittai.png)
+![&#x200B; ギッタイの顔写真](assets/gittai.png)
 
 **Gitai Ben-Ammi**、Concentrix Catalyst のプリンシパルコンサルタント
 
