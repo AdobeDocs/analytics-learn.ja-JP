@@ -27,4 +27,4 @@ ht-degree: 77%
 
 ゼロから始めるのではなく、 事前定義済みレポートを使用して Workspace で分析を開始する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/334279/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450685/?captions=jpn&learn=on)
