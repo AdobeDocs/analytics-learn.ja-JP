@@ -5,8 +5,9 @@ breadcrumb-title: Analytics チュートリアル
 solution: Analytics
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+usetq: true
 auto-video-transcripts: true
-source-git-commit: 4904f7059495d0f4d8780360f7abe9396087d968
+source-git-commit: d7b45e224fc1102e669a4d7dd8e963e0eb665ffa
 workflow-type: tm+mt
 source-wordcount: 2607
 ht-degree: 96%
