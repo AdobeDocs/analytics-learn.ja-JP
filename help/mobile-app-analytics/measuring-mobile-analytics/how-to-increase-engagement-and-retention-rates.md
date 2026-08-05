@@ -1,5 +1,5 @@
 ---
-title: エンゲージメント率とリテンション率を高める方法
+title: エンゲージメントとリテンション率を高める方法
 description: エンゲージしたオーディエンスをコホートを使用して行動から特定し、モバイルアプリへの定着度を高める根本原因を把握します。 Segment IQ のデータサイエンスアルゴリズムを使用して、セグメント間の相違点と類似点を把握します。
 feature: Workspace Basics
 topics: mobile
@@ -30,8 +30,8 @@ ht-degree: 100%
 
 ---
 
-# エンゲージメント率とリテンション率を高める方法 {#how-to-increase-engagement-and-retention-rates}
+# エンゲージメントとリテンション率を高める方法 {#how-to-increase-engagement-and-retention-rates}
 
 エンゲージしたオーディエンスを[!UICONTROL コホート]を使用して行動から特定し、モバイルアプリへの定着度を高める根本原因を把握します。 [!UICONTROL Segment IQ] のデータサイエンスアルゴリズムを使用して、セグメント間の相違点と類似点を把握します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27825/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34085/?captions=jpn&quality=12&learn=on)

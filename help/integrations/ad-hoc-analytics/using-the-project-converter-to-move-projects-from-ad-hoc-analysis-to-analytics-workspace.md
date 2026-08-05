@@ -39,5 +39,5 @@ ht-degree: 100%
 
 [!UICONTROL Ad Hoc Analysis] プロジェクトコンバーターは、ボタンをクリックするだけで、[!UICONTROL Ad Hoc Analysis]（AHA）プロジェクトを [!UICONTROL Analysis Workspace] プロジェクトにシームレスに変換します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23118/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38402/?captions=jpn&quality=12&learn=on)
 

@@ -1,5 +1,5 @@
 ---
-title: フォールアウトビジュアライゼーションの作成
+title: フォールアウトビジュアライゼーションを作成
 description: Analysis Workspace のフォールアウトビジュアライゼーションは、顧客がデジタルプロパティ上で主要なフローをフォールスルーまたはフォールアウトする場所を調査するために使用します。 複数のタイプのタッチポイントを追加する方法と、このコンポーネントでセグメントを作成して使用する方法について説明します。
 feature: Visualizations
 role: User
@@ -32,11 +32,11 @@ ht-degree: 100%
 
 ---
 
-# フォールアウトビジュアライゼーションの作成
+# フォールアウトビジュアライゼーションを作成
 
 [!DNL Analysis Workspace] のフォールアウトビジュアライゼーションは、顧客がデジタルプロパティ上で主要なフローをフォールスルーまたはフォールアウトする場所を調査するために使用します。 複数のタイプのタッチポイントを追加する方法と、このコンポーネントでセグメントを作成して使用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453247/?captions=jpn&quality=12&learn=on)
 
-この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=ja) を参照してください。
+この機能について詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=ja)を参照してください。
 

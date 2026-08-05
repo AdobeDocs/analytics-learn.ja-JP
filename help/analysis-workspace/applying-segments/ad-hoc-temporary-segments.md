@@ -1,5 +1,5 @@
 ---
-title: Analysis Workspace でのアドホックセグメントの適用
+title: Analysis Workspace でアドホックセグメントを適用
 description: シンプルなセグメントを素早く作成して特定の質問に回答した後、保存済みセグメントのリストがいっぱいにならないよう、そのセグメントを破棄する方法を説明します。
 feature: Segmentation
 kt: 2010
@@ -27,4 +27,4 @@ ht-degree: 100%
 
 シンプルなセグメントを素早く作成して特定の質問に回答した後、保存済みセグメントのリストがいっぱいにならないよう、そのセグメントを破棄する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23978/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41418/?captions=jpn&quality=12&learn=on)
