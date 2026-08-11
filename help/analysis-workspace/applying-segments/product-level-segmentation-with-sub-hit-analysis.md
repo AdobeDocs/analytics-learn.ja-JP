@@ -20,6 +20,6 @@ Adobe Analyticsの従来のセグメンテーションは、ヒットレベル�
 
 このビデオでは、Adobe Analyticsのサブヒット分析がより詳細なセグメンテーション機能を提供する方法を示します。
 
-詳しくは、[ドキュメント](https://experienceleague.adobe.com/en/docs/analytics/components/segmentation/sub-hit){target="_blank"}を参照してください。
+詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics/components/segmentation/sub-hit){target="_blank"}を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497075/?quality=12&learn=on)
