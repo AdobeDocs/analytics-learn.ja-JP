@@ -22,4 +22,4 @@ Adobe Analyticsの従来のセグメンテーションは、ヒットレベル�
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/ja/docs/analytics/components/segmentation/sub-hit){target="_blank"}を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497075/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3497076/?captions=jpn&quality=12&learn=on)
