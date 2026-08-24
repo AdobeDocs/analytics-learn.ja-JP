@@ -448,6 +448,6 @@ ht-degree: 96%
     + [Web SDK 変数の Adobe Analytics へのマッピング](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
     + [内部サイト検索レポートの設定](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
   + [市場内郵便番号分析の設定](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
-+ {hide-from-toc}[Analytics大学のカリキュラム ](analytics-university/curriculum.md)
++ {hide-from-toc}[Analytics大学のカリキュラム &#x200B;](analytics-university/curriculum.md)
 + {hide-from-toc}[Experience League LIVE](exl-live/exl-live-overview.md)
 + {hide-from-toc}[ビジネスユーザー向け Analytics 入門は廃止されました](retired-courses/retire-fundamentals-for-business-users-course.md)
