@@ -2,14 +2,10 @@
 user-guide-title: Adobe Analytics チュートリアル
 user-guide-description: Adobe Analytics のビデオチュートリアルを視聴して、データを最大限に活用する方法を学びます。
 breadcrumb-title: Analytics チュートリアル
-solution: Analytics
-product_v2:
-  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
-usetq: true
 auto-video-transcripts: true
-source-git-commit: c3fe1c5d91aea129e8ec7b816917ccdcb9abf876
+source-git-commit: 29e22d6873661779ac1988c8157709fceb3068d8
 workflow-type: tm+mt
-source-wordcount: 2614
+source-wordcount: '2614'
 ht-degree: 96%
 
 ---
@@ -452,6 +448,6 @@ ht-degree: 96%
     + [Web SDK 変数の Adobe Analytics へのマッピング](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
     + [内部サイト検索レポートの設定](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
   + [市場内郵便番号分析の設定](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
-+ {hide-from-toc}[Analytics大学のカリキュラム &#x200B;](analytics-university/curriculum.md)
++ {hide-from-toc}[Analytics大学のカリキュラム ](analytics-university/curriculum.md)
 + {hide-from-toc}[Experience League LIVE](exl-live/exl-live-overview.md)
 + {hide-from-toc}[ビジネスユーザー向け Analytics 入門は廃止されました](retired-courses/retire-fundamentals-for-business-users-course.md)
