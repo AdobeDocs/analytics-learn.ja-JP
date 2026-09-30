@@ -62,4 +62,4 @@ ht-degree: 100%
 
 顧客インテリジェンスはかつてないほど有望です。 しかし、組織全体のビジネスユーザーに役立つデータを統合し、それに基づいて行動できるよう重要なトレンドをタイムリーに把握することは、高度なデータサイエンスチームでさえ単独では対処できません。 既に収集しているデータを活用することは、Adobe Analytics のこれらの Adobe Sensei AI と機械学習機能が優れているところです。
 
->[!VIDEO](https://video.tv.adobe.com/v/25837/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328331/?captions=jpn&quality=12&learn=on)

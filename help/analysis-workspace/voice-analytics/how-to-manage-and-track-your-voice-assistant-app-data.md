@@ -40,4 +40,4 @@ ht-degree: 100%
 
 音声アシスタントアプリのパフォーマンスを、簡単で柔軟かつ直感的で視覚的な方法で管理および追跡できるように、カスタマイズされたダッシュボードを作成する方法を学びます。
 
->[!VIDEO](https://video.tv.adobe.com/v/27224/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35069/?captions=jpn&quality=12&learn=on)

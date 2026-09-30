@@ -35,6 +35,6 @@ ht-degree: 100%
 
 このビデオでは、Analysis Workspace の様々なセグメントをまたいで主要ワークフローを比較する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328262/?captions=jpn&quality=12&learn=on)
 
 この機能について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=ja) を参照してください。

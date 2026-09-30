@@ -43,4 +43,4 @@ ht-degree: 89%
 >
 > Launch は **[!DNL tags]** になりました
 
->[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429916/?captions=jpn&quality=12&learn=on)

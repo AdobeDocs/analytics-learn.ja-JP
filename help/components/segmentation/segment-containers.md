@@ -36,6 +36,6 @@ ht-degree: 100%
 
 セグメントを作成する際には、ヒットコンテナ、訪問コンテナ、訪問者コンテナによって、そのセグメントに含まれるデータの量が制御されます。 このビデオでは、コンテナの使用方法を説明し、いくつか例を紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429100/?captions=jpn&quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=ja) を参照してください。

@@ -52,7 +52,7 @@ ht-degree: 97%
 ---
 # Adobe Analytics の技術的な用語を専門知識がなくてもわかる形で伝える
 
->[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345330/?captions=jpn&quality=12&learn=on)
 
 ## 異なる言語を話す
 
