@@ -39,7 +39,7 @@ ht-degree: 36%
 ---
 # Experience Platform SDK を使用した[!UICONTROL ライフサイクル] [!UICONTROL 指標]の初期化と表示 {#initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk}
 
-[!UICONTROL ライフサイクル] [!UICONTROL 指標]は、アプリユーザーに関する、そのまま使用できる有益な情報です。 これらの[!UICONTROL 指標]には、デバイス情報、インストールまたはアップグレード情報、セッションの開始と一時停止の時間など、アプリ ユーザーのライフサイクルに関する情報が含まれています。このビデオでは、アプリで[!UICONTROL  ライフサイクル ] [!UICONTROL 指標]を設定する方法と、デバッガーで結果を確認する方法について説明します。
+[!UICONTROL ライフサイクル] [!UICONTROL 指標]は、アプリユーザーに関する、そのまま使用できる有益な情報です。 これらの[!UICONTROL 指標]には、デバイス情報、インストールまたはアップグレード情報、セッションの開始と一時停止の時間など、アプリ ユーザーのライフサイクルに関する情報が含まれています。このビデオでは、アプリで[!UICONTROL &#x200B; ライフサイクル &#x200B;] [!UICONTROL 指標]を設定する方法と、デバッガーで結果を確認する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26258/?quality=12&learn=on)
 

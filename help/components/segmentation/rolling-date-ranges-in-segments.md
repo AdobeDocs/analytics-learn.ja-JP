@@ -33,6 +33,6 @@ ht-degree: 20%
 ---
 # セグメントでのローリング日付範囲 {#rolling-date-ranges-in-segments}
 
-このビデオでは、「先週以内に購入したユーザー」や「過去60日以内にサイトを訪問したユーザー」などのセグメントを作成できる、セグメントでローリング日付範囲を使用する方法を説明します。 セグメントで使用できる繰り返し日付範囲を作成する方法を示す詳細なドキュメントについては、[ カスタム日付範囲を作成](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=ja)を参照してください。
+このビデオでは、「先週以内に購入したユーザー」や「過去60日以内にサイトを訪問したユーザー」などのセグメントを作成できる、セグメントでローリング日付範囲を使用する方法を説明します。 セグメントで使用できる繰り返し日付範囲を作成する方法を示す詳細なドキュメントについては、[&#x200B; カスタム日付範囲を作成](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=ja)を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12&learn=on)

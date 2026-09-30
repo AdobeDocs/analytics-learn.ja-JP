@@ -53,8 +53,8 @@ ht-degree: 76%
 
 | 顧客：<br>Jason Jamnik | Follett Corporation の分析マネージャー |
 |------------|------------|
-| ![Jason Klapmeier](assets/jasonjamnik.jpg) | **私が Adobe Analytics の使用に関するエキスパートとなったときに使用したヒントを紹介します**<br>「基本で立ち止まらないでください。 これで Adobe Analytics の基本を習得し、学習を継続し、ますます複雑なユースケースに取り組む準備が整いました。 私が使用したリソースと、新しいアナリストがフォレットのチームに参加する際に伝えるヒントを紹介します。&quot;<br><br>[Jasonのヒント ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/here-are-the-resources-i-used-to-become-an-expert-at-using-adobe/m-p/354226?profile.language=ja)を読む |
+| ![Jason Klapmeier](assets/jasonjamnik.jpg) | **私が Adobe Analytics の使用に関するエキスパートとなったときに使用したヒントを紹介します**<br>「基本で立ち止まらないでください。 これで Adobe Analytics の基本を習得し、学習を継続し、ますます複雑なユースケースに取り組む準備が整いました。 私が使用したリソースと、新しいアナリストがフォレットのチームに参加する際に伝えるヒントを紹介します。&quot;<br><br>[Jasonのヒント &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/here-are-the-resources-i-used-to-become-an-expert-at-using-adobe/m-p/354226?profile.language=ja)を読む |
 
 | 顧客：<br>Sam Liss | Equinox、分析エンジニア |
 |------------|------------|
-| ![Sam Liss](assets/samliss.jpg) | **別のAnalytics製品からAdobe Analyticsに移行するためのヒント** <br> 「別のAnalytics プラットフォームから移行する場合は、よりカスタマイズ可能なガバナンス、より高いセキュリティ、および多くのマーケティングおよびデータプラットフォーム統合の世界に入ろうとしています…他のAnalytics プラットフォームで体験したものとは異なる[!UICONTROL  フリーフォームテーブル ]と[!UICONTROL  フロー]のビジュアライゼーションについて説明します。」 <br><br>[ サムのヒント ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/an-analyst-s-quick-start-guide-switching-to-adobe/td-p/354312?profile.language=ja) |
+| ![Sam Liss](assets/samliss.jpg) | **別のAnalytics製品からAdobe Analyticsに移行するためのヒント** <br> 「別のAnalytics プラットフォームから移行する場合は、よりカスタマイズ可能なガバナンス、より高いセキュリティ、および多くのマーケティングおよびデータプラットフォーム統合の世界に入ろうとしています…他のAnalytics プラットフォームで体験したものとは異なる[!UICONTROL &#x200B; フリーフォームテーブル &#x200B;]と[!UICONTROL &#x200B; フロー]のビジュアライゼーションについて説明します。」 <br><br>[&#x200B; サムのヒント &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/an-analyst-s-quick-start-guide-switching-to-adobe/td-p/354312?profile.language=ja) |

@@ -75,7 +75,7 @@ Adobe Analytics ダッシュボードでは、読み取り専用のプロジェ�
 
 このドキュメントの作成者：
 
-![ レオ・ラウ ](assets/leo_headshot.png)
+![&#x200B; レオ・ラウ &#x200B;](assets/leo_headshot.png)
 
 **Leo Lau**、マーテク責任者、アジア担当ディレクター
 

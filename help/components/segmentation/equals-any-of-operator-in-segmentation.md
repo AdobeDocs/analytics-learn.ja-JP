@@ -31,6 +31,6 @@ ht-degree: 47%
 ---
 # セグメント化での「equals any of」演算子の使用
 
-セグメント演算子の「次のいずれかに等しい」と「次のいずれかに等しくない」は、複数のOR ステートメントや「次のいずれかを含む」を使用する代わりに、特定の項目のリストにフィルタリングするために使用できます。 「次のいずれかを含む」の代わりにこれらの演算子を使用すると、クエリの速度も向上します。 詳細なドキュメントについては、[ セグメントの比較演算子](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=ja){target="_blank"}を参照してください。
+セグメント演算子の「次のいずれかに等しい」と「次のいずれかに等しくない」は、複数のOR ステートメントや「次のいずれかを含む」を使用する代わりに、特定の項目のリストにフィルタリングするために使用できます。 「次のいずれかを含む」の代わりにこれらの演算子を使用すると、クエリの速度も向上します。 詳細なドキュメントについては、[&#x200B; セグメントの比較演算子](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=ja){target="_blank"}を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12&learn=on)

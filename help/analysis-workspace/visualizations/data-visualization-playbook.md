@@ -38,7 +38,7 @@ ht-degree: 1%
 データの可視化はアートであると同時にサイエンスでもあるため、さまざまな要素を慎重に検討する必要があります。 この意思決定の一部を適切に進めるために、データビジュアライゼーションプレイブックをまとめました。
 
 
-[Adobe Analytics Visualization Playbookをダウンロード ](assets/adobe-analytics-data-visualization-playbook.pdf)
+[Adobe Analytics Visualization Playbookをダウンロード &#x200B;](assets/adobe-analytics-data-visualization-playbook.pdf)
 
 [![プレイブック](assets/data-visualization-playbook-image.png)](assets/adobe-analytics-data-visualization-playbook.pdf)
 

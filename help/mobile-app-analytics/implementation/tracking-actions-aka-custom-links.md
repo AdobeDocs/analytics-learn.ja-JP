@@ -49,6 +49,6 @@ ht-degree: 73%
 
 これは、サイト上の画面読み込み以外のすべてのアクションをトラッキングするために使用することを推奨する API です。 画面が表示される場合は、trackState を使用します。これは、ページビューヒットをトリガーします。 それ以外の場合は、trackAction を使用して、実行中のアクションに関連付けられた変数を送信します。
 
-このデータは`contextData`として取り込まれます。つまり、[!UICONTROL 処理ルール ]を使用して、これらの`contextData`変数からモバイルデータを取得し、Adobe Analyticsの[!DNL eVars]、[!DNL Props]、イベントなどにマッピングする必要があります。
+このデータは`contextData`として取り込まれます。つまり、[!UICONTROL 処理ルール &#x200B;]を使用して、これらの`contextData`変数からモバイルデータを取得し、Adobe Analyticsの[!DNL eVars]、[!DNL Props]、イベントなどにマッピングする必要があります。
 
 trackAction の詳細情報については、 [ドキュメント](https://developer.adobe.com/client-sdks/documentation/getting-started/track-events/#track-user-actions-for-adobe-analytics) を参照してください。

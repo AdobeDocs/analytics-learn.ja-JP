@@ -20,7 +20,7 @@ ht-degree: 63%
 
 # Analysis Workspace の[!UICONTROL 使用状況ログトラッキング]の使用 {#using-the-usage-log-tracking-for-analysis-workspace}
 
-このビデオでは、[!DNL Workspace]件のプロジェクトで[!UICONTROL 使用状況ログトラッキング ]を使用する方法を説明します。これは、ユーザーによるAdobe Analyticsの使用状況をより深く理解するのに役立ちます。
+このビデオでは、[!DNL Workspace]件のプロジェクトで[!UICONTROL 使用状況ログトラッキング &#x200B;]を使用する方法を説明します。これは、ユーザーによるAdobe Analyticsの使用状況をより深く理解するのに役立ちます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12&learn=on)
 
