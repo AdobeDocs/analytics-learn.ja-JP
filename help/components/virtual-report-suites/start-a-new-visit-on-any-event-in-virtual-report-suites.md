@@ -7,20 +7,27 @@ role: User
 level: Intermediate
 last-substantial-update: 2023-10-18T00:00:00.000Z
 exl-id: ca1d8ca8-a854-4d02-8017-4e3e3587ab9e
-TQID: https://experienceleague.adobe.com/N4ppRoO5N6wEjAJepXqpuFAaugQul8i7ggXS7vguoEU
+TQID: 'https://experienceleague.adobe.com/N4ppRoO5N6wEjAJepXqpuFAaugQul8i7ggXS7vguoEU'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
+subfeature_v2:
+  - id: c4cb071e-4667-4fb1-b1f1-d8994549cfb2
+    internal-label: VRS
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Intermediate
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 74
+source-wordcount: '74'
 ht-degree: 0%
-
 ---
-
 # 仮想レポートスイート内の任意のイベントに対して新しい訪問を開始
 
 このビデオでは、バーチャルレポートスイートの訪問設定を使用して、Adobe Analyticsで新しい訪問の開始をトリガーするためにイベントを使用する方法を説明します。

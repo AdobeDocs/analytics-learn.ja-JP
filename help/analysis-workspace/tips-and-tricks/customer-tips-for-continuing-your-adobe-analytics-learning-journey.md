@@ -7,38 +7,49 @@ kt: 4111
 role: User
 level: Beginner
 exl-id: af24fd66-a4a9-439a-b722-226f4def861a
-TQID: https://experienceleague.adobe.com/1hc-qwkUbXknyjldMed-IP-mmCW1lnEdMgI8rT1Irgc
+TQID: 'https://experienceleague.adobe.com/1hc-qwkUbXknyjldMed-IP-mmCW1lnEdMgI8rT1Irgc'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
   - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+    internal-label: Integrations
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c457b289-f974-4a67-a5b6-dec3ffa77675
+    internal-label: Workspace basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Security
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 368
+source-wordcount: '368'
 ht-degree: 76%
-
 ---
-
 # Adobe Analytics のラーニングジャーニーを継続するためのお客様向けヒント
 
 この記事では、Adobe Analytics を最大限活用する方法に関するヒントやテクニックをお持ちの、アドビの 3 人のお客様を紹介します。
 
-## Adobe Analytics のラーニングジャーニーの継続方法
+## Adobe Analytics の学習ジャーニーを継続する方法
 
 ベテランの Adobe Analytics ユーザーからのヒント
 
 | 顧客：<br>Jason Klapmeier | 3M、グローバル分析機能リーダー |
 |------------|------------|
-| ![Jason Klapmeier](assets/jasonklapmeier.jpg) | **学び続けると、Adobe Analytics で素晴らしいことができます** <br>「Adobe Analytics の専門知識を深めることで期待できる結果を垣間見れるよう、Adobe Analytics の機能を最大限に活用できる興味深い機能である<br><br><ul><li>複雑なセグメントの作成</li><li>最も重要な指標の定義</li><li>独自のエンゲージメントインデックスの作成</li><li>予測分析への取り組みなどを紹介します」</li></ul><br>[Jason のヒントを読む](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/incredible-things-you-can-do-in-adobe-analytics/td-p/354333?profile.language=ja) |
+| ![Jason Klapmeier](assets/jasonklapmeier.jpg) | **学び続けると、Adobe Analytics で素晴らしいことができます** <br>「Adobe Analytics の専門知識を深めることで期待できる結果を垣間見れるよう、Adobe Analytics の機能を最大限に活用できる興味深い機能である<br><br><ul><li>複雑なセグメントの作成</li><li>最も重要な指標の定義</li><li>独自のエンゲージメントインデックスの作成</li><li>予測分析への取り組み</li></ul><br>[Jason のヒントを読む](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/incredible-things-you-can-do-in-adobe-analytics/td-p/354333?profile.language=ja) |
 
 | 顧客：<br>Jason Jamnik | Follett Corporation の分析マネージャー |
 |------------|------------|

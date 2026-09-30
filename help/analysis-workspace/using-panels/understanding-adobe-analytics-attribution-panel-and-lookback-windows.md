@@ -9,26 +9,38 @@ last-substantial-update: 2023-06-20T00:00:00.000Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
 exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
-TQID: https://experienceleague.adobe.com/wEcblHB-mKGztUpcNaQQQoexn4pPlAZjeyxLupmlt9E
+TQID: 'https://experienceleague.adobe.com/wEcblHB-mKGztUpcNaQQQoexn4pPlAZjeyxLupmlt9E'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
 subfeature_v2:
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+    internal-label: Attribution
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1704
+source-wordcount: '1704'
 ht-degree: 1%
-
 ---
-
 # Adobe Analytics アトリビューションパネルとルックバックウィンドウについて
 
 [&#x200B; アトリビューションパネル &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=ja)と&#x200B;**ルックバックウィンドウ**&#x200B;について最初に考えた時、私はすぐに&#39;*タイムトラベル&#39;*&#x200B;の概念を思い出しました。そして、もちろん、このような多くの新しいツールに対する典型的な反応は、非常に複雑に見えるので、単に使うのを延期することでした。
@@ -88,9 +100,9 @@ ht-degree: 1%
 
 - **U字型**：このアプローチでは、クレジットの&#x200B;**40%**&#x200B;をドアの最初の人物&#x200B;*に割り当て、クレジットの&#x200B;**20%**&#x200B;を*&#x200B;全員に&#x200B;*間に広げ、次に&#x200B;**40%**&#x200B;を&#x200B;**最後の人物**&#x200B;に与えます。*&#x200B;このモデルは、途中で&#x200B;*複数のタッチポイント*&#x200B;を含む&#x200B;**長いコンバージョン/販売サイクル**&#x200B;がある場合に最もよく使用されます。  この場合、目標は、主に顧客のコンバージョンに貢献した&#x200B;***first***&#x200B;および&#x200B;***last***&#x200B;のマーケティング戦術を強調表示することです。
 - **J**-**形状**&#x200B;と&#x200B;**逆J**:
-   - **U字型**&#x200B;について考えてみましょう。代わりに、このモデルは&#x200B;**60%**&#x200B;のクレジットを&#x200B;*ドアを歩いている最後の人物*&#x200B;に割り当て、**20%**&#x200B;を&#x200B;*最初*&#x200B;に割り当て、*残りの*&#x200B;を&#x200B;**20%**&#x200B;に割り当て、残りの&#x200B;*全員*&#x200B;にします。  **逆J**&#x200B;は正反対です。
+  - **U字型**&#x200B;について考えてみましょう。代わりに、このモデルは&#x200B;**60%**&#x200B;のクレジットを&#x200B;*ドアを歩いている最後の人物*&#x200B;に割り当て、**20%**&#x200B;を&#x200B;*最初*&#x200B;に割り当て、*残りの*&#x200B;を&#x200B;**20%**&#x200B;に割り当て、残りの&#x200B;*全員*&#x200B;にします。  **逆J**&#x200B;は正反対です。
 
-     ここでの目標は、キャンペーンの&#x200B;*beginning*&#x200B;または&#x200B;*end*&#x200B;のどちらか一方に重点を置くことです。ただし、途中で「小さな男の子」を認めながら、反対側の貢献項目に一定のクレジットを割り当てることができます。
+    ここでの目標は、キャンペーンの&#x200B;*beginning*&#x200B;または&#x200B;*end*&#x200B;のどちらか一方に重点を置くことです。ただし、途中で「小さな男の子」を認めながら、反対側の貢献項目に一定のクレジットを割り当てることができます。
 
 - **時間減衰**：さて、これを共有しなかった場合は失礼します。 このモデルは文字通り、時間の経過とともに指数関数的に減衰する半減期を持っています。  この場合、このモデルの半減期の&#x200B;*default* パラメーターは&#x200B;**7日**&#x200B;です。  この方法は、*最初のタッチポイント*&#x200B;から顧客がコンバージョンに至るまでの時間&#x200B;*に基づいて、*&#x200B;重み&#x200B;*を各&#x200B;**マーケティングチャネル**、*&#x200B;に適用することです。
 

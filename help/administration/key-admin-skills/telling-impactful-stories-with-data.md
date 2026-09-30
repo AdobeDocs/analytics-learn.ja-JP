@@ -1,6 +1,6 @@
 ---
-title: データを伴う影響力のあるストーリーの伝達
-description: データストーリーテリングは、データ、ビジュアライゼーションおよびナラティブを使用して、アートとサイエンスを結び付ける場所です。  これらのコンポーネントを活用することで、影響力のあるデータストーリーを作成する 3 つのパーツがあります。 データを伴うストーリーを効果的に伝えることで、Analytics は、幅広いオーディエンスにとってより親しみやすいものとなり、データに基づく意思決定によって組織にもたらす価値を高めることができます。
+title: データを活用したインパクトのあるストーリーの伝え方
+description: データストーリーテリングは、データ、ビジュアライゼーションおよびナラティブを用いてアートとサイエンスが融合するものです。  これらのコンポーネントを活用することで、影響力のあるデータストーリーを作成する 3 つのパーツがあります。 データを用いたストーリーを効果的に伝えることで、Analytics は幅広いオーディエンスにとってより親しみやすいものとなり、データドリブンな意思決定によって組織にもたらす価値を高めることができます。
 feature: Admin Tools
 topic: Administration
 role: Admin
@@ -8,32 +8,39 @@ level: Experienced
 thumbnail: impactful-stories.jpg
 kt: 10157
 exl-id: b7902626-fbce-4333-909f-60878cd3ac99
-TQID: https://experienceleague.adobe.com/wqAesWvnsvDZbggAJjOckI10KoyIFpPkL52V4hwy7Io
+TQID: 'https://experienceleague.adobe.com/wqAesWvnsvDZbggAJjOckI10KoyIFpPkL52V4hwy7Io'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 462
+source-wordcount: '462'
 ht-degree: 91%
-
 ---
-
 # データを伴う影響力のあるストーリーの伝達
 
-データストーリーテリングは、データ、ビジュアライゼーションおよびナラティブを使用して、アートとサイエンスを結び付ける場所です。  これらのコンポーネントを活用することで、影響力のあるデータストーリーを作成する 3 つのパーツがあります。 データを伴うストーリーを効果的に伝えることで、Analytics は、幅広いオーディエンスにとってより親しみやすいものとなり、データに基づく意思決定によって組織にもたらす価値を高めることができます。
+データストーリーテリングは、データ、ビジュアライゼーションおよびナラティブを用いてアートとサイエンスが融合するものです。  これらのコンポーネントを活用することで、影響力のあるデータストーリーを作成する 3 つのパーツがあります。 データを用いたストーリーを効果的に伝えることで、Analytics は幅広いオーディエンスにとってより親しみやすいものとなり、データドリブンな意思決定によって組織にもたらす価値を高めることができます。
 
-## オポチュニティや問題の特定
+## 機会または問題を特定する
 
-まず、現在の状況を定義し、問題やオポチュニティを確立します。 ここで、オーディエンスを魅了するための準備をして十分な情報を提供しますが、ソリューションを完全に明らかにするわけではありません。 この導入部は、非常に重要で、困難な場合もありますが、分析のすべての動機となるものです。  データストーリーテリングの価値は、**行動の変化**&#x200B;をもたらすアクションを促すことです。 そうでなければ、データ、インサイトおよび分析は無力です。
+まず、現在の状況を定義し、問題やオポチュニティを確立します。 ここで、オーディエンスを魅了するための準備をして十分な情報を提供しますが、ソリューションを完全に明らかにするわけではありません。 この導入部は非常に重要で（難しい場合もありますが）、分析全体を動機づけるものです。  データストーリーテリングの価値は、**行動の変化**&#x200B;をもたらすアクションを促すことです。 そうでなければ、データ、インサイト、および分析は無力です。
 
 **Adobe Workspace のヒント：**&#x200B;どのような問題や現状がハイライトされているかを正確に示すには、ビジュアライゼーションに質問形式のタイトルを付けます。
 
@@ -60,6 +67,6 @@ ht-degree: 91%
 
 ![Amy Ard](assets/amy-ard-headshot-small.png)
 
-Amy Ard（Levelwing 社 Director of Analytics）
+Amy Ard（Levelwing 社分析ディレクター）
 
 Adobe Analytics チャンピオン

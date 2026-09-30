@@ -9,26 +9,36 @@ doc-type: article
 thumbnail: 10531.jpg
 kt: 10531
 exl-id: 0fe3b981-0d9b-4f12-a6ca-63a4140f4baf
-TQID: https://experienceleague.adobe.com/nnAluH2AvqNbWEPk3lbthk-xDl-tnqyW8uHg4Beurq0
+TQID: 'https://experienceleague.adobe.com/nnAluH2AvqNbWEPk3lbthk-xDl-tnqyW8uHg4Beurq0'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 331
+source-wordcount: '331'
 ht-degree: 78%
-
 ---
-
 # 標準化された命名規則の作成
 
 **対象：**&#x200B;標準化された命名規則は、Adobe Analytics（AA）管理 UI で有効にした場合の変数名自体と、ディメンションに渡される値の両方に適用されます （つまり、ページ名は変数名として「ページ名（v1）」とし、渡されるページ名の値は「サイト名|ホームページ」や「サイト名|検索|検索結果」のように特定の構造と階層に従うように統一する必要があります）。
@@ -52,4 +62,4 @@ Adobe Analytics チャンピオン
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 
-Rachel Fenwick（アドビ のシニアコンサルタント）
+Rachel Fenwick（アドビのシニアコンサルタント）

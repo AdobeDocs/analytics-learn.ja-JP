@@ -9,28 +9,43 @@ last-substantial-update: 2023-05-02T00:00:00.000Z
 jira: KT-13179
 thumbnail: KT-13179.jpeg
 exl-id: 5396817e-582f-4389-be81-40b8ff8188b2
-TQID: https://experienceleague.adobe.com/lx4u8lAivYa7zTOqG42zeCJsKglxwIYyFENoCUf-hVM
+TQID: 'https://experienceleague.adobe.com/lx4u8lAivYa7zTOqG42zeCJsKglxwIYyFENoCUf-hVM'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b0ca67c6-0a35-482c-ad91-baac1bcb26d6
+    internal-label: Workspace projects
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
   - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+    internal-label: Dashboards
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
   - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+    internal-label: Attribution
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
+  - id: c510df06-c813-424c-abc1-c7ae8b03e9b3
+    internal-label: Curate and Share
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 706
+source-wordcount: '713'
 ht-degree: 1%
-
 ---
-
 # Analysis Workspaceの読み取り専用の共有機能を活用
 
 Adobe Analysis Workspaceのプロジェクトを「読み取り専用」として共有することで、クリーンなユーザーインターフェイスと事前定義されたフィルタリングオプションを使用して、エグゼクティブ対応のダッシュボードレポートを作成する方法と、「モバイルスコアカード」を使用して、外出先の経営陣とデジタルエクスペリエンスのKPIを簡単に共有する方法について説明します。

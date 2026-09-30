@@ -1,8 +1,8 @@
 ---
-title: ジャーニー IQ の理解と使用 - クロスデバイス分析
-description: ユーザーがブランドとやり取りする際は、様々な方法や複数のデバイスで行います。 クロスデバイス分析は Adobe Experience Platform ID サービスと統合して、デバイスが人物にどのようにマッピングされるかを識別します。 次に、このインテリジェンスを活用して、ユーザーの行動のクロスデバイス表示を作成します。 その結果、デバイスではなく人物に対して分析を行うことができるようになります。
+title: Journey IQ の理解と活用 - クロスデバイス分析
+description: ユーザーがブランドとやり取りする際は、様々な方法や複数のデバイスで行います。 クロスデバイス分析は Adobe Experience Platform ID サービスと統合して、デバイスが人物にどのようにマッピングされるかを識別します。 次に、このインテリジェンスを活用して、ユーザー行動のクロスデバイスビューを作成します。 その結果、デバイスではなく人物に対して分析を行うことができるようになります。
 feature: CDA
-topics: null
+topics:
 activity: use
 doc-type: article
 team: Technical Marketing
@@ -10,34 +10,50 @@ kt: 4138
 role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
-TQID: https://experienceleague.adobe.com/CaoHMLfB--J0pgpUBmuX-pmCa2VwgWDDp8DH5k4yFAQ
+TQID: 'https://experienceleague.adobe.com/CaoHMLfB--J0pgpUBmuX-pmCa2VwgWDDp8DH5k4yFAQ'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+  - id: b8734a57-d5fb-44a8-8ee1-65225cecaeae
+    internal-label: Data configuration and collection
 subfeature_v2:
   - id: a544b409-2610-410d-a842-474ac1d0d54e
+    internal-label: Segment Builder
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
   - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+    internal-label: Attribution
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+    internal-label: Panels
   - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+    internal-label: Report suites
+  - id: f99536a1-75c7-4151-a2c8-073630632526
+    internal-label: CDA
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1607
+source-wordcount: '1607'
 ht-degree: 94%
-
 ---
-
 # [!DNL Journey IQ] の理解と使用 - クロスデバイス分析
 
 ユーザーがブランドとやり取りする際は、様々な方法や複数のデバイスで行います。 クロスデバイス分析は [!DNL Adobe Experience Platform Identity Service] と統合して、デバイスが人物にどのようにマッピングされるかを識別します。 次に、このインテリジェンスを活用して、ユーザーの行動のクロスデバイス表示を作成します。 その結果、デバイスではなく人物に対して分析を行うことができるようになります。
@@ -53,7 +69,7 @@ ht-degree: 94%
 *イザベルは3人の訪問者です*
 ![従来型Analytics ジャーニー](assets/cda-isabelle-journey-traditional-analytics.png)
 
-従来の分析を使用すると、Isabelle のジャーニーは 3 つの部分に分割されます。 彼女は異なるデバイスを使用して孤立したタスクを実行する、3 人のユニーク訪問者として表されます。 必要なのは、Isabelle のやり取りの、統一されたクロスデバイス表示です。 [!DNL Journey IQ: Cross-Device Analytics] は、この表示を提供します。
+従来の分析を使用すると、Isabelle のジャーニーは 3 つの部分に分割されます。 彼女は異なるデバイスを使用して孤立したタスクを実行する、3 人のユニーク訪問者として表されます。 必要なのは、Isabelle のインタラクションを統一されたクロスデバイスビューで表示することです。 [!DNL Journey IQ: Cross-Device Analytics] は、この表示を提供します。
 
 *イザベルは1人です*
 ![&#x200B; クロスデバイス分析ジャーニー](assets/cda-isabelle-journey-cross-device-analytics.png)
@@ -76,7 +92,7 @@ Isabelle の行動をユーザーを中心としたクロスデバイス表示�
 
 ## [!DNL Cross-Device Analytics] のしくみ
 
-[!DNL Journey IQ: Cross-Device Analytics (CDA)] は、[!DNL Adobe Experience Platform Identity Service] と統合され、[!DNL Device Graph] を利用して、デバイスが人物にどのようにマッピングされるかを識別します。 次に、このインテリジェンスを活用して、ユーザーの行動のクロスデバイス表示を作成します。 CDA には、企業がマルチデバイスの使用法と、ブランドとのやり取りにおけるマルチデバイス全体のカスタマーエクスペリエンスを理解するのに役立つ、比類のない機能とツールが含まれています。 Analysis Workspace の下のレイヤーとして機能し、[!UICONTROL フォールアウト]、[!DNL Flow]、[!DNL Cohort]、[!DNL Segment IQ]、[!DNL Attribution IQ] などの強力なツールを使用して、ユーザーベースのオーディエンス分析とクロスデバイスアトリビューション、セグメンテーション、ジャーニー分析に関する深いインサイトを提供します。
+[!DNL Journey IQ: Cross-Device Analytics (CDA)] は、[!DNL Adobe Experience Platform Identity Service] と統合され、[!DNL Device Graph] を利用して、デバイスが人物にどのようにマッピングされるかを識別します。 次に、このインテリジェンスを活用して、ユーザー行動のクロスデバイスビューを作成します。 CDA には、企業がマルチデバイスの使用法と、ブランドとのやり取りにおけるマルチデバイス全体のカスタマーエクスペリエンスを理解するのに役立つ、比類のない機能とツールが含まれています。 Analysis Workspace の下のレイヤーとして機能し、[!UICONTROL フォールアウト]、[!DNL Flow]、[!DNL Cohort]、[!DNL Segment IQ]、[!DNL Attribution IQ] などの強力なツールを使用して、ユーザーベースのオーディエンス分析とクロスデバイスアトリビューション、セグメンテーション、ジャーニー分析に関する深いインサイトを提供します。
 
 ### [!DNL Cross-Device Virtual Report Suite]
 
@@ -136,8 +152,8 @@ CDA [!UICONTROL 仮想レポートスイート] 内には、いくつかの変�
 
 [[!UICONTROL セグメントビルダー]](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=ja)では、 [!UICONTROL 訪問者] セグメントコンテナが [!UICONTROL ユーザー] セグメントコンテナに置き換えられました。 CDA VRS を使用すると、次のようなクロスデバイスセグメントを作成できます。
 
-* 複数のデバイスを使用する人物
-* モバイルデバイスでジャーニーを始め、後でデスクトップデバイスで購入する人物
+* 複数のデバイスを使用するユーザー
+* モバイルデバイスでジャーニーを開始し、その後デスクトップデバイスで購入するユーザー
 * 人物が複数のデバイスを使用してタスクを遂行する訪問
 
 *人レベルのセグメント*
@@ -156,7 +172,7 @@ CDA VRS 内で、[!DNL eVars] などのディメンションがデバイス間�
 
 ### ユーザーベースのオーディエンス分析
 
-自社ブランドとやり取りをしているユーザーの数を知りたいと思ったことはありませんか。 それらのユーザーが使用しているデバイスの数と種類を把握したいと思ったことははありませんか。 ユーザーの使用状況はどのように重なっていますか。 CDA VRS を使用すると、デバイス間の [ベン図](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=ja) とユーザーあたりのデバイスの [ヒストグラム](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=ja) を作成できます。
+ブランドとやり取りをしているユーザーの数を知りたいと思ったことはありませんか。 それらのユーザーが使用しているデバイスの数と種類を把握したいと思ったことはありませんか。 ユーザーの使用状況はどのように重なっていますか。 CDA VRS を使用すると、デバイス間の [ベン図](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=ja) とユーザーあたりのデバイスの [ヒストグラム](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=ja) を作成できます。
 
 *人物ベースのオーディエンス分析*
 ![&#x200B; ベンとヒストグラム &#x200B;](assets/cda-venn-and-histogram.png)
@@ -172,7 +188,7 @@ CDA付き&#x200B;*[!DNL Flow]*
 
 いくつかの [[!DNL Fallout visualizations]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=ja) を使用して、成功を収める前に、ユーザーが特定の一連の手順をどの程度うまく実行しているかを分析する可能性があります。 従来のデバイスベースの分析を使用すると、これらの [!DNL Fallout visualizations] の表示が制限されることをご存知ですか？ 「フォールスルー」を正常に行うには、次の手順を前の手順と同じブラウザーまたはアプリで実行する必要があります。 デバイスベースの分析では、別のデバイスで次の手順を正常に完了したユーザーが誰かはわかりません。
 
-ご安心ください。CDA がこれを可能にします。 CDA は、[!DNL Fallout visualizations] をはるかに便利にするクロスデバイス表示を作成します。 結局のところ、本当に重要なのは、そのユーザーが最終的にどこかで自分のタスクに成功したかどうかです。
+ご安心ください。CDA がしっかり対応します。 CDA は、[!DNL Fallout visualizations] をはるかに便利にするクロスデバイス表示を作成します。 結局のところ、本当に重要なのは、そのユーザーが最終的にどこかで自分のタスクに成功したかどうかです。
 
 CDA付き&#x200B;*[!DNL Fallout]*
 ![[!DNL Fallout Visualization]](assets/cda-fallout-viz.png)
