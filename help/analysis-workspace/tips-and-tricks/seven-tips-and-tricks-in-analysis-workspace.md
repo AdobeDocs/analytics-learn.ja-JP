@@ -10,40 +10,62 @@ kt: 3945
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: af0e66cb-4e74-4ce0-9429-4a461fd54263
-TQID: https://experienceleague.adobe.com/1zP4J-xmbaaRop3-cJXtYOgwcSBbucX1unKwspg2q2s
+TQID: 'https://experienceleague.adobe.com/1zP4J-xmbaaRop3-cJXtYOgwcSBbucX1unKwspg2q2s'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b0ca67c6-0a35-482c-ad91-baac1bcb26d6
+    internal-label: Workspace projects
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: ac8a38fa-dec3-4581-8f64-178fde9f64e8
+    internal-label: Report Builder
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
   - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
+    internal-label: Marketing Channels
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+    internal-label: Panels
   - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+    internal-label: Report suites
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
+  - id: c457b289-f974-4a67-a5b6-dec3ffa77675
+    internal-label: Workspace basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1072
+source-wordcount: '1052'
 ht-degree: 91%
-
 ---
-
 # カスタム Analytics プロジェクトをより迅速かつ簡単に作成するための 7 つのヒントとテクニック
 
 **Analysis Workspace スキルセットを拡大**
@@ -55,7 +77,7 @@ Analysis Workspace はより効果的な分析プロジェクトを作成する�
 
 [!UICONTROL セグメント] またはその他のコンポーネントをパネル上部の [!UICONTROL セグメント] ドロップゾーンにドラッグ＆ドロップするだけで、そのパネルを特定のデータポイントにすばやくセグメント化できます。 例えば、[!UICONTROL 指標]「注文」を[!UICONTROL セグメント]ドロップゾーンにドロップすると、パネルをセグメント化して、注文が存在するヒットのみを表示できます。 コンポーネント内に存在しないデータ（注文のないヒットを確認する場合など）でセグメント化することもできます。そのためには、ディメンション項目「未指定」または「なし」をゾーンにドロップします。
 
->[!VIDEO](https://video.tv.adobe.com/v/37630/?captions=jpn&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -65,7 +87,7 @@ Analysis Workspace はより効果的な分析プロジェクトを作成する�
 
 クイック [!UICONTROL 計算指標] を使用すると、 [!UICONTROL 計算指標] ビルダーに移動しなくても、Analysis Workspace で新しい [!UICONTROL 指標] を作成できます。 計算する[!UICONTROL 指標]列を選択し、右クリックメニューから「[!UICONTROL 選択範囲から指標を作成]」を選択します。 これで、プロジェクトを終了して思考の流れを止めることなく、追加、減算、分割、乗算などを行うことができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/41468/?captions=jpn&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -77,7 +99,7 @@ Analysis Workspace はより効果的な分析プロジェクトを作成する�
 
 ビジュアライゼーションとパネルを 1 つの場所から簡単にコピーし、別の場所に（たとえ別のプロジェクトであっても）追加できます。 つまり、プロジェクトの拡大に合わせて簡単にデータを移動し、新しいユーザーと結果を共有できるので、分析を最初から始める必要がなくなります。 コピーするパネルまたはビジュアライゼーションを右クリックし、「[!UICONTROL ビジュアライゼーションをコピー]」をクリックしてから、空のパネルを右クリックして挿入します。
 
->[!VIDEO](https://video.tv.adobe.com/v/38420/?captions=jpn&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -87,7 +109,7 @@ Analysis Workspace はより効果的な分析プロジェクトを作成する�
 
 トレンドビジュアライゼーションの操作時に、時間表示を簡単に変更できます。 以前の Analysis Workspace の反復では、時間を変更すると、ソーステーブルを再表示し、新しい [!UICONTROL ディメンション] をドラッグしてから、テーブルを再び非表示にする必要がありました。 今では、「[!UICONTROL ビジュアライゼーション設定]」（右上の歯車）ドロップダウンメニューから、表示する時間の精度を選択するのと同じくらい簡単になりました。
 
->[!VIDEO](https://video.tv.adobe.com/v/41453/?captions=jpn&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
 
 ## 共有：他のユーザーが結果を簡単に使用および理解できるようにする
 
@@ -95,7 +117,7 @@ Analysis Workspace はより効果的な分析プロジェクトを作成する�
 
 Adobe Analytics は膨大な量のデータを収集します。 [!DNL Virtual Report Suites] のコンポーネントキュレーションにより、管理者は組織内のすべての事業部門向けにデータセットを作成できます。 つまり、Analysis Workspace で作業しているアナリストは、データを精査して最も重要な情報を探す必要がありません。 [!UICONTROL 仮想レポートスイート] ビルダーの「[!UICONTROL コンポーネント]」の下にある「[!UICONTROL 仮想レポートスイートコンポーネントのカスタマイズを有効にする]」チェックボックスをオンにして、特定のチームが測定するものと一致する [!UICONTROL コンポーネント] を選択するだけです。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425530/?captions=jpn&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -103,25 +125,25 @@ Adobe Analytics は膨大な量のデータを収集します。 [!DNL Virtual R
 
 ### ***ヒント 6：プロジェクト内またはプロジェクトをまたいでパネルとビジュアライゼーションにリンクする***
 
-Analysis Workspace 内の任意の場所にオーディエンスを誘導するリンクを作成します。 リンク先のパネルを右クリックし、「[!UICONTROL パネルリンクを取得]」を選択してコピーします。 次に、リンク元のテキストをハイライト表示し、テキストボックスまたは説明のテキストエディターでリンクアイコンを選択して貼り付けます。 プロジェクト全体にリンクするには、「[!UICONTROL 共有]」タブをクリックし、「[!UICONTROL プロジェクトリンクを取得]」を選択して、上記と同じ手順に従います。
+Analysis Workspace 内の任意の場所へ移動できるリンクを作成します。 リンク先のパネルを右クリックし、「[!UICONTROL パネルリンクを取得]」を選択してコピーします。 次に、リンク元のテキストをハイライト表示し、テキストボックスまたは説明のテキストエディターでリンクアイコンを選択して貼り付けます。 プロジェクト全体にリンクするには、「[!UICONTROL 共有]」タブをクリックし、「[!UICONTROL プロジェクトリンクを取得]」を選択して、上記と同じ手順に従います。
 
->[!VIDEO](https://video.tv.adobe.com/v/327482/?captions=jpn&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12&learn=on)
 
 >[!TIP]
 >
->**役立つヒント：** リンクによって読者のエクスペリエンスを向上させる方法はいくつかあります。 プロジェクトの結果やレコメンデーションに一致する図を示すことができます。 または、目次から関心のあるセクションに直接ジャンプできます。 分析に関連する他のユーザーのプロジェクトにリンクすることもできます
+>**役立つヒント：** リンクによって読者のエクスペリエンスを向上させる方法はいくつかあります。 プロジェクトの結果やレコメンデーションに対応するイラストを示すことができます。 または、目次から関心のあるセクションに直接ジャンプできます。 分析に関連する他のユーザーのプロジェクトにリンクすることもできます
 
 ### ***ヒント 7：プロジェクトを再利用可能なカスタムテンプレートとして保存***
 
 任意のプロジェクトをカスタムテンプレートに簡単に変換できるようになりました。 「[!UICONTROL プロジェクト]」のドロップダウンメニューで「[!UICONTROL テンプレートとして保存]」を選択し、テンプレートを見つけやすくするタグを追加して 「[!UICONTROL プロジェクトをテンプレートとして保存]」をクリックするだけです。 これで、すべての Analysis Workspace ユーザーが「[!UICONTROL カスタムテンプレート]」タブでテンプレートを使用できるようになります。 これにより、アナリストはプロジェクトをゼロから開始するのではなく、意味のあるデータポイントから開始できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428575/?captions=jpn&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
 
 >[!TIP]
 >
 >**リクエストの多かった機能：** 複数のお客様から、プロジェクトをカスタムテンプレートとして保存できるようにしてほしいという要望がありました。 今では、人気の機能の 1 つになっています。
 
-[Experience Leagueに関するヒントとテクニックについては、ここをクリックしてください](https://experienceleague.adobe.com/ja?search=tips&lang=ja#recommended/solutions/analytics)
+[Experience Leagueに関するヒントとテクニックについては、ここをクリックしてください](https://experienceleague.adobe.com/?search=tips&lang=ja#recommended/solutions/analytics)
 
 | 作成者について |            |
 |------------|------------|

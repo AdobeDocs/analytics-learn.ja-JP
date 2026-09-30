@@ -1,6 +1,6 @@
 ---
-title: 分類セットジョブ履歴
-description: 分類セットデータのアップロードとダウンロードのジョブ履歴を確認します。
+title: 分類セットのジョブ履歴
+description: 分類セットのデータのアップロードとダウンロードのジョブ履歴を確認します。
 feature: Classifications
 role: User
 level: Beginner
@@ -9,22 +9,26 @@ duration: 121
 last-substantial-update: 2025-10-17T00:00:00.000Z
 jira: KT-19441
 exl-id: 73496dc5-adb4-4efe-8105-0e0c99dfc31b
-TQID: https://experienceleague.adobe.com/DpbQeVclsB0zB1qc6-FIW9KLn3dJY5FE6AFGqDSdM88
+TQID: 'https://experienceleague.adobe.com/DpbQeVclsB0zB1qc6-FIW9KLn3dJY5FE6AFGqDSdM88'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: 00071d55-23eb-5795-a8d9-9d9b784f2791
+    internal-label: Classifications
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Beginner
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 30
+source-wordcount: '30'
 ht-degree: 100%
-
 ---
-
 # 分類セットジョブ履歴
 
 分類セットデータのアップロードとダウンロードのジョブ履歴を確認します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476028/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476025/?learn=on&enablevpops)
