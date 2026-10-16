@@ -4,27 +4,26 @@ product: analytics
 solution: Analytics
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: "Analytics"
 usetq: true
 feature-set: Analytics
 landing-page-name: analytics
 landing-page-breadcrumb-title: Analytics
 solution-title: Analytics
-solution-hub-url: https://helpx.adobe.com/jp/support/analytics.html
+solution-hub-url: https://helpx.adobe.com/support/analytics.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/jp/analytics/get-started.html
+getting-started-url: https://helpx.adobe.com/analytics/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://guided.adobe.com/#recommended/solutions/analytics
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/analytics-learn.ja-JP
+git-repo: https://github.com/AdobeDocs/analytics-learn.en
 index: true
 type: Tutorial
 source-git-commit: 29e22d6873661779ac1988c8157709fceb3068d8
 workflow-type: tm+mt
-source-wordcount: 148
-ht-degree: 96%
-
+source-wordcount: '143'
+ht-degree: 100%
 ---
-
 
 # 内部使用のメタデータ
 
