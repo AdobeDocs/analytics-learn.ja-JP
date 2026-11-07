@@ -35,4 +35,4 @@ ht-degree: 100%
 
 各ページで収集されたデータに加え、特定のページで収集する必要があるデータもあります。 このビデオでは、そのデータを共通データと結合し、Adobe Analytics に送信する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28770/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507492/?captions=jpn&quality=12&learn=on)

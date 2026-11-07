@@ -32,4 +32,4 @@ ht-degree: 0%
 
 このビデオでは、バーチャルレポートスイートの訪問設定を使用して、Adobe Analyticsで新しい訪問の開始をトリガーするためにイベントを使用する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507543/?captions=jpn&quality=12&learn=on)

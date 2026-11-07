@@ -40,6 +40,6 @@ ht-degree: 100%
 
 「項目を CSV としてダウンロード」オプションを使用すると、フリーフォームテーブルのディメンションの項目について、セグメントおよびフィルターを適用したうえで、最大 50,000 個の項目をダウンロードすることができます。 UI には引き続き、ページネーション前の最大 400 項目が表示されますが、このオプションを使用すると、Analysis Workspace の外部にある、より多くの行数のデータにアクセスできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/40385/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507363/?captions=jpn&quality=12&learn=on)
 
 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=ja) を参照してください。

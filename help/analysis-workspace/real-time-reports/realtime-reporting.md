@@ -42,6 +42,6 @@ ht-degree: 16%
 
 分析用に設定する方法など、Adobe Analyticsのリアルタイムレポートについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25454/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507443/?captions=jpn&quality=12&learn=on)
 
 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/components/real-time-reporting/realtime.html?lang=ja) を参照してください。
