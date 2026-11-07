@@ -46,4 +46,4 @@ ht-degree: 100%
 
 オーストラリア最大の靴小売業者である [!DNL Accent Group] では、すべての物理的タッチポイントおよびデジタルタッチポイントにわたって優れた顧客体験を提供することで、売上とコンバージョンを増やしています。 [!DNL Accent Group] が、Adobe Experience Cloud をどのように使用してシームレスなデジタルエクスペリエンスを作成しているかをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/31505/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507259/?captions=jpn&quality=12&learn=on)

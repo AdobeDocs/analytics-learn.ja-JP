@@ -28,4 +28,4 @@ ht-degree: 17%
 
 セグメントビルダーの個別のカウント演算子を使用すると、任意のディメンション内の一意のアイテムの数に基づいてセグメント化できます。 5 ページを超えるページが表示された訪問や、1回の注文で複数の製品を購入したヒットなどをフィルタリングします。詳細なドキュメントについては、[&#x200B; セグメントの比較演算子](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=ja)を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507437/?captions=jpn&quality=12&learn=on)
